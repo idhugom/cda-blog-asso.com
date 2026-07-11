@@ -1,0 +1,324 @@
+{
+  "id": 2202,
+  "slug": "bail-location-colocation",
+  "title": "Bail de location immobilière pour colocation : règles et exigences",
+  "metaTitle": "Bail de colocation: règles et exigences à connaître",
+  "metaDescription": "Bail de colocation: règles sur solidarité, dépôt, charges, garanties et départ pour signer sereinement à plusieurs, éviter les litiges et choisir son bail.",
+  "dek": "En colocation, le type de bail détermine qui paie quoi, qui reste responsable au départ d’un occupant et comment le logement est géré. Voici les règles à vérifier avant toute signature pour partager un logement sans transformer l’économie réalisée en conflit coûteux.",
+  "category": "maison-immobilier",
+  "tags": [
+    "colocation",
+    "bail locatif",
+    "solidarité",
+    "dépôt de garantie",
+    "location immobilière"
+  ],
+  "keyTakeaways": [
+    "Un bail unique et des baux individuels n’entraînent pas les mêmes responsabilités.",
+    "La clause de solidarité peut engager un colocataire sortant pendant six mois après son préavis.",
+    "Le dépôt de garantie est plafonné à un mois hors charges en location vide, deux mois en meublé.",
+    "Un remplacement de colocataire doit être formalisé par le bailleur, pas seulement décidé entre occupants.",
+    "État des lieux, assurance et répartition écrite des dépenses évitent la plupart des litiges."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Partager un logement permet souvent de réduire le loyer, mais un <strong>bail de location immobilière pour colocation</strong> ne se signe pas comme une simple entente entre amis. Le contrat choisit le niveau de responsabilité de chacun, notamment si l’un des occupants cesse de payer ou quitte l’appartement. Avant de vous engager, vérifiez le montage locatif, les clauses financières et les modalités de départ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-cadre-de-la-colocation",
+      "text": "Comprendre ce que couvre réellement un bail de colocation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La colocation correspond à la location d’un même logement par plusieurs personnes qui en font leur résidence principale, à l’exception d’un logement loué uniquement à un couple marié ou pacsé dès la signature. Son cadre relève principalement de la loi du 6 juillet 1989: le bailleur comme les occupants doivent donc respecter les règles habituelles de la location, auxquelles s’ajoutent des dispositions propres au partage du logement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le logement doit être décent, assuré et accompagné des diagnostics obligatoires. En location vide, le bail dure en général trois ans lorsque le bailleur est un particulier; en meublé, il dure habituellement un an, avec un possible bail étudiant de neuf mois. Une location saisonnière ou un bail mobilité répondent à des régimes différents: ne les confondez pas avec un bail de résidence principale, même si plusieurs personnes occupent les lieux."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Un nom absent du bail n’est pas un détail: cette personne ne bénéficie pas pleinement du droit au maintien dans les lieux et peut rencontrer des difficultés pour l’assurance, les aides au logement ou une preuve de domicile.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-entre-bail-unique-et-baux-individuels",
+      "text": "Bail unique ou baux individuels: le choix qui change tout"
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux formules existent. Avec un <strong>bail unique</strong>, tous les colocataires signent le même contrat pour l’ensemble du logement. Le propriétaire loue un appartement ou une maison à un groupe: chambres et espaces communs ne sont pas juridiquement séparés. Avec des <strong>baux individuels</strong>, chaque occupant signe son propre contrat pour une chambre privée et l’accès aux parties communes clairement désignées."
+    },
+    {
+      "type": "table",
+      "caption": "Les différences pratiques entre les deux principaux contrats de colocation",
+      "headers": [
+        "Point à comparer",
+        "Bail unique",
+        "Baux individuels"
+      ],
+      "rows": [
+        [
+          "Signataires",
+          "Tous les colocataires sont sur le même contrat",
+          "Un contrat distinct est signé par chaque occupant"
+        ],
+        [
+          "Impayé d’un occupant",
+          "Une clause de solidarité peut faire peser la dette sur les autres",
+          "Chaque locataire répond en principe de son propre loyer"
+        ],
+        [
+          "Départ d’un colocataire",
+          "Préavis individuel, puis éventuel avenant pour le remplaçant",
+          "Fin de son bail; les autres contrats continuent"
+        ],
+        [
+          "Dépôt de garantie",
+          "Restitué à la fin de la location de l’ensemble du groupe",
+          "Géré à la fin de chaque bail individuel"
+        ],
+        [
+          "Chambre louée",
+          "La répartition des chambres reste souvent une organisation interne",
+          "La chambre privative doit être précisément identifiée"
+        ],
+        [
+          "Surface minimale",
+          "Le logement entier doit répondre aux critères de décence",
+          "Chaque chambre privative doit notamment atteindre 9 m² et 20 m³"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Quel montage convient le mieux à votre situation?",
+      "a": {
+        "title": "Bail unique: pour un groupe stable",
+        "points": [
+          "Adapté lorsque les occupants se connaissent, arrivent ensemble et souhaitent organiser librement les chambres.",
+          "Souvent plus simple à gérer pour le propriétaire, mais il faut mesurer le risque lié à la solidarité.",
+          "Le départ d’un occupant implique de régler sa succession avec le bailleur et les colocataires restants."
+        ]
+      },
+      "b": {
+        "title": "Baux individuels: pour plus d’autonomie",
+        "points": [
+          "Chaque locataire a une relation contractuelle propre avec le bailleur et peut quitter sa chambre sans engager les autres sur son loyer.",
+          "Plus lisible dans une colocation mouvante, notamment avec des étudiants ou de jeunes actifs qui se succèdent.",
+          "Le bailleur garde davantage la main sur l’attribution des chambres et leur occupation."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Ne choisissez pas un bail unique uniquement parce que le loyer semble moins cher. Lisez d’abord la clause de solidarité: c’est elle qui peut vous obliger à couvrir la part d’un autre occupant.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-les-mentions-et-annexes",
+      "text": "Vérifier le contenu du contrat et ses annexes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bail de colocation doit être écrit et suivre le modèle réglementaire applicable à la location vide ou meublée. Il mentionne notamment l’identité du bailleur et des locataires, la date de prise d’effet, la durée, la description du logement, sa surface habitable, le montant du loyer, les modalités de révision, les charges, le dépôt de garantie et les conditions de congé. En meublé, un inventaire du mobilier doit compléter le contrat: literie, équipement de cuisine, rangements et matériel nécessaire à la vie quotidienne doivent être présents."
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez les annexes avant de vous engager: diagnostic de performance énergétique, état des risques, diagnostic gaz ou électricité lorsque les installations sont anciennes, constat de risque d’exposition au plomb dans les logements anciens, et information sur les nuisances sonores aériennes si le bien est dans une zone concernée. Ces documents renseignent autant sur votre futur confort que sur la conformité du logement."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Contrôlez que le nom de chaque occupant réellement installé figure bien sur le bail ou sur un avenant.",
+        "En bail individuel, vérifiez la chambre qui vous est attribuée, les parties communes accessibles et leurs conditions d’usage.",
+        "Repérez la date et l’indice de révision du loyer, sans supposer qu’une hausse est automatique.",
+        "Lisez les règles prévues pour les animaux, le stationnement, le ménage, les clés et la sous-location.",
+        "Conservez un exemplaire signé du bail, de ses annexes et de tout avenant."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Un accord oral entre colocataires sur les chambres ou le partage du loyer ne modifie pas le bail. S’il faut changer les signataires, le montant dû ou l’occupation d’une chambre, demandez un écrit au bailleur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "loyer-charges-depot-et-aides",
+      "text": "Loyer, charges, dépôt de garantie: les montants à décoder"
+    },
+    {
+      "type": "paragraph",
+      "html": "En bail unique, le contrat indique généralement un loyer global. Vous pouvez ensuite partager cette somme selon la taille des chambres, l’accès à une terrasse ou une place de stationnement, mais cette ventilation interne ne limite pas forcément vos obligations envers le propriétaire. Dans les villes soumises à l’encadrement des loyers, vérifiez que le loyer total et, le cas échéant, le complément de loyer respectent les règles locales. Avec des baux individuels, l’addition des loyers demandés ne doit pas servir à contourner le montant applicable au logement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "comprendre-les-charges",
+      "text": "Charges au réel ou forfait: exigez une formulation nette"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les charges récupérables peuvent être versées par provisions, avec une régularisation ultérieure sur justificatifs, ou prendre la forme d’un forfait en colocation. Le forfait doit être annoncé clairement et ne pas être manifestement disproportionné. Eau, chauffage collectif, taxe d’enlèvement des ordures ménagères ou entretien des parties communes peuvent s’y ajouter selon l’immeuble; l’électricité, internet et l’assurance sont parfois à souscrire séparément. Faites une liste des dépenses incluses plutôt que de vous fier à l’annonce."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le dépôt de garantie est plafonné à un mois de loyer hors charges en location vide et à deux mois hors charges en meublé, sauf situations particulières prévues par la loi. En bail unique, le bailleur le rend à la fin de la location de tous les titulaires, après restitution des clés et comparaison des états des lieux. Un colocataire qui part ne peut donc pas exiger sa quote-part directement au propriétaire: le remboursement se négocie généralement avec son remplaçant ou avec les occupants qui restent."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 mois",
+          "label": "de dépôt de garantie maximum en location vide, hors charges"
+        },
+        {
+          "value": "2 mois",
+          "label": "de dépôt de garantie maximum en location meublée, hors charges"
+        },
+        {
+          "value": "1 mois",
+          "label": "de préavis en meublé et, en général, en zone tendue pour un logement vide"
+        },
+        {
+          "value": "6 mois",
+          "label": "de solidarité possible après le préavis d’un colocataire sortant sans remplaçant inscrit au bail"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil budget",
+      "html": "<p>Avant la signature, calculez votre coût mensuel complet: quote-part de loyer, charges non incluses, assurance, énergie, internet, transport et éventuelle épargne pour le dépôt. Les aides au logement se demandent individuellement et dépendent de votre situation, de vos ressources et du logement déclaré.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "maitriser-solidarite-depart-et-remplacement",
+      "text": "Maîtriser la solidarité, le départ et le remplacement d’un colocataire"
+    },
+    {
+      "type": "paragraph",
+      "html": "La clause de solidarité est le point le plus sensible d’un bail unique. Si elle figure au contrat, le bailleur peut demander à un seul colocataire le paiement de l’intégralité d’un impayé de loyer ou de charges, puis celui-ci devra se retourner contre les autres pour récupérer leur part. Sans cette clause, le bailleur ne bénéficie pas de ce mécanisme contractuel de solidarité; cela ne dispense évidemment personne de régler sa propre part."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour partir, envoyez votre congé au bailleur dans les formes prévues, le plus souvent par lettre recommandée, commissaire de justice ou remise en main propre contre récépissé. Le préavis est habituellement d’un mois en meublé; en location vide, il est de trois mois hors zone tendue, avec des réductions possibles dans certains cas. Dans un bail unique avec solidarité, votre engagement cesse au plus tard six mois après la fin de votre préavis, ou dès qu’un nouveau colocataire figure au bail, si cela arrive avant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un nouveau venu ne remplace pas automatiquement un sortant parce qu’il emménage et verse sa part. Le bailleur doit l’accepter et formaliser son entrée par un avenant ou un nouveau bail. Organisez également entre vous le rachat de la quote-part du dépôt de garantie, l’état de la chambre et le transfert des abonnements. En baux individuels, le départ est plus simple contractuellement, mais il faut tout de même respecter le préavis et l’état des lieux propre à votre chambre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "constituer-dossier-assurance-et-garanties",
+      "text": "Constituer un dossier régulier et sécuriser les garanties"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bailleur peut demander des justificatifs autorisés pour chaque candidat et, si besoin, pour chaque garant: pièce d’identité, justificatif de domicile, situation professionnelle, avis d’imposition et preuves de ressources, par exemple. En revanche, il ne peut pas exiger n’importe quel document: relevé bancaire, carte vitale, extrait de casier judiciaire ou informations relevant de la vie privée ne font pas partie des pièces ordinaires à fournir. Préparez un dossier lisible, identique dans sa structure pour tous les candidats, et masquez les données inutiles lorsque c’est possible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un garant peut être demandé, sous réserve des règles applicables au bailleur et à ses assurances contre les impayés. L’acte de caution doit identifier précisément l’engagement: colocataire couvert, montant ou étendue de la garantie, durée et conditions de résiliation. Dans un bail solidaire, vérifiez si le garant est lui aussi exposé aux conséquences de la solidarité. Selon le profil et le logement, une garantie locative telle que Visale peut aussi être étudiée."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’assurance habitation couvrant au minimum les risques locatifs est obligatoire. Une seule police peut parfois couvrir le groupe, mais tous les occupants doivent être déclarés et la garantie responsabilité civile doit correspondre à la colocation. Remettez l’attestation demandée au bailleur puis actualisez-la à chaque changement d’occupant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "suivre-la-methode-avant-de-signer",
+      "text": "Suivre une méthode simple avant de signer"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Lire le bail séparément puis à plusieurs",
+          "html": "Chaque futur occupant doit lire le contrat et ses annexes. Comparez ensemble le loyer, les charges, la durée, la clause de solidarité et les règles de départ avant d’apposer une signature."
+        },
+        {
+          "title": "Visiter et vérifier l’état réel du logement",
+          "html": "Testez autant que possible eau chaude, chauffage, serrures, électroménager, ventilation, fenêtres et réseau mobile. En meublé, comparez le mobilier présent avec l’inventaire annoncé."
+        },
+        {
+          "title": "Réaliser un état des lieux très documenté",
+          "html": "Prenez des photos datées des murs, sols, équipements, compteurs et défauts existants. Notez précisément les anomalies sur l’état des lieux d’entrée et conservez les preuves."
+        },
+        {
+          "title": "Écrire votre accord de vie commune",
+          "html": "Sans remplacer le bail, un document interne peut répartir le loyer, les charges, le ménage, les achats communs, les règles pour les invités et la procédure de remplacement. Prévoyez aussi ce qui se passe si une personne paie en retard."
+        },
+        {
+          "title": "Organiser les paiements et les preuves",
+          "html": "Mettez en place des virements traçables, gardez les quittances et archivez les échanges importants avec le bailleur. Demandez une quittance ou une attestation de paiement lorsque vous en avez besoin pour vos démarches."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l’état des lieux",
+      "html": "<p>Ne signez jamais un état des lieux incomplet sous prétexte que vous êtes pressés d’emménager. Les dégradations déjà présentes mais non mentionnées peuvent vous être imputées lors du départ.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-action-pour-une-colocation-sereine",
+      "text": "Votre plan d’action pour une colocation sereine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de choisir le logement, demandez explicitement s’il s’agit d’un bail unique ou de baux individuels et réclamez un projet de contrat. Si vous signez un bail unique, ne minimisez ni la solidarité ni la question du dépôt: convenez dès le début d’une règle de remplacement et d’un suivi transparent des paiements. Si vous privilégiez l’autonomie et des départs fréquents, les baux individuels sont souvent plus protecteurs pour chaque occupant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, faites correspondre le contrat à la réalité: tous les habitants doivent être déclarés, chaque chambre doit être occupée conformément au bail et tout changement durable doit être écrit. Cette rigueur initiale vous permet de profiter de la colocation pour ce qu’elle doit être: un logement partagé, abordable et juridiquement clair."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Tous les colocataires doivent-ils obligatoirement signer le bail?",
+      "a": "<p>Pour bénéficier des droits attachés à la location, il est fortement recommandé que chaque occupant durable signe le bail ou un avenant. Une personne simplement hébergée avec l’accord des autres occupants n’a pas la même protection, notamment en cas de conflit, de départ des titulaires du bail ou de demande d’aide au logement. En bail individuel, chacun signe naturellement son propre contrat.</p>"
+    },
+    {
+      "q": "Le propriétaire peut-il refuser le remplaçant proposé par un colocataire sortant?",
+      "a": "<p>Le colocataire sortant peut donner son congé, mais il ne peut pas imposer seul un nouveau signataire au bailleur. En bail unique, l’entrée du remplaçant doit être acceptée et formalisée par le propriétaire, généralement via un avenant. Le choix du candidat doit toutefois reposer sur des critères légitimes liés au dossier locatif, et non sur une discrimination.</p>"
+    },
+    {
+      "q": "Comment récupérer son dépôt de garantie lorsqu’on quitte une colocation avant les autres?",
+      "a": "<p>Dans un bail unique, le bailleur restitue normalement le dépôt à la fin de la location de l’ensemble des titulaires, et non au départ de chaque personne. Le sortant s’arrange donc avec un remplaçant qui lui rachète sa quote-part, ou avec les occupants restants selon un accord écrit. En baux individuels, le dépôt est restitué à la fin du contrat de la chambre concernée, sous réserve des retenues légalement justifiées.</p>"
+    },
+    {
+      "q": "Un garant reste-t-il engagé après le départ du colocataire?",
+      "a": "<p>Cela dépend de l’acte de caution et de la présence d’une clause de solidarité. Dans un bail unique solidaire, le garant peut rester exposé pendant la période où le colocataire sortant demeure solidaire, dans la limite de son engagement. Lisez l’acte de caution avant de le signer: il doit préciser la personne garantie, la durée et l’étendue des sommes couvertes.</p>"
+    },
+    {
+      "q": "Le propriétaire a-t-il le droit d’entrer dans une chambre de colocation?",
+      "a": "<p>Non, le bailleur ne peut pas entrer librement dans le logement ou dans une chambre occupée sans l’accord de l’occupant. Il doit convenir d’un rendez-vous, y compris pour des travaux ou une visite liée à une relocation. Une clause qui lui donnerait un accès permanent aux lieux ne lui permet pas de se passer de votre consentement.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

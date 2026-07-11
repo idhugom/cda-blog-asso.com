@@ -1,0 +1,325 @@
+{
+  "id": 2142,
+  "slug": "sequestre-immobilier-procedure",
+  "title": "séquestre immobilier et procédure judiciaire : comment ça marche ?",
+  "metaTitle": "Séquestre immobilier: procédure judiciaire et réflexes",
+  "metaDescription": "Comprenez le séquestre immobilier judiciaire: conditions, étapes, rôle du juge, coûts et réflexes pour protéger un bien ou le prix de vente en litige.",
+  "dek": "Lorsqu’un bien immobilier ou le prix d’une vente est contesté, le séquestre peut empêcher qu’une décision irréversible soit prise trop vite. Mais cette mesure protectrice ne s’obtient pas automatiquement: voici comment l’utiliser, ou l’éviter, à bon escient.",
+  "category": "maison-immobilier",
+  "tags": [
+    "séquestre immobilier",
+    "litige immobilier",
+    "vente immobilière",
+    "notaire",
+    "procédure judiciaire"
+  ],
+  "keyTakeaways": [
+    "Le séquestre bloque ou confie temporairement un bien ou des fonds contestés à un tiers neutre.",
+    "Le séquestre notarial repose souvent sur un accord; le séquestre judiciaire est ordonné par un juge.",
+    "Il faut démontrer un litige crédible et le risque concret d’une mauvaise utilisation, d’une disparition ou d’une libération des fonds.",
+    "Le séquestre ne tranche pas la propriété: il préserve la situation jusqu’à un accord ou à une décision.",
+    "Avant de saisir le juge, réunissez le contrat, les preuves du litige et une solution précise à demander."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un compromis annulé, une succession conflictuelle, un prix de vente que chacun réclame: dans ces situations, laisser circuler l’argent ou administrer librement un bien peut aggraver le conflit. Le <strong>séquestre immobilier</strong> sert à placer temporairement ce qui est disputé sous la garde d’un tiers, parfois sur décision du juge. Il sécurise une situation, mais ne remplace ni une saisie ni un jugement sur le fond."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-sequestre-immobilier",
+      "text": "Comprendre ce que le séquestre immobilier protège réellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le séquestre consiste à confier une chose litigieuse à un dépositaire chargé de la conserver jusqu’au règlement du différend. En immobilier, la chose concernée est rarement la maison elle-même au sens matériel. Il s’agit beaucoup plus souvent du <strong>prix de vente</strong>, d’une indemnité d’immobilisation, d’un acompte, de loyers, d’indemnités d’assurance ou de sommes issues d’une succession."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque le bien immobilier est lui-même au cœur du conflit, le séquestre peut aussi viser son administration: conservation des clés et documents, perception encadrée des revenus, réalisation de travaux urgents ou gestion temporaire. Cela peut être utile, par exemple, si des indivisaires se disputent l’usage d’un immeuble ou si la propriété est contestée. La mission du séquestre doit alors être définie avec précision: il ne devient pas propriétaire et n’a pas carte blanche pour vendre, louer ou transformer le bien."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point essentiel",
+      "html": "<p>Le séquestre <strong>préserve</strong>; il ne décide pas qui a raison. La question de la propriété, de la faute ou du droit à recevoir l’argent sera réglée par un accord, une médiation, une décision judiciaire ou un acte notarié adapté.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "situations-ou-le-sequestre-est-utile",
+      "text": "Dans quelles situations le séquestre est-il pertinent?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le séquestre n’est pas une réponse universelle à tout conflit immobilier. Il est surtout pertinent lorsqu’un actif identifiable est disputé et qu’il faut éviter qu’une partie en dispose seule avant que le litige soit résolu. Dans une vente, il évite notamment qu’un dépôt ou une partie du prix soit reversé trop tôt. Dans une indivision ou une succession, il peut organiser une conservation neutre dans l’attente d’un partage."
+    },
+    {
+      "type": "table",
+      "caption": "Exemples de situations et réponse à envisager",
+      "headers": [
+        "Situation",
+        "Ce qui est disputé",
+        "Intérêt possible du séquestre",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Vente annulée ou bloquée",
+          "Dépôt, indemnité d’immobilisation ou prix de vente",
+          "Empêcher la remise des fonds à l’acheteur ou au vendeur avant accord",
+          "Relire la clause de séquestre du compromis et les conditions de déblocage"
+        ],
+        [
+          "Succession ou indivision",
+          "Revenus, indemnité d’occupation, produit d’une vente ou gestion du bien",
+          "Éviter qu’un héritier ou indivisaire capte seul une somme contestée",
+          "La gestion quotidienne du bien doit être définie dans le détail"
+        ],
+        [
+          "Vente d’un bien à propriété contestée",
+          "Prix issu de la vente",
+          "Conserver le prix jusqu’à ce que les droits de chacun soient déterminés",
+          "Le séquestre ne purge pas à lui seul les droits des créanciers ou titulaires de sûretés"
+        ],
+        [
+          "Conflit de voisinage",
+          "Le bien ou des fonds liés à des travaux",
+          "Cas plutôt rare, parfois utile pour une somme ou un ouvrage contesté",
+          "Une expertise, une mesure de remise en état ou une action en responsabilité est souvent plus adaptée"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À ne pas confondre",
+      "html": "<p>Le dépôt de garantie d’un locataire, la saisie conservatoire d’un créancier et le séquestre répondent à des mécanismes différents. Le mot séquestre est parfois employé couramment pour désigner des fonds bloqués chez un notaire, mais les droits et recours dépendent toujours du contrat et de la décision applicable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sequestre-notarial-ou-judiciaire",
+      "text": "Séquestre chez le notaire ou séquestre judiciaire: quelle différence?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans de nombreuses transactions, les parties prévoient dès l’avant-contrat que certaines sommes seront versées entre les mains du notaire. Celui-ci les conserve et ne les libère que dans les conditions convenues. C’est un cadre pratique et protecteur, mais il repose principalement sur l’accord contractuel. Si les parties s’opposent sur le déblocage, le notaire ne tranche pas le litige à leur place."
+    },
+    {
+      "type": "compare",
+      "title": "Choisir le bon cadre de protection",
+      "a": {
+        "title": "Séquestre conventionnel ou notarial",
+        "points": [
+          "Résulte d’une clause du compromis, d’un acte ou d’un accord écrit entre les parties.",
+          "Le notaire ou un autre tiers conserve les fonds selon des règles prévues à l’avance.",
+          "Rapide à mettre en place si tout le monde consent.",
+          "Ne permet pas de résoudre seul un désaccord durable sur la destination des sommes."
+        ]
+      },
+      "b": {
+        "title": "Séquestre judiciaire",
+        "points": [
+          "Est ordonné par un juge lorsqu’un litige justifie une mesure de conservation.",
+          "Peut désigner un séquestre et fixer sa mission, ses pouvoirs et les modalités de remise.",
+          "S’impose aux parties visées par la décision, sous réserve des recours possibles.",
+          "Implique une procédure, des preuves, des délais et des frais potentiellement plus importants."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de judiciariser, vérifiez donc si un protocole écrit suffit: par exemple, maintenir les fonds chez le notaire jusqu’à la réalisation d’une condition, jusqu’à la signature d’un accord de résiliation ou jusqu’à l’issue d’une médiation. Le juge devient particulièrement utile quand l’accord est impossible ou lorsqu’une partie exige une remise immédiate qui paraît risquée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conditions-pour-demander-un-sequestre",
+      "text": "Ce qu’il faut démontrer pour obtenir un séquestre judiciaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une simple mésentente ne suffit pas. La personne qui demande un séquestre doit présenter un <strong>litige sérieux et documenté</strong>: désaccord sur l’exécution d’une promesse de vente, contestation de la propriété, conflit entre héritiers, demande de restitution d’un dépôt ou contestation sur la répartition du prix. Elle doit aussi expliquer pourquoi la conservation par un tiers est nécessaire à ce stade."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le risque peut prendre plusieurs formes: fonds susceptibles d’être versés à la mauvaise personne, produit d’une vente difficile à récupérer ensuite, dégradation d’un bien inoccupé, perception non transparente de loyers, ou impossibilité de maintenir une gestion neutre entre copropriétaires indivis. Plus la demande est concrète, plus elle est utile. Dire que vous craignez une mauvaise foi sans apporter de pièces ni de faits précis est rarement convaincant."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le lien avec le litige:</strong> identifiez exactement la somme, le bien ou les revenus concernés.",
+        "<strong>Les pièces contractuelles:</strong> compromis, promesse, acte de vente, règlement d’indivision, testament, échanges avec le notaire ou les autres parties.",
+        "<strong>Le risque actuel:</strong> demande de virement, refus de communiquer les comptes, travaux contestés, mise en vente, menace de dissipation des fonds.",
+        "<strong>La mesure sollicitée:</strong> nom du tiers proposé si possible, compte de dépôt, durée, règles de gestion et événement qui permettra le déblocage."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne demandez pas au juge de geler indistinctement tout le patrimoine de l’autre partie sous l’étiquette séquestre. Une demande trop large ou sans lien direct avec le bien litigieux risque d’être rejetée. Pour garantir le recouvrement d’une créance, la <strong>saisie conservatoire</strong> peut être l’outil approprié, avec ses propres conditions.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deroulement-de-la-procedure-judiciaire",
+      "text": "Comment se déroule la procédure judiciaire, étape par étape"
+    },
+    {
+      "type": "paragraph",
+      "html": "La voie dépend de l’urgence, de la nature du conflit et de ce que vous demandez. Lorsqu’il faut prévenir rapidement un risque, une demande en référé devant le tribunal compétent est fréquemment envisagée. Si le juge doit d’abord trancher une question complexe de propriété ou de responsabilité, l’affaire peut nécessiter une procédure au fond. Le tribunal judiciaire est souvent concerné pour les litiges immobiliers, mais la compétence exacte dépend notamment de l’objet du litige et de la localisation de l’immeuble."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Faire l’inventaire du conflit",
+          "html": "Distinguez les faits certains, les sommes en cause et ce que vous demandez précisément. Conservez les courriels, relevés, appels de fonds, photos, mises en demeure et documents notariés."
+        },
+        {
+          "title": "Tenter une sortie négociée sécurisée",
+          "html": "Proposez par écrit que les fonds restent consignés chez le notaire ou qu’un tiers neutre soit désigné. Une médiation peut éviter une procédure longue tout en maintenant une protection immédiate."
+        },
+        {
+          "title": "Préparer la demande avec le bon professionnel",
+          "html": "Un avocat peut qualifier la mesure à solliciter et rédiger une demande proportionnée. Selon la procédure et la juridiction, sa représentation peut être requise ou fortement recommandée. Le notaire éclaire utilement sur le statut des fonds et les clauses de l’acte."
+        },
+        {
+          "title": "Saisir le juge et faire délivrer les actes",
+          "html": "La procédure passe le plus souvent par un acte délivré à la partie adverse, afin qu’elle puisse répondre. En cas d’urgence particulière, les modalités peuvent être adaptées, mais elles restent strictement encadrées."
+        },
+        {
+          "title": "Obtenir une ordonnance précise",
+          "html": "La décision doit idéalement désigner le séquestre, définir ce qui lui est remis, préciser ses pouvoirs, les frais, la durée de la mission et les conditions de déblocage ou de reddition des comptes."
+        },
+        {
+          "title": "Exécuter et suivre la mesure",
+          "html": "Transmettez la décision au notaire, à la banque, au gestionnaire ou à toute personne qui détient les sommes. Respectez ensuite les délais de recours mentionnés dans la décision et poursuivez, si nécessaire, le règlement du litige de fond."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Si une ordonnance est rendue, lisez-la ligne à ligne. Une formulation imprécise peut créer de nouveaux blocages: qui encaisse les loyers? Qui paie l’assurance et les charges? Des travaux urgents sont-ils autorisés? Le séquestre peut-il produire les fonds, et à qui doit-il rendre compte? Ces questions doivent être anticipées, surtout lorsque l’immeuble continue d’être occupé ou exploité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "effets-et-limites-du-sequestre",
+      "text": "Les effets concrets: ce que le séquestre bloque, et ce qu’il ne bloque pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les fonds placés sous séquestre, ils ne doivent plus être remis unilatéralement à l’une des parties. Le dépositaire les conserve jusqu’à l’événement prévu: accord écrit, décision de justice, acte de partage ou autre condition explicitement fixée. Pour un immeuble, le séquestre peut encadrer une administration provisoire, mais il ne fait pas disparaître les obligations courantes liées au bien."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ainsi, les échéances de prêt, les charges de copropriété, les impôts, l’assurance et les mesures de sécurité doivent continuer à être traités. L’ordonnance peut prévoir l’usage de revenus locatifs, une provision ou une autorisation spécifique. À défaut, ne supposez jamais que le séquestre permet de suspendre vos obligations envers la banque, le syndic, l’assureur ou l’administration."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un réflexe protecteur",
+      "html": "<p>Si le bien est vacant ou dégradé, documentez sans tarder son état: photographies datées, constats si nécessaire, devis de travaux urgents, attestations d’assurance et relevés de charges. Cela peut justifier une gestion provisoire plus opérationnelle qu’un simple blocage des fonds.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "delais-couts-et-frais-a-prevoir",
+      "text": "Délais, coûts et frais: prévoir le budget sans fausse promesse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le délai dépend surtout de l’urgence, de l’encombrement de la juridiction, de la réaction adverse et de la complexité du dossier. Une procédure de référé peut être plus rapide qu’une action au fond, mais elle n’est pas instantanée. Si l’affaire exige une expertise immobilière, des recherches successorales ou un débat sur la propriété, le règlement définitif peut prendre nettement plus longtemps que la mesure de protection elle-même."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~ 2 à 8 semaines",
+          "label": "ordre de grandeur possible pour une audience de référé, selon l’urgence et la juridiction"
+        },
+        {
+          "value": "~ 6 à 18 mois",
+          "label": "ordre de grandeur fréquent pour un litige civil qui se poursuit au fond, hors expertise lourde"
+        },
+        {
+          "value": "> 2 ans",
+          "label": "durée possible lorsque propriété, succession, expertise ou recours complexifient le dossier"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, prévoyez les honoraires d’avocat, les frais du commissaire de justice pour les actes et, selon le cas, la rémunération du séquestre, les frais de compte, les coûts de gestion du bien ou une expertise. Une première consultation et une procédure simple ne représentent pas le même budget qu’un contentieux immobilier avec expertise. Demandez une convention d’honoraires détaillant le périmètre de l’intervention, les diligences incluses et les frais prévisibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le juge peut ensuite répartir tout ou partie des dépens et accorder une indemnité de procédure, mais rien ne garantit un remboursement intégral. Si vos ressources sont limitées, renseignez-vous sur l’aide juridictionnelle et sur une éventuelle protection juridique incluse dans votre assurance habitation, bancaire ou professionnelle. Vérifiez les plafonds, exclusions et délais de déclaration avant d’engager des frais."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-des-maintenant",
+      "text": "Agir maintenant: la méthode pour protéger vos intérêts"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par identifier l’objectif réel: empêcher le versement d’une somme, préserver un immeuble, obtenir des comptes sur des loyers ou garantir le paiement d’une créance. Cette clarification évite de choisir un séquestre alors qu’une clause contractuelle, une médiation, une expertise ou une saisie serait plus efficace. Si des fonds sont déjà détenus par le notaire, demandez-lui par écrit leur statut exact, les conditions contractuelles de déblocage et les documents nécessaires."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Écrivez une chronologie d’une page avec les dates de signature, paiements, demandes de déblocage et événements déclencheurs.",
+        "Chiffrez distinctement les sommes incontestées et celles réellement litigieuses.",
+        "Adressez une proposition écrite de maintien des fonds chez un tiers neutre pendant une période déterminée.",
+        "Faites relire le compromis ou l’acte par un professionnel avant toute signature de déblocage, de renonciation ou de protocole.",
+        "En cas de risque imminent, consultez rapidement un avocat avec un dossier ordonné et complet afin de demander une mesure ciblée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant toute démarche",
+      "html": "<p>Un séquestre bien demandé est <strong>ciblé, proportionné et temporaire</strong>. Il doit protéger un actif identifié sans paralyser inutilement une transaction ou la vie du bien. Plus votre demande répond à ces trois critères, plus elle a de chances d’être comprise et utile.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le notaire peut-il décider seul de bloquer le prix de vente?",
+      "a": "<p>Le notaire peut conserver les fonds lorsqu’un acte, un compromis ou l’accord des parties le prévoit. En revanche, il ne tranche pas seul un conflit sur la personne qui doit recevoir l’argent. En présence d’un désaccord persistant, il demandera généralement des instructions communes, un accord formalisé ou une décision de justice avant de libérer les sommes.</p>"
+    },
+    {
+      "q": "Comment faire débloquer une somme placée sous séquestre immobilier?",
+      "a": "<p>Il faut respecter les conditions prévues par le contrat ou l’ordonnance: accord écrit de toutes les personnes concernées, réalisation d’une condition, acte notarié, décision judiciaire devenue applicable ou instruction du juge. Une simple demande unilatérale est généralement insuffisante lorsque le litige demeure. Commencez par obtenir du dépositaire la liste écrite des documents qu’il exige.</p>"
+    },
+    {
+      "q": "Un séquestre judiciaire empêche-t-il de vendre le bien immobilier?",
+      "a": "<p>Pas nécessairement. Tout dépend de ce que la décision prévoit. Le séquestre peut seulement porter sur le prix qui sera issu de la vente, ce qui permet parfois de vendre sans attendre que le conflit de propriété ou de répartition soit définitivement réglé. À l’inverse, une décision peut encadrer fortement les actes de disposition ou nécessiter une autorisation préalable.</p>"
+    },
+    {
+      "q": "Qui paie les frais du séquestre judiciaire?",
+      "a": "<p>Les frais peuvent être avancés par le demandeur, partagés entre les parties ou prélevés selon les modalités prévues dans la décision. La répartition finale peut être revue lorsque le litige est jugé. Il faut demander dès le départ que l’ordonnance précise la rémunération du séquestre, les dépenses autorisées, les justificatifs attendus et la personne tenue d’avancer les fonds.</p>"
+    },
+    {
+      "q": "Peut-on demander un séquestre immobilier sans avocat?",
+      "a": "<p>Cela dépend de la juridiction, de la procédure engagée et de la nature exacte de votre demande. Certaines démarches peuvent être accomplies sans avocat, mais un séquestre judiciaire exige une qualification juridique et une demande très précise. Dans un litige immobilier, où les enjeux financiers et les effets de la décision sont importants, une consultation d’avocat est fortement recommandée, même si elle ne conduit pas forcément à une procédure longue.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre séquestre immobilier et saisie conservatoire?",
+      "a": "<p>Le séquestre confie un bien ou des fonds litigieux à un tiers neutre afin de les préserver jusqu’au règlement du différend. La saisie conservatoire vise plutôt à empêcher un débiteur de faire disparaître des biens ou des sommes afin de garantir une créance. Les conditions, formalités et conséquences sont différentes: le choix dépend de votre objectif, de la nature du litige et des éléments de preuve disponibles.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

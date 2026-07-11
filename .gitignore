@@ -24,3 +24,4 @@ Thumbs.db
 scripts/.cache/
 data/gen-failures.json
 data/gen-batch.log
+data/gen-full.log
