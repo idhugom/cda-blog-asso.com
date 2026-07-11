@@ -1,0 +1,367 @@
+{
+  "id": 2072,
+  "slug": "impact-social-rse-tiktok",
+  "title": "Calcul d’impact social : communiquer ses engagements RSE sur TikTok Shop",
+  "metaTitle": "Calcul d’impact social: réussir sur TikTok Shop",
+  "metaDescription": "Apprenez à calculer, prouver et communiquer votre impact social sur TikTok Shop sans greenwashing: indicateurs, preuves et formats concrets et vérifiables.",
+  "dek": "Sur TikTok Shop, une promesse RSE ne vaut que si elle est compréhensible, liée au produit et étayée. Voici comment construire un calcul d’impact social crédible, puis le rendre visible sans surjouer vos engagements.",
+  "category": "business-pro",
+  "tags": [
+    "RSE",
+    "TikTok Shop",
+    "impact social",
+    "commerce responsable",
+    "communication"
+  ],
+  "keyTakeaways": [
+    "Mesurez d’abord un changement social précis, pas une intention ou un simple moyen engagé.",
+    "Reliez chaque promesse TikTok Shop à un périmètre, une période, un indicateur et une preuve accessible.",
+    "Préférez quelques données solides à un score global spectaculaire mais incompréhensible.",
+    "Distinguez clairement l’impact du produit, celui de l’entreprise et la contribution de vos partenaires.",
+    "Avec les créateurs, rendez la collaboration commerciale visible et interdisez les promesses non prouvées."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vendre sur TikTok Shop peut donner une exposition très rapide à une marque, mais aussi rendre ses promesses RSE immédiatement discutables. Un « achat responsable » ou un « produit qui aide les autres » ne suffit pas: vous devez expliquer ce qui change réellement, pour qui, sur quelle période et avec quelles limites. Un calcul d’impact social bien construit vous aide à convaincre sans transformer votre communication en opération de façade."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-calcul-impact-social",
+      "text": "Ce que mesure réellement un calcul d’impact social"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’impact social désigne un <strong>changement durable ou mesurable dans la situation de personnes ou de groupes</strong>, lié en tout ou partie à l’activité de votre entreprise. Selon votre modèle, il peut concerner l’insertion professionnelle, la qualité de l’emploi, l’accessibilité d’un produit, la sécurité au travail, la rémunération dans une filière ou l’accès à un service essentiel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut surtout distinguer trois niveaux. Les <strong>moyens</strong> sont ce que vous engagez: budget, heures de formation, matières achetées. Les <strong>réalisations</strong> sont ce que vous produisez: personnes formées, produits adaptés vendus, heures de travail créées. Les <strong>effets</strong> sont ce qui évolue chez les bénéficiaires: retour à l’emploi, autonomie accrue, baisse d’un frein d’accès. C’est ce dernier niveau qui se rapproche de l’impact."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une promesse RSE n’est pas automatiquement un impact",
+      "html": "<p>Fabriquer en France, verser un don ou employer un prestataire local peut être positif. Cela ne prouve toutefois pas, à lui seul, un effet social mesuré. Décrivez le mécanisme: qui bénéficie de l’action, par quel canal, et quel changement vous observez.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne cherchez pas obligatoirement à convertir l’impact en euros ou à créer un « score social » unique. Ces approches peuvent être utiles dans certains projets, mais elles supposent des hypothèses complexes. Pour une boutique, un indicateur simple, bien défini et suivi dans le temps est souvent plus honnête et bien plus facile à expliquer dans une vidéo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-perimetre-pertinent",
+      "text": "Choisissez un périmètre qui correspond vraiment à ce que vous vendez"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à parler de toute la politique RSE d’une entreprise pour justifier l’achat d’un produit précis. Sur une fiche TikTok Shop, le client doit pouvoir comprendre le lien entre l’article, sa fabrication ou sa vente, et le bénéfice social annoncé. Une marque de vêtements peut, par exemple, parler d’un programme d’insertion porté par l’atelier qui confectionne une capsule, à condition de ne pas étendre cette affirmation à toutes ses collections."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Définissez l’objet étudié:</strong> un produit, une gamme, une opération commerciale, un site de production ou l’entreprise entière.",
+        "<strong>Identifiez les personnes concernées:</strong> salariés, personnes en insertion, fournisseurs, clients en situation de handicap, habitants d’un territoire ou bénéficiaires d’une association.",
+        "<strong>Fixez une période:</strong> trimestre, campagne, année civile ou durée d’un programme. Sans date, la donnée perd rapidement son sens.",
+        "<strong>Écrivez une frontière claire:</strong> ce qui est inclus, ce qui ne l’est pas, et ce qui dépend d’un partenaire indépendant."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre choix doit partir de la <strong>matérialité</strong>, c’est-à-dire des sujets sociaux où votre activité a le plus d’effets potentiels et où votre capacité d’action est réelle. Une petite marque de cosmétiques gagnera rarement à communiquer sur dix engagements dispersés. Elle sera plus crédible en documentant un enjeu central, comme l’accessibilité de ses emballages, les conditions de production chez un façonnier ou un partenariat d’insertion lié au conditionnement."
+    },
+    {
+      "type": "compare",
+      "title": "Quelle promesse afficher dans une vidéo ou sur une fiche produit?",
+      "a": {
+        "title": "Promesse vague à éviter",
+        "points": [
+          "« Chaque achat change des vies. »",
+          "Aucun bénéficiaire, aucune période ni méthode n’est indiqué.",
+          "La formule peut laisser croire à un effet automatique et important."
+        ]
+      },
+      "b": {
+        "title": "Promesse précise et défendable",
+        "points": [
+          "« Cette gamme est conditionnée par un atelier d’insertion partenaire. »",
+          "Le rôle de l’atelier, la période et les données disponibles sont explicités.",
+          "Un lien ou une réponse détaillée permet d’accéder aux éléments de preuve."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-calcul-impact",
+      "text": "Construisez un calcul simple avant de communiquer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un calcul utile ne commence pas par un tableur: il commence par une question concrète. Par exemple: « Notre partenariat de conditionnement favorise-t-il le retour vers l’emploi de personnes éloignées du marché du travail? » Vous pourrez ensuite suivre un petit nombre de données cohérentes, plutôt que d’additionner des chiffres sans rapport entre eux."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Formulez le changement recherché",
+          "html": "Écrivez une phrase vérifiable: « améliorer l’accès à l’emploi », « réduire les difficultés d’usage », « renforcer la sécurité des travailleurs ». Évitez les formules absolues telles que « transformer la société »."
+        },
+        {
+          "title": "Décrivez votre chaîne de contribution",
+          "html": "Reliez l’action au résultat attendu: achat auprès d’un atelier, missions rémunérées, accompagnement, acquisition de compétences, puis sortie vers l’emploi ou la formation. Cette chaîne rend visibles les étapes qui dépendent aussi d’autres acteurs."
+        },
+        {
+          "title": "Choisissez une donnée de départ",
+          "html": "Comparez la situation avant l’action, au début du programme ou avec une référence pertinente. Sans point de comparaison, vous pouvez décrire une activité, mais difficilement un progrès."
+        },
+        {
+          "title": "Collectez les données à la source",
+          "html": "Demandez au partenaire, au service RH ou à l’association les données brutes, leur définition et leur période. Conservez les tableaux, attestations, contrats ou comptes rendus qui permettent de les retracer."
+        },
+        {
+          "title": "Calculez un résultat lisible",
+          "html": "Utilisez par exemple un nombre, un taux ou une évolution: personnes accompagnées, part ayant accédé à une formation, délai moyen d’accès à un service adapté. Indiquez le dénominateur dès qu’un pourcentage est affiché."
+        },
+        {
+          "title": "Ajoutez les limites",
+          "html": "Dites ce que vous ne pouvez pas attribuer à votre seule entreprise, les données manquantes et la taille de l’échantillon. Cette transparence renforce davantage la confiance qu’une certitude artificielle."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l’attribution",
+      "html": "<p>Si 15 personnes sur 24 trouvent un emploi ou une formation après un parcours, vous pouvez rapporter ce résultat observé, avec sa période et son contexte. Vous ne pouvez pas affirmer que vos commandes ont « permis » à elles seules ces 15 sorties: l’accompagnement, la situation économique et les choix des personnes comptent aussi.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "indicateurs-preuves",
+      "text": "Sélectionnez les bons indicateurs et les preuves qui vont avec"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon indicateur répond à quatre questions: <strong>quoi</strong> mesure-t-on, <strong>pour qui</strong>, <strong>sur quelle période</strong> et <strong>à partir de quelle source</strong>? Il doit aussi être assez stable pour être comparé d’une campagne à l’autre. Évitez de mélanger dans un même pourcentage des données sociales, environnementales et commerciales: elles racontent des réalités différentes."
+    },
+    {
+      "type": "table",
+      "caption": "Exemples d’indicateurs sociaux utilisables selon votre engagement",
+      "headers": [
+        "Enjeu",
+        "Indicateur utile",
+        "Preuve ou source à conserver",
+        "Formulation prudente"
+      ],
+      "rows": [
+        [
+          "Insertion professionnelle",
+          "Nombre de personnes en parcours et taux de sorties vers emploi ou formation",
+          "Bilan anonymisé de l’atelier ou de l’association, période documentée",
+          "« Notre partenaire a accompagné X personnes sur la période indiquée. »"
+        ],
+        [
+          "Accessibilité",
+          "Nombre de tests utilisateurs et améliorations mises en œuvre",
+          "Compte rendu de tests, cahier des modifications, retours d’usagers",
+          "« Le produit a été ajusté après des tests avec des utilisateurs concernés. »"
+        ],
+        [
+          "Qualité de l’emploi",
+          "Heures de formation, stabilité des contrats ou couverture d’un dispositif social",
+          "Données RH agrégées, documents du fournisseur, méthode de calcul",
+          "« Nous suivons cet indicateur chez ce partenaire depuis telle période. »"
+        ],
+        [
+          "Soutien associatif",
+          "Montant ou part réellement reversée et destination des fonds",
+          "Convention, justificatif de versement, bilan du partenaire",
+          "« X % du prix hors taxes est reversé à l’association, selon les modalités indiquées. »"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Un exemple fictif permet de voir la différence entre activité et résultat. Une marque confie le conditionnement d’une série à un atelier d’insertion. Elle peut suivre le nombre d’heures achetées et le nombre de personnes ayant travaillé sur la mission: ce sont des réalisations. Si l’atelier suit ensuite les sorties vers l’emploi ou la formation, la marque peut présenter ce résultat comme un effet observé du parcours, sans s’en attribuer l’intégralité."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3 à 5",
+          "label": "indicateurs bien définis suffisent souvent pour un premier tableau de bord social."
+        },
+        {
+          "value": "1 période",
+          "label": "clairement datée doit accompagner chaque résultat communiqué au public."
+        },
+        {
+          "value": "2 à 6 semaines",
+          "label": "peuvent être nécessaires pour cadrer un premier pilote et récupérer les données disponibles."
+        },
+        {
+          "value": "6 à 12 mois",
+          "label": "constituent souvent un horizon plus pertinent pour observer une évolution sociale qu’une seule opération de vente."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "fiabiliser-donnees-gouvernance",
+      "text": "Fiabilisez les données avant de les mettre en scène"
+    },
+    {
+      "type": "paragraph",
+      "html": "Créez une fiche de preuve par allégation importante. Pour chaque phrase susceptible d’apparaître dans une vidéo, notez l’indicateur, le périmètre, la période, la personne responsable, la source primaire et la date de mise à jour. Ce dossier est utile si un client pose une question, si un créateur demande un argumentaire ou si vous devez corriger une publication devenue obsolète."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une vérification externe n’est pas indispensable pour chaque petite donnée, mais elle peut être pertinente lorsque la campagne repose sur une promesse majeure, un chiffre élevé ou un sujet sensible. Vous pouvez commencer par une relecture par votre partenaire, votre expert-comptable, un consultant spécialisé ou une association compétente. Selon l’ampleur du travail, comptez de quelques centaines d’euros pour un cadrage ponctuel à plusieurs milliers d’euros pour un accompagnement approfondi; le temps interne de collecte reste souvent le principal coût."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Publiez une page de méthode",
+      "html": "<p>Une page courte, accessible depuis votre profil ou votre espace de marque, peut préciser les définitions, les dates, les partenaires et les limites. La vidéo attire l’attention; cette page permet au client de vérifier sans surcharger le contenu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "formats-tiktok-shop",
+      "text": "Traduisez vos résultats dans les formats TikTok Shop"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur TikTok Shop, le bon réflexe n’est pas de résumer un rapport RSE en quinze secondes. Construisez plutôt un parcours de preuve en trois niveaux: une affirmation très simple dans la vidéo, un fait précis dans la fiche produit ou dans un commentaire épinglé, puis une méthode détaillée accessible à qui souhaite aller plus loin. Les fonctions disponibles pouvant varier selon le pays et le compte vendeur, vérifiez les possibilités de liens, de fiche produit et de diffusion en direct dans votre interface."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons de raconter votre engagement sur TikTok Shop",
+      "a": {
+        "title": "Vidéo émotionnelle seule",
+        "points": [
+          "Montre un atelier, un bénéficiaire ou un geste de solidarité sans contexte.",
+          "Peut générer de l’attention, mais expose à la suspicion de social washing.",
+          "Ne donne pas au client les moyens de vérifier la promesse."
+        ]
+      },
+      "b": {
+        "title": "Récit incarné appuyé par une preuve",
+        "points": [
+          "Montre le partenaire avec son accord et explique son rôle concret.",
+          "Affiche une donnée datée, une limite ou une règle de reversement.",
+          "Renvoie vers la fiche produit, une FAQ ou une page de méthode."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Vidéo produit:</strong> partez d’une question client, puis montrez un élément vérifiable de la chaîne de fabrication ou d’accompagnement.",
+        "<strong>Fiche TikTok Shop:</strong> indiquez le périmètre exact de la promesse, le partenaire concerné, la période et la destination d’un éventuel reversement.",
+        "<strong>Live:</strong> consacrez un moment aux questions sur la production, les critères de choix des partenaires et ce que vos données ne mesurent pas encore.",
+        "<strong>Commentaires:</strong> épinglez une réponse factuelle aux questions récurrentes plutôt que de répondre par des slogans ou des émojis."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Gardez une règle éditoriale utile: une vidéo ne doit pas suggérer davantage que ce que la fiche de preuve permet d’affirmer. Si vous dites « une partie des ventes soutient l’insertion », précisez immédiatement quelle part, sur quel montant, au bénéfice de quelle structure et jusqu’à quelle date. Si le montant varie, expliquez la formule plutôt que d’utiliser un chiffre séduisant mais imprécis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "createurs-regles-publicite",
+      "text": "Encadrez les créateurs et évitez les allégations trompeuses"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les créateurs peuvent rendre votre engagement plus vivant, mais ils ne doivent pas inventer la preuve à votre place. Remettez-leur un brief écrit contenant les formulations autorisées, les chiffres datés, les mots à proscrire et le lien vers votre page de méthode. Demandez une validation préalable des contenus qui évoquent l’impact, les dons, les conditions de travail ou les bénéficiaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, une communication commerciale doit être identifiable comme telle et ne pas induire le consommateur en erreur. Une collaboration rémunérée, un produit offert ou une commission sur les ventes doit donc être signalée de façon claire et immédiatement visible, y compris lors d’un live. Les règles de la plateforme, le droit de la consommation et les recommandations professionnelles évoluent: pour une campagne importante, faites relire le dispositif par un conseil juridique ou un spécialiste de la publicité responsable."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne mettez pas les bénéficiaires en vitrine",
+      "html": "<p>Filmer des salariés, des personnes accompagnées ou des publics vulnérables exige leur accord éclairé, le respect de leur image et une attention à la dignité. Un témoignage n’est jamais une preuve statistique, et une histoire personnelle ne doit pas devenir l’unique justification de votre promesse sociale.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-lancement",
+      "text": "Lancez un pilote mesurable avant de généraliser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne déployez pas immédiatement une grande campagne RSE sur toutes vos références. Choisissez une gamme ou un partenariat où le lien social est documentable, testez vos messages, puis améliorez votre méthode à partir des questions reçues. L’objectif n’est pas d’obtenir une communication parfaite dès le départ, mais de pouvoir corriger honnêtement ce qui doit l’être."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Semaine 1: choisissez une promesse unique",
+          "html": "Retenez un enjeu social directement relié à une gamme ou à une opération, et rédigez une formulation qui ne dépasse pas vos preuves."
+        },
+        {
+          "title": "Semaine 2: rassemblez le dossier de preuve",
+          "html": "Réunissez données brutes, définition de l’indicateur, date, périmètre, accord du partenaire et réponse aux principales objections clients."
+        },
+        {
+          "title": "Semaine 3: produisez trois contenus cohérents",
+          "html": "Préparez une vidéo courte, une fiche produit détaillée et une page de méthode. Vérifiez que les trois disent exactement la même chose."
+        },
+        {
+          "title": "Semaine 4: testez et écoutez",
+          "html": "Publiez sur un échantillon de produits ou une période limitée. Relevez les questions, les incompréhensions et les demandes de justification."
+        },
+        {
+          "title": "Après la campagne: mettez à jour",
+          "html": "Archivez les résultats, rectifiez les informations dépassées et décidez si l’indicateur mérite d’être suivi de nouveau sur une période plus longue."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir pour votre prochaine publication",
+      "html": "<p>Avant de publier, posez-vous quatre questions: quel changement social est décrit, qui en bénéficie, quelle donnée le démontre et où le client peut-il la vérifier? Si l’une des réponses manque, reformulez ou différez la promesse.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment calculer l’impact social d’un produit vendu sur TikTok Shop?",
+      "a": "<p>Commencez par délimiter le produit ou la gamme, puis identifiez le changement social directement lié à sa production, sa distribution ou son usage. Choisissez un indicateur précis, une période et une source de données. Par exemple, pour un partenariat d’insertion, vous pouvez suivre les personnes en parcours, les heures de travail associées et, si le partenaire les mesure, les sorties vers l’emploi ou la formation. Ne présentez pas un résultat observé comme un effet causé uniquement par vos ventes.</p>"
+    },
+    {
+      "q": "Peut-on dire qu’un achat « aide l’emploi » si l’on travaille avec un atelier d’insertion?",
+      "a": "<p>Vous pouvez le dire seulement si vous expliquez ce que recouvre cette aide. Une formulation plus sûre consiste à préciser que la gamme est produite ou conditionnée par un atelier d’insertion partenaire, avec la période et le rôle de ce partenaire. Si une part du prix est reversée, indiquez le pourcentage ou le montant, la base de calcul et le bénéficiaire. Évitez de promettre qu’un achat finance directement un emploi précis sans mécanisme et justificatifs solides.</p>"
+    },
+    {
+      "q": "Quels indicateurs RSE sont les plus crédibles dans une vidéo TikTok?",
+      "a": "<p>Les indicateurs les plus crédibles sont simples à comprendre et faciles à vérifier: nombre de personnes accompagnées sur une période donnée, part des ventes effectivement reversée à une association, nombre de tests d’accessibilité réalisés et améliorations adoptées, ou données agrégées sur un programme de formation. Un chiffre doit toujours être accompagné d’un contexte minimal: périmètre, date et source. Mieux vaut une donnée modeste mais bien expliquée qu’un grand pourcentage sans dénominateur.</p>"
+    },
+    {
+      "q": "Faut-il faire certifier son calcul d’impact social?",
+      "a": "<p>Pas nécessairement pour démarrer. Une petite entreprise peut mettre en place un pilote avec des données traçables, des définitions claires et une validation par ses partenaires. En revanche, une revue externe devient recommandée si l’allégation est au cœur de votre vente, si vous communiquez un impact monétarisé, si la chaîne d’approvisionnement est complexe ou si vous vous adressez à un public sensible. Dans tous les cas, conservez les preuves ayant servi au calcul.</p>"
+    },
+    {
+      "q": "Un créateur TikTok peut-il parler librement de nos engagements RSE?",
+      "a": "<p>Il peut incarner votre message, mais vous devez lui fournir un cadre précis. Donnez-lui les formulations validées, les chiffres à jour, les limites à mentionner et les documents de référence. La nature commerciale de la collaboration doit être clairement signalée lorsqu’il existe une rémunération, un avantage ou une commission. Prévoyez une validation des contenus sensibles afin d’éviter les promesses exagérées, notamment sur les dons, l’emploi, la santé ou les conditions de fabrication.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": 1312,
+  "slug": "peut-on-imprimer-des-objets-translucides-avec-sls",
+  "title": "Peut-on imprimer des objets translucides avec SLS?",
+  "metaTitle": "Objets translucides en SLS: possibilités et limites",
+  "metaDescription": "Peut-on imprimer des objets translucides en SLS? Limites du frittage laser, finitions possibles, matériaux et alternatives réellement adaptées à choisir.",
+  "dek": "Le SLS excelle pour fabriquer des pièces solides, complexes et sans supports, mais il n’est pas la technologie de référence pour obtenir une transparence nette. Voici ce que vous pouvez espérer visuellement, comment concevoir un bon diffuseur lumineux et quand préférer une autre méthode d’impression 3D.",
+  "category": "tech-objets",
+  "tags": [
+    "impression 3D",
+    "SLS",
+    "translucidité",
+    "frittage laser",
+    "matériaux 3D"
+  ],
+  "keyTakeaways": [
+    "Le SLS standard produit surtout des pièces mates, blanches ou colorées, et non des objets transparents.",
+    "Une faible diffusion lumineuse est possible avec des parois fines, mais elle ne permet pas de voir nettement à travers la pièce.",
+    "Le SLS est un excellent choix pour un diffuseur LED robuste, pas pour une lentille ou un boîtier cristallin.",
+    "Le ponçage, le lissage et les vernis améliorent la surface sans supprimer durablement l’opacité interne.",
+    "Pour un rendu clair, privilégiez une résine transparente SLA/DLP ou, selon le projet, un filament transparent bien imprimé."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une pièce qui laisse passer la lumière n’est pas forcément transparente: elle peut aussi la diffuser, la brouiller ou la teinter. Avec le frittage sélectif par laser, ou SLS, cette nuance est décisive. Vous pouvez concevoir des objets à l’aspect légèrement translucide ou de bons diffuseurs lumineux, mais obtenir une transparence comparable au verre ou au plexiglas reste, dans la pratique, hors de portée des poudres SLS usuelles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reponse-courte-sur-la-translucidite-en-sls",
+      "text": "La réponse courte: oui pour diffuser la lumière, non pour une transparence nette"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le SLS fabrique une pièce en déposant de fines couches de poudre polymère, puis en les agglomérant localement au laser. Le matériau le plus courant est le polyamide 12, souvent appelé PA12 ou nylon 12. À la sortie de machine, il donne généralement une surface blanche à gris clair, légèrement granuleuse et mate. La lumière peut parfois traverser une zone très fine, en particulier au bord d’une pièce, mais elle est fortement dispersée: vous ne verrez ni texte ni détails nets à travers l’objet."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut donc séparer trois objectifs. Un <strong>objet transparent</strong> laisse voir clairement à travers lui. Un <strong>objet translucide</strong> laisse passer une partie de la lumière, mais brouille les formes. Un <strong>diffuseur</strong> est conçu pour répartir une lumière de façon uniforme, ce qui est précisément un usage où la diffusion du SLS peut devenir un atout."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Compatible avec le SLS:</strong> cache de LED, abat-jour compact, signalétique lumineuse, boîtier laissant deviner un voyant, pièce décorative à effet opalin.",
+        "<strong>Peu réaliste en SLS standard:</strong> hublot transparent, flacon dont on lit le contenu, lentille, guide de lumière précis ou pièce imitant une vitre.",
+        "<strong>À ne pas confondre:</strong> une finition brillante peut sembler plus élégante, mais elle ne rend pas le cœur de la matière transparent."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le SLS peut produire un <strong>rendu laiteux ou diffusant</strong>, surtout avec une pièce fine et de couleur claire. Il ne produit pas spontanément un rendu optique clair.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-sls-diffuse-la-lumiere",
+      "text": "Pourquoi le procédé SLS rend les pièces opaques"
+    },
+    {
+      "type": "paragraph",
+      "html": "La transparence exige une matière homogène et une surface très lisse. Or, une pièce SLS conserve à l’échelle microscopique des interfaces entre les grains de poudre fusionnés et de minuscules irrégularités. Chaque changement de densité ou d’orientation fait dévier la lumière. La surface extérieure, naturellement poudreuse avant traitement, ajoute encore de la diffusion. Même si vous polissez la peau de l’objet, les microstructures présentes dans son épaisseur continuent de brouiller le passage lumineux."
+    },
+    {
+      "type": "paragraph",
+      "html": "La teinte joue aussi un rôle. Un PA12 naturel, non teint, offre le meilleur point de départ pour une pièce lumineuse. Une teinture noire ou foncée absorbe presque toute la lumière; une couleur vive limite également sa transmission. Les poudres de TPU, plus souples, et la plupart des poudres chargées ou renforcées ne visent pas un effet translucide. Certains polypropylènes SLS ou matériaux spéciaux peuvent laisser passer davantage de lumière sur une faible épaisseur, mais leur rendu dépend fortement de la machine, du fournisseur et de la géométrie: demandez toujours un échantillon réel."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "0,08 à 0,15 mm",
+          "label": "ordre de grandeur fréquent pour une couche SLS, selon la machine et le matériau"
+        },
+        {
+          "value": "~0,8 à 1,5 mm",
+          "label": "épaisseur minimale souvent envisagée pour une paroi fonctionnelle, à valider selon la forme"
+        },
+        {
+          "value": "1 à 3 mm",
+          "label": "plage utile à tester pour rechercher un effet de diffusion lumineuse"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un critère technique à formuler",
+      "html": "<p>Au lieu de demander une pièce « transparente », indiquez votre besoin réel: voir un voyant allumé, homogénéiser une LED, laisser deviner une couleur, ou lire à travers une paroi. Le prestataire pourra alors orienter le matériau et les essais.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "resultat-visuel-attendu-selon-le-projet",
+      "text": "Quel résultat visuel pouvez-vous réellement attendre?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’épaisseur de la paroi, la couleur, la géométrie intérieure et la finition déterminent davantage le résultat que le seul mot « SLS ». Une coque de 3 mm avec des nervures internes apparaîtra nettement plus opaque qu’une calotte régulière de 1 mm. Une LED très puissante derrière une fine paroi blanche donnera un halo visible; la même LED derrière une paroi noire ne sera presque pas perceptible. Voici une grille simple pour éviter une attente déçue."
+    },
+    {
+      "type": "table",
+      "caption": "Ce que le SLS permet selon l’effet recherché",
+      "headers": [
+        "Objectif visuel",
+        "Résultat plausible en SLS",
+        "Solution la plus adaptée"
+      ],
+      "rows": [
+        [
+          "Éclairer sans point lumineux agressif",
+          "Très bon: rendu opalin et diffus",
+          "PA12 naturel ou clair, paroi régulière"
+        ],
+        [
+          "Voir qu’un voyant est allumé",
+          "Possible, surtout avec une zone fine et claire",
+          "Prototype avec la LED définitive"
+        ],
+        [
+          "Distinguer vaguement une couleur ou une silhouette",
+          "Parfois possible, mais peu reproductible",
+          "Paroi fine, sans nervures ni teinture foncée"
+        ],
+        [
+          "Lire un texte ou observer un contenu",
+          "Non adapté: l’image sera brouillée",
+          "Résine transparente SLA/DLP ou plaque transparente rapportée"
+        ],
+        [
+          "Fabriquer une lentille ou un élément optique",
+          "Non adapté",
+          "Procédé optique spécialisé, usinage ou moulage"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne validez pas un projet sur une photo de pièce rétroéclairée. Un objet peut paraître lumineux face à une source intense tout en restant entièrement opaque en lumière ambiante ou lorsqu’il faut regarder à travers.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "finitions-sls-pour-ameliorer-le-rendu",
+      "text": "Les finitions peuvent-elles améliorer la translucence?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les traitements de post-production améliorent l’aspect et le toucher, mais ils ne transforment pas du PA12 SLS en verre. Le microbillage ou le polissage mécanique uniformisent la surface; ils donnent souvent un rendu encore plus propre et homogène, utile pour un diffuseur. Le lissage chimique ou à la vapeur, proposé par certains professionnels pour des matériaux compatibles, peut refermer une partie des aspérités externes et rendre la pièce moins poreuse. Il améliore la brillance et le nettoyage, sans éliminer la diffusion interne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un vernis transparent, une résine d’enrobage ou une infiltration peuvent remplir certaines irrégularités de surface. Le gain de transmission est généralement limité, tandis que les risques sont réels: jaunissement avec le temps, zones irrégulières, coulures, modification des cotes, fragilisation locale ou incompatibilité avec la poudre. Les teintures sont intéressantes pour l’esthétique, mais elles absorbent davantage de lumière. Pour une pièce électronique, vérifiez également l’échauffement des LED et l’absence d’émissions gênantes du revêtement choisi."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de conception",
+      "html": "<p>Si vous visez un bel effet lumineux, demandez plutôt une finition <strong>uniforme et satinée</strong> qu’une finition transparente. C’est un objectif que le SLS atteint bien mieux et de façon plus répétable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sls-ou-autre-technologie-pour-un-objet-transparent",
+      "text": "SLS, résine transparente ou filament: quelle technologie choisir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix dépend de la fonction avant tout. Le SLS est particulièrement pertinent pour une forme complexe, une petite série de pièces robustes, des charnières souples intégrées ou un boîtier sans supports d’impression. La stéréolithographie, SLA ou DLP, est préférée lorsque la clarté visuelle compte: des résines transparentes existent et leur surface peut être polie ou vernie pour gagner en netteté. Elles demandent en revanche lavage, post-polymérisation et une attention à la tenue aux chocs, aux UV et au vieillissement selon la résine."
+    },
+    {
+      "type": "compare",
+      "title": "Pour un boîtier lumineux: SLS diffusant ou résine transparente?",
+      "a": {
+        "title": "SLS en PA12 clair",
+        "points": [
+          "Robuste, adapté aux formes complexes et aux petites séries.",
+          "Aspect mat ou satiné, diffusion naturellement homogène.",
+          "Bon choix pour masquer les LED tout en laissant passer leur lumière.",
+          "Ne permet pas de voir nettement les composants placés derrière."
+        ]
+      },
+      "b": {
+        "title": "SLA/DLP avec résine transparente",
+        "points": [
+          "Meilleure base pour voir à travers une paroi.",
+          "Finition, lavage et polissage déterminants pour la clarté finale.",
+          "Plus sensible aux rayures et parfois au jaunissement selon le produit.",
+          "À tester si la pièce doit rester transparente dans le temps."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "L’impression FDM avec un PETG, un polycarbonate ou un autre filament transparent peut également convenir à un projet économique ou volumineux. Mais les lignes de dépôt et les bulles d’air compliquent elles aussi la transparence; il faut des réglages soignés, une forme simple et souvent un post-traitement. Pour une fenêtre réellement limpide, une plaque en PMMA ou polycarbonate découpée puis intégrée dans une pièce SLS est souvent la solution la plus fiable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "concevoir-un-diffuseur-lumineux-en-sls",
+      "text": "Comment concevoir une pièce SLS qui diffuse bien la lumière"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le SLS devient intéressant dès lors que vous acceptez, ou recherchez, la diffusion. Un bon diffuseur évite les zones trop minces, les ombres causées par les nervures et le point lumineux très marqué d’une LED. Il doit être pensé avec sa source lumineuse, pas seulement modélisé comme une coque décorative. La couleur naturelle ou blanche reste la plus prévisible; la distance entre la LED et la paroi a autant d’importance que la matière elle-même."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Définissez l’effet attendu",
+          "html": "Écrivez une phrase testable: « le voyant doit être visible sans éblouir » ou « la face avant doit émettre une lumière uniforme ». Évitez le cahier des charges vague « translucide »."
+        },
+        {
+          "title": "Réalisez des éprouvettes simples",
+          "html": "Faites imprimer de petits carrés ou dômes avec plusieurs épaisseurs, par exemple 1, 2 et 3 mm. Utilisez le même matériau et la même finition que pour la pièce finale."
+        },
+        {
+          "title": "Testez avec l’éclairage définitif",
+          "html": "Placez les éprouvettes devant les LED, avec leur alimentation et leur diffuseur éventuel. Observez-les dans une pièce sombre puis en plein éclairage ambiant."
+        },
+        {
+          "title": "Simplifiez la zone lumineuse",
+          "html": "Conservez une épaisseur régulière, éloignez les renforts de la face éclairée, prévoyez des rayons plutôt que des cassures nettes et évitez les textures profondes qui créent des ombres."
+        },
+        {
+          "title": "Validez un échantillon avant la série",
+          "html": "Demandez au service SLS le matériau exact, sa finition, sa couleur et les tolérances prévues. Une photo ne remplace pas un prototype manipulé dans vos conditions d’usage."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à la chaleur",
+      "html": "<p>Une paroi diffuse peut masquer une LED, mais elle ne dissipe pas sa chaleur. Prévoyez une ventilation, un dissipateur ou une puissance adaptée si le boîtier est fermé et utilisé longtemps.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-delais-et-demande-de-devis",
+      "text": "Budget, délais et questions à poser au prestataire"
+    },
+    {
+      "type": "paragraph",
+      "html": "En impression SLS à la demande, le prix dépend surtout du volume de matière, de l’encombrement dans le bac, de la finition et de la quantité commandée. Pour un petit prototype, comptez souvent quelques dizaines d’euros, auxquels peuvent s’ajouter les frais de préparation ou de finition; une grande pièce, une géométrie volumineuse ou une série d’essais peut vite représenter plusieurs centaines d’euros. L’intérêt du SLS grandit pour des séries de pièces complexes, car plusieurs objets peuvent être regroupés dans le même cycle sans supports individuels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un projet lumineux, prévoyez un budget d’essais distinct de la production finale. Demandez si le prestataire fournit des nuanciers ou des échantillons de parois fines, si le PA12 proposé est naturel ou teint, si une finition de lissage est disponible et si elle change les dimensions. Précisez aussi que la pièce doit être évaluée sous éclairage: un fournisseur sérieux ne promettra pas une transparence optique avec un nylon SLS conventionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-solution-pour-votre-projet",
+      "text": "Passez à l’action: choisissez le rendu avant de choisir le procédé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre priorité est un objet solide, léger, complexe et lumineux, le SLS reste une très bonne option: concevez-le comme un diffuseur et testez quelques épaisseurs en PA12 naturel. Si vous devez lire à travers la paroi, montrer le contenu d’un réservoir ou créer une pièce visuellement cristalline, partez plutôt sur une résine claire SLA/DLP, une pièce usinée ou une fenêtre transparente ajoutée à votre assemblage."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Pour un <strong>voyant LED discret</strong>: SLS clair, paroi homogène et prototype sous éclairage réel.",
+        "Pour une <strong>lumière douce et uniforme</strong>: SLS, éventuellement avec une géométrie interne pensée pour éloigner la source.",
+        "Pour une <strong>vision à travers la pièce</strong>: résine transparente, PMMA, polycarbonate ou verre selon les contraintes.",
+        "Pour une <strong>solution durable</strong>: validez aussi les rayures, les UV, les produits de nettoyage et la chaleur, pas seulement l’apparence à la réception."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Commandez d’abord une petite planche d’essais avec trois épaisseurs et la finition envisagée. C’est le moyen le moins coûteux de vérifier si votre « translucide » signifie en réalité « diffusant », « lumineux » ou « transparent ».</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on imprimer une bouteille transparente en SLS?",
+      "a": "<p>Pas avec un niveau de clarté permettant de voir facilement le liquide ou de lire une étiquette à travers la paroi. Une bouteille SLS peut être étanche après un traitement adapté, mais le PA12 standard gardera un aspect mat et opaque ou, au mieux, diffusant sur les zones très fines. Pour visualiser un contenu, prévoyez plutôt une fenêtre en matériau transparent rapportée.</p>"
+    },
+    {
+      "q": "Le ponçage d’une pièce SLS la rend-il transparente?",
+      "a": "<p>Non. Le ponçage peut réduire le grain extérieur et améliorer l’aspect de la pièce, mais il ne supprime pas les microstructures qui diffusent la lumière dans l’épaisseur du matériau. Un polissage ou un lissage professionnel peut donner une surface plus brillante et plus facile à nettoyer, sans transformer un nylon SLS en matériau optiquement transparent.</p>"
+    },
+    {
+      "q": "Quelle épaisseur choisir pour une pièce SLS translucide?",
+      "a": "<p>Il n’existe pas d’épaisseur universelle, car le résultat dépend du matériau exact, de la finition, de la couleur et de la puissance lumineuse placée derrière. Pour un diffuseur, des essais entre environ 1 et 3 mm constituent un point de départ raisonnable. Imprimez plusieurs éprouvettes à épaisseurs différentes et testez-les avec la source LED finale, y compris en lumière ambiante.</p>"
+    },
+    {
+      "q": "Peut-on teindre une pièce SLS tout en gardant un effet lumineux?",
+      "a": "<p>Oui, mais la teinture réduit généralement la quantité de lumière transmise. Les couleurs très claires peuvent conserver un effet lumineux décoratif; les teintes saturées filtrent la lumière et les couleurs sombres l’absorbent presque totalement. Si l’objectif est de signaler un état par une LED, testez la couleur choisie avant de lancer toute la série.</p>"
+    },
+    {
+      "q": "Le MJF est-il plus transparent que le SLS?",
+      "a": "<p>Le Multi Jet Fusion, ou MJF, est lui aussi un procédé à base de poudre polymère. Ses pièces présentent souvent un aspect et une porosité différents selon les finitions, mais ce n’est pas une voie habituelle vers la transparence optique. Comme en SLS, il peut être pertinent pour des boîtiers robustes et des effets diffusants, mais pas pour remplacer une vitre, une lentille ou une résine claire bien finie.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

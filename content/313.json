@@ -1,0 +1,334 @@
+{
+  "id": 313,
+  "slug": "comprendre-le-marquage-au-sol-du-code-de-la-route-pour-une-conduite-securisee",
+  "title": "Comprendre le marquage au sol du code de la route pour une conduite sécurisée",
+  "metaTitle": "Marquage au sol: les règles pour conduire en sécurité",
+  "metaDescription": "Lignes continues, zébras, flèches, couleurs et stationnement: apprenez à lire le marquage au sol pour rouler en sécurité et éviter les risques courants.",
+  "dek": "Les lignes peintes sur la chaussée ne sont pas de simples repères visuels: elles organisent les trajectoires, les priorités et les espaces réservés. Voici comment les interpréter correctement, y compris quand la route devient complexe ou que le marquage est temporaire.",
+  "category": "auto-mobilite",
+  "tags": [
+    "code de la route",
+    "marquage au sol",
+    "sécurité routière",
+    "conduite",
+    "stationnement"
+  ],
+  "keyTakeaways": [
+    "Une ligne discontinue autorise le franchissement seulement si la manœuvre est sûre.",
+    "Une ligne continue ne se franchit ni ne se chevauche, sauf exceptions très encadrées.",
+    "Le marquage jaune temporaire prévaut généralement sur le marquage blanc permanent.",
+    "Les flèches, zébras et pictogrammes indiquent des trajectoires ou voies à respecter.",
+    "En cas de doute, ralentissez et observez aussi les panneaux, feux et autres usagers."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Ligne continue, zébras, flèche de rabattement, bande cyclable ou ligne jaune: le marquage au sol donne des consignes parfois décisives en quelques mètres. Bien le lire permet d’anticiper, d’éviter une manœuvre interdite et de mieux protéger les piétons, cyclistes et automobilistes. Voici les repères utiles pour circuler sereinement sur les routes françaises."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-marquage-au-sol-est-essentiel",
+      "text": "Pourquoi le marquage au sol est essentiel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le marquage au sol complète la signalisation verticale. Il sert à séparer les sens de circulation, organiser les voies, annoncer une intersection, protéger une traversée piétonne ou réserver un espace à certains véhicules. Sa force est d’être visible dans l’axe de conduite: il vous renseigne au moment précis où vous devez choisir votre trajectoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne se lit jamais isolément. Une ligne au sol doit être rapprochée des panneaux, des feux, du sens de circulation, de la configuration des lieux et des usagers présents. Un agent qui règle la circulation prévaut toujours sur les autres indications. De même, une signalisation de chantier ou un feu en fonctionnement peut modifier ce que suggère l’aménagement habituel de la route."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Le marquage indique une règle ou une organisation, mais il ne rend jamais une manœuvre automatiquement sûre. Avant de changer de voie, dépasser ou tourner, contrôlez systématiquement la visibilité, les rétroviseurs, l’angle mort et l’allure des autres usagers.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "lignes-longitudinales-continues-discontinues",
+      "text": "Lignes continues et discontinues: ce qu’elles vous autorisent vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les lignes longitudinales suivent le sens de la route. Elles peuvent séparer deux sens de circulation, deux voies allant dans le même sens ou la chaussée de ses accotements. Leur aspect compte autant que leur emplacement: une ligne discontinue et une ligne continue n’imposent pas les mêmes décisions."
+    },
+    {
+      "type": "table",
+      "caption": "Lire les principaux marquages longitudinaux",
+      "headers": [
+        "Marquage",
+        "Ce qu’il signale",
+        "Votre conduite"
+      ],
+      "rows": [
+        [
+          "Ligne discontinue",
+          "Séparation franchissable entre voies ou sens de circulation",
+          "Vous pouvez la franchir si la manœuvre est autorisée, visible et sans danger."
+        ],
+        [
+          "Ligne continue",
+          "Séparation à ne pas franchir",
+          "Ne la franchissez pas et ne roulez pas à cheval dessus, hors exception réglementaire."
+        ],
+        [
+          "Ligne mixte",
+          "Une ligne continue accolée à une discontinue",
+          "Observez la ligne située de votre côté: discontinue, elle peut être franchie; continue, elle ne le peut pas."
+        ],
+        [
+          "Ligne discontinue rapprochée",
+          "Annonce fréquente d’une ligne continue ou d’une zone à risque",
+          "N’engagez pas de dépassement: préparez-vous à rester ou à vous rabattre sur votre voie."
+        ],
+        [
+          "Ligne de rive",
+          "Limite de la chaussée circulable ou de la voie",
+          "Ne l’utilisez pas comme une voie supplémentaire; restez attentif aux accotements, pistes et bandes d’arrêt."
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Ligne discontinue ou ligne continue: la différence à retenir",
+      "a": {
+        "title": "Ligne discontinue",
+        "points": [
+          "Elle permet un changement de voie ou un dépassement lorsque les autres règles le permettent.",
+          "Elle ne dispense ni de contrôler la visibilité ni de respecter les distances et limitations de vitesse.",
+          "Elle peut devenir infranchissable de fait à l’approche d’un virage, d’un sommet de côte ou d’une intersection."
+        ]
+      },
+      "b": {
+        "title": "Ligne continue",
+        "points": [
+          "Elle interdit en principe le franchissement et le chevauchement.",
+          "Elle vous impose d’anticiper: un dépassement commencé trop tard peut vous placer face à cette interdiction.",
+          "Certaines exceptions légales existent, notamment dans des circonstances très spécifiques comme le dépassement d’un cycle lorsque toutes les conditions de sécurité sont réunies."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~3 m",
+          "label": "longueur usuelle d’un trait de ligne discontinue courante"
+        },
+        {
+          "value": "~10 m",
+          "label": "intervalle usuel entre deux traits d’une ligne discontinue courante"
+        },
+        {
+          "value": "135 €",
+          "label": "montant habituel de l’amende forfaitaire pour le franchissement d’une ligne continue"
+        },
+        {
+          "value": "3 points",
+          "label": "retrait généralement encouru lors du franchissement d’une ligne continue"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les dimensions servent surtout de repères: une succession de traits très rapprochés attire l’attention sur un changement imminent. N’attendez pas la ligne continue pour renoncer à dépasser. Une flèche de rabattement, souvent placée avant cette ligne, vous avertit précisément qu’il est temps de regagner votre voie."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Voir une ligne discontinue ne signifie pas « dépassement libre ». Un dépassement reste interdit ou dangereux s’il manque de visibilité, si vous approchez d’un passage à niveau, d’un virage, d’un sommet de côte, d’une intersection ou si la vitesse des véhicules ne permet pas de le terminer largement à temps.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "lignes-transversales-priorites-et-pietons",
+      "text": "Lignes transversales: stop, cédez-le-passage et passages piétons"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les lignes tracées en travers de votre voie matérialisent souvent une obligation à l’approche d’une intersection. La ligne continue associée au panneau STOP est une ligne d’arrêt: vous devez immobiliser le véhicule avant cette ligne, même si la chaussée paraît libre. Si la visibilité est mauvaise, avancez ensuite prudemment pour contrôler sans empiéter sur la zone dangereuse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au cédez-le-passage, la ligne transversale discontinue, fréquemment accompagnée de triangles au sol, marque l’endroit où vous devez laisser passer les usagers prioritaires. L’arrêt n’est pas systématique comme au STOP, mais il devient obligatoire si la circulation l’exige. Ne vous avancez pas au hasard: arrêtez-vous avant de gêner la voie prioritaire ou le passage d’un piéton."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les larges bandes blanches parallèles signalent un passage piéton. À son approche, adaptez votre vitesse et soyez prêt à céder le passage à toute personne engagée ou manifestant clairement son intention de traverser. Ne vous arrêtez jamais sur les bandes. En règle générale, l’arrêt et le stationnement sont également interdits sur le passage et dans les cinq mètres qui le précèdent dans le sens de la circulation, sauf emplacement matérialisé."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Visibilité des piétons",
+      "html": "<p>Un véhicule garé juste avant un passage piéton masque particulièrement les enfants et les personnes de petite taille. L’interdiction à l’amont du passage n’est pas un simple détail administratif: elle préserve le champ de vision réciproque entre conducteur et piéton.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "fleches-zebras-et-voies-reservees",
+      "text": "Flèches, zébras et pictogrammes: choisir la bonne trajectoire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les flèches au sol servent à affecter une voie à une direction. Une flèche tout droit et une flèche vers la droite signifient par exemple que la voie peut servir à l’une ou l’autre de ces directions; une flèche unique impose la direction annoncée. Observez-les assez tôt, notamment dans les carrefours urbains, afin de ne pas couper plusieurs voies au dernier moment."
+    },
+    {
+      "type": "paragraph",
+      "html": "La flèche de rabattement n’est pas une indication de virage: elle annonce généralement la fin prochaine d’une possibilité de dépassement, souvent avant une ligne continue. Si vous êtes en train de dépasser, elle vous invite à vous rabattre dès que vous pouvez le faire sans gêner. Mieux vaut renoncer à une manœuvre que tenter de la finir en accélérant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les zones zébrées, faites de hachures obliques, canalisent les flux à une séparation de chaussées, à une bretelle ou devant un îlot. Elles ne constituent pas une voie de circulation et ne sont pas un raccourci pour remonter une file. Évitez aussi de vous y arrêter, sauf nécessité absolue liée à la circulation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, un pictogramme au sol identifie une voie ou un emplacement réservé: vélo, bus, taxi, covoiturage selon la signalisation locale, ou personne à mobilité réduite. Le symbole doit être lu avec le panneau éventuellement associé. Une bande ou piste cyclable, par exemple, n’est pas une file d’attente pour les voitures, même lors d’un embouteillage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "couleurs-et-marquages-temporaires",
+      "text": "Blanc, jaune, bleu: comprendre le rôle des couleurs"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, le blanc est la couleur habituelle des marquages permanents: voies, lignes de rive, passages piétons, flèches et emplacements. Le jaune attire l’attention sur un régime temporaire ou sur certaines interdictions liées au stationnement. Sur un chantier, les lignes jaunes temporaires priment généralement sur les anciennes lignes blanches lorsqu’elles se contredisent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une ligne jaune continue le long d’un trottoir ou du bord de chaussée indique habituellement une interdiction de s’arrêter et de stationner. Une ligne jaune discontinue signifie en principe que le stationnement est interdit, tandis qu’un arrêt bref peut rester possible s’il ne gêne pas la circulation et si aucun autre signal ne l’interdit. Vérifiez toujours le panneau: il peut préciser des jours, des horaires, une zone de livraison ou une restriction plus stricte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bleu est notamment associé à certaines zones de stationnement réglementé, historiquement les zones bleues à durée limitée avec disque. Mais les règles de paiement, de durée ou d’autorisation ne se déduisent pas de la seule couleur de la peinture: les horodateurs, panneaux et informations municipales font foi. Un emplacement portant le pictogramme fauteuil roulant est réservé aux détenteurs de l’autorisation requise."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Sur un chantier",
+      "html": "<p>Réduisez votre allure dès les premiers cônes ou panneaux. Les voies peuvent être décalées, rétrécies ou inversées; cherchez les lignes récentes et les flèches de guidage plutôt que les traces blanches anciennes, parfois encore partiellement visibles.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "marquage-efface-pluie-nuit",
+      "text": "Que faire si le marquage est effacé, mouillé ou difficile à voir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous une forte pluie, de nuit ou sur une chaussée usée, les lignes réfléchissent moins bien et peuvent disparaître derrière les projections d’eau. Vous ne devez pas compenser ce manque de visibilité par une conduite « au souvenir » de la route. Ralentissez, augmentez vos distances, regardez plus loin et utilisez les repères disponibles: panneaux, balises, bordures, feux, véhicules devant vous et largeur de la chaussée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un marquage dégradé n’autorise pas à ignorer les règles. Si vous savez qu’une route comporte habituellement deux sens de circulation, ne vous déportez pas sous prétexte que la ligne médiane est peu visible. En cas d’incertitude dans un carrefour complexe, renoncez à vous engager, refaites un tour si nécessaire ou choisissez une trajectoire simple et légale."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "La nuit, ajustez votre vitesse à la portion réellement éclairée par vos feux.",
+        "Par temps de pluie, évitez les changements de voie brusques: les marquages peuvent devenir glissants pour les deux-roues.",
+        "À l’approche d’une école, d’un arrêt de bus ou d’un passage piéton, supposez qu’un usager peut surgir derrière un obstacle.",
+        "Si les lignes sont masquées par la neige ou la boue, fiez-vous d’abord à la signalisation et à la prudence."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "infractions-et-erreurs-a-eviter",
+      "text": "Infractions et erreurs à éviter au quotidien"
+    },
+    {
+      "type": "paragraph",
+      "html": "La faute la plus connue est le franchissement d’une ligne continue. Elle est habituellement sanctionnée par une contravention de quatrième classe, avec une amende forfaitaire de 135 euros et un retrait de trois points. Le simple chevauchement peut également être verbalisé et entraîner un retrait de point. Au-delà de la sanction, cette ligne se trouve souvent là où la visibilité est insuffisante ou le risque de collision frontale élevé."
+    },
+    {
+      "type": "paragraph",
+      "html": "D’autres comportements sont tout aussi problématiques: utiliser une voie réservée pour gagner quelques secondes, s’immobiliser sur une zone zébrée, couper une voie de tourne-à-droite depuis une file tout droit, ou stationner au voisinage immédiat d’un passage piéton. Ces gestes perturbent la lecture de la route par les autres et créent des angles morts inutiles."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas vitesse et anticipation",
+      "html": "<p>Le changement de voie au dernier moment est rarement un gain de temps et souvent une source de danger. Si vous avez manqué votre file ou votre sortie, poursuivez votre route et faites demi-tour ou empruntez l’itinéraire suivant lorsque cela est permis.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-pour-lire-le-marquage-au-sol",
+      "text": "Une méthode simple pour lire le marquage et agir sans stress"
+    },
+    {
+      "type": "paragraph",
+      "html": "La conduite sûre repose moins sur la mémorisation d’un dessin isolé que sur une observation précoce. Dès que la chaussée se complexifie, appliquez une routine courte. Elle vous évite de découvrir une flèche, une ligne continue ou une voie réservée lorsque vous n’avez plus le temps de vous placer correctement."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Regardez loin devant",
+          "html": "Repérez les lignes qui se resserrent, les flèches, les zébras et les panneaux avant d’arriver au carrefour ou à la zone de travaux."
+        },
+        {
+          "title": "Identifiez votre voie",
+          "html": "Demandez-vous si elle est destinée à aller tout droit, tourner, s’insérer ou laisser place à un autre type d’usager."
+        },
+        {
+          "title": "Cherchez la contrainte",
+          "html": "Ligne continue, cédez-le-passage, passage piéton, voie réservée ou marquage jaune: l’élément le plus contraignant guide votre décision."
+        },
+        {
+          "title": "Contrôlez avant toute manœuvre",
+          "html": "Rétroviseurs, angle mort, clignotant, vitesse et distance doivent être vérifiés avant de franchir une ligne discontinue ou de changer de file."
+        },
+        {
+          "title": "Renoncez si la situation reste ambiguë",
+          "html": "Restez dans votre voie, ralentissez et prenez l’option suivante. Une manœuvre reportée est presque toujours préférable à une trajectoire forcée."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À mettre en pratique",
+      "html": "<p>Lors de vos prochains trajets, entraînez-vous à annoncer mentalement ce que vous voyez: « ligne d’annonce », « flèche tout droit », « passage piéton », « voie vélo ». Cette lecture active améliore rapidement l’anticipation et réduit les décisions tardives.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on franchir une ligne continue pour dépasser un cycliste?",
+      "a": "<p>Dans certaines situations, le dépassement d’un cycle peut justifier le franchissement ou le chevauchement d’une ligne continue, à condition que toutes les conditions réglementaires et de sécurité soient réunies. Vous devez notamment disposer d’une visibilité suffisante, pouvoir respecter l’écart latéral nécessaire et ne créer aucun danger pour les usagers venant en face. En cas de doute, attendez: cette exception ne transforme pas une route sans visibilité en zone de dépassement.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre une ligne jaune continue et discontinue sur le trottoir?",
+      "a": "<p>Le long du bord de chaussée, une ligne jaune continue indique généralement que l’arrêt et le stationnement sont interdits. Une ligne jaune discontinue interdit en principe le stationnement, mais peut permettre un arrêt très bref s’il ne gêne pas et si aucun panneau ne l’interdit. Les panneaux de zone, les horaires affichés et les marquages de livraison peuvent toutefois compléter ou durcir cette règle.</p>"
+    },
+    {
+      "q": "Les lignes jaunes de chantier sont-elles prioritaires sur les lignes blanches?",
+      "a": "<p>Oui, dans une zone de travaux, le marquage jaune temporaire prévaut habituellement lorsqu’il contredit le marquage blanc permanent. Suivez aussi les cônes, balises, panneaux temporaires et flèches lumineuses. La bonne méthode consiste à rechercher le cheminement le plus récent et le plus clairement signalé, sans vous laisser guider par les anciennes lignes encore visibles.</p>"
+    },
+    {
+      "q": "Ai-je le droit de rouler sur une zone zébrée pour éviter les bouchons?",
+      "a": "<p>Non. Une zone zébrée sert à séparer et canaliser les flux, notamment près d’une sortie, d’un îlot ou d’une voie d’insertion. Elle n’est pas destinée à la circulation courante ni au stationnement. L’emprunter pour remonter une file déstabilise les autres conducteurs et peut gêner une manœuvre ou un accès de secours.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement s’arrêter à la ligne d’un cédez-le-passage?",
+      "a": "<p>Non, contrairement au STOP, le cédez-le-passage n’impose pas un arrêt systématique. Vous devez toutefois ralentir, vérifier que la voie est libre et vous arrêter avant la ligne si un usager prioritaire arrive ou si la visibilité ne permet pas de vous engager en sécurité. L’obligation est de céder le passage, pas de marquer un arrêt symbolique lorsque la route est parfaitement libre.</p>"
+    },
+    {
+      "q": "Que faire si je me retrouve dans la mauvaise voie indiquée par une flèche au sol?",
+      "a": "<p>Suivez la direction indiquée par votre voie, même si elle ne correspond plus à votre itinéraire. Ne coupez pas une ligne continue, ne traversez pas une zone zébrée et ne forcez pas le passage dans la file voisine. Continuez dans la direction imposée, puis utilisez le prochain itinéraire autorisé pour revenir sur votre trajet. Cette solution est plus sûre, plus légale et souvent moins pénalisante qu’une manœuvre précipitée.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

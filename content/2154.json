@@ -1,0 +1,341 @@
+{
+  "id": 2154,
+  "slug": "circuit-touristique-guadeloupe",
+  "title": "Circuit touristique en Guadeloupe : partez à la découverte des joyaux de l’île",
+  "metaTitle": "Circuit touristique en Guadeloupe: itinéraires et conseils",
+  "metaDescription": "Organisez un circuit touristique en Guadeloupe: itinéraires, étapes, budget, voiture, îles et conseils pratiques pour voyager sereinement dès le départ.",
+  "dek": "La Guadeloupe ne se résume pas à une plage: c’est un archipel où forêt tropicale, falaises, villages créoles et fonds marins se découvrent à des rythmes différents. Voici comment construire un circuit cohérent, adapté à votre temps, votre budget et vos envies.",
+  "category": "voyage-evasion",
+  "tags": [
+    "Guadeloupe",
+    "circuit touristique",
+    "Caraïbes",
+    "itinéraire",
+    "voyage en famille",
+    "location de voiture"
+  ],
+  "keyTakeaways": [
+    "Prévoyez au moins sept jours pour relier Grande-Terre et Basse-Terre sans courir.",
+    "Une voiture est presque indispensable sur les deux grandes ailes de l’archipel.",
+    "Les Saintes, Marie-Galante et La Désirade méritent d’être choisies, pas ajoutées à toute vitesse.",
+    "Alternez plages, randonnée, culture et temps de route pour garder un circuit agréable.",
+    "Réservez voiture, hébergements et traversées maritimes tôt pour les périodes les plus demandées."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un circuit touristique en Guadeloupe réussit rarement lorsqu’il cherche à tout voir en quelques jours. Entre les deux grandes ailes de l’archipel, les îles accessibles en bateau et des routes parfois lentes, le bon choix consiste à construire un itinéraire réaliste. Vous pourrez ainsi profiter autant des plages que des marchés, des cascades que des rencontres locales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-larchipel-guadeloupeen",
+      "text": "Comprendre l’archipel avant de tracer votre circuit"
+    },
+    {
+      "type": "paragraph",
+      "html": "On parle souvent de « l’île de Guadeloupe », mais la destination est un archipel. Les deux territoires principaux, reliés par un étroit bras de mer, ont des atmosphères très différentes: <strong>Grande-Terre</strong>, plus sèche et relativement plate, concentre de belles plages, les stations balnéaires et des paysages côtiers ouverts; <strong>Basse-Terre</strong>, plus montagneuse et humide, abrite forêt tropicale, chutes d’eau, plantations et le massif de la Soufrière. Ne confondez pas Basse-Terre, l’aile occidentale de l’île principale, avec la ville de Basse-Terre, située au sud."
+    },
+    {
+      "type": "table",
+      "caption": "Les grandes étapes à privilégier selon vos envies",
+      "headers": [
+        "Zone",
+        "Ce que vous y trouverez",
+        "Pour quel type de voyageur"
+      ],
+      "rows": [
+        [
+          "Grande-Terre",
+          "Plages de Sainte-Anne et Saint-François, Pointe des Châteaux, marchés, falaises et lagons",
+          "Premier séjour, baignade, famille, road trip facile"
+        ],
+        [
+          "Basse-Terre",
+          "Forêt dense, Soufrière, chutes du Carbet, Deshaies, côte sous le vent",
+          "Randonnée, nature, plongée, paysages luxuriants"
+        ],
+        [
+          "Les Saintes",
+          "Baie, villages, fort, criques et ambiance insulaire",
+          "Escapade romantique, marche, séjour lent de deux nuits ou plus"
+        ],
+        [
+          "Marie-Galante",
+          "Plages sauvages, moulins, distilleries, routes tranquilles",
+          "Authenticité, vélo ou voiture, séjour hors des zones animées"
+        ],
+        [
+          "La Désirade",
+          "Falaises, sentiers, littoral préservé et petit bourg",
+          "Calme, déconnexion, excursion choisie selon la météo"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>L’aéroport international se trouve près de Pointe-à-Pitre, sur Grande-Terre. Commencer et finir votre circuit dans cette zone simplifie la prise en charge de la voiture et évite un dernier long trajet avant le vol retour.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "duree-saison-circuit-guadeloupe",
+      "text": "Quelle durée choisir et quand partir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Sept jours</strong> constituent un minimum confortable pour combiner Grande-Terre et Basse-Terre. Avec dix jours à deux semaines, vous pouvez ralentir le rythme et ajouter une île comme Les Saintes ou Marie-Galante. En quatre ou cinq jours, mieux vaut assumer un choix: Grande-Terre et une courte échappée à Basse-Terre, ou un séjour centré sur une seule zone."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "7 jours",
+          "label": "minimum conseillé pour découvrir les deux grandes ailes sans multiplier les valises"
+        },
+        {
+          "value": "10 à 14 jours",
+          "label": "durée idéale pour ajouter une île et prévoir des journées moins chargées"
+        },
+        {
+          "value": "2 hébergements",
+          "label": "souvent le bon compromis pour limiter les trajets entre Grande-Terre et Basse-Terre"
+        },
+        {
+          "value": "~1 h",
+          "label": "ordre de grandeur d’une traversée maritime vers certaines îles, hors attente et transfert au port"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La période la plus sèche se situe généralement entre décembre et avril, ce qui explique une forte demande sur les vols, les voitures et les hébergements. La saison plus humide, approximativement de juin à novembre, peut offrir une végétation spectaculaire et parfois de meilleurs tarifs, mais les averses sont plus fréquentes et le risque de phénomène cyclonique existe. Les mois intermédiaires peuvent être très agréables, à condition d’accepter une météo plus changeante. Les échouages d’algues sargasses varient aussi selon les côtes et les périodes: vérifiez la situation locale avant de réserver une plage ou un hôtel pour la baignade."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil d’organisation",
+      "html": "<p>Réservez en priorité la voiture de location, puis les nuits sur les petites îles et les traversées en bateau. Ce sont souvent les éléments les moins flexibles d’un circuit pendant les vacances scolaires et les fêtes de fin d’année.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "itineraire-guadeloupe-sept-jours",
+      "text": "Un itinéraire équilibré de 7 jours entre mer, nature et culture"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’itinéraire ci-dessous privilégie les étapes logiques plutôt que la collection de lieux cochés à toute vitesse. Installez-vous trois nuits sur Grande-Terre, puis quatre nuits sur Basse-Terre, ou inversez selon vos horaires de vol. Les temps annoncés par une application de navigation sont utiles, mais une route de montagne, une averse ou des ralentissements peuvent les allonger."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Jours 1 et 2: sud et est de Grande-Terre",
+          "html": "Après votre arrivée, gardez une première journée légère: installation, baignade et marché de Sainte-Anne ou de Saint-François. Consacrez le lendemain à la Pointe des Châteaux, spectaculaire au lever ou en fin de journée, puis à une plage abritée. Évitez de programmer une longue randonnée juste après le vol."
+        },
+        {
+          "title": "Jour 3: le nord de Grande-Terre ou la culture créole",
+          "html": "Choisissez entre les falaises et plages du nord, une halte à Port-Louis, ou une journée plus urbaine autour de Pointe-à-Pitre, de ses marchés et de son patrimoine. C’est aussi le bon moment pour goûter bokits, accras, poissons grillés et fruits locaux sans réduire la gastronomie à un simple repas rapide."
+        },
+        {
+          "title": "Jour 4: rejoindre Basse-Terre par une route panoramique",
+          "html": "Partez le matin pour garder des arrêts possibles en route. Installez-vous vers Deshaies, Bouillante ou plus au sud selon vos priorités. Une baignade sur la côte sous le vent, souvent plus calme que le littoral atlantique, constitue une transition idéale après le trajet."
+        },
+        {
+          "title": "Jours 5 et 6: forêt, volcan ou mer des Caraïbes",
+          "html": "Prévoyez une journée nature: sentier en forêt, cascade accessible ou route de la Traversée. Pour l’ascension de la Soufrière, renseignez-vous le jour même sur l’ouverture, la météo et le niveau requis. Gardez une autre journée pour Deshaies, la plage de Grande Anse, une sortie en mer ou une plongée encadrée."
+        },
+        {
+          "title": "Jour 7: retour souple vers Grande-Terre",
+          "html": "Revenez près de l’aéroport la veille d’un départ matinal. Si votre vol est tardif, faites une dernière halte courte plutôt que de vous lancer dans une excursion éloignée. Restituer un véhicule plein de sable ou avec le réservoir incomplet peut faire perdre du temps et entraîner des frais."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur classique",
+      "html": "<p>Ne placez pas dans le même programme une ascension de la Soufrière, une excursion aux Saintes et une visite complète de Marie-Galante sur trois journées consécutives. Les horaires de bateaux, la fatigue et la météo transforment vite un programme ambitieux en course contre la montre.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "iles-satellites-les-saintes-marie-galante-desirade",
+      "text": "Les Saintes, Marie-Galante ou La Désirade: quelle île ajouter?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les îles satellites ne sont pas de simples annexes. Elles changent réellement la nature de votre voyage et réclament une organisation spécifique: horaires de bateau, bagages, météo marine, location de deux-roues ou de voiture sur place. Pour une excursion à la journée, Les Saintes sont souvent le choix le plus accessible depuis le sud de Basse-Terre, mais y dormir au moins deux nuits permet de les apprécier après le départ des visiteurs de passage."
+    },
+    {
+      "type": "compare",
+      "title": "Choisir votre parenthèse insulaire",
+      "a": {
+        "title": "Les Saintes",
+        "points": [
+          "À privilégier pour les villages, les criques, la marche vers le fort et les panoramas.",
+          "Très adaptées à un séjour de deux ou trois nuits, avec des déplacements souvent simples à pied ou en deux-roues.",
+          "Ambiance vivante mais capacité d’hébergement limitée: anticipez les réservations."
+        ]
+      },
+      "b": {
+        "title": "Marie-Galante ou La Désirade",
+        "points": [
+          "Marie-Galante convient aux voyageurs qui veulent de longues plages, des distilleries et un rythme paisible.",
+          "La Désirade séduit davantage pour le calme, les paysages minéraux et la randonnée sur un littoral moins urbanisé.",
+          "Ces îles demandent de regarder attentivement les horaires et conditions de traversée avant de figer le programme."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous n’avez qu’une semaine, n’ajoutez une île que si vous acceptez de retirer une journée de route ou de plage sur l’île principale. Avec dix jours, Les Saintes s’intègrent facilement entre Basse-Terre et le retour vers l’aéroport. Avec deux semaines, vous pouvez combiner les deux grandes ailes et une seconde ambiance insulaire sans sacrifier les temps de repos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "se-deplacer-en-guadeloupe",
+      "text": "Se déplacer: voiture de location, excursions ou transports locaux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un vrai circuit, la <strong>voiture de location</strong> reste la solution la plus autonome. Elle donne accès aux départs de randonnée, aux plages moins desservies et aux hébergements isolés. Réservez un véhicule adapté au nombre réel de passagers et de bagages: une petite citadine suffit souvent sur Grande-Terre, mais une motorisation correcte et une boîte avec laquelle vous êtes à l’aise seront appréciables sur les routes de Basse-Terre."
+    },
+    {
+      "type": "compare",
+      "title": "Location de voiture ou excursions organisées?",
+      "a": {
+        "title": "Louer une voiture",
+        "points": [
+          "Liberté des horaires et accès aux sites éloignés.",
+          "Rentable pour plusieurs personnes partageant les frais.",
+          "Demande vigilance sur les routes étroites, le stationnement et les franchises d’assurance."
+        ]
+      },
+      "b": {
+        "title": "Choisir des excursions",
+        "points": [
+          "Pratique pour la plongée, les sorties en mer et une journée sans conduite.",
+          "Accompagnement utile pour comprendre les milieux naturels ou le patrimoine.",
+          "Moins souple et potentiellement plus coûteux si vous en multipliez les journées."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Les transports collectifs peuvent dépanner sur certains axes, mais ils ne remplacent pas une voiture pour un itinéraire serré. Avant de signer le contrat de location, vérifiez le montant de la caution, la franchise en cas de dommage, les garanties bris de glace et pneus, l’assistance, le kilométrage, les conducteurs autorisés et les conditions de carburant. Photographiez le véhicule au départ et au retour. Sur route mouillée, ralentissez: les chaussées de montagne et les virages méritent une conduite souple."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-circuit-guadeloupe",
+      "text": "Quel budget prévoir pour un circuit en Guadeloupe?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le billet d’avion représente souvent la part la plus variable, selon la saison, l’aéroport de départ et le délai de réservation. Sur place, la période et le niveau de confort font très vite évoluer l’addition. Pour vous repérer, comptez souvent <strong>environ 30 à 60 euros par jour</strong> pour une petite voiture hors très haute saison, davantage pour un véhicule familial, automatique ou réservé tardivement. Un gîte ou un petit hôtel correct se situe fréquemment autour de <strong>80 à 150 euros la nuit</strong> pour deux, avec de grands écarts selon l’emplacement et la période."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté repas, un déjeuner simple ou une formule locale peut rester abordable, tandis qu’un restaurant de plage, les poissons frais et les cocktails font rapidement monter le budget. Prévoyez aussi les parkings éventuels, le carburant, les traversées maritimes — souvent quelques dizaines d’euros aller-retour selon l’île et la compagnie —, les activités nautiques et les assurances. Un appartement avec cuisine permet de garder de la marge, notamment pour le petit déjeuner et certains dîners."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir pour maîtriser vos dépenses",
+      "html": "<p>Réduire le nombre de changements d’hôtel, cuisiner une partie des repas et sélectionner deux ou trois activités payantes fortes ont souvent plus d’effet sur le budget que de chercher le tarif le plus bas sur chaque détail.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "visiter-guadeloupe-respecter-lieux",
+      "text": "Profiter des joyaux naturels sans les abîmer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La force d’un voyage en Guadeloupe tient autant à ses paysages qu’à leur fragilité. En randonnée, restez sur les sentiers, emportez eau et protection contre la pluie, et renoncez si les conditions se dégradent. Une cascade gonflée par les pluies ou une crête enveloppée de brouillard n’est pas un décor à forcer. Consultez les informations des gestionnaires de sites et les alertes locales avant une randonnée en altitude ou une sortie en mer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Dans l’eau, ne touchez ni les coraux, ni les tortues, ni les poissons, et gardez une distance respectueuse avec la faune.",
+        "Évitez de nourrir les animaux et ne prélevez pas de coquillages, de sable ou de végétaux comme souvenirs.",
+        "Préférez une crème solaire pensée pour limiter son impact sur le milieu marin, tout en vous protégeant aussi par un tee-shirt anti-UV et l’ombre.",
+        "Emportez vos déchets, limitez le plastique à usage unique et demandez avant de photographier les personnes sur les marchés ou dans les villages.",
+        "Soutenez l’économie locale en alternant restaurants, artisans, guides et producteurs de différentes communes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pensez aussi à la santé pratique: eau, chapeau, protection solaire, anti-moustiques adapté et chaussures fermées pour les sentiers. Les journées chaudes peuvent donner une impression de facilité trompeuse; une randonnée courte sous climat tropical demande plus d’effort qu’en métropole. Pour les activités nautiques, choisissez un prestataire déclaré, écoutez le briefing et ne vous éloignez pas seul sur une plage exposée à la houle ou aux courants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-depart-circuit-guadeloupe",
+      "text": "Votre plan d’action pour partir avec un circuit vraiment fluide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur circuit n’est pas celui qui aligne le plus de noms sur une carte: c’est celui qui laisse de la place aux imprévus, à une baignade prolongée, à un marché découvert en route ou à une météo capricieuse. Fixez d’abord votre durée, choisissez deux bases maximum pour une semaine, puis ajoutez une seule île satellite si elle correspond à votre façon de voyager. Vous préserverez ainsi du temps pour ce qui rend la Guadeloupe mémorable: les paysages, bien sûr, mais aussi son rythme et son accueil."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Définissez votre priorité",
+          "html": "Nature et randonnée, plages, plongée, patrimoine ou détente: classez vos deux envies principales avant de sélectionner les étapes."
+        },
+        {
+          "title": "Répartissez les nuits",
+          "html": "Pour sept jours, choisissez trois ou quatre nuits sur Grande-Terre et le reste sur Basse-Terre. Réservez une île satellite seulement si vous lui accordez du vrai temps."
+        },
+        {
+          "title": "Bloquez les réservations structurantes",
+          "html": "Validez voiture, hébergements, éventuels billets de bateau et activités à capacité limitée avant d’affiner les journées."
+        },
+        {
+          "title": "Gardez des marges",
+          "html": "Laissez au moins une demi-journée non programmée et vérifiez la veille météo, état des routes, conditions maritimes et horaires."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de jours faut-il pour faire un circuit touristique en Guadeloupe?",
+      "a": "<p>Prévoyez idéalement sept à dix jours. Sept jours permettent de découvrir Grande-Terre et Basse-Terre avec deux hébergements, à condition de ne pas multiplier les excursions. Dix à quatorze jours sont préférables si vous souhaitez dormir aux Saintes ou à Marie-Galante, randonner et garder des journées de repos. En moins d’une semaine, concentrez-vous sur une seule grande zone ou acceptez un programme volontairement léger.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement louer une voiture en Guadeloupe?",
+      "a": "<p>Ce n’est pas obligatoire si vous restez dans un même secteur balnéaire et réservez des excursions, mais c’est fortement conseillé pour un circuit. La voiture facilite l’accès aux plages isolées, aux départs de randonnée, aux marchés et aux hébergements de Basse-Terre. Vérifiez toutefois votre assurance, la franchise, l’état des lieux et votre aisance sur des routes parfois étroites ou sinueuses.</p>"
+    },
+    {
+      "q": "Quel itinéraire choisir en Guadeloupe pour un premier voyage?",
+      "a": "<p>Pour un premier séjour, adoptez un parcours simple: trois nuits autour de Sainte-Anne, Saint-François ou Le Gosier sur Grande-Terre, puis quatre nuits vers Deshaies, Bouillante ou la côte sous le vent en Basse-Terre. Vous combinerez la Pointe des Châteaux, les plages, les marchés, la forêt, les cascades et une sortie en mer sans changer d’hôtel chaque soir. Les Saintes peuvent remplacer une journée sur Basse-Terre si cette escapade est votre priorité.</p>"
+    },
+    {
+      "q": "Les Saintes se visitent-elles en une journée depuis la Guadeloupe?",
+      "a": "<p>Oui, une excursion à la journée est possible selon votre port de départ et les horaires de bateau, mais elle reste assez condensée. Vous aurez le temps de parcourir le bourg, d’aller vers le fort ou une plage et de déjeuner sur place, sans vraiment ralentir. Deux nuits sur Terre-de-Haut offrent une expérience bien plus agréable: vous profitez des débuts et fins de journée, lorsque l’île est plus calme, et vous évitez de dépendre d’un aller-retour serré.</p>"
+    },
+    {
+      "q": "Quel budget prévoir pour une semaine de circuit en Guadeloupe?",
+      "a": "<p>Le budget dépend surtout du vol, de la saison et du partage des frais. Hors billets d’avion, un couple peut envisager un budget intermédiaire en additionnant un hébergement de l’ordre de 80 à 150 euros par nuit, une voiture souvent autour de quelques dizaines d’euros par jour, les repas, le carburant et les activités. Le coût augmente nettement avec les hôtels haut de gamme, les îles supplémentaires, les sorties nautiques répétées et les réservations de dernière minute.</p>"
+    },
+    {
+      "q": "Quelle est la meilleure période pour un road trip en Guadeloupe?",
+      "a": "<p>La période généralement la plus sèche, de décembre à avril environ, est appréciée pour la stabilité relative de la météo, mais elle est aussi plus demandée et souvent plus chère. Entre mai et novembre, vous pourrez rencontrer davantage d’averses, une mer parfois moins favorable aux traversées et un risque cyclonique saisonnier, tout en bénéficiant d’une végétation très luxuriante. Quelle que soit la date, consultez les prévisions locales avant les randonnées, sorties en bateau et baignades sur les côtes exposées.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

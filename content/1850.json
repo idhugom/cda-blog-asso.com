@@ -1,0 +1,359 @@
+{
+  "id": 1850,
+  "slug": "comment-traiter-un-ecran-tactile-de-mon-iphone-qui-ne-fonctionne-pas",
+  "title": "Comment traiter un écran tactile de mon iPhone qui ne fonctionne pas ?",
+  "metaTitle": "Écran tactile iPhone ne fonctionne pas: que faire?",
+  "metaDescription": "Écran tactile d’iPhone bloqué, lent ou imprécis: tests sans risque, redémarrage forcé, sauvegarde et réparation pour votre modèle.",
+  "dek": "Un iPhone dont l’écran tactile ne répond plus n’est pas forcément bon pour la réparation. Suivez les vérifications utiles, protégez vos données et sachez à quel moment confier l’appareil à un professionnel.",
+  "category": "tech-objets",
+  "tags": [
+    "iPhone",
+    "écran tactile",
+    "dépannage",
+    "réparation smartphone",
+    "iOS"
+  ],
+  "keyTakeaways": [
+    "Retirez les accessoires, séchez et nettoyez l’écran avant de conclure à une panne matérielle.",
+    "Le redémarrage forcé ne supprime pas vos photos, messages ni applications.",
+    "Un écran allumé qui ne capte aucun geste n’est pas la même panne qu’un écran totalement noir.",
+    "Sauvegardez l’iPhone dès que le tactile redevient utilisable, même brièvement.",
+    "Après une chute, une infiltration d’eau ou un écran déformé, une réparation est souvent nécessaire."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un écran tactile d’iPhone qui ignore vos gestes, réagit avec retard ou appuie tout seul peut bloquer les usages les plus simples. Avant de remplacer l’écran, quelques contrôles sans danger permettent d’écarter un accessoire défectueux, un bug ponctuel ou une surchauffe. Voici la marche à suivre, du test le plus simple à la décision de réparation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "securiser-l-iphone-avant-les-tests",
+      "text": "Sécurisez l’iPhone avant les premiers tests"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par observer le contexte: la panne est-elle apparue après une chute, de la pluie, un changement d’écran, une mise à jour ou l’utilisation d’un chargeur particulier? Ces indices orientent le diagnostic. Débranchez le câble de charge et tous les accessoires, posez l’iPhone sur une surface stable puis essayez d’abord avec des mains propres et parfaitement sèches. Un doigt humide, une crème ou de l’eau sur la vitre peuvent perturber la détection capacitive."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Après un contact avec un liquide",
+      "html": "<p>Éteignez l’iPhone si vous le pouvez et ne le rechargez pas. Ne le placez ni dans du riz, ni sur un radiateur, ni devant un sèche-cheveux: la chaleur et les particules peuvent aggraver les dégâts. Une corrosion interne peut apparaître même si l’écran recommence à fonctionner.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "pour les contrôles de base: nettoyage, retrait des accessoires et redémarrage"
+        },
+        {
+          "value": "~20 s",
+          "label": "pour lancer en général un redémarrage forcé, selon le modèle"
+        },
+        {
+          "value": "80 à 450 €+",
+          "label": "ordre de grandeur très variable d’un remplacement d’écran selon l’iPhone et le réparateur"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-la-cause-probable",
+      "text": "Identifier la cause probable sans démonter l’appareil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tactile n’est qu’une partie de l’ensemble écran. Une vitre fendue peut encore répondre parfaitement, tandis qu’une vitre intacte peut cacher une nappe de connexion endommagée ou une panne du panneau tactile. Recherchez un symptôme reproductible: une bande verticale insensible, des pressions fantômes, une panne limitée à une application ou un blocage total n’ont pas la même origine."
+    },
+    {
+      "type": "table",
+      "caption": "Symptômes fréquents et première action raisonnable",
+      "headers": [
+        "Ce que vous constatez",
+        "Cause possible",
+        "Premier geste utile"
+      ],
+      "rows": [
+        [
+          "Le tactile ne répond plus partout, mais l’image est affichée",
+          "Blocage d’iOS, écran ou connecteur endommagé",
+          "Retirer les accessoires puis effectuer un redémarrage forcé"
+        ],
+        [
+          "Une zone précise est insensible",
+          "Dalle tactile abîmée, choc, écran de remplacement défaillant",
+          "Tester plusieurs applications; prévoir un diagnostic si la zone reste identique"
+        ],
+        [
+          "L’iPhone appuie seul ou écrit n’importe quoi",
+          "Humidité, saleté, protection d’écran, écran endommagé",
+          "Sécher, nettoyer, retirer temporairement la protection et le chargeur"
+        ],
+        [
+          "Le problème n’existe que pendant la charge",
+          "Câble, adaptateur ou prise de mauvaise qualité",
+          "Essayer un autre câble et un adaptateur fiable"
+        ],
+        [
+          "L’écran est noir mais l’iPhone vibre ou sonne",
+          "Panne d’affichage, batterie faible ou chute",
+          "Charger avec un matériel fiable puis demander un diagnostic si l’image ne revient pas"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un point important",
+      "html": "<p>Une protection en verre trempé mal posée, fissurée, trop épaisse ou décollée sur les bords peut dégrader la sensibilité. Son retrait temporaire est un test utile; ne confondez pas ce cas avec une panne certaine de l’écran.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "appliquer-les-correctifs-sans-risque",
+      "text": "Appliquez les correctifs simples, dans le bon ordre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez d’enchaîner des manipulations au hasard. Les actions ci-dessous n’effacent pas vos données et permettent de supprimer les causes les plus courantes. Si le tactile réagit par intermittence, agissez vite: c’est le bon moment pour sauvegarder vos données après ces tests."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Retirez ce qui peut perturber l’écran",
+          "html": "Enlevez la coque si elle exerce une pression sur les bords, la protection d’écran pour le test et tout câble connecté. Un accessoire magnétique ou une coque déformée ne provoquent pas toujours une panne, mais sont faciles à exclure."
+        },
+        {
+          "title": "Nettoyez doucement la vitre",
+          "html": "Éteignez l’appareil si possible. Passez un chiffon microfibre propre et sec; si nécessaire, humidifiez à peine le chiffon avec de l’eau, jamais les ouvertures de l’iPhone. Séchez ensuite complètement la surface."
+        },
+        {
+          "title": "Laissez l’iPhone revenir à température normale",
+          "html": "S’il est très chaud ou très froid, débranchez-le et attendez qu’il revienne à une température ambiante. Certains comportements inhabituels disparaissent après ce délai, notamment après une exposition au soleil ou dans une voiture."
+        },
+        {
+          "title": "Testez sans le chargeur",
+          "html": "Si le défaut survient seulement branché, cessez d’utiliser ce câble ou cet adaptateur. Testez un ensemble de charge fiable, en bon état, sur une autre prise murale."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Testez le problème méthodiquement",
+      "html": "<p>Ouvrez une application de dessin ou déplacez une icône sur toute la surface de l’écran. Si elle se bloque toujours au même endroit, l’origine matérielle est plus probable qu’un simple bug d’application.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "forcer-le-redemarrage-selon-le-modele",
+      "text": "Forcez le redémarrage selon votre modèle d’iPhone"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un redémarrage forcé coupe un blocage du système lorsque l’écran ne permet plus d’éteindre l’iPhone normalement. Il ne restaure pas l’appareil et ne supprime pas vos données. Respectez la séquence, puis maintenez le dernier bouton jusqu’à l’apparition du logo Apple, même si l’écran reste noir quelques secondes."
+    },
+    {
+      "type": "table",
+      "caption": "Combinaison de redémarrage forcé",
+      "headers": [
+        "Famille d’iPhone",
+        "Manipulation"
+      ],
+      "rows": [
+        [
+          "iPhone avec Face ID, iPhone 8 et modèles ultérieurs, y compris SE de 2e et 3e génération",
+          "Appuyez brièvement sur Volume +, puis brièvement sur Volume −. Maintenez ensuite le bouton latéral jusqu’au logo Apple."
+        ],
+        [
+          "iPhone 7 et 7 Plus",
+          "Maintenez simultanément le bouton latéral et Volume − jusqu’au logo Apple."
+        ],
+        [
+          "iPhone 6s, SE de 1re génération et modèles plus anciens",
+          "Maintenez simultanément le bouton principal et le bouton latéral ou supérieur jusqu’au logo Apple."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Si l’iPhone redémarre mais que le tactile reste totalement inerte, ne répétez pas indéfiniment la manipulation: le problème est alors davantage susceptible d’être matériel ou lié à une version d’iOS à corriger.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "distinguer-panne-tactile-et-panne-d-affichage",
+      "text": "Distinguez une panne tactile d’une panne d’affichage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction évite de suivre une mauvaise piste. Un iPhone peut être allumé sans afficher d’image, ou afficher une image parfaite sans enregistrer le moindre toucher. Les symptômes secondaires — sonnerie, vibration, connexion à un ordinateur, réponse de Siri — sont utiles pour savoir si le téléphone continue de démarrer."
+    },
+    {
+      "type": "compare",
+      "title": "Deux pannes qui se ressemblent, mais ne se traitent pas pareil",
+      "a": {
+        "title": "Le tactile est en cause",
+        "points": [
+          "L’image est visible, mais les gestes ne répondent pas ou seulement sur certaines zones.",
+          "Des pressions fantômes, un défilement erratique ou un clavier incontrôlable peuvent apparaître.",
+          "Après nettoyage et redémarrage, une réparation de l’écran complet peut être nécessaire."
+        ]
+      },
+      "b": {
+        "title": "L’affichage ou l’alimentation est en cause",
+        "points": [
+          "L’écran est noir, clignote, présente des lignes ou des taches, mais l’iPhone peut vibrer ou sonner.",
+          "Branchez-le avec un chargeur fiable pendant un moment, puis tentez le redémarrage forcé.",
+          "Après une chute ou un liquide, un diagnostic professionnel est préférable, même si le téléphone reçoit des appels."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Une seule application est bloquée:</strong> le problème peut venir de l’application. Après redémarrage, mettez-la à jour ou supprimez-la puis réinstallez-la si vos données y sont synchronisées.",
+        "<strong>Le tactile fonctionne seulement par moments:</strong> pensez à la chaleur, à l’humidité, à une protection d’écran ou à un connecteur fragilisé par un choc.",
+        "<strong>L’écran se soulève ou le boîtier est bombé:</strong> arrêtez d’utiliser et de charger l’iPhone. Une batterie gonflée exige une prise en charge rapide."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sauvegarder-mettre-a-jour-et-restaurer",
+      "text": "Sauvegardez, mettez à jour, puis envisagez la restauration"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dès que vous récupérez un minimum de contrôle, faites une sauvegarde iCloud via le Wi‑Fi ou une sauvegarde chiffrée sur Mac ou PC. Cette précaution compte davantage que les essais suivants: un écran qui répond une fois peut retomber en panne sans avertissement. Vérifiez aussi que vos photos et vos données importantes sont bien synchronisées avant toute opération lourde."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "<strong>Mettez iOS à jour</strong> dans Réglages si le tactile le permet, ou depuis un ordinateur lorsque l’iPhone est reconnu et déjà autorisé.",
+        "<strong>Utilisez le mode de récupération</strong> si un ordinateur vous le propose et choisissez d’abord l’option de mise à jour: elle tente de réinstaller iOS sans effacer les données.",
+        "<strong>Ne choisissez la restauration complète qu’en dernier recours</strong>: elle efface l’iPhone. Elle est pertinente après une sauvegarde, ou lorsque vous avez accepté cette perte de données."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne réinitialisez pas trop tôt",
+      "html": "<p>Une restauration ne répare pas une dalle tactile cassée. Si la panne suit une chute, si une zone entière reste muette ou si des lignes apparaissent, effacer l’iPhone risque surtout de compliquer la récupération de vos données.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-une-reparation-et-proteger-ses-donnees",
+      "text": "Choisissez une réparation adaptée et protégez vos données"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une chute, une infiltration de liquide, un écran fissuré avec tactile instable ou l’échec des vérifications précédentes, un diagnostic est justifié. Sur la plupart des iPhone récents, la couche tactile est intégrée au bloc écran: le remplacement concerne donc généralement l’ensemble de l’écran, pas seulement la vitre. Le prix dépend fortement de la génération, du type de dalle et de la qualité de la pièce."
+    },
+    {
+      "type": "compare",
+      "title": "Service constructeur ou réparateur indépendant?",
+      "a": {
+        "title": "Service agréé ou constructeur",
+        "points": [
+          "Pièces et procédures prévues pour le modèle, avec une traçabilité généralement plus simple.",
+          "Tarif souvent plus élevé, particulièrement pour les iPhone récents à écran OLED.",
+          "Intéressant si l’appareil est encore couvert par une garantie, une assurance ou une formule de protection."
+        ]
+      },
+      "b": {
+        "title": "Réparateur indépendant sérieux",
+        "points": [
+          "Devis parfois plus accessible et délai potentiellement court.",
+          "La qualité varie selon la pièce, l’outillage et la compétence de l’atelier: demandez une garantie écrite.",
+          "Vérifiez l’origine de la pièce, les fonctions testées et les conséquences éventuelles sur l’étanchéité ou certains réglages d’affichage."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez un devis détaillé indiquant la pièce posée, la main-d’œuvre, le délai, la garantie et ce qui se passe si le diagnostic révèle une panne de carte mère ou des traces de liquide. Comptez souvent un montant à deux chiffres élevés pour un ancien modèle chez un indépendant, et plusieurs centaines d’euros pour des modèles récents ou une prise en charge officielle. Comparez ce coût à la valeur réelle de l’iPhone et à son état général, notamment sa batterie."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Vos données et votre compte Apple",
+      "html": "<p>Sauvegardez avant le dépôt si possible. Le réparateur ne doit jamais avoir besoin de votre mot de passe de compte Apple. Il peut vous être demandé de désactiver Localiser ou d’utiliser une procédure de préparation à la réparation: faites-le vous-même, puis retirez les données sensibles si la situation le permet.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-d-action-en-cinq-decisions",
+      "text": "Votre plan d’action en cinq décisions"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Y a-t-il eu de l’eau, une déformation ou une forte chute?",
+          "html": "Si oui, débranchez l’iPhone, évitez toute charge en cas d’humidité et privilégiez un diagnostic plutôt que des essais répétés."
+        },
+        {
+          "title": "L’écran est-il visible et propre?",
+          "html": "Retirez câble, coque et protection d’écran, puis nettoyez et séchez la vitre. Identifiez si le défaut touche toute la surface ou une zone fixe."
+        },
+        {
+          "title": "Le redémarrage forcé résout-il le blocage?",
+          "html": "S’il fonctionne, utilisez l’iPhone quelques minutes et sauvegardez-le immédiatement. Recherchez ensuite une mise à jour d’iOS ou de l’application concernée."
+        },
+        {
+          "title": "Le défaut revient-il hors charge et dans toutes les applications?",
+          "html": "Si oui, l’hypothèse d’une panne matérielle devient forte. Demandez un devis, sans restaurer l’appareil avant d’avoir sécurisé vos données."
+        },
+        {
+          "title": "La réparation vaut-elle le coût?",
+          "html": "Mettez en regard le devis, la batterie, l’âge de l’iPhone, vos garanties éventuelles et le prix d’un appareil reconditionné fiable. Choisissez sur cette base, pas seulement sur l’urgence."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le réflexe le plus utile",
+      "html": "<p>Nettoyez, débranchez, redémarrez, puis sauvegardez dès que l’écran répond. Si le tactile reste muet après ces étapes ou après un choc, un diagnostic matériel est la solution la plus rationnelle.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment éteindre un iPhone quand l’écran tactile ne répond plus?",
+      "a": "<p>Vous pouvez d’abord lancer un redémarrage forcé avec la combinaison correspondant à votre modèle. Cette opération redémarre l’iPhone sans utiliser le tactile et sans effacer les données. Si l’iPhone a été mouillé, est anormalement chaud ou présente un boîtier déformé, évitez de le charger; une prise en charge professionnelle est plus prudente.</p>"
+    },
+    {
+      "q": "Pourquoi l’écran tactile de mon iPhone fonctionne-t-il seulement lorsqu’il n’est pas en charge?",
+      "a": "<p>Le câble, l’adaptateur, la prise ou un accessoire de charge peut perturber le tactile, surtout s’il est endommagé ou de qualité incertaine. Testez avec un autre câble et un adaptateur fiable, sur une autre prise. Si le problème persiste également sans chargeur, cherchez plutôt du côté de l’écran ou du système.</p>"
+    },
+    {
+      "q": "Un écran fissuré peut-il encore être réparé si le tactile ne marche plus?",
+      "a": "<p>Oui. Dans la plupart des cas, le réparateur remplace le bloc écran complet, car la vitre, l’affichage et la couche tactile sont étroitement associés. Faites une sauvegarde avant le dépôt si l’appareil répond encore, puis demandez un devis précisant le type de pièce et la garantie de l’intervention.</p>"
+    },
+    {
+      "q": "Le redémarrage forcé efface-t-il les données de mon iPhone?",
+      "a": "<p>Non. Le redémarrage forcé équivaut à une remise en marche imposée lorsque l’iPhone est bloqué; vos photos, applications et réglages restent en place. En revanche, une restauration via un ordinateur efface les données: elle ne doit être envisagée qu’après une sauvegarde ou en toute connaissance de cause.</p>"
+    },
+    {
+      "q": "Puis-je réparer moi-même le tactile de mon iPhone?",
+      "a": "<p>C’est techniquement possible avec les outils, la pièce et l’expérience adaptés, mais ce n’est pas un simple changement de vitre. Une mauvaise manipulation peut endommager des nappes fragiles, compromettre l’étanchéité, créer des défauts d’affichage ou compliquer une réparation ultérieure. Pour un iPhone récent, un devis professionnel est généralement le choix le plus sûr.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

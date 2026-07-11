@@ -1,0 +1,342 @@
+{
+  "id": 994,
+  "slug": "comment-prevenir-les-blessures-liees-a-la-pratique-de-lathletisme",
+  "title": "Comment prévenir les blessures liées à la pratique de l’athlétisme ?",
+  "metaTitle": "Prévenir les blessures en athlétisme: guide pratique",
+  "metaDescription": "Prévenez les blessures en athlétisme grâce à une progression adaptée, un bon échauffement, du renforcement et des repères pour consulter au bon moment.",
+  "dek": "En athlétisme, la prévention ne repose pas sur un accessoire miracle, mais sur une préparation cohérente et une écoute attentive du corps. Voici comment organiser vos entraînements, choisir votre matériel et réagir avant qu’une douleur ne devienne une blessure.",
+  "category": "loisirs-sport",
+  "tags": [
+    "athlétisme",
+    "prévention blessures",
+    "course à pied",
+    "renforcement musculaire",
+    "récupération"
+  ],
+  "keyTakeaways": [
+    "Augmentez une seule composante de votre entraînement à la fois: volume, vitesse ou fréquence.",
+    "Un échauffement progressif prépare mieux aux efforts rapides que des étirements passifs à froid.",
+    "Le renforcement des mollets, hanches, tronc et ischio-jambiers protège les zones les plus sollicitées.",
+    "Une douleur qui modifie votre foulée, persiste ou s’aggrave impose d’alléger et de demander conseil.",
+    "Les pointes et les séances explosives s’introduisent très progressivement, même chez un coureur expérimenté."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Courir, sauter ou lancer sollicite le corps de façon très différente selon les épreuves, mais les blessures ont souvent une origine commune: une charge d’entraînement devenue trop élevée pour les capacités du moment. Avec une progression réaliste, une préparation physique régulière et quelques signaux d’alerte bien compris, vous pouvez réduire nettement ce risque. L’objectif n’est pas de supprimer tout inconfort sportif, mais d’éviter que la fatigue normale bascule vers la douleur durable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-les-risques-selon-votre-epreuve",
+      "text": "Comprendre les risques selon votre épreuve"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une blessure en athlétisme survient parfois lors d’un événement net: mauvaise réception, entorse, faux mouvement ou choc. Plus souvent, elle s’installe progressivement. Un tendon, un os, un muscle ou une articulation reçoit alors, séance après séance, davantage de contraintes qu’il ne peut en récupérer. La course de fond expose volontiers les pieds, les tibias, les genoux et le tendon d’Achille; le sprint et les haies sollicitent fortement les ischio-jambiers et les mollets; les sauts demandent beaucoup aux chevilles, aux genoux et aux tendons; les lancers mobilisent l’épaule, le coude et le bas du dos. Cela ne signifie pas qu’une douleur à une zone donnée a une cause certaine: seul un professionnel de santé peut établir un diagnostic."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "10 à 15 min",
+          "label": "de mise en route progressive constituent un bon repère avant une séance rapide, de sauts ou de lancers."
+        },
+        {
+          "value": "5 à 10 %",
+          "label": "de hausse hebdomadaire est un repère prudent souvent utilisé pour le volume, à individualiser et non une règle universelle."
+        },
+        {
+          "value": "2 séances",
+          "label": "de renforcement par semaine suffisent souvent pour installer une base utile, si elles sont régulières."
+        },
+        {
+          "value": "24 à 48 h",
+          "label": "de récupération sont généralement bienvenues entre deux sollicitations très intenses de la même zone."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Les zones à surveiller et les leviers de prévention selon la pratique",
+      "headers": [
+        "Épreuve ou pratique",
+        "Zones souvent sollicitées",
+        "Prévention prioritaire"
+      ],
+      "rows": [
+        [
+          "Demi-fond et fond",
+          "Pied, tibia, genou, tendon d’Achille",
+          "Volume progressif, cadence et force des mollets"
+        ],
+        [
+          "Sprint et haies",
+          "Ischio-jambiers, mollets, hanches",
+          "Échauffement complet, exposition graduelle à la vitesse"
+        ],
+        [
+          "Sauts",
+          "Cheville, genou, tendon rotulien ou d’Achille",
+          "Technique de réception, force unilatérale, gestion des impacts"
+        ],
+        [
+          "Lancers",
+          "Épaule, coude, lombaires",
+          "Technique encadrée, mobilité active, gainage et montée en charge"
+        ],
+        [
+          "Épreuves combinées",
+          "Fatigue générale et zones variables",
+          "Planification, récupération et limitation des nouveautés simultanées"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une douleur n’est pas une simple faiblesse",
+      "html": "<p>Les courbatures diffuses qui diminuent en quelques jours ne se confondent pas avec une douleur précise, localisée, qui augmente à l’effort ou modifie votre geste. Cette distinction doit guider votre réaction.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "faire-progresser-la-charge-sans-bruler-les-etapes",
+      "text": "Faire progresser la charge sans brûler les étapes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le facteur le plus déterminant est rarement une séance isolée: c’est l’accumulation. La charge englobe la distance parcourue, la durée, l’intensité, le nombre d’accélérations, les sauts, la musculation, mais aussi le terrain et la fatigue du quotidien. Passer soudainement de deux à quatre séances, ajouter une sortie longue et commencer les intervalles la même semaine est une recette classique pour surcharger les tissus. De même, reprendre exactement là où vous vous étiez arrêté après une maladie, des vacances ou une blessure expose inutilement au risque."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "une-methode-simple-pour-ajuster-vos-semaines",
+      "text": "Une méthode simple pour ajuster vos semaines"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Fixez votre point de départ",
+          "html": "Pendant deux à trois semaines, notez ce que vous réalisez réellement: durée, distance, intensité ressentie, sprints, sauts et douleurs éventuelles. Votre niveau de départ est votre pratique actuelle, pas votre objectif."
+        },
+        {
+          "title": "Ne changez qu’un paramètre",
+          "html": "Augmentez soit le volume, soit la vitesse, soit la fréquence des séances. Si vous débutez les côtes, les haies ou les pointes, gardez le reste du programme stable."
+        },
+        {
+          "title": "Alternez les contraintes",
+          "html": "Évitez d’enchaîner deux séances explosives ou deux séances à fort impact. Une sortie facile, du vélo, de la natation ou une séance technique légère peuvent prendre le relais."
+        },
+        {
+          "title": "Prévoyez des semaines plus légères",
+          "html": "Toutes les quelques semaines, réduisez un peu le volume ou l’intensité afin d’absorber le travail accompli. Ajustez plus tôt si votre sommeil, votre motivation ou vos douleurs se dégradent."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur fréquente",
+      "html": "<p>Ne cherchez pas à « rattraper » une séance manquée en doublant la suivante. La forme se construit sur plusieurs mois; la surcharge peut apparaître en quelques jours.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "echauffer-le-corps-avant-les-efforts-explosifs",
+      "text": "Échauffer le corps avant les efforts explosifs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon échauffement fait monter progressivement la température corporelle, prépare les articulations et répète les gestes de la séance à faible intensité. Il est particulièrement indispensable avant un sprint, des haies, des bonds, des lancers ou une séance de fractionné. Les étirements longs et passifs réalisés à froid ne remplacent pas cette préparation; ils ne sont pas le meilleur moyen de préparer un muscle à produire de la vitesse. En revanche, une mobilité dynamique et des éducatifs adaptés améliorent votre perception du mouvement et votre disponibilité."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Commencez doucement:</strong> marche active, trot, vélo souple ou mouvements généraux pendant quelques minutes.",
+        "<strong>Mobilisez en mouvement:</strong> chevilles, hanches, épaules et colonne avec une amplitude confortable, sans forcer.",
+        "<strong>Répétez le geste:</strong> montées de genoux, talons-fesses, gammes de course, lancers légers ou sauts de faible amplitude.",
+        "<strong>Approchez l’intensité:</strong> réalisez quelques accélérations, bonds ou gestes techniques en augmentant graduellement l’engagement."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Après l’entraînement",
+      "html": "<p>Un retour au calme de quelques minutes facilite la transition vers le repos. Les étirements doux peuvent être agréables après la séance si vous les appréciez, mais ils ne compensent ni une surcharge d’entraînement ni un manque de sommeil.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "batir-un-corps-plus-resilient-avec-le-renforcement",
+      "text": "Bâtir un corps plus résilient avec le renforcement"
+    },
+    {
+      "type": "paragraph",
+      "html": "La course et les gestes athlétiques ne suffisent pas toujours à renforcer les zones qui doivent freiner, stabiliser et propulser. Un travail de force progressif augmente la tolérance aux impacts et améliore le contrôle du bassin, du genou, de la cheville et du tronc. Pour la plupart des pratiquants, il est plus utile de viser la régularité que des séances épuisantes. Choisissez des exercices maîtrisés: montées sur marche, fentes, squats adaptés à votre niveau, soulevés de terre légers à modérés, ponts de hanches, élévations de mollets, gainage actif et tirages pour le haut du corps. Les sauteurs et sprinteurs doivent être particulièrement attentifs à la qualité des appuis; les lanceurs au contrôle de l’omoplate et du tronc."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons complémentaires de renforcer votre corps",
+      "a": {
+        "title": "Séance encadrée avec charges",
+        "points": [
+          "Permet de progresser précisément sur la force et la technique.",
+          "Particulièrement utile pour le sprint, les sauts et les lancers.",
+          "Demande un apprentissage du geste et un matériel adapté."
+        ]
+      },
+      "b": {
+        "title": "Routine à domicile au poids du corps",
+        "points": [
+          "Facile à intégrer deux fois par semaine, même avec peu de temps.",
+          "Excellente base pour les mollets, hanches, équilibre et gainage.",
+          "Doit évoluer progressivement pour ne pas devenir trop facile."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "soigner-la-technique-le-materiel-et-les-surfaces",
+      "text": "Soigner la technique, le matériel et les surfaces"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une chaussure ne corrige pas à elle seule une surcharge ou une technique mal maîtrisée, mais un matériel inadapté peut l’aggraver. Vérifiez l’état de la semelle, le maintien du pied et l’adéquation du modèle à votre épreuve. Comptez souvent autour de 90 à 180 euros pour une chaussure de course polyvalente et, selon le modèle, environ 60 à 160 euros pour des pointes. Le prix ne garantit ni confort ni prévention: essayez-les, assurez-vous qu’elles ne compriment pas les orteils et introduisez tout nouveau modèle sur des sorties courtes."
+    },
+    {
+      "type": "compare",
+      "title": "Chaussures d’entraînement ou pointes: ne les utilisez pas au même rythme",
+      "a": {
+        "title": "Chaussures d’entraînement",
+        "points": [
+          "Plus polyvalentes pour l’endurance, l’échauffement et les sorties faciles.",
+          "Offrent en général davantage de protection et de confort sur la durée.",
+          "À privilégier pour accumuler progressivement du volume."
+        ]
+      },
+      "b": {
+        "title": "Pointes d’athlétisme",
+        "points": [
+          "Apportent accroche et précision pour la piste, les haies, les sauts ou certaines courses.",
+          "Sollicitent davantage mollets, pieds et tendon d’Achille.",
+          "À réserver d’abord à de courtes portions de séance, puis à augmenter avec prudence."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Faites corriger un geste douloureux par un entraîneur qualifié plutôt que de multiplier les conseils contradictoires en ligne.",
+        "Variez raisonnablement les surfaces: piste, stabilisé et terrain souple ne sollicitent pas tout à fait les mêmes structures.",
+        "Ne changez pas simultanément de chaussures, de surface, de distance et de programme d’intensité.",
+        "Pour les sauts et les lancers, contrôlez aussi l’état du matériel et la sécurité de la zone de réception ou de lancer."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux changements rapides",
+      "html": "<p>Passer brutalement aux chaussures minimalistes, aux pointes ou à une piste très dure peut créer une forte sollicitation nouvelle, même si votre condition cardiovasculaire est excellente.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recuperer-manger-et-dormir-pour-encaisser-lentrainement",
+      "text": "Récupérer, manger et dormir pour encaisser l’entraînement"
+    },
+    {
+      "type": "paragraph",
+      "html": "La récupération fait partie de l’entraînement: c’est pendant les périodes de repos que le corps répare et s’adapte. Un sommeil régulièrement écourté, un stress important, une alimentation insuffisante ou une succession de compétitions peuvent diminuer votre marge de sécurité. Mangez suffisamment au regard de votre dépense, en répartissant les repas autour de sources de glucides, de protéines, de fruits et légumes et de bonnes graisses. Hydratez-vous régulièrement, davantage par temps chaud ou pour les séances longues. Les régimes restrictifs et la recherche rapide de perte de poids sont particulièrement risqués chez les sportifs, notamment à l’adolescence."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Planifiez au moins un vrai temps de repos ou une journée très légère dans la semaine selon votre niveau et votre programme.",
+        "Surveillez les signaux généraux: sommeil perturbé, fatigue inhabituelle, irritabilité, baisse durable des performances ou infections à répétition.",
+        "Chez les jeunes, adaptez les volumes pendant les phases de croissance et privilégiez l’apprentissage technique.",
+        "Des règles absentes ou très irrégulières, une fatigue persistante ou une relation anxieuse à l’alimentation justifient d’en parler à un médecin ou à un professionnel compétent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reagir-correctement-aux-premiers-signaux",
+      "text": "Réagir correctement aux premiers signaux"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure décision n’est pas toujours l’arrêt total, mais elle n’est presque jamais de continuer exactement comme si de rien n’était. Si une gêne apparaît, notez son emplacement, son intensité, le moment où elle survient et ce qui la modifie. Réduisez temporairement les mouvements qui la réveillent: par exemple, les sprints, les côtes ou les sauts, tout en conservant si possible une activité indolore comme le vélo, la marche ou le renforcement du haut du corps. Si la douleur ne diminue pas rapidement malgré cet ajustement, ou revient à chaque reprise, un médecin du sport, un kinésithérapeute ou un professionnel de santé pourra évaluer la situation et organiser une reprise adaptée."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Arrêtez la séance</strong> si la douleur est vive, survient brutalement, modifie votre appui ou votre geste, ou augmente à chaque répétition.",
+        "<strong>Consultez sans tarder</strong> en cas d’impossibilité de prendre appui, de déformation, de gonflement important et rapide, d’engourdissement ou de douleur osseuse très localisée.",
+        "<strong>Reprenez par étapes</strong> seulement lorsque les gestes du quotidien et les mouvements de base sont confortables, puis testez progressivement l’effort spécifique.",
+        "<strong>Évitez l’automédication pour masquer une douleur</strong> et maintenir une charge qui dépasse vos capacités du moment."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Une douleur qui vous fait boiter, changer de foulée ou compenser avec une autre partie du corps n’est pas un signal à négocier: elle impose d’adapter la séance.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-daction-des-la-prochaine-semaine",
+      "text": "Votre plan d’action dès la prochaine semaine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour prévenir durablement les blessures, ne cherchez pas à tout modifier en même temps. Commencez par examiner vos deux dernières semaines: avez-vous augmenté le volume, la vitesse ou la fréquence trop vite? Ajoutez ensuite un échauffement structuré avant les séances exigeantes et deux courtes routines de renforcement. Enfin, notez vos douleurs et votre fatigue dans un carnet ou une application simple. Cette vision d’ensemble vous permet d’anticiper les périodes à risque et d’en parler concrètement avec votre entraîneur ou votre soignant. En athlétisme, la régularité intelligente vous fera progresser plus sûrement que les semaines héroïques suivies d’un arrêt forcé."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Checklist avant une séance intense",
+      "html": "<p>Demandez-vous: ai-je suffisamment récupéré? mon échauffement est-il complet? ai-je une douleur inhabituelle? est-ce que j’ajoute déjà une nouveauté cette semaine? Si une réponse vous alerte, allégez plutôt que de forcer.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je continuer à courir avec une douleur au tibia?",
+      "a": "<p>Une gêne légère et passagère peut parfois justifier une réduction de charge, mais une douleur précise au tibia qui augmente à la course, persiste après l’effort ou devient sensible à la marche doit être prise au sérieux. Suspendez les impacts douloureux, ne testez pas votre douleur chaque jour par une course intense et consultez si elle ne s’améliore pas rapidement. Une douleur osseuse très localisée nécessite un avis médical.</p>"
+    },
+    {
+      "q": "Les étirements suffisent-ils à éviter les blessures en athlétisme?",
+      "a": "<p>Non. Les étirements peuvent améliorer une sensation de souplesse chez certaines personnes, mais ils ne compensent pas une progression trop brutale, un manque de force, une fatigue importante ou une technique inadaptée. La prévention repose d’abord sur la gestion de la charge, l’échauffement actif, le renforcement et la récupération.</p>"
+    },
+    {
+      "q": "À quel moment faut-il remplacer ses chaussures de course?",
+      "a": "<p>Il n’existe pas de kilométrage valable pour tout le monde: le poids du coureur, les surfaces, le modèle et l’usage influencent l’usure. Beaucoup de chaussures montrent une baisse de confort et de maintien après plusieurs centaines de kilomètres, souvent dans une fourchette approximative de 500 à 800 km. Inspectez surtout la semelle, la déformation de la tige, l’asymétrie d’usure et vos sensations. Alterner deux paires peut aussi faciliter l’adaptation à un modèle neuf.</p>"
+    },
+    {
+      "q": "Les jeunes athlètes peuvent-ils faire du renforcement musculaire?",
+      "a": "<p>Oui, à condition que le programme soit adapté à l’âge, au niveau technique et encadré lorsque c’est nécessaire. Le renforcement au poids du corps, l’équilibre, les exercices de saut bien maîtrisés et l’apprentissage progressif des charges peuvent être très utiles. La priorité reste la qualité des mouvements, la variété et le respect des phases de croissance, non la recherche de charges maximales.</p>"
+    },
+    {
+      "q": "Des semelles orthopédiques empêchent-elles les blessures de course?",
+      "a": "<p>Elles ne constituent pas une assurance contre les blessures. Des semelles peuvent être pertinentes dans certaines situations évaluées par un professionnel, notamment si un trouble précis est identifié et que les symptômes le justifient. Elles doivent s’intégrer à une stratégie plus large: progression de l’entraînement, chaussures adaptées, renforcement et, si besoin, travail technique. Une semelle nouvelle s’introduit progressivement.</p>"
+    },
+    {
+      "q": "Comment reprendre l’athlétisme après une entorse de cheville?",
+      "a": "<p>La reprise dépend de la gravité de l’entorse et doit idéalement être guidée par un professionnel. Avant de revenir aux sprints, sauts ou changements d’appuis, vous devez pouvoir marcher, monter des escaliers, tenir sur une jambe et réaliser des mouvements simples sans douleur ni instabilité notable. Reprenez ensuite par un travail de mobilité, de renforcement et d’équilibre, puis par de la course facile avant les exercices explosifs et la compétition.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

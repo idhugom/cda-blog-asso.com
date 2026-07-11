@@ -1,0 +1,307 @@
+{
+  "id": 1680,
+  "slug": "recette-clafoutis-a-la-menthe",
+  "title": "Recette clafoutis à la menthe",
+  "metaTitle": "Recette clafoutis à la menthe: méthode et astuces",
+  "metaDescription": "Recette clafoutis à la menthe: fruits, infusion et cuisson pour une texture fondante, avec astuces, variantes et conseils de service faciles à partager.",
+  "dek": "La menthe donne un relief inattendu au clafoutis, à condition de la doser et de l’infuser avec justesse. Voici une recette fiable, les bons fruits à choisir et les gestes qui évitent un dessert liquide ou trop herbacé.",
+  "category": "culture-societe",
+  "tags": [
+    "clafoutis",
+    "menthe fraîche",
+    "dessert aux fruits",
+    "pâtisserie maison",
+    "recette facile"
+  ],
+  "keyTakeaways": [
+    "Infusez la menthe dans le lait tiède plutôt que de la mixer dans l’appareil.",
+    "Des fruits mûrs mais fermes et bien séchés préservent la texture du clafoutis.",
+    "Le centre doit rester légèrement tremblotant à la sortie du four: il finit de prendre au repos.",
+    "Servez tiède, après 15 à 20 minutes de repos, pour un parfum de menthe plus équilibré."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le clafoutis à la menthe n’est pas un clafoutis classique simplement décoré de quelques feuilles: la plante aromatique doit parfumer l’appareil sans écraser les fruits. Avec une infusion courte, des fruits peu aqueux et une cuisson surveillée, vous obtenez un dessert doux, frais et très simple à partager. Cette recette convient aussi bien aux cerises qu’aux abricots, aux pêches ou aux fruits rouges."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-ajouter-de-la-menthe-au-clafoutis",
+      "text": "Pourquoi la menthe fonctionne dans un clafoutis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le clafoutis est un entremets cuit au four, à mi-chemin entre une crème prise et une pâte à crêpes épaisse. Ses ingrédients de base — œufs, lait, sucre et farine — ont une saveur ronde et discrète. La menthe apporte alors une note végétale rafraîchissante qui allège la sensation sucrée, particulièrement avec les fruits d’été."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’accord est surtout réussi lorsque la menthe soutient l’acidité ou le parfum du fruit: cerise, abricot, pêche jaune, nectarine, framboise, fraise ou même rhubarbe. Elle est moins convaincante avec des fruits très doux et peu acides, comme une banane très mûre. L’objectif n’est pas de faire un dessert au goût de dentifrice: après cuisson, le fruit doit rester la saveur dominante."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe à retenir",
+      "html": "<p>Pour un parfum net et élégant, faites <strong>infuser</strong> les feuilles de menthe dans le liquide de la recette. Les feuilles mixées directement dans la pâte donnent souvent une couleur terne, une texture fibreuse et, en trop grande quantité, une amertume désagréable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ingredients-et-proportions-pour-six-personnes",
+      "text": "Ingrédients et proportions pour 6 personnes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette base se prépare dans un plat à gratin rond d’environ 24 cm de diamètre, ou dans un moule ovale de capacité comparable. Elle donne six parts raisonnables, ou quatre parts généreuses. Préférez du lait entier: sa matière grasse apporte une texture plus souple qu’un lait écrémé."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>500 g de fruits préparés</strong>: cerises dénoyautées, abricots en quartiers, pêches en tranches ou mélange de fruits rouges",
+        "<strong>20 g de feuilles de menthe fraîche</strong>, soit un petit bouquet bien fourni; réduisez à 10 à 15 g pour une menthe très puissante",
+        "<strong>25 cl de lait entier</strong> et <strong>10 cl de crème liquide entière</strong>",
+        "<strong>3 œufs</strong> à température ambiante",
+        "<strong>80 g de sucre</strong>, plus 1 cuillère à soupe pour le moule et les fruits si besoin",
+        "<strong>90 g de farine de blé</strong>",
+        "<strong>20 g de beurre</strong> pour le plat",
+        "1 pincée de sel et, facultatif, 1 cuillère à café d’extrait de vanille ou un peu de zeste de citron jaune"
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "6",
+          "label": "parts dans un moule d’environ 24 cm"
+        },
+        {
+          "value": "35 à 40 min",
+          "label": "de cuisson, selon le plat et les fruits choisis"
+        },
+        {
+          "value": "170 à 180 °C",
+          "label": "température de four généralement adaptée"
+        },
+        {
+          "value": "4 à 7 €",
+          "label": "de budget indicatif hors placard, selon la saison et les fruits"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez remplacer la crème par 10 cl de lait supplémentaire, mais le résultat sera un peu moins onctueux. Évitez en revanche d’augmenter trop fortement la quantité de farine pour « sécuriser » la recette: un clafoutis trop chargé devient compact et se rapproche d’un gâteau."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-menthe-et-les-fruits",
+      "text": "Choisir la menthe et les fruits sans détremper le dessert"
+    },
+    {
+      "type": "paragraph",
+      "html": "La menthe verte classique est le choix le plus polyvalent: elle est fraîche, douce et se marie avec la plupart des fruits. La menthe poivrée, plus camphrée et plus intense, demande une main légère. Si votre menthe vient du jardin, cueillez plutôt les jeunes feuilles, plus tendres. Rincez-les brièvement à l’eau froide, puis séchez-les très soigneusement dans un linge propre ou une essoreuse à salade."
+    },
+    {
+      "type": "table",
+      "caption": "Quels fruits associer à la menthe dans un clafoutis?",
+      "headers": [
+        "Fruit",
+        "Atout et précaution"
+      ],
+      "rows": [
+        [
+          "Cerises",
+          "L’accord le plus gourmand et le plus traditionnel. Dénoyautez-les pour un service sûr et facile."
+        ],
+        [
+          "Abricots",
+          "Leur acidité répond très bien à la menthe. Choisissez-les parfumés mais encore fermes."
+        ],
+        [
+          "Pêches ou nectarines",
+          "Une association douce et estivale. Épluchez seulement si la peau est épaisse ou abîmée."
+        ],
+        [
+          "Framboises et mûres",
+          "Très parfumées, mais fragiles: incorporez-les sans les écraser et réduisez un peu le sucre si nécessaire."
+        ],
+        [
+          "Fraises",
+          "Délicieuses avec la menthe, mais plus aqueuses. Équeutez-les, coupez-les et séchez-les avant emploi."
+        ],
+        [
+          "Rhubarbe",
+          "Très vive et originale. Faites-la dégorger avec un peu de sucre ou précuisez-la légèrement."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l’eau rendue par les fruits",
+      "html": "<p>Des fruits lavés mais mal séchés, très mûrs ou surgelés sans précaution relâchent beaucoup de jus. Le clafoutis peut alors cuire sur les bords tout en restant liquide au centre. Épongez les fruits frais; pour les fruits surgelés, faites-les décongeler puis égoutter avant de les utiliser.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recette-du-clafoutis-a-la-menthe-etape-par-etape",
+      "text": "Recette du clafoutis à la menthe, étape par étape"
+    },
+    {
+      "type": "paragraph",
+      "html": "La seule étape qui demande un peu d’anticipation est l’infusion. Elle peut être faite pendant que vous préparez les fruits. Comptez ensuite moins de vingt minutes de manipulation: l’essentiel du travail se fait au four."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Infusez le lait à la menthe",
+          "html": "Versez le lait et la crème dans une petite casserole. Chauffez jusqu’aux premiers frémissements, sans faire bouillir longtemps. Coupez le feu, ajoutez les feuilles de menthe légèrement froissées entre vos mains, couvrez et laissez infuser <strong>10 à 15 minutes</strong>. Filtrez, puis laissez tiédir."
+        },
+        {
+          "title": "Préparez le moule et les fruits",
+          "html": "Préchauffez le four à 180 °C en chaleur traditionnelle, ou à 170 °C en chaleur tournante. Beurrez généreusement le plat et poudrez-le avec un peu de sucre. Disposez les fruits en une couche régulière. Avec des abricots ou des pêches, placez de préférence le côté coupé vers le haut afin qu’ils gardent mieux leur jus."
+        },
+        {
+          "title": "Réalisez une pâte lisse",
+          "html": "Dans un saladier, fouettez les œufs avec les 80 g de sucre et la pincée de sel, juste assez pour dissoudre le sucre. Ajoutez la farine en une ou deux fois. Versez ensuite le mélange lait-crème infusé, désormais tiède, progressivement tout en fouettant. Ajoutez la vanille ou le zeste si vous en utilisez. La pâte doit être fluide, comme une pâte à crêpes légèrement épaisse."
+        },
+        {
+          "title": "Assemblez sans attendre",
+          "html": "Versez doucement l’appareil sur les fruits. Si quelques fruits remontent, ce n’est pas un problème. Tapotez une fois le plat sur le plan de travail pour chasser les grosses bulles d’air, puis enfournez aussitôt."
+        },
+        {
+          "title": "Cuisez et laissez reposer",
+          "html": "Faites cuire 35 à 40 minutes. Le clafoutis doit être gonflé sur les bords, doré en surface et encore légèrement tremblotant au centre. Sortez-le du four et laissez-le reposer 15 à 20 minutes: sa structure finit de se stabiliser et les arômes de menthe deviennent plus harmonieux."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour une pâte sans grumeaux",
+      "html": "<p>Mélangez d’abord la farine avec les œufs et le sucre, puis ajoutez le liquide en filet. Si vous avez tout versé trop vite, un passage bref au mixeur plongeant peut lisser la pâte, mais évitez de mixer les fruits et la menthe.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reussir-la-cuisson-et-la-texture",
+      "text": "Réussir la cuisson: fondant, mais jamais coulant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon clafoutis ne se découpe pas comme un cake. Sa texture attendue est souple, crémeuse et fondante, avec une tenue suffisante pour servir une part à la cuillère ou à la spatule. Il paraît souvent un peu trop tremblant lorsque vous le sortez du four; c’est normal, car les œufs poursuivent légèrement leur prise dans le plat chaud."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le dessus brunit trop vite:</strong> posez une feuille de papier aluminium sans la serrer sur le plat pour les dernières minutes.",
+        "<strong>Le centre est franchement liquide après 40 minutes:</strong> poursuivez par tranches de 5 minutes et vérifiez que votre plat n’est pas trop profond.",
+        "<strong>La texture est granuleuse ou sèche:</strong> le four était probablement trop chaud ou la cuisson trop longue; baissez de 10 °C la fois suivante.",
+        "<strong>Le clafoutis est fade:</strong> augmentez légèrement le temps d’infusion, plutôt que d’ajouter beaucoup de feuilles dans l’appareil."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La taille du plat change beaucoup le résultat. Dans un moule large et peu profond, l’appareil cuit vite et forme davantage de surface dorée. Dans un plat plus étroit et profond, il faudra prolonger un peu la cuisson et le cœur restera plus crémeux. Ne remplissez pas le moule à ras bord: laissez au moins 1 cm, car le clafoutis gonfle pendant la cuisson avant de retomber légèrement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "menthe-fraiche-ou-sirop-quelle-option-choisir",
+      "text": "Menthe fraîche ou sirop: quelle option choisir?"
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons de parfumer votre clafoutis",
+      "a": {
+        "title": "Menthe fraîche infusée",
+        "points": [
+          "Goût végétal, fin et moins sucré.",
+          "Permet d’ajuster facilement l’intensité avec le temps d’infusion.",
+          "Idéale pour les fruits frais de saison et une recette équilibrée.",
+          "Demande de filtrer le liquide et de disposer de feuilles fraîches."
+        ]
+      },
+      "b": {
+        "title": "Sirop de menthe",
+        "points": [
+          "Très pratique hors saison et parfum immédiatement perceptible.",
+          "Apporte du sucre: retirez environ 20 à 30 g de sucre de la recette selon la quantité utilisée.",
+          "Utilisez-en peu, autour de 1 à 2 cuillères à soupe, pour éviter un goût artificiel ou dominant.",
+          "Donne rarement la même fraîcheur subtile qu’une infusion de feuilles."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une variante sans gluten, remplacez les 90 g de farine par environ 65 à 70 g de fécule de maïs ou un mélange pâtissier sans gluten. Le résultat sera un peu plus fragile à chaud: laissez-le tiédir avant de servir. Pour une version moins riche, remplacez la crème par du lait; pour une version plus gourmande, ajoutez 30 g de poudre d’amande en retirant la même quantité de farine."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "service-conservation-et-accompagnements",
+      "text": "Service, conservation et accompagnements"
+    },
+    {
+      "type": "paragraph",
+      "html": "Servez ce clafoutis tiède plutôt que brûlant: après son repos, la texture se tient mieux et la menthe se distingue davantage. Il se suffit à lui-même, avec éventuellement quelques petites feuilles de menthe fraîche ajoutées au dernier moment. Une cuillerée de yaourt grec, de crème épaisse peu sucrée ou une boule de glace vanille fonctionne bien si vous souhaitez en faire un dessert plus festif."
+    },
+    {
+      "type": "paragraph",
+      "html": "Comme il contient des œufs, du lait et des fruits frais, conservez les restes au réfrigérateur une fois qu’ils ont refroidi, dans un contenant couvert. Consommez-les idéalement dans les 24 à 48 heures. Un réchauffage doux, quelques minutes dans un four peu chaud, est préférable au micro-ondes qui peut rendre l’appareil plus élastique. Le clafoutis supporte mal la congélation: les fruits rendent ensuite de l’eau et la crème prise perd sa finesse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-d-action-pour-un-clafoutis-parfume",
+      "text": "Votre plan d’action pour un clafoutis vraiment parfumé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par choisir un seul fruit de saison, mûr mais ferme, et une menthe fraîche au parfum agréable. Faites l’infusion avant toute chose, car elle détermine le caractère du dessert. Pendant qu’elle repose, séchez les fruits, préchauffez le four et préparez le moule. Enfin, ne cherchez pas une cuisson totalement ferme dès la sortie du four: accordez au clafoutis son temps de repos."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon réflexe pour une première fois",
+      "html": "<p>Testez d’abord la version cerises-menthe ou abricots-menthe avec 15 g de feuilles. Notez le résultat: si vous souhaitez plus de fraîcheur la prochaine fois, prolongez l’infusion de quelques minutes plutôt que de doubler brutalement la quantité de menthe.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire un clafoutis à la menthe avec des cerises surgelées?",
+      "a": "<p>Oui, à condition de les décongeler complètement dans une passoire, puis de les éponger avant de les mettre dans le plat. Les cerises surgelées libèrent davantage de jus que les fraîches; cette étape limite le risque d’un appareil trop liquide. Vous pouvez aussi prolonger la cuisson de quelques minutes, en surveillant le centre.</p>"
+    },
+    {
+      "q": "Puis-je utiliser de la menthe séchée à la place de la menthe fraîche?",
+      "a": "<p>C’est possible, mais le résultat sera moins frais et parfois plus herbacé. Utilisez une petite quantité, environ 1 à 2 cuillères à café rases pour cette recette, et faites-la infuser dans le lait chaud avant de filtrer. La menthe séchée convient surtout en dépannage; la menthe fraîche reste nettement préférable pour un dessert délicat.</p>"
+    },
+    {
+      "q": "Faut-il dénoyauter les cerises pour un clafoutis?",
+      "a": "<p>Les recettes traditionnelles limousines utilisent parfois des cerises non dénoyautées, car les noyaux apportent une nuance d’amande. Dans la pratique, il est plus prudent et plus confortable de les dénoyauter, surtout pour des enfants ou des invités. Vous évitez ainsi le risque de croquer un noyau et facilitez le service.</p>"
+    },
+    {
+      "q": "Peut-on préparer le clafoutis à la menthe la veille?",
+      "a": "<p>Vous pouvez préparer l’infusion de menthe et les ingrédients secs la veille, puis cuire le clafoutis le jour même. Une fois cuit, il se conserve une nuit au réfrigérateur, mais sa texture est la plus fondante le jour de la cuisson. Sortez-le 20 à 30 minutes avant de le servir, ou réchauffez-le très doucement au four.</p>"
+    },
+    {
+      "q": "Comment éviter que le clafoutis retombe après cuisson?",
+      "a": "<p>Il retombera toujours un peu: c’est le comportement normal d’un appareil riche en œufs, proche d’une crème prise. Pour limiter l’affaissement, ne fouettez pas les œufs trop longtemps, n’ouvrez pas le four pendant les premières minutes et laissez le dessert reposer dans son plat. Un léger retrait au centre n’est pas un défaut.</p>"
+    },
+    {
+      "q": "Quel accompagnement servir avec un clafoutis menthe-abricot?",
+      "a": "<p>Une crème fraîche épaisse, un yaourt grec nature ou une glace vanille peu sucrée sont des choix sûrs. Pour conserver l’équilibre du dessert, évitez les sauces très sucrées ou très mentholées. Quelques amandes effilées grillées, ajoutées juste avant le service, apportent aussi un contraste croquant particulièrement agréable avec l’abricot.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

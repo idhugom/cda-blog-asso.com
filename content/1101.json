@@ -1,0 +1,314 @@
+{
+  "id": 1101,
+  "slug": "comment-creer-votre-propre-slime-avec-ces-recettes",
+  "title": "Comment créer votre propre slime avec ces recettes ?",
+  "metaTitle": "Créer du slime maison: recettes, texture et sécurité",
+  "metaDescription": "Fabriquez du slime maison avec des recettes simples: dosages, variantes, gestes de sécurité et solutions pour obtenir la bonne texture sans vous tromper.",
+  "dek": "Un slime réussi ne tient pas seulement à la couleur: le bon équilibre entre les ingrédients, une manipulation progressive et quelques règles d’hygiène font toute la différence. Voici des recettes adaptées à plusieurs textures, avec les solutions pour éviter la pâte collante ou trop dure.",
+  "category": "famille-education",
+  "tags": [
+    "slime maison",
+    "activité enfants",
+    "loisirs créatifs",
+    "pâte sensorielle",
+    "recette facile"
+  ],
+  "keyTakeaways": [
+    "Préparez de petites quantités et ajoutez toujours l’activateur goutte à goutte.",
+    "Un slime à la colle doit rester une activité sensorielle: il ne se mange pas, même avec du colorant alimentaire.",
+    "La recette à la fécule est plus simple, mais elle donne une pâte sensorielle et non un slime élastique.",
+    "Jetez toute préparation qui sent mauvais, change d’aspect ou a été portée à la bouche."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Faire son slime maison est une activité créative qui plaît autant pour le mélange que pour le résultat: une pâte souple, étirable, parfois mousseuse ou transparente. Mais une recette approximative peut vite devenir collante, caoutchouteuse ou irritante. Avec des ingrédients choisis avec soin, des doses progressives et un peu de méthode, vous pouvez obtenir une texture réussie tout en gardant l’activité agréable et raisonnablement sûre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "avant-de-fabriquer-un-slime",
+      "text": "Avant de fabriquer un slime: matériel et règles essentielles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le slime classique est une pâte obtenue en reliant les molécules d’une colle blanche de type PVA avec un activateur compatible. C’est ce qui donne son élasticité caractéristique. Il ne s’agit ni d’un aliment, ni d’un produit cosmétique, ni d’un jouet contrôlé comme tel une fois les ingrédients mélangés chez vous. Même lorsque les composants sont vendus comme non toxiques, la préparation finale ne doit donc pas être ingérée ni mise en contact avec les yeux."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Pour un slime classique:</strong> colle blanche lavable à base de PVA, bicarbonate alimentaire, solution multifonction pour lentilles dont la composition mentionne un borate ou de l’acide borique, colorant alimentaire facultatif.",
+        "<strong>Pour protéger la table:</strong> plateau lavable, set en plastique ou papier cuisson, bol non alimentaire, cuillère et petit pot hermétique dédié.",
+        "<strong>Pour personnaliser:</strong> quelques gouttes de colorant, confettis larges ou petites figurines adaptées à l’âge de l’enfant. Évitez les poudres très fines et les paillettes volatiles.",
+        "<strong>Pour les mains:</strong> eau et savon à proximité, surtout avant et après l’activité."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité: ne cherchez pas un activateur « plus fort »",
+      "html": "<p>Évitez le borax en poudre, les lessives, les capsules de lavage, les produits pour lave-vaisselle et les mélanges trouvés sans précaution sur les réseaux sociaux. Ils peuvent irriter la peau ou les yeux et rendent le dosage difficile. Ne proposez pas de slime aux jeunes enfants qui portent encore volontiers les objets à la bouche, et faites préparer puis surveiller l’activité par un adulte.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "5 à 10 min",
+          "label": "de mélange actif pour une petite portion de slime classique"
+        },
+        {
+          "value": "50 à 100 ml",
+          "label": "de colle suffisent généralement pour un pot individuel"
+        },
+        {
+          "value": "Quelques jours à 2 semaines",
+          "label": "de conservation possible dans un pot propre et fermé, selon l’usage"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-recette",
+      "text": "Choisir la recette selon la texture recherchée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Toutes les recettes appelées slime ne produisent pas le même résultat. Si vous voulez une pâte qui s’étire lentement entre les doigts, la colle PVA reste l’option la plus proche du slime du commerce. Si votre priorité est de limiter les produits ménagers ou de proposer une expérience très courte à de jeunes enfants, la fécule et l’eau constituent une alternative sensorielle intéressante, mais moins élastique et non conservable."
+    },
+    {
+      "type": "table",
+      "caption": "Trois préparations pour adapter l’activité à votre objectif",
+      "headers": [
+        "Préparation",
+        "Texture obtenue",
+        "Base pour une petite portion",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Slime classique à la colle",
+          "Élastique, brillant, étirable",
+          "80 ml de colle PVA, bicarbonate et solution pour lentilles compatible",
+          "Ne pas ingérer; activateur à ajouter très progressivement"
+        ],
+        [
+          "Slime fluffy",
+          "Léger, mousseux, moins étirable",
+          "60 ml de colle PVA, mousse à raser, bicarbonate et activateur",
+          "Sèche plus vite; l’adulte manipule l’aérosol"
+        ],
+        [
+          "Pâte fécule-eau",
+          "Fluide au repos, ferme sous la pression",
+          "Environ 2 volumes de fécule pour 1 volume d’eau",
+          "Ce n’est pas un vrai slime; à jeter après l’activité"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Slime à la colle ou pâte sensorielle sans colle?",
+      "a": {
+        "title": "Slime à la colle PVA",
+        "points": [
+          "Donne une vraie élasticité et se travaille à la main.",
+          "Se colore facilement et supporte mieux les variantes de texture.",
+          "Demande un activateur adapté, une surveillance et un rangement soigneux."
+        ]
+      },
+      "b": {
+        "title": "Pâte à la fécule et à l’eau",
+        "points": [
+          "S’obtient avec très peu d’ingrédients courants.",
+          "Permet d’observer une texture surprenante, liquide puis ferme sous la pression.",
+          "Ne s’étire pas comme un slime et ne doit pas être conservée."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recette-du-slime-classique",
+      "text": "La recette du slime classique, souple et étirable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un premier essai, limitez-vous à une petite portion: elle coûte peu, se corrige plus facilement et évite le gaspillage si la formule de votre solution pour lentilles réagit mal. Prévoyez 80 ml de colle blanche lavable PVA, un quart de cuillère à café de bicarbonate, du colorant alimentaire et une solution multifonction pour lentilles compatible. Le sérum physiologique seul n’a généralement pas l’effet recherché: vérifiez la liste des ingrédients plutôt que le seul nom du produit."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Protégez et préparez",
+          "html": "Installez le bol sur un plateau. Attachez les cheveux longs et retirez les bijoux qui pourraient retenir de la pâte. Versez la colle dans le bol."
+        },
+        {
+          "title": "Colorez sans surcharger",
+          "html": "Ajoutez une ou deux gouttes de colorant, puis mélangez jusqu’à obtenir une couleur homogène. Mieux vaut renforcer la couleur ensuite que de tacher les mains et le plan de travail dès le départ."
+        },
+        {
+          "title": "Ajoutez le bicarbonate",
+          "html": "Incorporez le bicarbonate jusqu’à disparition des petits grains. Cette étape aide à stabiliser la texture, mais une quantité excessive rendra le résultat plus ferme."
+        },
+        {
+          "title": "Activez très progressivement",
+          "html": "Versez une demi-cuillère à café de solution pour lentilles, mélangez lentement, puis observez. Répétez par quelques gouttes ou petites fractions de cuillère jusqu’à ce que la masse se détache des parois."
+        },
+        {
+          "title": "Pétrissez et ajustez",
+          "html": "Prenez la pâte en main et malaxez-la une à deux minutes. Si elle reste franchement collante, ajoutez seulement quelques gouttes d’activateur. Si elle devient dure, incorporez une petite noisette de colle."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pourquoi la texture change-t-elle si vite?",
+      "html": "<p>L’activateur relie la colle et transforme progressivement un liquide épais en réseau souple. Trop peu d’activateur laisse une masse collante; trop d’activateur resserre ce réseau et donne une pâte qui casse ou rebondit comme du caoutchouc. La lenteur est donc votre meilleur outil de dosage.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "trois-variantes-de-slime",
+      "text": "Deux variantes créatives et une option sans colle"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "slime-fluffy-mousseux",
+      "text": "Le slime fluffy: plus léger et mousseux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Versez environ 60 ml de colle PVA dans le bol, puis ajoutez deux généreuses poignées de mousse à raser. Mélangez délicatement pour conserver du volume, ajoutez le bicarbonate, puis activez selon la même méthode que le slime classique. La mousse apporte une texture aérienne et mate, mais elle réduit l’élasticité et fait sécher la pâte plus rapidement. Utilisez une mousse sans parfum trop marqué si possible, aérez la pièce et laissez un adulte actionner l’aérosol."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "slime-transparent",
+      "text": "Le slime transparent: brillant, mais patient"
+    },
+    {
+      "type": "paragraph",
+      "html": "Remplacez la colle blanche par une colle transparente PVA et renoncez au colorant pour préserver l’effet verre. Suivez le même principe d’activation, mais mélangez sans fouetter: les bulles d’air sont très visibles. Une fois la texture obtenue, laissez le slime reposer fermé plusieurs heures, voire jusqu’au lendemain. Les microbulles remontent alors peu à peu et la pâte devient plus limpide. Cette variante met bien en valeur quelques confettis larges, mais évitez d’y enfermer de petits objets détachables."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "pate-sensorielle-fecule-eau",
+      "text": "La pâte fécule-eau: l’alternative sensorielle courte durée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Mélangez environ deux volumes de fécule de maïs avec un volume d’eau dans un bol. Ajoutez l’eau en plusieurs fois: la préparation doit couler doucement lorsqu’on la laisse reposer, mais former une boule si l’on la serre dans la main. Un peu de colorant alimentaire peut être ajouté à l’eau avant le mélange. Cette pâte est fascinante parce qu’elle résiste à une pression rapide puis redevient fluide, mais elle n’est pas élastique. Préparez-la juste avant le jeu, ne la conservez pas et jetez-la à la poubelle plutôt que dans l’évier en grande quantité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "corriger-un-slime-rate",
+      "text": "Corriger un slime trop collant, trop dur ou granuleux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un résultat imparfait est courant, surtout lorsque vous changez de marque de colle ou de solution pour lentilles. Ne cherchez pas à tout réparer d’un coup: prélevez une petite partie de la pâte, testez l’ajout sur celle-ci, puis appliquez la correction au reste uniquement si elle fonctionne. Cela évite de transformer un slime récupérable en bloc trop ferme."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Il colle aux doigts:</strong> pétrissez-le d’abord une minute, puis ajoutez quelques gouttes d’activateur. Attendez entre deux ajouts: l’effet n’est pas toujours immédiat.",
+        "<strong>Il est trop dur ou se déchire:</strong> malaxez une petite noisette de colle blanche dans la pâte. Si besoin, ajoutez une minuscule quantité d’eau, mais pas directement une grande cuillère.",
+        "<strong>Il est granuleux:</strong> le bicarbonate a probablement été insuffisamment mélangé ou trop abondant. Pétrissez longtemps; si les grains persistent, repartez sur une petite quantité avec moins de poudre.",
+        "<strong>Il reste liquide malgré l’activateur:</strong> n’ajoutez pas de produit agressif. La formule de la solution peut ne pas convenir; conservez l’essai pour une activité de collage ou jetez-le, puis changez de solution lors d’un prochain test.",
+        "<strong>Il accroche après quelques jours:</strong> les mains, la poussière et l’humidité l’ont souvent dégradé. Une petite quantité de colle peut l’assouplir, mais une pâte sale ou odorante doit être éliminée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon geste pour vérifier la texture",
+      "html": "<p>Étirez le slime lentement avec les deux mains. S’il s’allonge en ruban sans coller franchement, il est prêt. Si vous tirez brusquement, même un slime réussi peut se rompre: ce n’est pas forcément un défaut de recette.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conserver-nettoyer-et-jeter",
+      "text": "Conserver, nettoyer et savoir quand jeter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Rangez le slime dans un petit pot propre, hermétique et clairement étiqueté, hors de portée des jeunes enfants et des animaux. N’utilisez pas un récipient alimentaire reconnaissable, afin d’éviter toute confusion. Gardez-le dans un endroit frais et sec, et lavez les mains avant chaque utilisation: c’est la meilleure façon de limiter les saletés et les moisissures. Un slime maison peut rester manipulable de quelques jours à environ deux semaines, mais cette durée dépend beaucoup de l’hygiène et de la quantité de mousse, de décorations ou d’eau ajoutée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Jetez-le sans hésiter s’il sent mauvais, présente des taches, devient très liquide, change de couleur, a séjourné dans la bouche ou a irrité la peau. En cas de contact avec les yeux, rincez abondamment à l’eau claire et demandez un avis médical si la gêne persiste. Pour nettoyer une table, retirez la masse avant qu’elle sèche puis lavez à l’eau tiède savonneuse. Sur un textile, enlevez l’excédent sans frotter, rincez à l’eau froide et consultez l’étiquette du vêtement avant lavage."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Une préparation qui contient du colorant alimentaire, de la fécule ou une colle dite non toxique n’est pas pour autant comestible. La règle la plus simple est de traiter tout slime comme une pâte de jeu à manipuler puis à ranger.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "organiser-une-activite-slime",
+      "text": "Organiser une activité slime sans transformer la maison en atelier de nettoyage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un anniversaire ou un après-midi pluvieux, préparez un poste par participant: bol, cuillère, dose de colle déjà mesurée et pot avec prénom. L’adulte garde le bicarbonate, l’activateur et les colorants concentrés au centre de la table. Les enfants peuvent choisir une couleur, observer le changement de matière et pétrir leur portion, tandis que les ajouts les plus sensibles restent contrôlés. Comptez une vingtaine de minutes par groupe si vous incluez l’installation, le mélange, le rangement et le lavage des mains."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Préférez une seule couleur par slime: les mélanges de nombreuses teintes finissent vite en brun terne.",
+        "Annoncez dès le départ les trois règles: pas de slime au visage, pas dans la bouche, pas sur les textiles.",
+        "Limitez les décorations à un choix simple pour que l’activité reste centrée sur la texture plutôt que sur l’accumulation d’objets.",
+        "Prévoyez une boîte ou un sac pour rapporter les pots sans les confondre avec le goûter."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-laction",
+      "text": "Passez à l’action: votre premier slime en toute simplicité"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour commencer, choisissez la recette classique en petite quantité et ne cherchez pas immédiatement une texture spectaculaire. Préparez votre espace, mesurez 80 ml de colle, ajoutez l’activateur avec patience et notez ce qui a fonctionné avec vos produits. Une fois le geste maîtrisé, testez le slime fluffy ou transparent plutôt que de multiplier les ingrédients dans le même bol. Vous obtiendrez ainsi des résultats plus propres, plus faciles à corriger et surtout une activité créative qui reste un bon moment partagé."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire du slime sans solution pour lentilles?",
+      "a": "<p>Oui, mais pas forcément un slime élastique à la colle. La solution pour lentilles compatible joue le rôle d’activateur dans la recette classique. Ne la remplacez pas par de la lessive, du liquide vaisselle ou du borax en poudre. Si vous ne souhaitez pas utiliser d’activateur, choisissez plutôt la préparation fécule-eau: elle offre une expérience sensorielle amusante, mais sa texture est différente et elle ne se conserve pas.</p>"
+    },
+    {
+      "q": "Quelle recette de slime proposer à un enfant de maternelle?",
+      "a": "<p>Pour un enfant qui porte encore facilement les objets à la bouche, mieux vaut éviter le slime à la colle et choisir une activité très étroitement surveillée, courte et adaptée à ses habitudes, comme la pâte fécule-eau. Celle-ci ne doit pas non plus être mangée. Dans tous les cas, l’adulte prépare les ingrédients, reste présent pendant le jeu et élimine la préparation juste après.</p>"
+    },
+    {
+      "q": "Pourquoi mon slime maison reste-t-il collant malgré le bicarbonate?",
+      "a": "<p>Le bicarbonate seul ne suffit pas à créer la texture élastique. Le problème vient souvent d’un activateur ajouté en quantité insuffisante, ou d’une solution pour lentilles dont la formule n’est pas compatible. Pétrissez d’abord la pâte, puis ajoutez quelques gouttes d’activateur à la fois. Si rien ne change après plusieurs essais très modérés, ne versez pas davantage de produits: essayez une autre solution compatible sur une nouvelle petite portion.</p>"
+    },
+    {
+      "q": "Combien de temps peut-on garder un slime fait maison?",
+      "a": "<p>Comptez souvent de quelques jours à environ deux semaines dans un pot hermétique propre, selon les ingrédients et la façon dont il est manipulé. Le slime fluffy se dégrade généralement plus vite. Jetez immédiatement toute pâte qui présente une odeur inhabituelle, des taches, une moisissure, un changement important de texture ou qui a été mise à la bouche.</p>"
+    },
+    {
+      "q": "Comment retirer du slime des cheveux, d’un pull ou d’un canapé?",
+      "a": "<p>Sur les cheveux, retirez doucement le maximum de pâte, appliquez un peu d’après-shampoing ou d’huile végétale pour aider à la faire glisser, puis lavez avec un shampoing. Sur un vêtement, ôtez l’excédent sans l’étaler, rincez à l’eau froide et lavez selon l’étiquette. Pour un canapé, testez d’abord toute solution de nettoyage sur une zone discrète et évitez la chaleur, qui peut fixer certains résidus.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

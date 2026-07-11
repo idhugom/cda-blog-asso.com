@@ -1,0 +1,328 @@
+{
+  "id": 624,
+  "slug": "combien-de-km-peut-faire-un-scooter-50cm3-autonomie-et-conseils-pour-maximiser-votre-distance",
+  "title": "Combien de km peut faire un scooter 50cm3 : autonomie et conseils pour maximiser votre distance",
+  "metaTitle": "Scooter 50cm3: autonomie, km et conseils pratiques",
+  "metaDescription": "Combien de kilomètres parcourt un scooter 50cm3 avec un plein? Autonomie réelle, consommation, réserve et gestes simples pour rouler plus loin, sans panne.",
+  "dek": "Un scooter 50 cm³ thermique peut généralement parcourir entre 120 et 300 km avec un plein, mais cette fourchette varie fortement selon le réservoir, le moteur et votre usage. Voici comment estimer votre autonomie utile, éviter la panne sèche et réduire votre consommation sans compromettre la sécurité.",
+  "category": "auto-mobilite",
+  "tags": [
+    "scooter 50 cm3",
+    "autonomie",
+    "consommation",
+    "carburant",
+    "entretien scooter"
+  ],
+  "keyTakeaways": [
+    "Comptez souvent 120 à 300 km avec un plein sur un scooter 50 cm³ thermique.",
+    "L'autonomie utile se calcule avec le carburant réellement disponible, pas avec le réservoir rempli à ras bord.",
+    "La pression des pneus, l'entretien et une conduite souple ont un effet concret sur la consommation.",
+    "Gardez une marge de carburant: la jauge et la réserve ne sont pas des outils de précision.",
+    "Une hausse soudaine de consommation mérite un contrôle mécanique."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Faire le plein d'un scooter 50 cm³ ne coûte généralement pas très cher, mais cela ne dit pas encore jusqu'où vous pourrez aller. Entre un trajet urbain avec arrêts fréquents, un vieux moteur deux-temps et un modèle quatre-temps récent, l'écart d'autonomie peut être important. En pratique, il faut regarder à la fois la capacité du réservoir, la consommation réelle et la marge de sécurité que vous vous accordez."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "combien-de-kilometres-avec-un-plein",
+      "text": "Combien de kilomètres avec un plein de scooter 50 cm³?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un scooter 50 cm³ à essence en bon état, retenez une autonomie courante d'environ <strong>120 à 300 km avec un plein</strong>. Beaucoup de modèles utilisés surtout en ville se situent plutôt vers 150 à 250 km avant de devoir refaire le plein. Une petite machine ancienne, sollicitée à pleine charge ou mal entretenue peut passer sous cette plage; un quatre-temps récent et économe, conduit tranquillement, peut la dépasser."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le chiffre réellement utile n'est toutefois pas l'autonomie maximale théorique. Il s'agit de la distance que vous pouvez parcourir <strong>sans finir sur la réserve</strong>, sans chercher une station dans l'urgence et sans risquer de désamorcer l'alimentation en carburant. Pour vos trajets réguliers, mieux vaut donc raisonner avec une marge d'au moins 0,5 à 1 litre, selon le modèle et la fiabilité de sa jauge."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "4 à 8 L",
+          "label": "capacité de réservoir fréquemment rencontrée sur les scooters 50 cm³ thermiques"
+        },
+        {
+          "value": "~2 à 3,5 L/100 km",
+          "label": "consommation réelle souvent observée selon le moteur et le parcours"
+        },
+        {
+          "value": "120 à 300 km",
+          "label": "ordre de grandeur d'autonomie avec un plein, hors conditions extrêmes"
+        },
+        {
+          "value": "45 km/h",
+          "label": "vitesse maximale réglementaire d'un cyclomoteur 50 cm³ homologué"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Ne confondez pas autonomie affichée et autonomie sereine: prévoyez votre ravitaillement avant que la dernière barre de jauge ne s'éteigne.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qui-fait-varier-lautonomie",
+      "text": "Les facteurs qui font vraiment varier l'autonomie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux scooters portant la mention 50 cm³ peuvent avoir des comportements très différents. Le volume du réservoir compte, naturellement, mais la consommation au kilomètre est au moins aussi déterminante. Un moteur deux-temps ancien consomme souvent davantage qu'un quatre-temps moderne; il réclame aussi une attention particulière à son huile. L'injection électronique, lorsqu'elle est présente, tend à mieux doser le carburant qu'un carburateur mal réglé, sans rendre pour autant le scooter insensible aux conditions de circulation."
+    },
+    {
+      "type": "paragraph",
+      "html": "La ville est le terrain de prédilection du 50 cm³, mais elle n'est pas toujours favorable à son autonomie: démarrages répétés, feux, ralentissements et accélérations franches augmentent la consommation. Le froid, le vent de face, une côte longue, un passager, un top-case chargé ou des pneus insuffisamment gonflés ont le même effet. À l'inverse, un parcours fluide, plat et régulier permet de s'approcher des meilleurs chiffres du constructeur, qui sont généralement obtenus dans des conditions plus favorables que le quotidien."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour un scooter 50 cm³ thermique en état correct. L'autonomie indiquée intègre une marge raisonnable avant la panne sèche.",
+      "headers": [
+        "Profil de scooter et d'usage",
+        "Réservoir courant",
+        "Consommation plausible",
+        "Autonomie prudente"
+      ],
+      "rows": [
+        [
+          "Quatre-temps récent, conduite souple",
+          "5 à 7 L",
+          "environ 2 à 2,6 L/100 km",
+          "180 à 280 km"
+        ],
+        [
+          "Usage urbain mixte courant",
+          "5 à 7 L",
+          "environ 2,5 à 3,3 L/100 km",
+          "140 à 230 km"
+        ],
+        [
+          "Deux-temps ancien ou conduite soutenue",
+          "5 à 7 L",
+          "environ 3 à 4,5 L/100 km",
+          "100 à 190 km"
+        ],
+        [
+          "Grand réservoir et conditions favorables",
+          "6 à 8 L",
+          "environ 2 à 2,5 L/100 km",
+          "230 à 320 km"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À propos de la réserve",
+      "html": "<p>Sur de nombreux scooters modernes, la « réserve » n'est pas un compartiment séparé à activer: c'est surtout le niveau très bas signalé par la jauge ou un voyant. Consultez le manuel, car son volume et le comportement du voyant changent selon les modèles.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calculer-son-autonomie-reelle",
+      "text": "Comment calculer votre autonomie réelle, plutôt que la deviner"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul est simple: <strong>autonomie = litres utilisables ÷ consommation en L/100 km × 100</strong>. Par exemple, si le réservoir fait 6 litres, que vous conservez 0,7 litre de marge et que votre consommation réelle est de 2,7 L/100 km, votre autonomie prudente est proche de 196 km. Avec la même capacité mais 3,4 L/100 km, elle tombe autour de 156 km."
+    },
+    {
+      "type": "paragraph",
+      "html": "La consommation homologuée ou annoncée par un vendeur est un point de départ, pas une certitude. Le meilleur indicateur reste votre propre relevé sur plusieurs pleins: il tient compte de vos rues, de votre gabarit, de votre manière d'accélérer et de l'état réel du scooter."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Repérez le volume de votre réservoir",
+          "html": "Cherchez la capacité dans le manuel, sous la selle ou sur la fiche technique du modèle. Ne remplissez pas le goulot jusqu'au bord: le scooter doit rester stable, droit et sans débordement lors du ravitaillement."
+        },
+        {
+          "title": "Mesurez une consommation sur deux ou trois pleins",
+          "html": "Remettez le compteur journalier à zéro après un plein. Au plein suivant, notez les litres ajoutés et les kilomètres parcourus. Calculez: litres ajoutés × 100 ÷ kilomètres parcourus."
+        },
+        {
+          "title": "Déduisez une marge de sécurité",
+          "html": "Enlevez 0,5 à 1 litre à la capacité utile, davantage si la jauge est capricieuse ou si vous roulez loin des stations. Refaites ensuite le calcul avec cette quantité réduite."
+        },
+        {
+          "title": "Fixez votre seuil de plein",
+          "html": "Ne visez pas le dernier kilomètre possible. Pour les trajets inhabituels, prévoyez une station quand il vous reste encore environ un tiers de votre autonomie prudente."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un suivi très simple",
+      "html": "<p>Notez dans votre téléphone les kilomètres et les litres de trois pleins consécutifs. En quelques semaines, vous connaîtrez mieux l'autonomie de votre scooter que ne le fait une jauge à barres.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "scooter-thermique-ou-electrique",
+      "text": "Scooter 50 cm³ thermique ou équivalent électrique: ne comparez pas les autonomies de la même façon"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme 50 cm³ désigne un moteur thermique. Les scooters électriques dits « équivalent 50 » relèvent de la même catégorie d'usage urbain, mais leur autonomie dépend de la capacité de batterie, de sa température, de son âge, de votre vitesse et de la charge transportée. Une autonomie annoncée pour une batterie neuve et un conducteur léger peut baisser sensiblement en hiver ou sur un trajet rapide et vallonné."
+    },
+    {
+      "type": "compare",
+      "title": "Le choix de l'autonomie au quotidien",
+      "a": {
+        "title": "Scooter 50 cm³ à essence",
+        "points": [
+          "Autonomie souvent comprise entre 120 et 300 km selon le plein et l'usage.",
+          "Ravitaillement très rapide, à condition de trouver une station accessible.",
+          "Consommation facile à suivre en litres et en kilomètres.",
+          "Entretien moteur, transmission et alimentation à prévoir régulièrement."
+        ]
+      },
+      "b": {
+        "title": "Scooter électrique équivalent 50",
+        "points": [
+          "Autonomie réelle fréquemment adaptée aux trajets urbains, souvent de quelques dizaines de kilomètres à environ une centaine selon la batterie.",
+          "Recharge à anticiper: prise disponible, durée de charge et possibilité de retirer la batterie.",
+          "Coût d'énergie souvent faible à l'usage, mais batterie à préserver et à remplacer un jour.",
+          "Performances et autonomie plus sensibles au froid, au relief et à la charge."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "maximiser-la-distance-sans-risque",
+      "text": "Maximiser la distance: les gestes qui réduisent réellement la consommation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première économie se joue à l'accélérateur. Un scooter 50 cm³ n'a pas besoin d'être laissé chauffer longtemps au ralenti: démarrez tranquillement et roulez sans accélérations brusques. Anticiper les feux, relâcher progressivement les gaz et conserver une allure aussi régulière que la circulation le permet réduisent les phases où le moteur consomme le plus. Cela améliore aussi la sécurité et limite l'usure des freins."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vérifiez la pression des pneus à froid, selon les valeurs du constructeur et en tenant compte d'un éventuel passager. Des pneus sous-gonflés augmentent la résistance au roulement, dégradent la tenue de route et accélèrent l'usure: vous perdez sur tous les tableaux. Évitez aussi de transporter en permanence des objets lourds dans le coffre ou le top-case; à faible cylindrée, chaque kilo et chaque prise au vent se ressentent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "entretien-qui-preserve-lautonomie",
+      "text": "L'entretien qui préserve l'autonomie"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Respectez les révisions prévues: vidange pour un quatre-temps, contrôle de la transmission, de la bougie et des filtres selon le calendrier du constructeur.",
+        "Faites contrôler un filtre à air sale, une courroie de variateur usée, des galets fatigués ou un carburateur mal réglé: ces défauts peuvent alourdir la consommation et nuire aux performances.",
+        "Sur un deux-temps, utilisez l'huile adaptée à la préconisation du constructeur et surveillez son niveau séparément du carburant.",
+        "Choisissez le carburant autorisé par le manuel. La compatibilité avec le SP95-E10 n'est pas systématique sur les machines anciennes.",
+        "Contrôlez qu'aucun frein ne reste légèrement serré et que les roues tournent librement: une résistance anormale coûte du carburant."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Fausse bonne idée: le débridage",
+      "html": "<p>Débrider un cyclomoteur homologué est interdit sur route ouverte et peut affecter la fiabilité, la consommation, l'assurance et votre responsabilité en cas d'accident. Chercher plus de vitesse n'est pas une méthode légale ni durable pour gagner de l'autonomie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-la-panne-seche-et-preparer-un-trajet",
+      "text": "Éviter la panne sèche et préparer un trajet plus long"
+    },
+    {
+      "type": "paragraph",
+      "html": "La panne sèche n'abîme pas forcément immédiatement un scooter, mais elle vous expose surtout à un arrêt dangereux ou gênant. Sur une machine à injection, elle peut également imposer plusieurs tentatives de démarrage après le remplissage. N'attendez donc pas que le moteur tousse: dès que le voyant de réserve apparaît, faites du prochain ravitaillement une priorité plutôt qu'une option."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un déplacement de 80, 120 ou 150 km, vérifiez votre autonomie avec une marge, puis identifiez une ou deux stations possibles sur l'itinéraire. N'empruntez pas une autoroute ou une voie rapide interdite aux cyclomoteurs, même si la distance semble compatible avec votre plein. Un scooter 50 cm³ est adapté à la mobilité locale et périurbaine sur les voies autorisées, pas à tous les axes ni à toutes les conditions de trafic."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour estimer le budget carburant, utilisez votre consommation réelle: consommation en L/100 km × prix au litre. À titre d'exemple de calcul, 2,5 L/100 km à 1,80 euro le litre représentent 4,50 euros pour 100 km. Le prix à la pompe varie; votre ticket de caisse reste donc le repère le plus juste pour suivre votre coût au kilomètre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "autonomie-en-baisse-quand-consulter",
+      "text": "Autonomie qui baisse: quand faut-il s'inquiéter?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une variation légère entre l'hiver et l'été, ou entre des trajets très urbains et une route fluide, est normale. En revanche, si votre consommation augmente nettement sur le même parcours et avec la même conduite, cherchez une cause. Une hausse d'environ un quart par rapport à vos relevés habituels constitue un bon signal pour vérifier les éléments simples avant que le problème ne s'aggrave."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Pneus visiblement sous-gonflés, usés ou inadaptés à la charge.",
+        "Filtre à air encrassé, bougie usée, carburateur à régler ou anomalie d'injection.",
+        "Courroie, variateur ou galets de transmission nécessitant un contrôle.",
+        "Frein qui frotte, roulement fatigué ou roue qui ne tourne pas librement.",
+        "Fuite de carburant, odeur d'essence persistante ou traces humides: dans ce cas, évitez de rouler et faites contrôler rapidement le scooter."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Avant d'acheter un scooter d'occasion",
+      "html": "<p>Demandez la capacité du réservoir, les factures d'entretien, l'âge de la courroie et une estimation de consommation faite par le vendeur. Une autonomie exceptionnellement faible peut révéler un simple manque d'entretien, mais aussi un usage intensif ou une mécanique à remettre en état.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-daction-pour-rouler-plus-loin",
+      "text": "Le plan d'action pour rouler plus loin, sans jouer avec la réserve"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par un relevé sur trois pleins pour obtenir votre consommation personnelle. Déduisez ensuite une marge de sécurité, puis utilisez ce chiffre prudent pour préparer vos déplacements. Enfin, contrôlez chaque mois la pression des pneus et respectez le programme d'entretien: ces gestes coûtent peu de temps et protègent à la fois votre autonomie, votre budget et votre sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous devez souvent dépasser 100 à 150 km dans une journée, ne choisissez pas votre scooter uniquement sur son volume de coffre ou son prix d'achat. Comparez la taille du réservoir, la consommation mesurée par des utilisateurs, le confort, l'accès aux stations ou à la recharge et la facilité d'entretien. L'autonomie la plus utile est celle qui correspond réellement à vos trajets, avec de la marge."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de kilomètres peut faire un scooter 50 cm³ avec un réservoir de 6 litres?",
+      "a": "<p>Avec une consommation de 2,5 L/100 km, 6 litres correspondent théoriquement à 240 km. En gardant 0,5 à 1 litre de sécurité, comptez plutôt environ 200 à 220 km. Si votre scooter consomme 3,5 L/100 km, la même réserve vous donnera plutôt 140 à 160 km d'autonomie prudente.</p>"
+    },
+    {
+      "q": "Peut-on rouler longtemps sur la réserve d'un scooter 50 cm³?",
+      "a": "<p>Ce n'est pas conseillé. La distance restante dépend du modèle, du relief et de votre conduite, et la jauge manque souvent de précision à bas niveau. La réserve doit vous permettre de rejoindre une station proche, pas de poursuivre vos trajets habituels pendant plusieurs jours.</p>"
+    },
+    {
+      "q": "Rouler à fond augmente-t-il beaucoup la consommation d'un scooter 50 cm³?",
+      "a": "<p>Oui, généralement. À petite cylindrée, les accélérations répétées et une poignée maintenue à fond font travailler le moteur dans une zone plus gourmande. Une conduite régulière, avec anticipation des ralentissements, réduit la consommation tout en limitant l'usure et les risques liés à une conduite brusque.</p>"
+    },
+    {
+      "q": "Quel carburant mettre dans un scooter 50 cm³?",
+      "a": "<p>Référez-vous d'abord au manuel du constructeur. Les scooters récents acceptent souvent le sans-plomb courant, mais le SP95-E10 peut être déconseillé ou incompatible avec certaines machines anciennes et certains éléments de leur circuit d'alimentation. Ne choisissez pas un carburant au hasard: la préconisation du fabricant prime.</p>"
+    },
+    {
+      "q": "Pourquoi mon scooter consomme-t-il plus qu'avant?",
+      "a": "<p>Commencez par vérifier la pression des pneus, le poids transporté et la nature de vos trajets. Si rien n'a changé, un entretien peut être nécessaire: filtre à air, bougie, courroie, variateur, carburateur ou freins qui frottent sont des causes fréquentes. Une odeur d'essence, une fuite ou une hausse brutale de consommation justifient un contrôle rapide.</p>"
+    },
+    {
+      "q": "Un scooter électrique équivalent 50 a-t-il la même autonomie qu'un 50 cm³ essence?",
+      "a": "<p>Pas nécessairement. Un 50 cm³ essence peut souvent faire plus de 120 km avec un plein, alors qu'un électrique équivalent 50 dépend beaucoup de sa batterie et de son usage. Certains conviennent parfaitement à des déplacements urbains quotidiens, mais il faut vérifier l'autonomie réelle en hiver, la possibilité de recharger et, si besoin, le coût d'une batterie de remplacement.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

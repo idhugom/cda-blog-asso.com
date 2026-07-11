@@ -1,0 +1,340 @@
+{
+  "id": 1550,
+  "slug": "madgaze-solutions-aux-erreurs-de-geolocalisation-sur-madgaze-vr",
+  "title": "Madgaze : « Solutions aux erreurs de géolocalisation sur Madgaze VR »",
+  "metaTitle": "Madgaze VR: corriger les erreurs de géolocalisation",
+  "metaDescription": "Madgaze VR: repérez l’origine des erreurs de géolocalisation et corrigez GPS, réseau, autorisations, capteurs et calibration, étape par étape simplement.",
+  "dek": "Une position qui saute, une flèche orientée dans le mauvais sens ou un lieu virtuel décalé ne relèvent pas forcément du même problème. Voici une méthode concrète pour distinguer GPS, réseau, autorisations et suivi de mouvement sur Madgaze VR, puis intervenir au bon endroit.",
+  "category": "tech-objets",
+  "tags": [
+    "Madgaze VR",
+    "géolocalisation",
+    "GPS",
+    "réalité virtuelle",
+    "réalité augmentée",
+    "dépannage"
+  ],
+  "keyTakeaways": [
+    "Commencez par vérifier la position dans l’application Cartes du téléphone associé.",
+    "Une position GPS erronée et un monde virtuel qui dérive sont deux pannes différentes.",
+    "Les autorisations de localisation précise, le Bluetooth et la batterie peuvent bloquer une application pourtant à jour.",
+    "En intérieur, le GPS seul est souvent insuffisant: l’application doit prévoir une localisation adaptée au lieu.",
+    "Si le défaut n’affecte qu’une seule application, réinitialisez ses données avant d’incriminer les lunettes."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Sur Madgaze VR, une mauvaise géolocalisation peut prendre plusieurs formes: un point bleu à plusieurs rues de votre position, une boussole instable, ou des contenus virtuels posés au mauvais endroit. La bonne correction dépend de la source réelle du défaut. En procédant par tests simples, vous éviterez les redémarrages inutiles et saurez quand le problème vient du téléphone, des lunettes, du réseau ou de l’application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-localisation-veut-dire",
+      "text": "Distinguer géolocalisation, orientation et suivi de mouvement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme « géolocalisation » recouvre souvent trois mécanismes, qui ne se réparent pas de la même manière. La <strong>position géographique</strong> indique où vous êtes sur la Terre: elle repose principalement sur le GPS et d’autres réseaux satellitaires, complétés par le Wi-Fi et le réseau mobile. L’<strong>orientation</strong> indique dans quelle direction vous regardez: elle utilise notamment boussole, gyroscope et accéléromètre. Enfin, le <strong>suivi de position dans l’espace</strong> permet aux lunettes ou au casque de comprendre vos déplacements dans une pièce grâce à des caméras et capteurs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Selon le modèle Madgaze et l’application utilisée, la position peut être calculée directement par l’appareil, mais elle est fréquemment fournie par le smartphone associé. Il ne faut donc pas supposer que les lunettes possèdent leur propre GPS. Consultez la fiche de votre modèle et les exigences de l’application: certaines expériences n’utilisent aucune position GPS, même si elles affichent une carte ou un environnement extérieur."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~5 à 20 m",
+          "label": "précision souvent constatée en extérieur dégagé sur un smartphone récent, selon les conditions"
+        },
+        {
+          "value": "~30 à 90 s",
+          "label": "temps parfois nécessaire après une mise en marche pour stabiliser une position satellite"
+        },
+        {
+          "value": "quelques mètres à bien davantage",
+          "label": "écart possible en intérieur ou entre des immeubles hauts"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le test qui évite les fausses pistes",
+      "html": "<p>Si la position est déjà fausse dans l’application Cartes du téléphone, Madgaze VR ne pourra généralement pas la corriger. Si elle est correcte dans Cartes mais erronée dans une seule expérience, cherchez plutôt du côté de cette application, de ses droits ou de son service de cartographie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-le-symptome-avant-d-intervenir",
+      "text": "Identifier le symptôme avant d’intervenir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez une minute pour décrire le défaut avec précision. Une position qui reste fixe à l’ancienne adresse n’a pas la même cause qu’un repère qui oscille de quelques mètres. De même, une flèche qui pointe au nord alors que vous regardez l’est relève le plus souvent de l’orientation, pas du GPS. Ce diagnostic réduit fortement le nombre de réglages à modifier."
+    },
+    {
+      "type": "table",
+      "caption": "Associer le symptôme à la vérification prioritaire",
+      "headers": [
+        "Symptôme observé",
+        "Cause probable",
+        "Premier contrôle"
+      ],
+      "rows": [
+        [
+          "Point bleu éloigné de votre position réelle",
+          "GPS faible, localisation imprécise ou données réseau insuffisantes",
+          "Tester Cartes dehors, avec Wi-Fi et données mobiles activés"
+        ],
+        [
+          "Position correcte mais flèche mal orientée",
+          "Boussole perturbée ou calibration incomplète",
+          "Éloigner les objets métalliques et recalibrer la boussole"
+        ],
+        [
+          "Objet virtuel qui dérive dans la pièce",
+          "Suivi spatial, éclairage ou environnement peu lisible",
+          "Recentrer l’expérience et améliorer l’éclairage"
+        ],
+        [
+          "Erreur dans une seule application",
+          "Permission, cache, version ou serveur de l’application",
+          "Vérifier les droits et mettre l’application à jour"
+        ],
+        [
+          "Position indisponible après une longue pause",
+          "Économie d’énergie, Bluetooth interrompu ou application mise en veille",
+          "Désactiver temporairement l’optimisation de batterie"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas décalage et latence",
+      "html": "<p>Une position qui met quelques instants à s’actualiser au démarrage peut être normale. En revanche, un décalage durable après plusieurs minutes en extérieur dégagé, ou un saut de plusieurs kilomètres, mérite une vérification complète.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "corriger-gps-reseau-et-autorisations",
+      "text": "Corriger les causes les plus fréquentes: GPS, réseau et autorisations"
+    },
+    {
+      "type": "paragraph",
+      "html": "La localisation moderne combine plusieurs sources. Le GPS donne une position globale, mais il fonctionne mal sous un toit, dans un parking, au pied d’immeubles élevés ou derrière certains vitrages traités. Le Wi-Fi et le réseau mobile accélèrent le repérage et peuvent améliorer le résultat en ville. Couper tous les réseaux pour économiser la batterie peut donc dégrader une expérience Madgaze qui a besoin d’un point de départ fiable."
+    },
+    {
+      "type": "compare",
+      "title": "Deux problèmes qui se ressemblent, deux réponses différentes",
+      "a": {
+        "title": "GPS ou réseau insuffisant",
+        "points": [
+          "Le point sur la carte est faux dans plusieurs applications.",
+          "Le problème s’améliore lorsque vous sortez dans un espace dégagé.",
+          "La priorité est donnée à la localisation précise, au réseau et à la vue du ciel."
+        ]
+      },
+      "b": {
+        "title": "Suivi spatial ou boussole défaillant",
+        "points": [
+          "La carte est juste, mais l’orientation ou les objets virtuels sont décalés.",
+          "Le défaut peut n’apparaître que dans les lunettes ou dans une pièce donnée.",
+          "La priorité est donnée à la calibration, à l’éclairage et au recentrage."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur le téléphone associé, ouvrez les réglages de localisation et choisissez le mode le plus précis disponible. Vérifiez ensuite les autorisations de l’application compagnon Madgaze et de l’application VR concernée. Elles doivent pouvoir accéder à la localisation lorsque vous utilisez l’application; si l’expérience le justifie, l’accès en arrière-plan peut être demandé, mais ne l’accordez que si vous comprenez son utilité. Sur Android, regardez aussi si l’option de <strong>localisation précise</strong> est activée pour l’application. Sur iPhone, contrôlez l’option de position précise dans les réglages de confidentialité."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À propos de vos données",
+      "html": "<p>Autoriser la localisation ne signifie pas forcément qu’une application doit la recevoir en permanence. Privilégiez l’autorisation pendant l’utilisation, puis réévaluez les droits si vous n’utilisez plus l’expérience ou si sa demande ne paraît pas cohérente avec sa fonction.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-la-liaison-avec-le-telephone",
+      "text": "Vérifier la liaison entre Madgaze et le téléphone associé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand les lunettes dépendent du smartphone, une connexion Bluetooth instable peut transmettre une information de position avec retard ou empêcher l’application de récupérer les capteurs nécessaires. Maintenez les deux appareils suffisamment chargés, rapprochés et déverrouillés pendant le test. Évitez de multiplier les connexions Bluetooth concurrentes au moment du diagnostic, notamment avec une montre, un système audio de voiture et plusieurs écouteurs."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vérifiez que les lunettes apparaissent comme <strong>connectées</strong> dans l’application ou les réglages Bluetooth du téléphone.",
+        "Fermez complètement l’application concernée, puis relancez-la après la reconnexion des lunettes.",
+        "Contrôlez que Bluetooth, Wi-Fi et données mobiles ne sont pas coupés par un mode avion, un mode concentration ou une automatisation.",
+        "Accordez à l’application les droits Bluetooth ou appareils à proximité lorsqu’ils sont demandés.",
+        "Désactivez temporairement l’économiseur de batterie pour le test: certains téléphones limitent les mises à jour de localisation en arrière-plan.",
+        "Si la liaison reste capricieuse, oubliez l’appareil Bluetooth puis associez-le de nouveau en suivant la procédure du fabricant."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "N’effacez pas immédiatement toutes les données des lunettes. Cette opération peut supprimer des réglages, contenus téléchargés ou associations. Commencez par la reconnexion, qui résout une partie des incidents de transmission sans conséquence sur votre configuration."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recalibrer-orientation-et-suivi-spatial",
+      "text": "Recalibrer l’orientation et le suivi spatial"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre point géographique est bon mais que le contenu virtuel est mal ancré, le GPS n’est probablement pas le coupable. Dans un environnement VR ou AR, les capteurs suivent vos mouvements à partir d’un point de référence. Une pièce très sombre, un mur blanc uniforme, des reflets, des miroirs ou un changement brutal de lumière peuvent rendre ce suivi moins fiable. Dans ce cas, cherchez une commande de <strong>recentrage</strong>, de réinitialisation de l’espace ou de calibration dans l’application, et non un réglage GPS."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Placez-vous dans de bonnes conditions",
+          "html": "Restez immobile quelques secondes dans une zone éclairée de façon homogène. Évitez les reflets directs, les passages très sombres et les surfaces entièrement uniformes."
+        },
+        {
+          "title": "Recentrez l’affichage",
+          "html": "Utilisez la commande prévue par l’application ou les lunettes pour définir votre regard actuel comme position centrale. Ne bougez pas avant la fin de l’opération."
+        },
+        {
+          "title": "Calibrez l’orientation si nécessaire",
+          "html": "Si seule la direction est mauvaise, suivez la procédure de calibration de la boussole proposée par le téléphone ou l’application. Éloignez-vous d’une voiture, d’une enceinte, d’un aimant ou d’une structure métallique."
+        },
+        {
+          "title": "Redéfinissez l’espace de jeu",
+          "html": "Lorsque l’application le permet, recréez la zone ou les limites de la pièce. Faites-le dans l’environnement réel où vous utiliserez l’expérience."
+        },
+        {
+          "title": "Testez sans vous déplacer loin",
+          "html": "Vérifiez d’abord la stabilité en faisant quelques pas et des rotations lentes. Un déplacement rapide dans un grand espace peut masquer la cause du défaut."
+        },
+        {
+          "title": "Relancez une seule fois",
+          "html": "Si l’ancrage reste faux, fermez puis relancez l’expérience après la calibration. Répéter les réinitialisations sans modifier les conditions ne donne généralement pas de meilleur résultat."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil pratique",
+      "html": "<p>Pour une expérience liée à un lieu réel, démarrez la session quelques minutes avant de vous déplacer. Le téléphone a ainsi le temps d’obtenir une position stable avant que l’application ne place ses repères virtuels.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gerer-les-limites-en-interieur-et-en-ville",
+      "text": "Gérer les limites en intérieur, en ville et dans les lieux complexes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le GPS est conçu pour une utilisation à ciel ouvert. À l’intérieur, il peut être approximatif, indisponible ou s’accrocher à une position située dehors. Dans une gare, un centre commercial, un musée ou un entrepôt, une application ne peut être précise que si elle utilise des balises Bluetooth, un plan intérieur, des repères visuels ou une solution de localisation prévue pour le site. Aucun réglage universel sur Madgaze VR ne peut transformer un signal satellite absent en position intérieure fiable."
+    },
+    {
+      "type": "paragraph",
+      "html": "En ville, les façades hautes peuvent réfléchir les signaux et créer un décalage. Faites un test dans une rue plus dégagée ou dans un parc, puis comparez. Si le problème disparaît, il s’agit d’une limite de réception, pas nécessairement d’une panne. Pour une démonstration professionnelle ou une visite guidée, prévoyez un repère visuel de départ, une zone de calibration et, si l’application le propose, un mode hors ligne avec cartes téléchargées. Vérifiez aussi à l’avance la couverture réseau du lieu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mettre-a-jour-et-isoler-le-defaut",
+      "text": "Mettre à jour et isoler un défaut d’application"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les réglages de base contrôlés, cherchez à savoir si le défaut suit le matériel ou une application précise. Mettez à jour le système du téléphone, l’application Madgaze, l’expérience VR utilisée et, si le fabricant le propose, le logiciel interne des lunettes. Lisez les notes de version quand elles existent: elles peuvent signaler une correction de compatibilité avec une version mobile récente ou avec le service de localisation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Testez une application de cartographie indépendante sur le téléphone.",
+        "Testez ensuite l’application Madgaze sans lancer l’expérience qui pose problème.",
+        "Ouvrez l’expérience dans un autre lieu extérieur, puis sur un autre téléphone compatible si vous en avez un.",
+        "Videz uniquement le cache de l’application problématique lorsque cette option existe; cela ne supprime pas toujours votre compte, mais vérifiez avant.",
+        "Déconnectez-vous puis reconnectez-vous si l’application synchronise des données de lieu avec un compte.",
+        "Notez la version de l’application, le modèle des lunettes, le modèle du téléphone, le lieu et l’heure du défaut avant de contacter l’assistance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Un rétablissement complet des réglages d’usine est un dernier recours. Il est justifié si le défaut touche toutes les applications, persiste après mise à jour et reconnexion, et apparaît aussi avec un autre téléphone compatible ou dans un autre environnement. Sauvegardez au préalable vos contenus et vérifiez la procédure officielle correspondant exactement à votre modèle Madgaze."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-d-action-en-dix-minutes",
+      "text": "Appliquer un plan d’action en dix minutes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour retrouver rapidement une expérience fiable, évitez de modifier dix réglages simultanément. Testez d’abord la position du smartphone dehors dans une application de cartographie. Si elle est mauvaise, activez localisation précise, Wi-Fi et données mobiles, attendez un peu à ciel ouvert, puis redémarrez seulement si le défaut persiste. Si elle est bonne, vérifiez les permissions de l’application concernée et la connexion aux lunettes. Enfin, si seuls les éléments virtuels dérivent, recentrez et recalibrez l’espace: vous traitez alors le suivi spatial, et non la géolocalisation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de contacter le support",
+      "html": "<p>Un rapport utile indique le modèle Madgaze, le téléphone, les versions logicielles, l’application en cause, le type de lieu, une capture d’écran de la position attendue et de la position affichée, ainsi que les essais déjà réalisés. Ces éléments accélèrent davantage le diagnostic qu’un simple message signalant que le GPS ne marche pas.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-durablement-pour-des-experiences-fiables",
+      "text": "Agir durablement pour des expériences fiables"
+    },
+    {
+      "type": "paragraph",
+      "html": "La solution la plus efficace consiste à faire correspondre le réglage au symptôme: GPS et réseau pour une mauvaise adresse, boussole pour une mauvaise direction, calibration de l’espace pour un objet virtuel qui flotte ou dérive. Avant une sortie, une démonstration ou une utilisation professionnelle, mettez les applications à jour, chargez les appareils, vérifiez les permissions et lancez un test court sur place. Cette préparation est particulièrement importante dans les lieux intérieurs ou urbains denses, où la localisation est structurellement moins prévisible."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Validez la position dans Cartes sur le téléphone associé.",
+        "Accordez la localisation précise et les droits nécessaires à l’application.",
+        "Contrôlez la connexion Bluetooth et désactivez temporairement les restrictions de batterie.",
+        "Recentrez ou recalibrez uniquement si le problème concerne l’orientation ou l’espace virtuel.",
+        "Documentez le défaut avant toute réinitialisation complète."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi Madgaze VR me place-t-il à une ancienne adresse?",
+      "a": "<p>Le téléphone ou l’application utilise probablement une dernière position connue en attendant une localisation plus récente. Sortez dans un endroit dégagé, activez la localisation précise, le Wi-Fi et les données mobiles, puis vérifiez le point dans une application de cartographie. Si l’ancienne adresse persiste uniquement dans une expérience Madgaze, fermez l’application, contrôlez ses permissions et videz son cache si cette possibilité est proposée.</p>"
+    },
+    {
+      "q": "Les lunettes Madgaze ont-elles forcément leur propre GPS?",
+      "a": "<p>Non. Cela dépend du modèle et de l’usage. De nombreuses expériences reposent sur le smartphone associé pour la position, la connexion réseau ou certains capteurs. Consultez la documentation de votre modèle et celle de l’application: vous saurez ainsi si la localisation doit être réglée dans les lunettes, dans l’application compagnon ou dans les réglages du téléphone.</p>"
+    },
+    {
+      "q": "Comment corriger une flèche de navigation Madgaze VR qui indique la mauvaise direction?",
+      "a": "<p>Lorsque le point sur la carte est correct mais que la flèche est mal orientée, le problème vient généralement de la boussole ou de la calibration d’orientation. Éloignez-vous d’objets métalliques, d’aimants, de véhicules et d’enceintes puissantes, puis lancez la calibration proposée par le téléphone ou l’application. Vérifiez aussi que les lunettes sont correctement ajustées et que l’expérience a été recentrée.</p>"
+    },
+    {
+      "q": "Pourquoi la géolocalisation est-elle mauvaise à l’intérieur avec Madgaze VR?",
+      "a": "<p>Les signaux satellites traversent mal les bâtiments. Dans un lieu couvert, le GPS peut être très approximatif ou indisponible, même si les lunettes et le téléphone fonctionnent parfaitement. Une application peut seulement améliorer la situation si elle exploite une solution prévue pour le site, comme des balises Bluetooth, un plan intérieur, du Wi-Fi ou des repères visuels. Sinon, utilisez un point de départ défini manuellement lorsque l’application le permet.</p>"
+    },
+    {
+      "q": "Faut-il réinitialiser Madgaze VR si la position reste erronée?",
+      "a": "<p>Pas en première intention. Commencez par comparer la position avec une application Cartes sur le téléphone, vérifiez les autorisations, la connexion Bluetooth, les mises à jour et le comportement dans une autre application ou un autre lieu. Une réinitialisation d’usine peut effacer réglages et contenus; elle doit rester un dernier recours, après sauvegarde et après consultation de la procédure officielle du modèle concerné.</p>"
+    },
+    {
+      "q": "L’économiseur de batterie peut-il fausser la localisation sur Madgaze VR?",
+      "a": "<p>Oui, il peut surtout ralentir ou interrompre les mises à jour de position et la connexion avec l’application compagnon. Pour diagnostiquer le problème, désactivez temporairement l’optimisation de batterie pour l’application concernée et gardez le téléphone chargé. Si cela résout le défaut, recherchez ensuite un réglage plus équilibré qui autorise la localisation pendant l’utilisation sans laisser l’application active inutilement en permanence.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

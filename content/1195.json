@@ -1,0 +1,371 @@
+{
+  "id": 1195,
+  "slug": "savourez-ces-10-recettes-de-soupes-reconfortantes-pour-lutter-contre-le-froid-hivernal",
+  "title": "Savourez ces 10 recettes de soupes réconfortantes pour lutter contre le froid hivernal",
+  "metaTitle": "10 recettes de soupes réconfortantes pour l’hiver",
+  "metaDescription": "Dix soupes d’hiver faciles et généreuses: légumes, lentilles, potiron ou champignons. Recettes, astuces, cuisson et variantes maison pour vos soirées.",
+  "dek": "Quand le froid s’installe, une soupe bien pensée fait bien plus que réchauffer: elle permet de cuisiner simplement, d’utiliser les légumes de saison et de composer un repas complet. Voici dix recettes faciles à adapter selon votre placard, votre temps et vos envies.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "soupes d’hiver",
+    "recettes faciles",
+    "cuisine maison",
+    "légumes de saison",
+    "repas réconfortants"
+  ],
+  "keyTakeaways": [
+    "Une bonne soupe repose sur un aromatique, des légumes, un liquide mesuré et une finition qui réveille les saveurs.",
+    "Les légumineuses, les œufs, le fromage ou les céréales transforment une soupe en repas plus rassasiant.",
+    "Mixez seulement une partie des légumes si vous aimez les soupes épaisses avec de la mâche.",
+    "Goûtez et ajustez sel, acidité et texture à la fin: c’est souvent là que tout se joue.",
+    "La plupart des soupes se gardent deux à trois jours au réfrigérateur et se congèlent très bien."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une soupe d’hiver réussie n’a rien d’un plat triste: elle peut être veloutée, relevée, généreuse et assez nourrissante pour constituer un vrai dîner. De la classique soupe de légumes au bouillon de chou plus rustique, ces dix recettes vous donnent des repères précis pour cuisiner chaud sans passer des heures derrière les fourneaux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-bases-dune-soupe-reussie",
+      "text": "Les bases d’une soupe d’hiver vraiment réussie"
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule est simple: faites revenir doucement un oignon, une échalote ou un poireau dans un peu d’huile; ajoutez les légumes, puis versez juste assez d’eau ou de bouillon pour les couvrir. Une cuisson douce préserve mieux les saveurs qu’une ébullition violente. Enfin, la soupe mérite presque toujours une touche finale: poivre, jus de citron, herbes, crème, fromage râpé ou graines grillées."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir la bonne base selon l’effet recherché",
+      "headers": [
+        "Base principale",
+        "Résultat en bouche",
+        "À ajouter pour un repas complet"
+      ],
+      "rows": [
+        [
+          "Pomme de terre, patate douce ou courge",
+          "Velouté, doux et rassasiant",
+          "Œuf mollet, pois chiches ou tartine de fromage"
+        ],
+        [
+          "Poireau, céleri, chou ou navet",
+          "Goût végétal plus marqué",
+          "Haricots blancs, pain complet ou jambon selon l’envie"
+        ],
+        [
+          "Lentilles corail ou pois cassés",
+          "Texture épaisse, fondante et nourrissante",
+          "Riz, yaourt nature ou herbes fraîches"
+        ],
+        [
+          "Tomate, champignon ou oignon",
+          "Saveur intense et plus umami",
+          "Pâtes, croûtons ou fromage affiné"
+        ]
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "20 à 35 min",
+          "label": "de cuisson pour la plupart des soupes de légumes coupés petits"
+        },
+        {
+          "value": "4 portions",
+          "label": "le format pratique pour un dîner et des restes"
+        },
+        {
+          "value": "2 à 3 jours",
+          "label": "de conservation habituelle au réfrigérateur, dans une boîte fermée"
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Faut-il mixer sa soupe?",
+      "a": {
+        "title": "Soupe mixée",
+        "points": [
+          "Idéale pour les courges, les poireaux, les carottes ou le chou-fleur.",
+          "Texture lisse et enveloppante, facile à enrichir avec un peu de crème ou de purée d’oléagineux.",
+          "Ajoutez le liquide progressivement pour éviter un résultat trop fluide."
+        ]
+      },
+      "b": {
+        "title": "Soupe avec morceaux",
+        "points": [
+          "Parfaite pour les légumes variés, les haricots, les pâtes ou les céréales.",
+          "Plus de mâche et une impression de repas complet.",
+          "Coupez les ingrédients à une taille régulière pour une cuisson homogène."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au bouillon",
+      "html": "<p>Les cubes et bouillons prêts à l’emploi peuvent déjà être très salés. Commencez avec peu de sel, puis rectifiez après mixage ou juste avant de servir: les saveurs se concentrent en cuisant.</p>"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez une base aromatique",
+          "html": "Faites suer oignon, ail, échalote ou poireau 3 à 5 minutes à feu moyen dans une casserole à fond épais, sans les faire brunir."
+        },
+        {
+          "title": "Cuisez avec le bon volume de liquide",
+          "html": "Couvrez à peine les légumes. Il est toujours possible d’allonger une soupe trop épaisse; l’inverse est moins simple."
+        },
+        {
+          "title": "Contrôlez la cuisson",
+          "html": "La pointe d’un couteau doit traverser facilement les légumes. Pour les lentilles corail, remuez de temps en temps afin qu’elles n’attachent pas."
+        },
+        {
+          "title": "Finitionnez avant de servir",
+          "html": "Ajoutez poivre, herbes, une pointe d’acidité ou une garniture croquante. Goûtez toujours après avoir mixé."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deux-classiques-qui-plaisent-a-toute-la-table",
+      "text": "Deux classiques qui plaisent à toute la table"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "soupe-de-legumes-du-placard",
+      "text": "1. La soupe de légumes du placard"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, comptez 35 minutes.</strong> Faites revenir 1 oignon émincé avec 2 carottes, 2 pommes de terre, 1 blanc de poireau et 1 branche de céleri coupés en dés. Ajoutez 1,2 litre d’eau ou de bouillon, 1 feuille de laurier et un peu de thym. Laissez frémir 25 minutes, puis mixez totalement ou partiellement. Une poignée de persil et un filet d’huile d’olive au service donnent du relief à cette recette très modulable."
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est la soupe anti-gaspillage par excellence: remplacez le céleri par du panais, du navet ou un morceau de courge. Évitez seulement d’accumuler des légumes au goût très fort, comme beaucoup de chou et de navet à la fois, qui peuvent dominer l’ensemble."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "veloute-de-potimarron-et-carottes",
+      "text": "2. Le velouté de potimarron et carottes au gingembre"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, environ 30 minutes.</strong> Faites revenir 1 oignon, ajoutez 800 g de potimarron lavé et coupé en morceaux, 3 carottes, 1 petite pomme de terre et 1 cuillère à café de gingembre frais râpé. Couvrez d’environ 1 litre de bouillon et cuisez jusqu’à ce que tout soit tendre. Mixez finement avec 10 cl de lait de coco ou de crème légère."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le potimarron peut souvent être cuisiné avec sa peau si elle est saine et bien lavée: vous gagnez du temps. Servez avec des graines de courge torréfiées et quelques gouttes de citron. Le citron ne rend pas la soupe acide; il équilibre surtout le côté naturellement sucré de la courge."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour une texture très soyeuse",
+      "html": "<p>Mixez un peu plus longtemps que vous ne le pensez, puis ajoutez le liquide chaud petit à petit. Un mixeur plongeant suffit, mais un blender donnera en général un résultat encore plus lisse.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "soupes-cremeuses-et-rassasiantes",
+      "text": "Soupes crémeuses et rassasiantes pour les soirs pressés"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "poireaux-pommes-de-terre",
+      "text": "3. La soupe poireaux-pommes de terre"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 30 minutes.</strong> Émincez 3 poireaux en ne gardant que les parties bien nettoyées, puis faites-les fondre avec 1 oignon dans un peu de beurre ou d’huile. Ajoutez 500 g de pommes de terre farineuses en cubes et 1 litre de bouillon. Après 20 à 25 minutes de cuisson, mixez avec 10 cl de lait, de crème ou une alternative végétale non sucrée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Du poivre, de la muscade et de la ciboulette suffisent à lui donner du caractère. Pour une version plus légère en sensation, remplacez une partie de la pomme de terre par du chou-fleur. Si la soupe épaissit le lendemain, détendez-la avec un peu d’eau chaude lors du réchauffage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "chou-fleur-haricots-blancs",
+      "text": "4. La crème de chou-fleur et haricots blancs"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 30 minutes.</strong> Faites revenir 1 échalote, ajoutez 1 petit chou-fleur en fleurettes, 1 gousse d’ail et 800 ml de bouillon. Après 20 minutes, incorporez 1 bocal de haricots blancs rincés et égouttés, puis mixez. Une cuillère de moutarde douce et un trait de jus de citron apportent une belle vivacité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les haricots donnent du corps sans obliger à ajouter beaucoup de crème. Parsemez de noisettes concassées ou de croûtons à l’ail. Pour les enfants ou les palais réticents au chou-fleur, servez cette soupe très lisse et dosez la moutarde avec parcimonie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "legumineuses-et-cereales-pour-un-bol-repas",
+      "text": "Légumineuses et céréales: des soupes qui tiennent au corps"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "lentilles-corail-coco-cumin",
+      "text": "5. La soupe de lentilles corail, coco et cumin"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 25 minutes.</strong> Faites revenir 1 oignon avec 1 cuillère à café de cumin moulu, ajoutez 200 g de lentilles corail rincées, 1 petite boîte de tomates concassées et 700 ml d’eau ou de bouillon. Laissez cuire 18 minutes en remuant de temps en temps. Ajoutez ensuite 15 cl de lait de coco, puis mixez brièvement ou laissez la texture rustique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les lentilles corail cuisent vite et apportent une consistance naturellement épaisse. Relevez avec citron vert, coriandre ou persil. Si vous craignez les épices, commencez avec une demi-cuillère de cumin: vous pourrez toujours en ajouter au moment de servir."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "champignons-et-orge-perle",
+      "text": "6. La soupe de champignons et orge perlé"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 45 à 50 minutes.</strong> Faites dorer 400 g de champignons émincés avec 1 oignon et 1 gousse d’ail. Ajoutez 120 g d’orge perlé rincé, 1 litre de bouillon, du thym et une feuille de laurier. Laissez mijoter jusqu’à ce que l’orge soit tendre. Terminez avec 2 cuillères de crème fraîche ou végétale et beaucoup de poivre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne surchargez pas la casserole au départ: les champignons doivent évaporer leur eau et légèrement colorer pour développer leur goût. L’orge rend cette soupe particulièrement consistante. À défaut, utilisez du riz complet déjà cuit, ajouté dans les dix dernières minutes."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une soupe peut faire un dîner",
+      "html": "<p>Pour un repas équilibré et rassasiant, associez la soupe à une source de protéines ou de légumineuses et à un accompagnement simple: pain complet, œuf, fromage, tofu grillé ou reste de céréales.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "des-saveurs-plus-vives-pour-changer",
+      "text": "Des saveurs plus vives pour changer de la soupe traditionnelle"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "tomate-haricots-blancs-pates",
+      "text": "7. La soupe tomate, haricots blancs et petites pâtes"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 30 minutes.</strong> Faites revenir 1 oignon, 1 carotte et 1 branche de céleri en petits dés. Ajoutez 1 boîte de tomates concassées, 700 ml de bouillon, 1 bocal de haricots blancs rincés et 100 g de petites pâtes. Laissez cuire le temps indiqué pour les pâtes, puis ajoutez une grosse poignée d’épinards frais ou de chou kale émincé."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’origan, le basilic séché et un peu de piment doux lui conviennent très bien. Les pâtes absorbent beaucoup de liquide: si vous prévoyez des restes, cuisez-les à part et ajoutez-les seulement dans chaque assiette, ou allongez la soupe au réchauffage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "pois-chiches-epinards-citron",
+      "text": "8. Le bouillon de pois chiches, épinards et citron"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 20 minutes.</strong> Faites revenir 1 oignon et 2 gousses d’ail avec une pincée de paprika fumé. Ajoutez 1 bocal de pois chiches rincés, 900 ml de bouillon et 1 petite courgette ou 2 carottes en fines demi-rondelles. Après 12 à 15 minutes, incorporez deux poignées d’épinards et le jus d’un demi-citron."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette soupe reste volontairement en bouillon, mais vous pouvez écraser une louche de pois chiches contre la paroi de la casserole pour l’épaissir légèrement. Une cuillère de yaourt nature, du persil et quelques zestes de citron en font un bol très parfumé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recettes-rustiques-pour-les-grands-froids",
+      "text": "Deux recettes rustiques pour les grands froids"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "soupe-au-chou-vert-et-pommes-de-terre",
+      "text": "9. La soupe au chou vert et pommes de terre"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 40 minutes.</strong> Faites revenir 1 oignon avec 2 carottes, puis ajoutez 400 g de chou vert émincé, 500 g de pommes de terre en dés et 1,2 litre de bouillon. Ajoutez du thym et laissez mijoter environ 30 minutes. Servez tel quel avec du pain de campagne, ou mixez seulement une petite partie des pommes de terre pour épaissir le bouillon."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une version plus gourmande, ajoutez quelques dés de lardons revenus à part ou une saucisse fumée cuite dans le bouillon, puis coupée en rondelles. Dans ce cas, salez très peu: la charcuterie apporte déjà beaucoup de goût."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "soupe-a-loignon-gratinee-legere",
+      "text": "10. La soupe à l’oignon gratinée, version accessible"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pour 4 personnes, 45 minutes.</strong> Émincez 700 g d’oignons et faites-les cuire lentement dans une noix de beurre et un filet d’huile pendant 25 à 30 minutes, jusqu’à ce qu’ils soient bien dorés. Saupoudrez d’une cuillère de farine, mélangez, puis versez 1 litre de bouillon chaud. Laissez frémir 10 minutes avec thym et laurier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Répartissez dans des bols supportant la chaleur, posez une tranche de pain grillé et un peu de comté ou de gruyère râpé, puis passez sous le gril quelques minutes. Le secret est la cuisson lente des oignons: ne cherchez pas à aller trop vite, car c’est elle qui apporte la profondeur et la douceur de la soupe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "organisation-conservation-et-adaptations",
+      "text": "Passez à l’action: cuisinez une fois, mangez plusieurs fois"
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez d’abord deux recettes complémentaires pour la semaine: par exemple un velouté de courge doux et une soupe rustique aux légumineuses. Préparez une grande quantité le week-end, refroidissez-la rapidement, puis répartissez-la en portions. Gardez les garnitures croquantes, le pain et les herbes à part pour conserver une texture agréable."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Au réfrigérateur, placez la soupe dans une boîte fermée une fois qu’elle n’est plus fumante, et consommez-la en général sous deux à trois jours.",
+        "Au congélateur, laissez un peu d’espace dans le contenant: le liquide augmente de volume. Les soupes sans pâtes ni pommes de terre se congèlent souvent le mieux.",
+        "Réchauffez à feu doux en remuant. Ajoutez un peu d’eau, de bouillon ou de lait si la soupe est devenue trop dense.",
+        "Prélevez une portion avant d’ajouter crème, fromage ou pâtes si vous souhaitez mieux adapter les restes à chaque repas."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Pour ne jamais vous lasser, variez non seulement les légumes, mais aussi la texture et la garniture: un même velouté change complètement avec des croûtons, des pois chiches rôtis, des graines ou un trait de citron.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment épaissir une soupe trop liquide sans utiliser de crème?",
+      "a": "<p>Faites cuire quelques minutes de plus sans couvercle afin de faire évaporer une partie du liquide, puis mixez une partie des légumes. Vous pouvez aussi ajouter une petite pomme de terre cuite, une poignée de lentilles corail, des haricots blancs rincés ou une cuillère de purée de pois chiches. Ajoutez-les progressivement: une soupe épaissit encore légèrement en refroidissant.</p>"
+    },
+    {
+      "q": "Peut-on congeler une soupe avec de la crème ou du lait?",
+      "a": "<p>C’est possible, mais la texture peut parfois se séparer légèrement au moment de la décongélation, surtout avec de la crème très riche. Le plus sûr consiste à congeler la soupe sans produit laitier, puis à ajouter crème, lait de coco ou fromage frais après réchauffage. Mixez de nouveau quelques secondes si nécessaire pour retrouver une texture homogène.</p>"
+    },
+    {
+      "q": "Quelles soupes d’hiver sont les plus rassasiantes?",
+      "a": "<p>Les soupes les plus consistantes associent des légumes à des féculents, des légumineuses ou des céréales. Pensez aux lentilles corail, pois cassés, haricots blancs, pois chiches, pommes de terre, orge perlé ou petites pâtes. Une soupe de légumes seule peut rester légère; accompagnez-la alors de pain complet, d’un œuf, de fromage ou d’une tartine de houmous.</p>"
+    },
+    {
+      "q": "Comment donner plus de goût à une soupe de légumes fade?",
+      "a": "<p>Avant de resaler, ajoutez une composante aromatique ou acide: poivre, ail, herbes, cumin, paprika fumé, moutarde, jus de citron ou vinaigre doux. Faire revenir les oignons et certains légumes au départ améliore aussi nettement la profondeur du goût. Une garniture salée, comme un peu de parmesan ou des graines grillées, peut suffire à réveiller l’ensemble.</p>"
+    },
+    {
+      "q": "Faut-il éplucher le potimarron pour faire un velouté?",
+      "a": "<p>En général, non: sa peau devient tendre à la cuisson et se mixe très bien. Lavez-le soigneusement, retirez les graines et coupez-le en morceaux réguliers. En revanche, si la peau est abîmée, très dure ou si vous utilisez un autre type de courge à la peau épaisse, mieux vaut l’éplucher pour obtenir un velouté parfaitement lisse.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 7
+  }
+}

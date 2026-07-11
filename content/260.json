@@ -1,0 +1,373 @@
+{
+  "id": 260,
+  "slug": "10-idees-savoureuses-pour-booster-lapport-en-proteines-dans-votre-cuisine-vegetalienne",
+  "title": "10 idées savoureuses pour booster l’apport en protéines dans votre cuisine végétalienne",
+  "metaTitle": "10 idées de protéines dans une cuisine végétalienne",
+  "metaDescription": "Découvrez 10 idées gourmandes pour augmenter les protéines de vos repas végétaliens, avec portions, astuces de cuisine et choix malins au quotidien.",
+  "dek": "Tofu, légumineuses, seitan ou levure nutritionnelle: une cuisine végétalienne riche en protéines peut être simple, variée et très gourmande. Voici comment renforcer vos plats sans transformer chaque repas en exercice de calcul.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "cuisine végétalienne",
+    "protéines végétales",
+    "repas vegan",
+    "légumineuses",
+    "nutrition"
+  ],
+  "keyTakeaways": [
+    "Variez les sources végétales au fil de la journée plutôt que de chercher un aliment parfait.",
+    "Le tofu, le tempeh, le seitan et les protéines de soja texturées sont des raccourcis efficaces.",
+    "Les lentilles, haricots et pois chiches deviennent plus rassasiants lorsqu'ils remplacent une partie des féculents.",
+    "Graines, purées d'oléagineux et levure nutritionnelle complètent un plat, mais ne remplacent pas toujours sa base protéinée.",
+    "Pour un repas simple, associez une source protéinée identifiable, des légumes et un féculent."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Manger végétalien ne signifie pas se contenter de salades peu consistantes ni surveiller anxieusement chaque gramme de protéines. Avec quelques ingrédients bien choisis et de bons réflexes de cuisine, vous pouvez composer des plats généreux, rassasiants et adaptés à votre quotidien. Voici dix pistes concrètes pour enrichir vos recettes, du petit déjeuner au dîner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-les-proteines-comptent",
+      "text": "Pourquoi les protéines méritent une place visible dans l'assiette"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les protéines participent notamment au renouvellement des tissus, au fonctionnement musculaire, à la fabrication de nombreuses molécules utiles et au maintien de la satiété. Elles sont constituées d'acides aminés. Les végétaux en apportent tous, mais dans des proportions variables: l'enjeu n'est donc pas de trouver à chaque bouchée une combinaison théorique parfaite, mais de manger assez, suffisamment varié et de façon régulière."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une alimentation végétalienne, le risque pratique est moins l'absence totale de protéines que des repas construits autour de pain, pâtes blanches, légumes et fruits, avec trop peu de légumineuses, de soja ou d'autres aliments denses. Une portion clairement identifiable de source protéinée à chaque repas principal rend l'équilibre bien plus facile."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "0,8 g/kg/jour",
+          "label": "repère souvent utilisé pour un adulte en bonne santé peu actif; les besoins personnels varient"
+        },
+        {
+          "value": "1,2 à 1,7 g/kg/jour",
+          "label": "ordre de grandeur parfois visé chez les personnes très actives, selon l'entraînement et le contexte"
+        },
+        {
+          "value": "20 à 30 g",
+          "label": "fourchette pratique souvent recherchée dans un repas principal, sans obligation de la viser au gramme près"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Un régime végétalien demande aussi une attention spécifique à la vitamine B12, qui doit être supplémentée. Les protéines ne sont qu'une partie de l'équilibre nutritionnel global.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reperes-et-portions",
+      "text": "Les sources à connaître: repères utiles, sans obsession des calculs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les teneurs changent selon les marques, l'égouttage et la cuisson: utilisez donc les chiffres comme des ordres de grandeur, pas comme une prescription. Le plus commode est de retenir les familles d'aliments qui apportent beaucoup de protéines dans une portion réaliste. Le soja sous différentes formes, le seitan et les protéines de soja texturées sont particulièrement concentrés. Les légumineuses cuites sont un peu moins denses, mais économiques, riches en fibres et très polyvalentes."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour comparer des sources végétales courantes",
+      "headers": [
+        "Aliment",
+        "Portion pratique",
+        "Apport en protéines, en général",
+        "Idée d'utilisation"
+      ],
+      "rows": [
+        [
+          "Tofu ferme",
+          "150 g",
+          "environ 18 à 24 g",
+          "Poêlé, rôti, émietté ou mixé en sauce"
+        ],
+        [
+          "Tempeh",
+          "100 à 125 g",
+          "environ 18 à 25 g",
+          "Mariné, doré à la poêle, en salade ou en sandwich"
+        ],
+        [
+          "Seitan",
+          "100 à 125 g",
+          "environ 20 à 30 g",
+          "Émincé dans un wok, une blanquette ou des fajitas"
+        ],
+        [
+          "Lentilles ou haricots cuits",
+          "200 à 250 g",
+          "environ 16 à 23 g",
+          "Dahl, chili, boulettes, salade-repas"
+        ],
+        [
+          "Edamame écossés",
+          "150 g",
+          "environ 16 à 20 g",
+          "Bol complet, soupe, poêlée ou apéritif"
+        ],
+        [
+          "Protéines de soja texturées sèches",
+          "50 g avant réhydratation",
+          "souvent 20 à 25 g",
+          "Sauce bolognaise, hachis, tacos ou farce"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Tofu ou seitan: lequel choisir pour votre recette?",
+      "a": {
+        "title": "Tofu ferme",
+        "points": [
+          "Texture souple à croustillante selon la cuisson, goût discret qui absorbe bien les marinades.",
+          "Naturellement sans gluten et décliné en versions ferme, fumée, soyeuse ou lactofermentée.",
+          "Idéal pour les currys, les bols, les brouillades végétales et les sauces crémeuses."
+        ]
+      },
+      "b": {
+        "title": "Seitan",
+        "points": [
+          "Texture ferme et fibreuse, particulièrement convaincante dans les recettes habituellement carnées.",
+          "Très riche en protéines mais fabriqué à partir de gluten de blé: à éviter en cas de maladie cœliaque ou de sensibilité diagnostiquée.",
+          "Idéal en lamelles dans les wok, ragoûts, kebabs végétaux et garnitures de sandwich."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "dix-idees-proteinees",
+      "text": "10 idées savoureuses pour muscler vos recettes végétaliennes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "tofu-marine-et-roti",
+      "text": "1. Faites rôtir du tofu bien assaisonné"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tofu ferme devient beaucoup plus séduisant lorsqu'il est pressé quelques minutes, coupé en cubes puis enrobé d'une marinade. Sauce soja ou tamari, citron, ail, gingembre, paprika fumé et une pointe de sirop d'érable donnent une croûte savoureuse après passage au four ou à l'air fryer. Ajoutez-le à un riz sauté, un curry de légumes ou une salade de nouilles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "tempeh-dore",
+      "text": "2. Dorez du tempeh pour une texture plus gourmande"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tempeh est obtenu à partir de fèves de soja fermentées. Son goût de noisette, parfois légèrement amer, s'adoucit si vous le cuisez quelques minutes à la vapeur avant de le mariner. Testez un mélange sauce soja, vinaigre de riz, gingembre et ail, puis faites-le griller. Il apporte du relief à un bowl, une salade de chou croquante ou un sandwich façon club."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "legumineuses-en-base",
+      "text": "3. Donnez un rôle central aux lentilles, haricots et pois chiches"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au lieu de parsemer quelques pois chiches sur une assiette de semoule, faites-en la base du plat. Un chili de haricots rouges et noirs, un dahl de lentilles corail, des lentilles vertes avec légumes rôtis ou des pois chiches mijotés à la tomate offrent une vraie consistance. Les conserves sont très pratiques: rincez-les simplement pour limiter l'excès de sel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "proteines-soja-texturees",
+      "text": "4. Remplacez le haché par des protéines de soja texturées"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vendues sèches, les protéines de soja texturées, ou PST, se gardent longtemps et coûtent généralement peu cher. Réhydratez-les dans un bouillon chaud bien parfumé, essorez-les légèrement puis faites-les revenir avec oignon, ail, concentré de tomate et épices. Elles se glissent sans effort dans une sauce pour pâtes, un parmentier, des tacos, des lasagnes ou une farce de légumes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "seitan-en-lamelles",
+      "text": "5. Utilisez le seitan dans les plats à mâcher"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand vous cherchez une texture ferme et rassasiante, le seitan est un allié rapide. Émincez-le finement et saisissez-le à feu vif avec un peu d'huile, des oignons et des épices. Il fonctionne particulièrement bien dans des fajitas, un wok de légumes, une sauce au poivre végétale ou un sandwich chaud. Préférez les versions peu salées lorsque vous en mangez souvent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "edamame-et-petits-pois",
+      "text": "6. Ajoutez des edamame dans les bols et les soupes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les edamame sont des fèves de soja récoltées jeunes, souvent vendues surgelées. Leur cuisson ne prend que quelques minutes et leur goût doux plaît facilement. Mélangez-les à du riz, du concombre, des carottes, du chou rouge et une sauce sésame-citron; incorporez-les à une soupe miso ou écrasez-les grossièrement sur une tartine avec citron et herbes fraîches."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "farine-de-pois-chiche",
+      "text": "7. Préparez des galettes avec de la farine de pois chiche"
+    },
+    {
+      "type": "paragraph",
+      "html": "La farine de pois chiche permet de préparer en quelques minutes une socca, une omelette végétale ou des pancakes salés. Mélangez-la avec de l'eau, du sel, des épices et un filet d'huile jusqu'à obtenir une pâte fluide, puis cuisez à la poêle. Garnissez de champignons, épinards, oignons ou tomates séchées. C'est une solution appréciable quand votre placard manque de tofu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "levure-nutritionnelle",
+      "text": "8. Misez sur la levure nutritionnelle pour relever les sauces"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec ses notes fromagères, la levure nutritionnelle apporte une petite dose de protéines et beaucoup de caractère. Saupoudrez-en une soupe, un risotto, des pâtes ou du popcorn salé. Mixée avec des noix de cajou, du citron, de l'ail et de l'eau, elle donne une sauce crémeuse. Ce n'est pas la source principale d'un repas, mais elle aide à enrichir une recette sans effort."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "graines-et-purees",
+      "text": "9. Terminez vos plats par des graines et des purées d'oléagineux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Graines de courge, chanvre décortiqué, sésame, cacahuètes ou purée de cacahuète donnent du croquant et complètent l'apport protéique. Une sauce cacahuète-citron vert sur des nouilles, du tahini dans une vinaigrette ou une cuillère de graines de chanvre sur une soupe font une vraie différence gustative. Gardez toutefois des portions raisonnables: ces aliments sont aussi riches en matières grasses et caloriques."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "petit-dejeuner-au-soja",
+      "text": "10. Renforcez aussi le petit déjeuner avec le soja"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier repas est souvent oublié: un fruit et des tartines suffisent rarement à apporter beaucoup de protéines. Choisissez un yaourt végétal au soja nature, ajoutez des flocons d'avoine, une cuillère de purée de cacahuète et des graines. En version salée, un tofu brouillé aux épices, accompagné de pain complet et de tomates, constitue une alternative particulièrement rassasiante."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le geste qui change tout",
+      "html": "<p>Assaisonnez franchement les sources végétales: acide, salé, fumé, épicé et herbacé. Le tofu ou les PST sont neutres au départ; ce sont le bouillon, la marinade et la coloration à la poêle qui les rendent mémorables.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "composer-un-repas",
+      "text": "La méthode simple pour composer un repas végétalien rassasiant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une assiette équilibrée n'a pas besoin de cumuler cinq substituts. Commencez par identifier votre source principale de protéines, puis construisez autour d'elle. Un féculent apporte de l'énergie, les légumes donnent volume, fibres et micronutriments, et une sauce ou une garniture crée le plaisir. Sur la journée, varier céréales, légumineuses, soja, graines et légumes reste une stratégie simple et robuste."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisissez une base protéinée",
+          "html": "Prévoyez par personne, selon l'aliment et l'appétit, par exemple 150 g de tofu, 100 à 125 g de tempeh ou seitan, 200 à 250 g de légumineuses cuites, ou une portion de PST réhydratées."
+        },
+        {
+          "title": "Ajoutez un féculent rassasiant",
+          "html": "Riz, pâtes, pommes de terre, quinoa, pain complet, semoule ou nouilles: adaptez la quantité à votre faim et à votre activité."
+        },
+        {
+          "title": "Mettez au moins deux légumes",
+          "html": "Associez idéalement une texture croquante ou fraîche à un légume rôti, sauté ou mijoté afin de rendre le plat plus agréable."
+        },
+        {
+          "title": "Signez le plat avec une sauce",
+          "html": "Pensez tahini-citron, cacahuète-citron vert, tomate épicée, yaourt de soja aux herbes ou vinaigrette moutardée. Une bonne sauce évite les repas secs et répétitifs."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "achats-et-conservation",
+      "text": "Bien acheter pour cuisiner vite, sans faire exploser le budget"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les options les moins coûteuses sont souvent les lentilles, pois cassés, haricots secs, pois chiches et PST achetés en vrac ou en grand format. Les conserves coûtent un peu plus cher par portion, mais font gagner un temps précieux. Tofu, tempeh et seitan sont plus variables selon les magasins et les marques: comptez souvent quelques euros le paquet, davantage pour les produits artisanaux ou marinés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Conservez toujours un kit de dépannage: deux conserves de légumineuses, des PST, un paquet de tofu longue conservation si vous en trouvez, une céréale et des épices. Les haricots ou lentilles cuits se congèlent très bien en portions. Le tofu ouvert doit rester au réfrigérateur et être consommé rapidement selon l'indication du fabricant; le tempeh et le seitan suivent les mêmes règles de prudence."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l'effet \"produit transformé\"",
+      "html": "<p>Les simili-carnés peuvent dépanner et apporter des protéines, mais certains sont très salés ou riches en graisses. Vérifiez l'étiquette et alternez-les avec des aliments simples comme les légumineuses, le tofu nature et les céréales.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-a-eviter",
+      "text": "Les erreurs fréquentes qui font baisser l'apport protéique"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Confondre légumes et légumineuses:</strong> les courgettes, salades ou tomates sont excellentes, mais ne remplacent pas une portion de lentilles ou de tofu.",
+        "<strong>Compter sur les graines seules:</strong> elles enrichissent un plat, mais une petite pincée ne suffit généralement pas à constituer sa base protéinée.",
+        "<strong>Servir seulement un féculent et une sauce:</strong> pâtes à la tomate, riz aux légumes ou soupe de légumes gagnent à recevoir haricots, tofu, lentilles ou PST.",
+        "<strong>Oublier les boissons végétales:</strong> une boisson d'avoine ou d'amande n'apporte pas forcément autant de protéines qu'une boisson au soja; lisez l'étiquette si c'est un repère important pour vous.",
+        "<strong>Forcer sur le gluten sans y réfléchir:</strong> le seitan est pratique, mais la diversité reste préférable et il ne convient pas aux personnes concernées par la maladie cœliaque."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas de grossesse, d'allaitement, de croissance, de vieillissement, de maladie digestive, rénale ou de pratique sportive intensive, vos besoins et vos contraintes peuvent demander un accompagnement personnalisé. Un médecin ou un diététicien formé à l'alimentation végétale pourra vous aider à ajuster les quantités sans tomber dans des restrictions inutiles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-cette-semaine",
+      "text": "Passez à l'action: votre menu protéiné pour cette semaine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne changez pas tout votre placard d'un coup. Cette semaine, choisissez seulement trois ingrédients: un bloc de tofu, deux conserves de légumineuses et un paquet de PST ou de tempeh. Préparez une marinade et une sauce polyvalente le week-end, puis déclinez-les dans trois repas: tofu rôti avec riz et légumes, chili de haricots, puis pâtes bolognaise aux PST. Vous identifierez rapidement les textures et saveurs qui vous conviennent."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur réflexe n'est pas de rechercher un aliment miracle: placez une source végétale riche en protéines au centre de chaque repas principal, variez-la au fil de la semaine et cuisinez-la avec générosité.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on avoir assez de protéines avec une alimentation végétalienne?",
+      "a": "<p>Oui, c'est tout à fait possible si les repas apportent assez d'énergie et incluent régulièrement des légumineuses, du soja, du seitan, des céréales et des oléagineux. La difficulté survient surtout lorsque les repas sont trop peu copieux ou presque exclusivement composés de légumes et de féculents raffinés. Une source protéinée identifiable à chaque repas principal simplifie fortement les choses.</p>"
+    },
+    {
+      "q": "Faut-il associer riz et lentilles au même repas pour obtenir des protéines complètes?",
+      "a": "<p>Non. Les protéines végétales fournissent des acides aminés complémentaires, et l'organisme les utilise sur l'ensemble de la journée. Manger varié suffit généralement: légumineuses, céréales, produits au soja, noix et graines peuvent être répartis entre les repas. Associer riz et lentilles reste une excellente idée pour le goût, le budget et la satiété, mais ce n'est pas une obligation à chaque assiette.</p>"
+    },
+    {
+      "q": "Quel est l'aliment végétalien le plus riche en protéines?",
+      "a": "<p>Les protéines de soja texturées sèches, le seitan et certains produits à base de soja figurent souvent parmi les options les plus concentrées. Mais l'aliment le plus adapté dépend aussi de votre tolérance au gluten, de votre budget, de la teneur en sel et de la recette. Le tofu, les lentilles et les haricots sont moins concentrés à poids égal, mais très intéressants dans une alimentation quotidienne.</p>"
+    },
+    {
+      "q": "Comment rendre le tofu vraiment savoureux?",
+      "a": "<p>Choisissez du tofu ferme, égouttez-le et pressez-le dans un linge propre ou du papier absorbant pendant quelques minutes. Marinez-le ensuite avec un élément salé comme la sauce soja, un élément acide comme le citron ou le vinaigre, des aromates et éventuellement une touche sucrée. Une cuisson suffisamment chaude au four ou à la poêle crée une surface dorée et bien plus appétissante.</p>"
+    },
+    {
+      "q": "Les poudres de protéines végétales sont-elles nécessaires quand on est vegan?",
+      "a": "<p>Elles ne sont pas indispensables pour la plupart des personnes qui mangent suffisamment et intègrent régulièrement des aliments protéinés. Elles peuvent être pratiques après un entraînement, en cas de petit appétit, de contraintes de temps ou d'objectifs sportifs précis. Préférez-les comme un complément ponctuel, pas comme le fondement de votre alimentation, et vérifiez leur composition ainsi que leur teneur en sucres et édulcorants.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 7
+  }
+}

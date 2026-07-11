@@ -1,0 +1,329 @@
+{
+  "id": 473,
+  "slug": "decouvrez-lexploit-incroyable-dun-avion-qui-parcourt-le-monde-entier",
+  "title": "Découvrez l’exploit incroyable d’un avion qui parcourt le monde entier",
+  "metaTitle": "L'avion qui parcourt le monde entier: Solar Impulse",
+  "metaDescription": "Découvrez comment Solar Impulse 2 a fait le tour du monde sans carburant, ce que cet exploit prouve et pourquoi il ne remplace pas l’aviation commerciale.",
+  "dek": "Solar Impulse 2 a bouclé un tour du monde propulsé par l’énergie solaire, sans brûler de carburant en vol. Derrière cette aventure spectaculaire se cache un laboratoire volant qui éclaire les promesses, mais aussi les limites, de l’aviation électrique.",
+  "category": "tech-objets",
+  "tags": [
+    "Solar Impulse",
+    "avion solaire",
+    "tour du monde",
+    "aviation électrique",
+    "innovation"
+  ],
+  "keyTakeaways": [
+    "Solar Impulse 2 a achevé un tour du monde en 2016 avec l’énergie solaire comme source de propulsion.",
+    "L’exploit a été réalisé en 17 étapes: ce n’était pas un vol sans escale autour de la planète.",
+    "Les batteries et le pilotage de l’énergie ont permis de voler la nuit, malgré une vitesse très faible.",
+    "L’avion démontre des solutions techniques utiles, mais ne peut pas remplacer un avion de ligne à court terme.",
+    "Un tour du monde réussi ne signifie ni zéro impact environnemental ni modèle commercial immédiatement viable."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Peut-on réellement faire le tour de la Terre dans un avion qui ne brûle pas une goutte de kérosène? <strong>Solar Impulse 2</strong> l’a fait, étape par étape, entre 2015 et 2016. Cet exploit hors norme mérite mieux qu’un simple récit spectaculaire: il permet de comprendre ce que l’énergie solaire rend possible dans les airs, et ce qu’elle ne permet pas encore."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quel-est-cet-avion-qui-a-fait-le-tour-du-monde",
+      "text": "Quel est cet avion qui a fait le tour du monde?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avion dont il est question est <strong>Solar Impulse 2</strong>, un appareil expérimental suisse conçu pour voler grâce à l’électricité produite par des cellules photovoltaïques. Le projet a été porté notamment par Bertrand Piccard et André Borschberg, qui se sont relayés aux commandes. Parti d’Abou Dabi au printemps 2015, l’avion y est revenu à l’été 2016 après avoir traversé l’Asie, le Pacifique, les États-Unis, l’Atlantique, l’Europe et l’Afrique du Nord."
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule « tour du monde » doit être comprise précisément. Solar Impulse 2 n’a pas volé sans interruption autour du globe: il a effectué une succession d’escales choisies selon la météo, la sécurité et la logistique. Son exploit est d’avoir réalisé cette circumnavigation <strong>sans carburant fossile à bord pour assurer sa propulsion</strong>, en tirant son énergie du soleil et de batteries embarquées."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~43 000 km",
+          "label": "distance totale parcourue sur l’ensemble du périple"
+        },
+        {
+          "value": "17 étapes",
+          "label": "vols nécessaires pour boucler la circumnavigation"
+        },
+        {
+          "value": "~23 jours",
+          "label": "temps cumulé passé en vol, réparti sur plus d’un an de calendrier"
+        },
+        {
+          "value": "0 litre",
+          "label": "de carburant fossile brûlé par l’avion durant ses vols"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le calendrier du projet s’étend sur 2015 et 2016, car les équipages ont dû attendre de longues fenêtres météo et interrompre le voyage après un problème de surchauffe des batteries. Cette durée ne doit donc pas être confondue avec le temps effectif de vol.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "un-avion-geant-et-leger-concu-pour-economiser-chaque-watt",
+      "text": "Un avion géant et léger, conçu pour économiser chaque watt"
+    },
+    {
+      "type": "paragraph",
+      "html": "À première vue, Solar Impulse 2 a une silhouette surprenante: ses ailes sont immenses et très fines, tandis que sa cabine ne peut accueillir qu’un pilote. Cette architecture répond à une contrainte simple: capter le plus de lumière possible tout en transportant le moins de masse possible. La surface des ailes accueille plus de 17 000 cellules solaires, qui alimentent les moteurs électriques et rechargent les batteries lorsque l’ensoleillement le permet."
+    },
+    {
+      "type": "table",
+      "caption": "Les caractéristiques qui expliquent l’exploit de Solar Impulse 2",
+      "headers": [
+        "Élément",
+        "Ordre de grandeur",
+        "Pourquoi c’est déterminant"
+      ],
+      "rows": [
+        [
+          "Envergure",
+          "~72 mètres",
+          "Une surface comparable à celle d’un gros avion de ligne, utile pour installer les cellules solaires."
+        ],
+        [
+          "Masse",
+          "~2,3 tonnes",
+          "Un poids très faible pour une telle envergure, indispensable pour limiter l’énergie nécessaire."
+        ],
+        [
+          "Cellules photovoltaïques",
+          "Plus de 17 000",
+          "Elles produisent l’électricité utilisée pendant la journée."
+        ],
+        [
+          "Vitesse de croisière",
+          "Souvent entre ~45 et 90 km/h",
+          "Une vitesse faible qui réduit la dépense d’énergie, mais rend le voyage long et sensible à la météo."
+        ],
+        [
+          "Batteries",
+          "Plusieurs centaines de kilos",
+          "Elles stockent l’énergie pour le soir, la nuit et les phases peu ensoleillées."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le secret n’est donc pas une batterie miraculeuse. C’est l’addition d’une cellule extrêmement légère, d’une aérodynamique soignée, de moteurs sobres et d’une gestion de l’énergie très rigoureuse. Chaque kilo, chaque nuage et chaque choix d’altitude comptent. Ce type d’appareil est l’exact opposé d’un avion de transport: il ne cherche ni la vitesse, ni la charge utile, ni la capacité d’emport."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-peut-il-voler-la-nuit-sans-carburant",
+      "text": "Comment peut-il voler la nuit sans carburant?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pendant la journée, les cellules solaires fournissent de l’électricité aux quatre moteurs et rechargent les batteries. Une partie de l’énergie disponible sert aussi à prendre de l’altitude quand les conditions sont favorables. Au coucher du soleil, l’appareil réduit progressivement son altitude: cette descente permet de récupérer une petite part d’énergie grâce à la gravité et de limiter l’effort demandé aux batteries."
+    },
+    {
+      "type": "paragraph",
+      "html": "La nuit, l’avion poursuit son vol grâce à l’électricité stockée. Il ne s’agit pas de produire de l’énergie solaire dans l’obscurité, mais de gérer une réserve accumulée le jour. Le pilote doit respecter un budget énergétique aussi strict qu’un navigateur surveillant son eau douce. Une nuit trop longue, une couverture nuageuse durable ou des vents contraires peuvent mettre en danger l’équilibre prévu."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le soleil</strong> produit l’électricité pendant les heures lumineuses.",
+        "<strong>Les moteurs électriques</strong> transforment cette électricité en propulsion avec peu de pertes mécaniques.",
+        "<strong>Les batteries</strong> prennent le relais lorsque le soleil disparaît ou devient insuffisant.",
+        "<strong>L’altitude et la trajectoire</strong> sont ajustées pour dépenser le moins d’énergie possible."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Solar Impulse 2 n’a pas « créé » son énergie en permanence. Il a réussi parce qu’il a produit, stocké et dépensé l’électricité disponible avec une précision extrême.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-voyage-a-t-il-ete-si-long-et-si-complexe",
+      "text": "Pourquoi le voyage a-t-il été si long et si complexe?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un vol commercial, un retard de quelques heures est pénible; pour Solar Impulse 2, une prévision météo défavorable pouvait repousser un départ de plusieurs jours. L’avion vole lentement, avec une faible marge de puissance et sans possibilité réaliste de lutter contre de fortes turbulences, des vents puissants ou des systèmes orageux. La route n’était donc pas seulement un trait sur une carte: elle était recalculée en fonction de l’ensoleillement, des nuages, des masses d’air et des possibilités d’atterrissage."
+    },
+    {
+      "type": "paragraph",
+      "html": "La traversée du Pacifique a illustré cette difficulté. L’un des pilotes a passé près de cinq jours et cinq nuits seul dans un cockpit minuscule pour relier le Japon à Hawaï. Il fallait dormir par très courtes séquences, suivre les paramètres techniques et préserver l’appareil. Après cette étape, les batteries ont subi des dommages liés à une surchauffe, imposant une longue pause avant la reprise du voyage. L’exploit tient autant à la préparation qu’au pilotage."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisir une fenêtre météo stable",
+          "html": "Les équipes évitent les zones orageuses, les vents défavorables et les périodes d’ensoleillement trop incertaines. Un départ retardé peut être plus sûr qu’une tentative risquée."
+        },
+        {
+          "title": "Planifier l’énergie heure par heure",
+          "html": "Avant le départ, il faut estimer ce que les panneaux pourront produire, ce que les moteurs consommeront et la réserve indispensable pour traverser la nuit."
+        },
+        {
+          "title": "Monter lorsque le soleil est généreux",
+          "html": "L’appareil emmagasine de l’énergie dans ses batteries et gagne de l’altitude afin de disposer d’une marge pour la phase nocturne."
+        },
+        {
+          "title": "Réduire la dépense après le coucher du soleil",
+          "html": "La vitesse, l’altitude et la trajectoire sont adaptées afin de faire durer la réserve électrique jusqu’au prochain lever du jour."
+        },
+        {
+          "title": "Prévoir des escales et une assistance au sol",
+          "html": "Même un avion autonome en énergie a besoin d’équipes météo, de maintenance, d’autorisations aériennes et d’aéroports adaptés."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-solar-impulse-ne-remplace-pas-un-avion-de-ligne",
+      "text": "Pourquoi Solar Impulse ne remplace pas un avion de ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le raccourci serait tentant: si un avion solaire a fait le tour du monde, les vols de vacances pourraient bientôt fonctionner de la même manière. C’est faux. Un avion de ligne doit emporter des dizaines ou des centaines de passagers, leurs bagages, des équipements de sécurité et des réserves. Il doit voler vite, traverser des zones météo variables et respecter des horaires. Or l’énergie stockée dans des batteries reste, à masse égale, très inférieure à celle que contient le carburant aéronautique."
+    },
+    {
+      "type": "compare",
+      "title": "Avion solaire expérimental ou avion de ligne: deux objectifs incompatibles aujourd’hui",
+      "a": {
+        "title": "Solar Impulse 2",
+        "points": [
+          "Un seul pilote et pratiquement aucune charge utile.",
+          "Vitesse faible, pensée pour réduire la consommation au minimum.",
+          "Très grande dépendance à l’ensoleillement et aux conditions météo.",
+          "Mission de démonstration technologique, sans billets ni modèle de transport commercial."
+        ]
+      },
+      "b": {
+        "title": "Avion de ligne moderne",
+        "points": [
+          "Transport de nombreux passagers, bagages et fret sur de longues distances.",
+          "Vitesse de croisière de plusieurs centaines de kilomètres par heure.",
+          "Exigences élevées de régularité, de confort, de sécurité et de disponibilité.",
+          "Consommation énergétique considérable, aujourd’hui principalement couverte par des carburants."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avion électrique à batteries peut néanmoins trouver une place sur de petits appareils, des vols-écoles ou certaines liaisons très courtes, à mesure que les technologies progressent. L’hydrogène, les carburants d’aviation de synthèse ou issus de ressources durables, l’allègement des structures et l’amélioration des opérations au sol sont d’autres pistes étudiées. Mais aucune ne permet, à elle seule, de reproduire immédiatement le service d’un long-courrier à grande capacité."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l’amalgame",
+      "html": "<p>« Sans carburant en vol » ne veut pas dire « sans impact environnemental ». La fabrication des cellules solaires, des batteries, des matériaux composites, le transport de l’équipe et l’infrastructure du projet ont une empreinte. L’intérêt de Solar Impulse est de prouver une possibilité technique, pas de prétendre que tout impact a disparu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-cet-exploit-a-reellement-change",
+      "text": "Ce que cet exploit a réellement changé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Solar Impulse 2 a surtout changé le regard porté sur les limites techniques. Il a montré qu’un appareil habité pouvait voler sur de très longues distances sans brûler de carburant, à condition d’accepter une architecture, une vitesse et une méthode de pilotage radicalement différentes. Le projet a aussi servi de vitrine à des composants plus efficaces: cellules photovoltaïques légères, électronique de puissance, batteries, matériaux composites et logiciels de gestion énergétique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son enseignement le plus utile dépasse même l’aviation. Une transition énergétique ne repose pas uniquement sur une source propre ajoutée à un système existant. Elle exige souvent de revoir l’ensemble: réduire les besoins, alléger les structures, adapter les usages, prévoir les intermittences et mesurer les compromis. Dans Solar Impulse 2, l’efficacité n’était pas une option de confort; c’était la condition même du vol."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut donc éviter deux lectures opposées. La première serait de considérer l’avion comme un gadget sans application: les solutions développées peuvent inspirer d’autres secteurs. La seconde serait de le présenter comme un prototype d’Airbus solaire prêt à transporter des familles: ses contraintes sont trop fortes pour cela. Sa force est précisément d’avoir exploré une frontière, non d’avoir livré un produit fini."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-juger-un-autre-record-aerien",
+      "text": "Comment juger un autre record aérien sans se laisser impressionner trop vite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les annonces de records aéronautiques emploient volontiers des mots très larges: « premier », « autonome », « zéro émission », « tour du monde » ou « électrique ». Ils peuvent désigner des réalités très différentes. Pour comprendre un exploit, il faut regarder la mission entière: le type d’énergie embarquée, le nombre d’escales, la charge transportée, la vitesse, l’assistance au sol et l’impact sur l’ensemble du cycle de vie."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Identifier exactement le record",
+          "html": "Demandez-vous s’il s’agit d’une distance, d’une endurance, d’une vitesse, d’un vol sans escale ou d’une circumnavigation avec escales."
+        },
+        {
+          "title": "Vérifier ce qui est transporté",
+          "html": "Un avion monoplace expérimental ne répond pas au même défi qu’un appareil transportant des passagers ou du fret."
+        },
+        {
+          "title": "Distinguer l’énergie en vol et l’empreinte totale",
+          "html": "L’absence d’émissions directes pendant le vol est une information importante, mais elle ne résume pas la fabrication ni l’exploitation du projet."
+        },
+        {
+          "title": "Comparer les contraintes avant de comparer les promesses",
+          "html": "Vitesse, météo tolérée, autonomie nocturne, fréquence des vols et coût d’exploitation déterminent si une innovation peut changer d’échelle."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe",
+      "html": "<p>Face à une prouesse technologique, ne posez pas seulement la question « est-ce possible? ». Demandez aussi « pour quel usage, avec quelles contraintes et à quel horizon? ». C’est la meilleure façon de mesurer la portée réelle d’un record.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "retenir-lessentiel-et-regarder-vers-la-suite",
+      "text": "Retenir l’essentiel et regarder vers la suite"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avion qui a parcouru le monde entier est donc Solar Impulse 2: un laboratoire volant, plus proche d’un voilier solaire des airs que d’un avion de transport. Son tour du monde, achevé en 2016, n’a pas démontré que le kérosène était déjà inutile. Il a démontré qu’avec une conception radicalement sobre et une gestion attentive de l’énergie, un vol habité de très longue portée pouvait s’affranchir de sa combustion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour suivre les progrès de l’aviation plus propre sans céder aux promesses trop simples, observez trois critères: la capacité réellement transportée, l’énergie nécessaire sur toute la mission et la maturité opérationnelle de la solution. Solar Impulse 2 restera une référence parce qu’il a rendu visible un principe essentiel: dans les transports, l’innovation la plus puissante commence souvent par l’efficacité."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Solar Impulse 2 a-t-il vraiment fait le tour du monde sans escale?",
+      "a": "<p>Non. Solar Impulse 2 a accompli une circumnavigation en 17 étapes, avec des escales prévues pour la météo, la maintenance, le repos des pilotes et la logistique. La performance concerne l’absence de carburant fossile utilisé pour propulser l’avion pendant les vols, et non un vol ininterrompu autour de la Terre.</p>"
+    },
+    {
+      "q": "Comment un avion solaire peut-il voler quand il fait nuit?",
+      "a": "<p>Les cellules photovoltaïques produisent de l’électricité durant la journée. Une partie alimente directement les moteurs, une autre recharge les batteries. La nuit, l’avion utilise cette énergie stockée et descend progressivement en altitude pour limiter sa consommation. Ce système impose une vitesse faible et une planification très précise.</p>"
+    },
+    {
+      "q": "Qui pilotait Solar Impulse 2 pendant le tour du monde?",
+      "a": "<p>Les pilotes Bertrand Piccard et André Borschberg se sont relayés d’une étape à l’autre. L’avion ne disposait que d’une place, dans une cabine particulièrement réduite. Sur les plus longues traversées, le pilote devait gérer seul le sommeil, la navigation, les communications et la surveillance des paramètres énergétiques.</p>"
+    },
+    {
+      "q": "Pourquoi les avions de ligne ne sont-ils pas équipés de panneaux solaires?",
+      "a": "<p>Des panneaux sur un avion de ligne ne produiraient pas assez d’énergie pour propulser rapidement un appareil lourd, chargé de passagers et de bagages. Solar Impulse 2 y parvenait grâce à une masse faible, une immense envergure, une vitesse très réduite et l’absence de charge commerciale. Pour l’aviation de transport, les limites des batteries restent aujourd’hui déterminantes.</p>"
+    },
+    {
+      "q": "Un avion solaire est-il totalement écologique?",
+      "a": "<p>Il n’émet pas directement de gaz d’échappement liés à la combustion de carburant durant son vol, ce qui est un avantage majeur. Mais il faut aussi prendre en compte la fabrication des batteries, des panneaux solaires et des matériaux, ainsi que les opérations au sol. Il est plus juste de parler d’une solution à faibles émissions directes en vol que d’un moyen de transport sans impact.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "id": 1934,
+  "slug": "a-quoi-sert-lalimentation-pc",
+  "title": "À quoi sert l’alimentation PC ?",
+  "metaTitle": "À quoi sert l’alimentation PC? Rôle, puissance et choix",
+  "metaDescription": "À quoi sert l’alimentation PC? Comprenez son rôle, calculez la puissance utile, vérifiez les connecteurs et choisissez un modèle fiable en toute sécurité.",
+  "dek": "Souvent réduite à son nombre de watts, l’alimentation est pourtant l’organe qui conditionne la stabilité, la sécurité et l’évolutivité d’un PC. Voici comment comprendre son rôle et choisir le bon modèle sans surdimensionner inutilement votre machine.",
+  "category": "tech-objets",
+  "tags": [
+    "alimentation PC",
+    "montage PC",
+    "puissance",
+    "hardware",
+    "ordinateur fixe"
+  ],
+  "keyTakeaways": [
+    "L’alimentation transforme le courant de la prise en tensions continues stables pour tous les composants.",
+    "Sa puissance indiquée est une capacité maximale, pas la consommation permanente du PC.",
+    "Le processeur et la carte graphique déterminent l’essentiel du dimensionnement.",
+    "Les connecteurs, le format et les protections comptent autant que le nombre de watts.",
+    "Ne réutilisez jamais les câbles modulaires provenant d’une autre alimentation."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Sans alimentation, même le PC le plus puissant n’est qu’un assemblage de composants inertes. Ce boîtier métallique convertit l’électricité de votre prise, la distribue avec précision et protège en partie votre matériel contre les incidents électriques. Comprendre son fonctionnement aide à éviter les pannes, les redémarrages inopinés et les achats mal adaptés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "role-alimentation-pc",
+      "text": "Le rôle essentiel de l’alimentation PC"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’alimentation PC, aussi appelée bloc d’alimentation ou <em>PSU</em>, reçoit le courant alternatif du réseau électrique — 230 V en France — et le transforme en courant continu utilisable par l’ordinateur. Elle fournit ensuite l’énergie nécessaire à la carte mère, au processeur, à la carte graphique, aux disques, aux ventilateurs et aux périphériques internes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son travail ne consiste pas seulement à « donner des watts ». Elle doit délivrer des tensions régulières malgré les changements rapides de consommation: ouverture d’un jeu, lancement d’un calcul, démarrage de plusieurs ventilateurs ou pic de charge de la carte graphique. Une alimentation de qualité limite les variations indésirables, évacue sa chaleur et coupe ou bride la sortie en cas de problème sérieux."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Convertir</strong> le courant de la prise en courant continu adapté à l’électronique.",
+        "<strong>Répartir</strong> cette énergie vers les composants grâce à des câbles et connecteurs dédiés.",
+        "<strong>Stabiliser</strong> les tensions lorsque la charge du PC varie brutalement.",
+        "<strong>Protéger</strong> le matériel contre certains courts-circuits, surintensités ou surchauffes.",
+        "<strong>Gérer la veille</strong>: une faible alimentation reste disponible pour le bouton de démarrage, le réveil réseau ou certains ports USB."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>La puissance inscrite sur une alimentation correspond à ce qu’elle peut fournir au maximum dans de bonnes conditions. Elle ne représente pas ce que votre PC tire en permanence à la prise.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conversion-courant-et-tensions",
+      "text": "Comment elle alimente réellement les composants"
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’intérieur, le courant secteur est redressé, filtré puis converti à haute fréquence avant d’être régulé. Vous n’avez pas à maîtriser cette électronique pour choisir un bloc, mais il est utile de savoir que le PC ne fonctionne pas directement en 230 V. Les composants reçoivent plusieurs tensions plus basses, distribuées par des rails, c’est-à-dire des lignes d’alimentation."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales tensions fournies par une alimentation de PC fixe",
+      "headers": [
+        "Tension",
+        "Utilisation courante",
+        "Ce qu’il faut comprendre"
+      ],
+      "rows": [
+        [
+          "12 V",
+          "Processeur, carte graphique, moteurs de ventilateurs et certaines pompes",
+          "C’est aujourd’hui la ligne la plus sollicitée dans un PC de jeu ou de création."
+        ],
+        [
+          "5 V",
+          "Électronique de certains SSD, disques SATA, ports et circuits internes",
+          "Elle reste utile, mais pèse généralement moins que le 12 V dans la consommation totale."
+        ],
+        [
+          "3,3 V",
+          "Certaines fonctions de la carte mère et cartes d’extension",
+          "Son rôle est plus discret sur les configurations modernes."
+        ],
+        [
+          "5 V de veille",
+          "Bouton marche/arrêt, réveil et fonctions de veille",
+          "Elle maintient quelques fonctions actives même lorsque le PC est éteint mais branché."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bloc communique aussi indirectement avec la carte mère: il ne doit signaler que les tensions sont prêtes qu’une fois celles-ci stables. C’est l’une des raisons pour lesquelles une alimentation défaillante peut provoquer un démarrage impossible, un arrêt immédiat ou un redémarrage en charge. À l’inverse, une panne apparente d’alimentation peut aussi venir de la prise, du câble secteur, de la carte mère, de la mémoire ou de la carte graphique: il faut éviter les diagnostics hâtifs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-puissance-alimentation",
+      "text": "Quelle puissance choisir sans se tromper?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon réflexe consiste à dimensionner l’alimentation à partir de la consommation réelle ou annoncée des composants les plus exigeants, surtout la carte graphique et le processeur. Le chiffre de puissance thermique d’un processeur, souvent appelé TDP, ne décrit pas toujours son pic de consommation électrique: ne l’utilisez donc pas seul pour calculer votre besoin."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Identifiez les deux plus gros consommateurs",
+          "html": "Relevez les recommandations du fabricant de la carte graphique et les limites de consommation plausibles du processeur. Pour un PC sans carte graphique dédiée, le besoin total reste souvent bien plus modéré."
+        },
+        {
+          "title": "Ajoutez le reste de la configuration",
+          "html": "Carte mère, mémoire, SSD, disques durs, ventilateurs, éclairage et accessoires internes consomment moins individuellement, mais ils doivent être comptés, surtout si vous installez de nombreux disques ou une pompe de refroidissement."
+        },
+        {
+          "title": "Prévoyez une marge raisonnable",
+          "html": "Ajoutez généralement environ 25 à 40 % de marge par rapport à une estimation réaliste en pleine charge. Elle absorbe les pointes, réduit le bruit et laisse une possibilité d’évolution."
+        },
+        {
+          "title": "Vérifiez la puissance disponible sur le 12 V",
+          "html": "Sur une configuration dotée d’une carte graphique dédiée, regardez la puissance combinée annoncée pour le 12 V, pas uniquement le grand chiffre figurant sur la boîte."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "350 à 450 W",
+          "label": "souvent suffisants pour un PC bureautique ou multimédia sans carte graphique gourmande"
+        },
+        {
+          "value": "550 à 750 W",
+          "label": "plage fréquente pour une configuration de jeu équilibrée avec carte graphique dédiée"
+        },
+        {
+          "value": "850 W et plus",
+          "label": "à envisager pour les cartes graphiques très puissantes, les stations de travail ou de larges évolutions"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces ordres de grandeur ne remplacent pas le contrôle de votre configuration précise. Une machine de création équipée d’un processeur très énergivore, de plusieurs disques et d’une grosse carte graphique peut dépasser les besoins d’un PC de jeu plus simple. À l’inverse, acheter 1 000 W pour un ordinateur de bureau consommant peu n’apporte pas de performances supplémentaires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "connecteurs-format-et-compatibilite",
+      "text": "Connecteurs et format: les compatibilités à vérifier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une alimentation assez puissante peut rester inutilisable si elle ne possède pas les bons câbles. La carte mère utilise un grand connecteur principal de 24 broches et le processeur un ou plusieurs connecteurs d’alimentation CPU, souvent au format 4+4 broches. Une carte graphique demande généralement un ou plusieurs connecteurs PCIe 6+2 broches, ou un connecteur 12V-2x6 sur certains modèles récents."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>24 broches ATX:</strong> indispensable pour la carte mère.",
+        "<strong>4+4 broches CPU/EPS:</strong> ne le confondez pas avec un câble PCIe, même si les deux se ressemblent.",
+        "<strong>PCIe 6+2 ou 12V-2x6:</strong> à prévoir en nombre suffisant pour la carte graphique.",
+        "<strong>SATA:</strong> pour SSD 2,5 pouces, disques durs, contrôleurs et certains accessoires.",
+        "<strong>Molex:</strong> ancien connecteur encore présent sur quelques ventilateurs ou accessoires."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le format physique compte également. Le standard ATX convient à la majorité des tours, tandis que les boîtiers compacts utilisent parfois une alimentation SFX ou SFX-L. Vérifiez les dimensions acceptées par le boîtier, l’espace laissé aux câbles et la position de la grille d’aération. Pour un connecteur 12V-2x6, insérez la fiche à fond et évitez de plier le câble juste à sa sortie; suivez aussi les consignes du fabricant de la carte graphique et de l’alimentation."
+    },
+    {
+      "type": "compare",
+      "title": "Alimentation modulaire ou non modulaire: que change ce choix?",
+      "a": {
+        "title": "Modulaire ou semi-modulaire",
+        "points": [
+          "Vous ne branchez que les câbles utiles, ce qui facilite le rangement et la circulation d’air.",
+          "Le montage et le remplacement sont plus pratiques, surtout dans un boîtier étroit.",
+          "Le prix est souvent un peu plus élevé à puissance et qualité comparables."
+        ]
+      },
+      "b": {
+        "title": "Non modulaire",
+        "points": [
+          "Tous les câbles sont fixés au bloc: c’est simple et souvent plus abordable.",
+          "Elle convient très bien à un PC basique avec peu de composants.",
+          "Les câbles inutilisés doivent être rangés dans le boîtier, ce qui peut gêner un montage compact."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur dangereuse",
+      "html": "<p>N’utilisez jamais les câbles modulaires d’une ancienne alimentation avec un nouveau bloc, même s’ils semblent entrer dans les prises. Le brochage côté alimentation peut différer selon les marques et les gammes, avec un risque réel d’endommager les composants.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "rendement-protections-et-fiabilite",
+      "text": "Rendement, protections et fiabilité: au-delà des watts"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le rendement indique la part de l’électricité tirée à la prise qui arrive effectivement aux composants. Le reste est dissipé sous forme de chaleur. Une alimentation plus efficace chauffe généralement moins, peut être plus silencieuse et gaspille moins d’énergie, particulièrement sur un PC utilisé longtemps. Les mentions 80 PLUS Bronze, Gold ou supérieures donnent une indication de rendement mesuré selon un protocole donné, mais elles ne suffisent pas à garantir la qualité globale d’un modèle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cherchez aussi des protections clairement annoncées contre la surintensité, la surtension, la sous-tension, le court-circuit, la surcharge et la surchauffe. Les sigles commerciaux peuvent varier, mais l’idée reste la même: le bloc doit se mettre en sécurité avant que l’incident ne s’aggrave. La qualité de fabrication, le comportement thermique, le niveau sonore, la longueur de garantie et des essais techniques indépendants sont également des indices utiles."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Une certification de rendement n’est pas un label absolu de robustesse. Entre deux alimentations de même puissance, privilégiez un modèle bien documenté, correctement protégé et adapté à vos connecteurs plutôt qu’un simple logo ou un wattage spectaculaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "signes-alimentation-defaillante",
+      "text": "Quels signes peuvent indiquer une alimentation fatiguée?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une alimentation en fin de vie ou insuffisante ne tombe pas toujours en panne de façon nette. Des arrêts brusques lors d’un jeu ou d’un export vidéo, des redémarrages sous forte charge, un PC qui refuse parfois de démarrer ou une ventilation devenue anormalement bruyante peuvent mettre la puce à l’oreille. Une odeur de chaud, de plastique brûlé, des traces de noircissement ou un bruit inhabituel imposent en revanche d’arrêter l’utilisation et de débrancher le PC."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Un arrêt à forte charge peut révéler une puissance insuffisante, mais aussi une surchauffe du processeur ou de la carte graphique.",
+        "Un écran bleu ou un gel de l’image n’accuse pas automatiquement l’alimentation: mémoire, pilotes et stockage sont aussi à examiner.",
+        "Un sifflement léger, appelé parfois bruit de bobine, n’est pas à lui seul la preuve d’une panne.",
+        "La poussière peut augmenter la température et le bruit: nettoyez les grilles à PC éteint et débranché, sans ouvrir le bloc."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne l’ouvrez pas",
+      "html": "<p>Une alimentation peut conserver une charge électrique même débranchée. Ne démontez pas son boîtier pour la réparer ou la dépoussiérer à l’intérieur: remplacez-la ou faites appel à un professionnel en cas de doute.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "installer-ou-remplacer-alimentation",
+      "text": "Installer ou remplacer une alimentation en sécurité"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement est accessible à une personne soigneuse, à condition de prendre des photos avant démontage et de procéder câble par câble. Ne forcez jamais un connecteur: les prises sont conçues pour n’entrer que dans le bon sens. Consultez les schémas du manuel de la carte mère si vous avez le moindre doute."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Éteignez et isolez le PC",
+          "html": "Arrêtez l’ordinateur, basculez l’interrupteur arrière sur arrêt s’il existe, débranchez le câble secteur puis maintenez brièvement le bouton de marche pour aider à vider l’énergie résiduelle."
+        },
+        {
+          "title": "Repérez tous les branchements",
+          "html": "Photographiez le câblage et débranchez le 24 broches de la carte mère, les connecteurs CPU, ceux de la carte graphique, les câbles SATA et les éventuels accessoires."
+        },
+        {
+          "title": "Montez le nouveau bloc dans le bon sens",
+          "html": "Placez le ventilateur face à une zone ventilée du boîtier, souvent vers le bas si le boîtier possède une grille et des pieds. Fixez l’alimentation avec les vis prévues."
+        },
+        {
+          "title": "Utilisez exclusivement les câbles fournis",
+          "html": "Branchez d’abord la carte mère, le processeur et la carte graphique, puis le stockage. Si la carte graphique exige plusieurs prises, utilisez de préférence des câbles PCIe séparés lorsque le fabricant le recommande."
+        },
+        {
+          "title": "Contrôlez avant le premier démarrage",
+          "html": "Vérifiez que rien n’obstrue les ventilateurs, que les fiches sont totalement enfoncées et qu’aucun câble n’est pincé. Refermez ensuite le boîtier et testez le PC."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-alimentation-pc-action",
+      "text": "La méthode rapide pour acheter le bon modèle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une tour de bureau simple, comptez souvent un budget d’environ 45 à 75 euros pour un bloc correct de puissance modérée. Pour une configuration de jeu fiable en 550 à 750 W, les modèles reconnus et mieux équipés se situent fréquemment autour de 80 à 140 euros. Les fortes puissances, le format SFX et les modèles particulièrement silencieux ou haut de gamme peuvent dépasser largement ce niveau. Ces montants varient selon les promotions, le format et les connecteurs."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Notez précisément votre processeur, votre carte graphique, le nombre de disques et le format de votre boîtier.",
+        "Choisissez une puissance avec marge, sans chercher systématiquement le plus gros chiffre.",
+        "Contrôlez le nombre de prises CPU, PCIe et SATA avant paiement.",
+        "Comparez rendement, protections, garantie, dimensions et niveau sonore.",
+        "Écartez les modèles très bon marché dont les caractéristiques et protections sont floues."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon arbitrage",
+      "html": "<p>Considérez l’alimentation comme une assurance de fonctionnement pour l’ensemble du PC. Mieux vaut un modèle fiable de puissance cohérente qu’un bloc surdimensionné mais peu documenté, ou qu’une économie risquée sur le composant qui alimente tout le reste.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si une alimentation de 650 W suffit à mon PC?",
+      "a": "<p>Vérifiez d’abord la recommandation associée à votre carte graphique, puis ajoutez les besoins du processeur et des autres composants. Une alimentation de 650 W convient souvent à un PC de jeu équilibré, mais pas automatiquement à une carte graphique très haut de gamme associée à un processeur énergivore. Regardez aussi le nombre de connecteurs PCIe demandés et la puissance disponible sur le rail 12 V.</p>"
+    },
+    {
+      "q": "Une alimentation de 1 000 W consomme-t-elle forcément plus qu’une 650 W?",
+      "a": "<p>Non. Le PC prélève principalement l’énergie dont ses composants ont besoin; une alimentation de 1 000 W n’envoie pas 1 000 W en permanence. Son rendement peut toutefois être différent selon le niveau de charge. Une puissance excessivement élevée n’améliore pas les performances et peut coûter plus cher à l’achat sans être utile.</p>"
+    },
+    {
+      "q": "Faut-il choisir une alimentation 80 PLUS Gold plutôt que Bronze?",
+      "a": "<p>Une certification Gold indique en général un meilleur rendement qu’une Bronze dans les conditions prévues par la certification. Cela peut réduire la chaleur, le bruit et légèrement la consommation à la prise. Mais une Bronze sérieuse, bien protégée et adaptée à votre configuration vaut mieux qu’un modèle Gold médiocre ou mal documenté. Comparez l’ensemble des caractéristiques.</p>"
+    },
+    {
+      "q": "Puis-je garder les câbles de mon ancienne alimentation modulaire?",
+      "a": "<p>Non, sauf si le fabricant confirme explicitement et précisément la compatibilité pour les deux références concernées. Les prises côté composant peuvent paraître identiques, tandis que le câblage côté alimentation diffère. Utilisez systématiquement les câbles livrés avec le nouveau bloc afin d’éviter une inversion de broches susceptible d’endommager SSD, carte graphique ou carte mère.</p>"
+    },
+    {
+      "q": "Changer d’alimentation rend-il un PC plus performant?",
+      "a": "<p>Pas directement. Une alimentation plus puissante n’augmente ni les images par seconde ni la vitesse du processeur. En revanche, remplacer un bloc insuffisant, instable ou en surchauffe peut supprimer des redémarrages et permettre à une carte graphique ou à un processeur de fonctionner normalement en charge. C’est donc un gain de stabilité et de fiabilité, non une amélioration magique des performances.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

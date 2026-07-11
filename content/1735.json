@@ -1,0 +1,349 @@
+{
+  "id": 1735,
+  "slug": "changer-une-plaque-de-placo-guide-pratique-pour-debutants",
+  "title": "Changer une plaque de placo : guide pratique pour débutants",
+  "metaTitle": "Changer une plaque de placo: guide débutant",
+  "metaDescription": "Changer une plaque de placo sans abîmer le mur: matériel, découpe, fixation, joints et finitions. Un guide pas à pas clair pour débuter avec méthode.",
+  "dek": "Remplacer une plaque de plâtre abîmée ne consiste pas seulement à visser un panneau neuf. Du diagnostic de l’humidité à la finition des joints, voici une méthode sûre pour obtenir un mur solide et discret, même sans expérience.",
+  "category": "maison-immobilier",
+  "tags": [
+    "placo",
+    "plaque de plâtre",
+    "bricolage",
+    "rénovation murale",
+    "joints placo"
+  ],
+  "keyTakeaways": [
+    "Supprimez toujours la cause d’une infiltration avant de remplacer une plaque humide.",
+    "La nouvelle plaque doit être soutenue sur des montants ou des tasseaux, jamais vissée dans le vide.",
+    "Coupez l’électricité et repérez les réseaux avant toute découpe dans une cloison.",
+    "Un joint réussi demande plusieurs couches fines, du séchage et un ponçage doux.",
+    "Pour un plafond ou une grande plaque, travaillez au minimum à deux."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un coup de porte, une fuite d’eau ou un trou important peuvent rendre nécessaire le remplacement d’une plaque de placo. Ce chantier reste accessible à un débutant si vous préparez le support, évitez les réseaux cachés et soignez autant les joints que la pose elle-même."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "faut-il-remplacer-ou-reparer-la-plaque",
+      "text": "Faut-il remplacer la plaque entière ou seulement réparer la zone?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot placo désigne couramment une <strong>plaque de plâtre cartonnée</strong>, le plus souvent de type BA13, c’est-à-dire d’environ 13 mm d’épaisseur. Avant d’acheter une plaque neuve, regardez l’étendue réelle des dégâts. Une petite perforation propre, un impact de moins d’une dizaine de centimètres ou une cheville arrachée peuvent parfois être rebouchés avec une pièce de plaque et de l’enduit. En revanche, une plaque ramollie, gondolée, fissurée sur une grande longueur ou fortement enfoncée mérite généralement d’être déposée."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’humidité impose une prudence particulière. Si la plaque a absorbé de l’eau, ne masquez pas le problème sous un enduit: trouvez d’abord l’origine de la fuite, de la condensation ou de l’infiltration, laissez sécher l’ossature et vérifiez qu’aucune isolation n’est détrempée. Une plaque neuve posée sur un support encore humide se dégradera rapidement."
+    },
+    {
+      "type": "compare",
+      "title": "Réparation locale ou remplacement: comment décider?",
+      "a": {
+        "title": "Réparer une portion de plaque",
+        "points": [
+          "Adapté à un trou limité, loin des bords et sans plaque ramollie.",
+          "Moins de matériau à acheter et moins de poussière à gérer.",
+          "Demande d’ajouter des tasseaux derrière l’ouverture pour porter la pièce rapportée.",
+          "La qualité dépend surtout de la finition du joint, qui doit rester invisible."
+        ]
+      },
+      "b": {
+        "title": "Remplacer une plaque complète",
+        "points": [
+          "Préférable si la plaque est humide, déformée ou abîmée sur une large surface.",
+          "Offre un résultat plus durable lorsque les bords de la plaque sont déjà fragilisés.",
+          "Nécessite de manipuler un panneau encombrant et de retrouver l’ossature.",
+          "Évite de multiplier les raccords sur un même mur."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne coupez pas sans vérifier",
+      "html": "<p>Une cloison peut contenir des câbles électriques, des gaines, des arrivées d’eau ou des tuyaux. Coupez le courant du circuit concerné, retirez les prises et interrupteurs présents, puis travaillez avec une profondeur de coupe maîtrisée. Un détecteur peut aider, mais ne remplace pas l’observation du chantier et la prudence.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-plaque-de-platre",
+      "text": "Choisir la bonne plaque de plâtre et la bonne épaisseur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le plus simple consiste à reprendre exactement le modèle existant: même épaisseur, même largeur et, si possible, même type de plaque. Dans une pièce sèche, une plaque standard BA13 convient dans la majorité des cas. Dans une salle de bains, une buanderie ou une cuisine très exposée à la vapeur, choisissez une plaque hydrofuge adaptée et traitez la cause de l’humidité avant la pose. Les plaques renforcées, acoustiques ou résistantes au feu répondent à des usages précis; elles ne sont utiles que si la cloison d’origine a été conçue avec ce niveau de performance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne remplacez pas une plaque de 13 mm par une plaque plus fine pour gagner quelques euros: vous créeriez un creux difficile à rattraper à l’enduit. Mesurez l’épaisseur au bord d’une découpe, derrière une prise déposée ou sur une chute. Relevez aussi le sens de pose des plaques voisines et la position des montants métalliques ou des tasseaux en bois."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour sélectionner une plaque de remplacement",
+      "headers": [
+        "Type de plaque",
+        "Usage courant",
+        "À vérifier avant l’achat",
+        "Ordre de grandeur"
+      ],
+      "rows": [
+        [
+          "BA13 standard",
+          "Chambre, séjour, couloir sec",
+          "Épaisseur identique à l’existant et support sain",
+          "Souvent autour de 10 à 20 € la plaque courante, selon format"
+        ],
+        [
+          "BA13 hydrofuge",
+          "Salle d’eau, buanderie, mur proche d’un point d’eau",
+          "Ventilation de la pièce et absence de fuite active",
+          "En général plus chère qu’une plaque standard"
+        ],
+        [
+          "Plaque acoustique ou renforcée",
+          "Cloison nécessitant une performance spécifique",
+          "Composition complète de la cloison, pas seulement la plaque",
+          "Surcoût variable, à justifier par le besoin"
+        ],
+        [
+          "Plaque coupe-feu",
+          "Local technique ou séparation soumise à une exigence particulière",
+          "Conformité de l’ensemble du système de cloison",
+          "À choisir selon les prescriptions du chantier"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "materiel-budget-et-protection",
+      "text": "Matériel, budget et protections: préparez tout avant la découpe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un remplacement sur une cloison, prévoyez une plaque adaptée, des vis à placo compatibles avec votre support, du ruban à joint, de l’enduit à joint, une cale à poncer et un abrasif fin. Ajoutez un mètre, un niveau ou une grande règle, un crayon, un cutter solide, une scie à guichet ou un outil oscillant, une visseuse avec embout adapté, ainsi qu’un lève-plaque ou au moins un assistant pour les grands formats."
+    },
+    {
+      "type": "paragraph",
+      "html": "Comptez souvent quelques dizaines d’euros de consommables pour une petite intervention: plaque, vis, bande, enduit et abrasif. Si vous devez aussi acheter une visseuse, des outils de coupe et des équipements de protection, le budget monte vite. Demandez au magasin de découper la plaque si son format ne rentre pas dans votre véhicule; cela facilite aussi la manutention."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1,20 m",
+          "label": "largeur fréquente d’une plaque de plâtre"
+        },
+        {
+          "value": "2,50 m",
+          "label": "longueur courante, avec de nombreux autres formats disponibles"
+        },
+        {
+          "value": "~25 kg",
+          "label": "poids possible d’une plaque BA13 d’environ 2,50 × 1,20 m"
+        },
+        {
+          "value": "12 à 24 h",
+          "label": "temps de séchage souvent nécessaire entre deux couches d’enduit, selon le produit et l’air ambiant"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Équipez-vous pour la poussière",
+      "html": "<p>Portez des lunettes, des gants et un masque anti-poussières adapté au ponçage. Bâchez le sol, fermez la porte de la pièce et aérez après les travaux. La poussière d’enduit s’infiltre facilement dans le logement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-le-chantier-et-reperer-ossature",
+      "text": "Préparer le chantier et repérer l’ossature de la cloison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Protégez le sol, éloignez les meubles et déposez les plinthes ou les appareillages électriques qui gênent la zone de travail. Si une prise se trouve sur la plaque, coupez son alimentation au tableau électrique et vérifiez l’absence de tension avec un appareil approprié avant toute manipulation. Photographiez le passage des gaines visibles: ces photos seront utiles avant de refermer la cloison."
+    },
+    {
+      "type": "paragraph",
+      "html": "Repérez ensuite les montants. Sur une ossature métallique, ils sont souvent espacés de manière régulière; les têtes de vis existantes dessinent leur emplacement. Un aimant puissant peut aussi localiser les vis à travers le carton. L’objectif est que les bords de la future plaque reposent sur un montant ou sur un renfort ajouté. Une jonction qui flotte entre deux montants finit presque toujours par fissurer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "cas-des-logements-anciens",
+      "text": "Cas particulier: logement ancien et matériaux inconnus"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un bâtiment ancien, redoublez de précautions si vous ne connaissez pas la composition des revêtements, des colles ou des enduits. En présence d’un matériau suspect, d’un ancien flocage, d’un revêtement dégradé ou d’un chantier professionnel, ne percez pas au hasard: renseignez-vous sur les diagnostics requis et faites intervenir une personne compétente si nécessaire. Le risque ne vient pas forcément de la plaque elle-même, mais des matériaux associés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deposer-l-ancienne-plaque-sans-aggraver",
+      "text": "Déposer l’ancienne plaque sans abîmer la cloison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour remplacer une plaque entière, commencez par gratter ou découper la bande de joint sur son pourtour. Repérez et dévissez les vis visibles. Si elles sont noyées sous l’enduit, dégagez doucement leur tête avec un cutter ou une pointe. Évitez d’arracher le panneau d’un coup: vous risqueriez de tordre l’ossature, de déchirer les plaques voisines ou d’embarquer une gaine cachée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’il faut seulement retirer une portion, tracez un rectangle aux angles nets. Idéalement, placez deux côtés de la découpe au milieu de montants existants. Coupez le carton au cutter, sciez le plâtre sans enfoncer profondément l’outil, puis retirez le morceau. Si un bord n’a pas de support, glissez derrière l’ouverture un tasseau en bois sain ou un renfort prévu pour plaque de plâtre, fixé par des vis de part et d’autre de l’ouverture."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pourquoi ajouter un tasseau?",
+      "html": "<p>Le tasseau crée une surface de vissage derrière le bord découpé. Sans ce renfort, la pièce rapportée bougera légèrement à chaque choc ou variation du bâtiment: le joint se fissurera tôt ou tard.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "decouper-et-poser-la-nouvelle-plaque",
+      "text": "Découper, ajuster et fixer la nouvelle plaque: la méthode pas à pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Mesurez deux fois, notamment si l’ouverture n’est pas parfaitement rectangulaire. Retirez quelques millimètres à la cote mesurée afin de ne pas forcer la plaque dans son logement: un léger jeu se traite à l’enduit, tandis qu’une plaque mise en contrainte peut se bomber. Pour une découpe droite, incisez profondément le carton côté face, cassez la plaque sur une arête, puis coupez le carton arrière. Réalisez les découpes de prises et d’interrupteurs avant la mise en place."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "1. Vérifiez le support",
+          "html": "Passez une règle sur les montants ou les tasseaux. Ils doivent être stables, dans le même plan et assez larges pour recevoir les vis des plaques de chaque côté du joint."
+        },
+        {
+          "title": "2. Présentez la plaque à blanc",
+          "html": "Placez-la sans vis et contrôlez son affleurement avec les plaques voisines. Rectifiez progressivement au rabot à plaque ou au cutter si elle bloque."
+        },
+        {
+          "title": "3. Gardez le bon sens de pose",
+          "html": "Reprenez l’orientation des plaques existantes et faites coïncider les bords amincis lorsqu’ils sont présents. Si plusieurs plaques sont posées, évitez d’aligner tous les joints sur une même ligne."
+        },
+        {
+          "title": "4. Commencez à visser au centre",
+          "html": "Maintenez la plaque plaquée contre l’ossature, puis posez les premières vis au centre avant de progresser vers les bords. Cela limite les tensions et les déformations."
+        },
+        {
+          "title": "5. Choisissez les vis adaptées",
+          "html": "Pour une plaque BA13 sur ossature métallique, des vis placo d’environ 25 mm sont courantes en simple parement; sur bois, la longueur dépend du support. Vérifiez toujours les indications de la plaque et de l’ossature."
+        },
+        {
+          "title": "6. Réglez la profondeur",
+          "html": "La tête de vis doit former un léger creux pour être enduite, sans déchirer le carton. Si le carton est traversé, retirez la vis et replacez-en une autre à quelques centimètres."
+        },
+        {
+          "title": "7. Contrôlez l’alignement",
+          "html": "Posez une grande règle sur le raccord. Corrigez immédiatement une plaque en saillie, car l’enduit de joint n’est pas fait pour compenser un décalage important."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège de la vis trop serrée",
+      "html": "<p>Une tête de vis qui perce le carton ne maintient plus correctement le plâtre. C’est une cause fréquente de fixation fragile et de petite boursouflure sous la peinture.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "realiser-des-joints-invisibles",
+      "text": "Réaliser les joints et retrouver une surface prête à peindre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La bande à joint ne sert pas seulement à cacher une fente: elle renforce la liaison entre deux plaques. Appliquez une première couche d’enduit dans le creux du joint, marouflez une bande papier en chassant l’excédent avec un couteau à enduire, puis recouvrez-la d’une fine passe. Traitez aussi les têtes de vis. Laissez sécher selon la notice du produit et la température de la pièce."
+    },
+    {
+      "type": "paragraph",
+      "html": "Appliquez ensuite une ou deux couches plus larges, avec un couteau à enduire plus large à chaque passage. La transition doit s’étaler de part et d’autre du joint plutôt que de former une bosse. Une fois l’enduit parfaitement sec, poncez sans insister sur la bande, dépoussiérez soigneusement et examinez le mur en lumière rasante. Cette lumière révèle les creux et les surépaisseurs que l’éclairage frontal masque."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "sous-couche-et-peinture",
+      "text": "Sous-couche et peinture: l’étape qui uniformise vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne peignez pas directement sur une zone enduite. Une sous-couche pour plaques de plâtre ou murs neufs uniformise l’absorption entre le carton, l’enduit et l’ancienne peinture. Après séchage, vérifiez une dernière fois la surface, faites les petites retouches nécessaires, puis appliquez la peinture de finition sur une zone suffisamment large, voire sur tout le pan de mur si la teinte existante est ancienne ou difficile à retrouver."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-frequentes-et-quand-appeler-un-pro",
+      "text": "Erreurs fréquentes et situations où il vaut mieux appeler un professionnel"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Recouvrir une plaque humide:</strong> le problème réapparaîtra sous forme de cloques, moisissures ou déformation.",
+        "<strong>Poser un morceau sans support arrière:</strong> la réparation manque de rigidité et le joint se fend.",
+        "<strong>Forcer une plaque trop grande:</strong> elle pousse les bords voisins et crée un défaut visible.",
+        "<strong>Utiliser trop d’enduit en une seule passe:</strong> le séchage devient long, le ponçage pénible et les retraits plus visibles.",
+        "<strong>Oublier les réseaux:</strong> un câble ou un tuyau endommagé transforme une réparation simple en dépannage coûteux."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites appel à un plaquiste ou à un électricien si la cloison est porteuse de réseaux complexes, si l’eau a atteint l’isolation ou l’ossature, si plusieurs mètres carrés doivent être refaits, ou si le support présente des fissures structurelles. Un plafond demande également une aide matérielle et humaine: la plaque est lourde, la pose au-dessus de la tête est fatigante et une mauvaise fixation représente un vrai risque."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-d-action-avant-de-commencer",
+      "text": "Votre plan d’action avant de commencer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par confirmer que le dommage justifie un remplacement et éliminez toute cause d’humidité. Relevez ensuite l’épaisseur et le type de la plaque, localisez l’ossature, sécurisez l’électricité et achetez les consommables avant de déposer l’ancien panneau. Le jour des travaux, ne cherchez pas la vitesse: un support bien préparé, une plaque correctement alignée et des joints séchés entre chaque couche font l’essentiel du résultat."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant la première vis",
+      "html": "<p>La règle la plus utile est simple: chaque bord de plaque doit être porté, chaque vis doit tenir sans arracher le carton, et chaque joint doit être renforcé par une bande. Si l’un de ces trois points manque, reprenez la pose avant de passer aux finitions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on changer une plaque de placo sans enlever les plaques voisines?",
+      "a": "<p>Oui, à condition que la plaque à remplacer soit accessible et que vous puissiez dégager proprement ses joints. Si vous ne remplacez qu’une partie, découpez de préférence jusqu’au milieu des montants existants. Là où aucun montant n’est présent, ajoutez un tasseau ou un renfort derrière la plaque afin de soutenir solidement le nouveau morceau.</p>"
+    },
+    {
+      "q": "Comment savoir si une plaque de plâtre humide doit être remplacée?",
+      "a": "<p>Une plaque tachée mais encore dure peut parfois être conservée après suppression de la cause et séchage complet, sous réserve d’absence de moisissures. En revanche, remplacez-la si elle est molle au toucher, gonflée, friable, déformée ou si le carton se décolle. Vérifiez aussi l’état de l’isolant et de l’ossature derrière la plaque.</p>"
+    },
+    {
+      "q": "Quelles vis utiliser pour une plaque BA13?",
+      "a": "<p>Le choix dépend du support. Sur une ossature métallique en simple parement BA13, les vis à placo d’environ 25 mm sont couramment utilisées. Sur tasseaux ou montants en bois, la vis doit pénétrer suffisamment dans le bois sans traverser inutilement le support. Référez-vous aux recommandations du fabricant de la plaque et de l’ossature, surtout en cas de double parement ou de plaque spéciale.</p>"
+    },
+    {
+      "q": "Faut-il mettre une bande à joint pour une petite réparation de placo?",
+      "a": "<p>Oui, dès qu’il existe un raccord entre une pièce neuve et une plaque existante, la bande à joint est fortement recommandée. Elle limite l’apparition de fissures et donne un raccord plus durable. Pour un simple petit trou rebouché sans découpe de plaque, un enduit de rebouchage peut suffire, mais la surface doit être saine et stable.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il attendre avant de peindre après un joint de placo?",
+      "a": "<p>Attendez que chaque couche d’enduit soit sèche à cœur, en suivant la notice du produit. Selon l’épaisseur appliquée, la température et l’humidité de la pièce, cela prend souvent au moins une nuit entre deux passes. Après le dernier ponçage, dépoussiérez, appliquez une sous-couche et laissez-la sécher avant de peindre.</p>"
+    },
+    {
+      "q": "Est-il possible de remplacer seul une grande plaque de placo?",
+      "a": "<p>C’est déconseillé pour une plaque de grand format, et particulièrement au plafond. Une plaque de plâtre est encombrante, fragile sur les bords et peut peser plusieurs dizaines de kilos. Travaillez à deux ou utilisez un lève-plaque. Vous gagnerez en sécurité, en précision d’alignement et en qualité de fixation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

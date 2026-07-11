@@ -1,0 +1,354 @@
+{
+  "id": 934,
+  "slug": "quest-ce-qui-distingue-le-droit-civil-du-droit-penal",
+  "title": "Qu’est-ce qui distingue le droit civil du droit pénal ?",
+  "metaTitle": "Droit civil et droit pénal: quelles différences?",
+  "metaDescription": "Droit civil ou droit pénal: objectifs, procédures, sanctions, exemples et démarches utiles pour comprendre quel recours choisir face à un litige.",
+  "dek": "Un conflit entre particuliers n’est pas nécessairement une infraction, et une infraction peut aussi causer un préjudice à indemniser. Comprendre cette distinction permet de mieux identifier ses droits, ses interlocuteurs et les recours possibles.",
+  "category": "culture-societe",
+  "tags": [
+    "droit civil",
+    "droit pénal",
+    "justice",
+    "litige",
+    "victime"
+  ],
+  "keyTakeaways": [
+    "Le droit civil répare ou organise des intérêts privés; le droit pénal protège l’ordre public en sanctionnant les infractions.",
+    "Une indemnisation civile va en principe à la victime, tandis qu’une amende pénale est versée à l’État.",
+    "Les mêmes faits peuvent engager à la fois une responsabilité civile et une responsabilité pénale.",
+    "La qualification juridique des faits compte davantage que le nom donné au conflit par les personnes concernées.",
+    "En cas d’urgence, de violence ou de menace, la priorité est la protection et le signalement, pas le choix théorique de la procédure."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Contrat non respecté, voisin bruyant, accident, escroquerie, agression: tous ces événements peuvent conduire devant la justice, mais pas pour les mêmes raisons. Le <strong>droit civil</strong> et le <strong>droit pénal</strong> se distinguent par leur objectif, les personnes qui agissent, les juridictions saisies et les conséquences encourues. Voici comment savoir de quel terrain relève votre situation — et pourquoi les deux peuvent parfois se cumuler."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deux-logiques-juridiques-differentes",
+      "text": "Deux logiques juridiques très différentes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le droit civil est une branche majeure du droit privé. Il organise les relations entre les personnes: famille, propriété, contrats, succession, voisinage ou encore réparation des dommages causés à autrui. Lorsqu’un différend survient, son rôle est surtout de <strong>reconnaître un droit, faire cesser un trouble ou réparer un préjudice</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le droit pénal répond à une autre question: un comportement constitue-t-il une infraction que la société doit sanctionner? Il définit les comportements interdits — par exemple le vol, les violences, le harcèlement, l’escroquerie ou la conduite en état d’ivresse — et fixe les peines applicables. Son objectif est de <strong>protéger l’ordre public</strong>, de sanctionner l’auteur et de prévenir la récidive."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La distinction essentielle",
+      "html": "<p>Le droit civil cherche principalement à remettre la victime dans la situation où elle aurait dû se trouver sans le dommage. Le droit pénal cherche à répondre à une violation de la loi pénale, au nom de la société.</p>"
+    },
+    {
+      "type": "compare",
+      "title": "Droit civil ou droit pénal: le réflexe à adopter",
+      "a": {
+        "title": "Droit civil",
+        "points": [
+          "Vous demandez l’exécution d’un contrat, la restitution d’un bien, la fin d’un trouble ou une indemnisation.",
+          "Le litige oppose le plus souvent des personnes privées: particuliers, entreprises, propriétaires, locataires ou héritiers.",
+          "La question centrale est: quel droit a été méconnu et quel préjudice doit être réparé?"
+        ]
+      },
+      "b": {
+        "title": "Droit pénal",
+        "points": [
+          "Il existe un fait interdit par la loi et susceptible d’être qualifié d’infraction.",
+          "La société, représentée notamment par le procureur de la République, peut engager des poursuites.",
+          "La question centrale est: une infraction a-t-elle été commise, par qui, et quelle sanction est justifiée?"
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-traite-le-droit-civil",
+      "text": "Ce que traite concrètement le droit civil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le droit civil couvre une grande part de la vie quotidienne. Il ne concerne pas uniquement les conflits: il fixe aussi les règles relatives à l’état des personnes, à la filiation, au mariage, aux biens et aux obligations. Lorsqu’il y a un contentieux, on parle souvent de <strong>responsabilité civile</strong> ou de litige civil."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Un artisan abandonne un chantier ou réalise des travaux non conformes: vous pouvez réclamer l’exécution des travaux, une réduction du prix, la résolution du contrat ou des dommages et intérêts.",
+        "Un voisin laisse persister des nuisances anormales: vous pouvez demander la cessation du trouble et la réparation de votre préjudice.",
+        "Un conducteur provoque un accident par imprudence: son assureur ou lui-même peut devoir indemniser les dommages matériels et corporels.",
+        "Une personne diffuse une information qui vous cause un préjudice ou dégrade votre réputation: une action civile peut être envisagée selon les faits et le fondement juridique.",
+        "Un héritier conteste le partage d’une succession ou un locataire conteste une retenue sur son dépôt de garantie: il s’agit, en principe, d’un différend civil."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "la-reparation-plutot-que-la-punition",
+      "text": "La réparation plutôt que la punition"
+    },
+    {
+      "type": "paragraph",
+      "html": "La décision civile peut prendre plusieurs formes: versement de dommages et intérêts, annulation d’un contrat, obligation de livrer un bien, remise en état, expulsion dans les cas prévus par la loi, ou interdiction de poursuivre un comportement dommageable. Les dommages et intérêts ne sont pas une « punition » automatique: ils sont destinés à compenser un préjudice prouvé, qu’il soit matériel, corporel, moral ou économique."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un mot qui peut prêter à confusion",
+      "html": "<p>Une « faute civile » peut exister sans infraction pénale. Ne pas respecter un contrat ou causer un dommage par négligence n’est pas forcément un délit. Inversement, certains faits pénalement répréhensibles ne donnent lieu à une indemnisation que si une victime justifie d’un préjudice.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-sanctionne-le-droit-penal",
+      "text": "Ce que sanctionne le droit pénal"
+    },
+    {
+      "type": "paragraph",
+      "html": "En droit pénal, il ne suffit pas qu’un comportement paraisse injuste ou blessant: il faut qu’un texte prévoie l’infraction et la peine correspondante. C’est le principe de légalité des délits et des peines. La justice examine ensuite les éléments des faits, l’intention éventuelle de l’auteur, les circonstances et les preuves disponibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les infractions sont classées en trois catégories. Cette classification détermine notamment la juridiction compétente, les peines possibles et certaines règles de procédure. Une contravention n’est pas un « petit délit » au sens juridique: c’est une catégorie distincte, généralement liée aux infractions les moins graves."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3",
+          "label": "catégories d’infractions: contraventions, délits et crimes"
+        },
+        {
+          "value": "2",
+          "label": "fonctions souvent cumulables: sanctionner l’infraction et indemniser la victime"
+        },
+        {
+          "value": "0 €",
+          "label": "part d’une amende pénale versée directement à la victime: l’amende revient en principe à l’État"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Les principales différences entre droit civil et droit pénal",
+      "headers": [
+        "Point de comparaison",
+        "Droit civil",
+        "Droit pénal"
+      ],
+      "rows": [
+        [
+          "Finalité",
+          "Régler un litige, protéger un droit, réparer un dommage",
+          "Constater et sanctionner une infraction, protéger l’ordre public"
+        ],
+        [
+          "Personnes qui agissent",
+          "La personne qui réclame un droit contre une autre partie",
+          "Le procureur peut poursuivre; la victime peut aussi intervenir"
+        ],
+        [
+          "Exemples",
+          "Facture impayée, malfaçon, conflit de voisinage, succession",
+          "Vol, violences, fraude, harcèlement, dégradations"
+        ],
+        [
+          "Issue possible",
+          "Indemnisation, exécution d’une obligation, annulation, remise en état",
+          "Amende, peine d’emprisonnement, stage, interdiction, travail d’intérêt général selon les cas"
+        ],
+        [
+          "Bénéficiaire d’une somme d’argent",
+          "La victime ou le créancier reçoit les dommages et intérêts",
+          "L’amende est en principe due au Trésor public; la victime peut demander réparation séparément"
+        ],
+        [
+          "Principe de preuve",
+          "Chaque partie doit prouver les faits nécessaires à sa demande ou à sa défense",
+          "La personne poursuivie est présumée innocente; l’accusation doit établir l’infraction"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas amende et indemnisation",
+      "html": "<p>Obtenir la condamnation pénale d’une personne ne signifie pas automatiquement recevoir une somme d’argent. Pour être indemnisée, la victime doit en principe demander la réparation de ses préjudices et les justifier.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "des-juridictions-et-procedures-distinctes",
+      "text": "Des juridictions et des procédures distinctes"
+    },
+    {
+      "type": "paragraph",
+      "html": "En matière civile, de nombreux litiges relèvent du tribunal judiciaire. Mais il existe des juridictions ou formations spécialisées: conseil de prud’hommes pour de nombreux conflits individuels liés au travail, tribunal de commerce pour certains litiges entre commerçants et sociétés, ou juge des contentieux de la protection pour une partie des affaires de location, de crédit et de surendettement."
+    },
+    {
+      "type": "paragraph",
+      "html": "En matière pénale, les contraventions sont en principe jugées par le tribunal de police, les délits par le tribunal correctionnel et les crimes par la cour d’assises ou, dans certains cas, par la cour criminelle départementale. Le procureur de la République représente les intérêts de la société: il décide de l’orientation d’un grand nombre de procédures et requiert l’application de la loi devant les juridictions."
+    },
+    {
+      "type": "paragraph",
+      "html": "La procédure civile est souvent engagée par une assignation, une requête ou une autre saisine adaptée au dossier. La procédure pénale peut commencer par un dépôt de plainte auprès de la police, de la gendarmerie ou directement par courrier au procureur. Une plainte ne garantit pas un procès: le parquet peut classer l’affaire, diligenter une enquête, proposer une mesure alternative ou engager des poursuites, selon les éléments réunis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-les-memes-faits-relevent-des-deux-droits",
+      "text": "Un même fait peut relever du civil et du pénal"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le point qui crée le plus de confusion. Un seul événement peut causer un dommage privé tout en constituant une infraction. Dans ce cas, la personne mise en cause risque une sanction pénale, et la victime peut demander la réparation de ses préjudices. Ces deux volets ne se remplacent pas: ils ont des fonctions différentes."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Après une agression, l’auteur peut être poursuivi pour violences; la victime peut demander le remboursement de frais, l’indemnisation de son préjudice corporel, moral ou professionnel.",
+        "Après un accident de la route provoqué par une conduite sous alcool, il peut y avoir une infraction pénale et une obligation d’indemniser les victimes.",
+        "En cas d’escroquerie, la justice pénale peut sanctionner l’auteur; la victime peut réclamer la restitution des sommes perdues et des dommages et intérêts.",
+        "Après une dégradation volontaire, une peine pénale peut être prononcée, tandis que le propriétaire demande le coût de la remise en état."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La victime peut, selon la situation procédurale, se <strong>constituer partie civile</strong> dans une procédure pénale afin de demander réparation. Cette démarche ne convient pas à tous les dossiers et suppose d’évaluer les preuves du préjudice, l’état de la procédure et les voies de recours disponibles. Dans les affaires complexes ou graves, l’avis d’un avocat ou d’une association d’aide aux victimes est particulièrement utile."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Gardez deux types de preuves",
+      "html": "<p>Conservez à la fois les éléments qui établissent les faits — messages, photographies, témoignages, vidéos obtenues légalement — et ceux qui chiffrent votre préjudice: factures, certificats, devis, arrêts de travail, échanges avec l’assurance. Ils ne répondent pas exactement à la même question.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preuve-presomption-et-droits-de-la-defense",
+      "text": "Preuve, présomption d’innocence et droits de la défense"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un procès civil, la personne qui réclame quelque chose doit démontrer les faits qui fondent sa demande. L’autre partie peut apporter des éléments contraires. Les règles de preuve varient notamment selon la nature de l’acte, la somme en jeu et la qualité des personnes concernées; un écrit, un constat ou une expertise peuvent être décisifs."
+    },
+    {
+      "type": "paragraph",
+      "html": "En pénal, la présomption d’innocence est centrale: une personne poursuivie ne doit pas prouver son innocence. Il appartient aux autorités de réunir des éléments permettant d’établir l’infraction. La victime peut fournir des preuves et se faire assister, mais elle ne décide pas seule de la culpabilité. Le juge apprécie les éléments produits dans le respect du débat contradictoire et des droits de la défense."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Évitez les preuves obtenues à tout prix",
+      "html": "<p>Enregistrer, diffuser ou récupérer des informations sans respecter la loi peut vous exposer à des difficultés juridiques et nuire au dossier. Avant de publier des messages, d’accéder à un compte ou d’installer un dispositif de surveillance, demandez conseil.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-choisir-la-bonne-demarche",
+      "text": "Comment choisir la bonne démarche face à un conflit ou une infraction"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas à maîtriser seul la qualification juridique exacte des faits, mais vous gagnez à formuler clairement votre objectif. Voulez-vous récupérer une somme, faire cesser un trouble, être indemnisé, signaler une infraction, ou plusieurs de ces choses à la fois? Cette réponse oriente les premières démarches."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Mettre la situation en sécurité",
+          "html": "En cas de danger immédiat, de violences, de menace ou d’urgence médicale, contactez sans délai les services d’urgence compétents. Ne cherchez pas à régler seul un face-à-face dangereux."
+        },
+        {
+          "title": "Établir une chronologie et conserver les pièces",
+          "html": "Notez les dates, personnes présentes, faits précis et conséquences. Gardez les originaux ou copies des contrats, courriels, captures, certificats, factures, photos et échanges utiles."
+        },
+        {
+          "title": "Tenter une solution amiable si elle est adaptée",
+          "html": "Pour un litige civil sans urgence ni violence, une mise en demeure écrite, une médiation ou une conciliation peuvent éviter un procès. Ne privilégiez pas cette voie si elle vous met en danger ou si les faits doivent être signalés."
+        },
+        {
+          "title": "Signaler ou déposer plainte lorsqu’une infraction est plausible",
+          "html": "Présentez les faits sans les exagérer et apportez vos éléments. Vous pouvez déposer plainte auprès de la police ou de la gendarmerie, ou écrire au procureur de la République."
+        },
+        {
+          "title": "Faire vérifier la stratégie et les délais",
+          "html": "Les délais pour agir ne sont pas identiques en civil et en pénal et varient selon les faits. Consultez rapidement un professionnel du droit, un point-justice, votre protection juridique ou une association d’aide aux victimes."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "couts-et-accompagnement",
+      "text": "Coûts, assurance et accompagnement: à quoi penser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’une démarche dépend beaucoup du dossier. Une première consultation juridique peut aller d’un service gratuit d’information à une consultation payante; les honoraires d’avocat sont librement fixés avec une convention écrite. Selon la procédure, il peut aussi y avoir des frais de commissaire de justice, d’expertise, de constat ou de déplacement. Une affaire simple réglée à l’amiable coûte généralement bien moins qu’un contentieux long avec expertise."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’engager des frais, vérifiez vos contrats d’assurance. Une garantie de <strong>protection juridique</strong> peut contribuer aux frais de conseil, d’avocat ou d’expertise dans certaines limites et pour certains litiges. L’aide juridictionnelle peut aussi prendre en charge tout ou partie des frais de justice, sous conditions de ressources et selon la situation. Ces aides ne dispensent pas de vérifier les exclusions, plafonds et délais de déclaration."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Les bons interlocuteurs",
+      "html": "<p>Un point-justice peut fournir une première information juridique gratuite. Pour les victimes d’infraction, les associations d’aide aux victimes peuvent expliquer les démarches et l’accompagnement disponible. Pour un enjeu financier, familial, professionnel ou pénal important, un avocat permet d’évaluer les risques et les options concrètes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-selon-votre-objectif",
+      "text": "Agir selon votre objectif: la méthode à retenir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Retenez une règle simple: si vous cherchez d’abord à faire respecter un contrat, récupérer un bien, faire cesser un trouble ou obtenir réparation, vous êtes sur le terrain civil. Si les faits semblent correspondre à un comportement interdit par la loi, une démarche pénale peut être nécessaire. Et si vous êtes victime d’un fait comme des violences, une fraude ou une dégradation volontaire, envisagez les deux dimensions: <strong>signaler l’infraction</strong> et <strong>documenter précisément votre préjudice</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne laissez pas le vocabulaire vous bloquer. Présentez des faits datés, conservez vos preuves, évitez les accusations publiques hâtives et agissez sans tarder, car les délais peuvent limiter vos possibilités. Une orientation juridique précoce est souvent le moyen le plus sûr d’éviter une procédure inutile ou de passer à côté d’une indemnisation légitime."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on porter plainte pour un simple litige avec un artisan ou un vendeur?",
+      "a": "<p>Un désaccord sur une facture, un retard ou une prestation mal exécutée relève le plus souvent du droit civil ou du droit de la consommation: mise en demeure, médiation, conciliation puis, si besoin, action en justice. Une plainte pénale peut devenir pertinente s’il existe des éléments faisant penser à une infraction, par exemple une escroquerie, l’usage de faux documents ou une manœuvre frauduleuse. Le simple fait qu’un professionnel ne tienne pas ses engagements ne suffit pas automatiquement à caractériser une infraction.</p>"
+    },
+    {
+      "q": "La victime d’une infraction reçoit-elle l’amende prononcée par le tribunal?",
+      "a": "<p>Non. L’amende pénale est en principe versée à l’État. Pour percevoir une indemnisation, la victime doit demander la réparation de ses préjudices, notamment en se constituant partie civile lorsqu’une procédure pénale le permet, ou en engageant une action civile adaptée. Elle doit pouvoir démontrer la réalité et le montant de ses préjudices avec des documents utiles: factures, certificats, justificatifs de perte de revenus, devis ou attestations.</p>"
+    },
+    {
+      "q": "Peut-on demander des dommages et intérêts sans déposer plainte?",
+      "a": "<p>Oui. Une demande de dommages et intérêts peut être formulée devant une juridiction civile lorsqu’une personne vous a causé un préjudice, même s’il n’y a pas d’infraction pénale ou que vous ne souhaitez pas déposer plainte. Il faut identifier le fondement de votre demande, établir les faits, démontrer le préjudice et le lien entre le comportement reproché et ce préjudice. Une tentative de règlement amiable est souvent utile avant de saisir le juge, selon le litige.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre une plainte et une constitution de partie civile?",
+      "a": "<p>La plainte signale aux autorités des faits que vous estimez constitutifs d’une infraction. Elle peut être déposée par la victime ou par toute personne ayant connaissance des faits, avec des règles particulières selon les cas. La constitution de partie civile est une démarche par laquelle une victime demande à participer à la procédure pénale pour solliciter la réparation de son préjudice. Elle n’est possible que sous certaines conditions et selon des modalités qui dépendent du stade de la procédure.</p>"
+    },
+    {
+      "q": "Un classement sans suite empêche-t-il toute indemnisation?",
+      "a": "<p>Pas nécessairement. Un classement sans suite signifie que le procureur ne poursuit pas, pour un motif qui doit être communiqué lorsqu’il est connu: preuves insuffisantes, infraction non caractérisée, auteur non identifié ou autre raison juridique. Cela ne tranche pas automatiquement l’existence d’un préjudice civil. Selon les faits, une action civile peut rester envisageable, avec ses propres conditions de preuve et ses propres délais. Faites examiner la décision et votre dossier avant d’agir.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement prendre un avocat en droit civil ou pénal?",
+      "a": "<p>L’avocat n’est pas obligatoire dans toutes les procédures, mais il peut être indispensable dans certaines situations ou fortement recommandé lorsque les enjeux sont élevés, les faits graves, les preuves contestées ou la procédure technique. En pénal, une personne poursuivie doit pouvoir organiser sa défense; dans certains cas, un avocat est obligatoire ou peut être désigné. En civil, vérifiez aussi votre assurance de protection juridique et les possibilités d’aide juridictionnelle avant de renoncer à être accompagné.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

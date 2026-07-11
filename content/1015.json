@@ -1,0 +1,347 @@
+{
+  "id": 1015,
+  "slug": "comment-fonctionne-la-vanne-egr-sur-un-berlingo-hdi",
+  "title": "Comment fonctionne la vanne EGR sur un Berlingo HDI ?",
+  "metaTitle": "Vanne EGR Berlingo HDi: fonctionnement et pannes",
+  "metaDescription": "Vanne EGR de Berlingo HDi: fonctionnement, symptômes, diagnostic et entretien. Identifiez les pannes, évitez les erreurs et choisissez la bonne réparation.",
+  "dek": "Sur un Citroën Berlingo HDi, la vanne EGR participe directement à la dépollution du moteur, mais son encrassement est une cause classique de pertes de puissance et de voyants moteur. Voici comment elle agit, comment reconnaître une panne et quelle réparation choisir sans remplacer des pièces au hasard.",
+  "category": "auto-mobilite",
+  "tags": [
+    "Berlingo HDi",
+    "vanne EGR",
+    "diesel",
+    "entretien auto",
+    "diagnostic moteur"
+  ],
+  "keyTakeaways": [
+    "La vanne EGR renvoie une part mesurée des gaz d'échappement vers l'admission pour réduire les oxydes d'azote.",
+    "Les courts trajets et une conduite durablement à bas régime accélèrent son encrassement sur un diesel.",
+    "Un voyant moteur ou une perte de puissance ne prouvent pas à eux seuls que la vanne EGR est en cause.",
+    "Un diagnostic à la valise et le contrôle des éléments associés évitent de remplacer une vanne encore fonctionnelle.",
+    "Condamner ou débrancher l'EGR est une mauvaise solution, susceptible de rendre le véhicule non conforme."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Sur un Berlingo HDi, la vanne EGR travaille discrètement entre l'échappement et l'admission. Son rôle est utile pour limiter certains polluants, mais elle manipule des gaz chargés de suie: avec le temps, un dépôt peut perturber son mouvement. Comprendre son fonctionnement permet de distinguer un simple encrassement d'une panne plus large du système antipollution."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "role-vanne-egr-berlingo-hdi",
+      "text": "Le rôle de la vanne EGR sur un Berlingo HDi"
+    },
+    {
+      "type": "paragraph",
+      "html": "EGR signifie <em>Exhaust Gas Recirculation</em>, soit recirculation des gaz d'échappement. La vanne EGR prélève une quantité contrôlée de gaz déjà brûlés et les réintroduit dans le circuit d'admission. Ces gaz contiennent peu d'oxygène: ils abaissent la température maximale de combustion. Cela limite la formation d'oxydes d'azote, souvent désignés par NOx, des polluants particulièrement surveillés sur les moteurs diesel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Contrairement à une idée répandue, la vanne ne reste pas ouverte en permanence. Sur un Berlingo HDi, le calculateur moteur décide de son ouverture selon la température du moteur, le régime, la charge demandée et les informations fournies par les capteurs. Elle intervient surtout à faible ou moyenne charge, une fois le moteur suffisamment chaud. Lors d'une forte accélération ou à pleine charge, elle se ferme généralement afin de laisser entrer un maximum d'air frais et d'oxygène."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>La présence d'une vanne EGR n'est pas un défaut de conception: c'est un dispositif de dépollution intégré au fonctionnement normal du Berlingo HDi. Le problème apparaît lorsqu'un dépôt de suie et d'huile empêche la vanne de respecter la position demandée.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "circuit-egr-et-commande",
+      "text": "Où se trouve-t-elle et comment est-elle commandée?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vanne EGR est installée sur une liaison entre le collecteur d'échappement et le collecteur d'admission. Son emplacement exact varie selon l'année, la génération du Berlingo et la motorisation HDi: elle peut être relativement visible sur le haut ou l'arrière du moteur, ou moins accessible derrière des conduits, un boîtier d'admission ou le moteur. Ne commandez donc pas une pièce à partir du seul nom commercial du véhicule: le code moteur, le numéro VIN et le montage d'origine comptent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur les versions les plus anciennes, la commande peut associer dépression, électrovanne et capsule pneumatique. Sur des moteurs plus récents, la vanne est souvent électrique, avec un motoréducteur et un capteur de position intégrés. Beaucoup de Berlingo HDi disposent également d'un <strong>refroidisseur EGR</strong>: les gaz y sont refroidis avant de retourner dans l'admission afin d'améliorer l'efficacité de la dépollution. Ce circuit peut aussi inclure un volet de dérivation, des durites ou des conduits métalliques."
+    },
+    {
+      "type": "table",
+      "caption": "Les organes à ne pas confondre avec la vanne EGR",
+      "headers": [
+        "Élément",
+        "Fonction",
+        "Lien avec une panne EGR"
+      ],
+      "rows": [
+        [
+          "Vanne EGR",
+          "Dose les gaz d'échappement renvoyés vers l'admission",
+          "Peut se bloquer ouverte, fermée ou signaler une position incohérente"
+        ],
+        [
+          "Débitmètre d'air",
+          "Mesure l'air admis par le moteur",
+          "Une mesure erronée peut imiter des symptômes d'EGR"
+        ],
+        [
+          "FAP, selon version",
+          "Retient une partie des particules dans l'échappement",
+          "Un encrassement du FAP peut provoquer voyant et mode dégradé"
+        ],
+        [
+          "Circuit de suralimentation",
+          "Amène l'air comprimé par le turbo",
+          "Une fuite de durite ou une commande de turbo défaillante cause aussi un manque de puissance"
+        ],
+        [
+          "Refroidisseur EGR",
+          "Abaisse la température des gaz recirculés",
+          "Une fuite ou un conduit obstrué demande une réparation distincte"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-egr-sencrasse",
+      "text": "Pourquoi l'EGR s'encrasse plus facilement en usage urbain"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les gaz d'échappement d'un diesel transportent des particules de suie. De son côté, l'admission contient toujours une faible quantité de vapeurs d'huile provenant de la ventilation du carter. Quand ces éléments se rencontrent dans le circuit EGR, ils forment une pâte noire et collante. Elle se dépose sur le clapet de la vanne, dans les conduits et parfois dans le boîtier d'admission."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les petits parcours à froid, les embouteillages et les trajets répétés à faible charge favorisent ce phénomène, car la combustion et les températures restent moins propices à l'évacuation des dépôts. Cela ne veut pas dire qu'un Berlingo utilisé en ville tombera forcément en panne, ni qu'un long trajet « nettoie » à coup sûr une vanne déjà grippée. C'est surtout l'accumulation sur la durée, associée au kilométrage, à l'entretien et au type de parcours, qui compte."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "10 à 20 min",
+          "label": "de roulage régulier moteur chaud peuvent être utiles sur un trajet compatible, sans constituer un nettoyage miracle"
+        },
+        {
+          "value": "50 à 120 €",
+          "label": "ordre de grandeur fréquent pour un diagnostic électronique en atelier, selon la région et le professionnel"
+        },
+        {
+          "value": "80 à 350 €",
+          "label": "ordre de grandeur courant pour une vanne EGR seule, avant main-d'œuvre, selon la référence et la motorisation"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Forcer le moteur à haut régime à froid ne décrasse pas proprement l'EGR et augmente l'usure mécanique. Attendez toujours que le moteur soit à température, respectez les limitations et ne tentez pas de compenser un voyant persistant par une conduite plus agressive.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "symptomes-vanne-egr-defaillante",
+      "text": "Les symptômes d'une vanne EGR encrassée ou défaillante"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une EGR encrassée peut rester partiellement ouverte alors qu'elle devrait se fermer, ou au contraire ne plus s'ouvrir assez. Dans le premier cas, trop de gaz brûlés entrent dans l'admission: le moteur reçoit moins d'air frais et peut manquer de répondant. Dans le second, le calculateur constate que la dépollution ou le débit attendu ne correspond pas à sa consigne. Une panne électrique, une prise oxydée ou une durite de dépression fissurée peut produire des symptômes voisins sans que le clapet lui-même soit couvert de calamine."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Voyant moteur</strong> allumé, parfois accompagné d'un message antipollution selon le tableau de bord.",
+        "<strong>Perte de puissance</strong>, accélérations molles ou passage en mode dégradé, notamment lors d'une reprise.",
+        "<strong>À-coups</strong> à bas régime, ralenti irrégulier ou calages plus rares selon la gravité du défaut.",
+        "<strong>Fumée noire</strong> à l'accélération, consommation en hausse ou odeur d'échappement plus marquée.",
+        "<strong>Démarrage difficile</strong> ou fonctionnement anormal à froid dans certains cas, mais ce signe reste peu spécifique."
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Vanne bloquée ouverte ou fermée: ce qui change",
+      "a": {
+        "title": "Vanne bloquée ouverte",
+        "points": [
+          "Trop de gaz brûlés diluent l'air admis, surtout à faible régime.",
+          "Manque de puissance, fumée et fonctionnement parfois irrégulier sont possibles.",
+          "Le moteur peut donner l'impression de s'étouffer à l'accélération."
+        ]
+      },
+      "b": {
+        "title": "Vanne bloquée fermée",
+        "points": [
+          "Le moteur peut paraître rouler presque normalement dans certaines conditions.",
+          "Le calculateur peut relever une recirculation insuffisante et allumer le voyant.",
+          "Les émissions de NOx augmentent et le véhicule n'assure plus sa fonction de dépollution prévue."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces indices ne suffisent toutefois pas à désigner l'EGR. Une admission encrassée, un filtre à air saturé, un injecteur défaillant, une fuite de suralimentation, un débitmètre imprécis ou un FAP chargé peuvent se manifester de façon comparable. La bonne démarche consiste à relever les défauts enregistrés, puis à vérifier les données et les organes concernés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-sans-remplacer-au-hasard",
+      "text": "Diagnostiquer la panne avant de remplacer la pièce"
+    },
+    {
+      "type": "paragraph",
+      "html": "La lecture des codes défaut à l'aide d'un outil de diagnostic est le point de départ, pas le verdict final. Un code lié au débit EGR, à sa position ou à sa commande oriente la recherche, mais il faut ensuite comparer la position demandée par le calculateur à la position réellement remontée, lorsque le système le permet. Un professionnel peut aussi actionner la vanne avec la valise, observer son déplacement et contrôler l'état de l'admission."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Relever les défauts et les conditions d'apparition",
+          "html": "Notez les voyants, la perte éventuelle de puissance, le type de trajet et le moment où le problème survient. Faites lire les codes sans les effacer immédiatement: les données mémorisées aident à comprendre la panne."
+        },
+        {
+          "title": "Contrôler les causes simples",
+          "html": "Vérifiez visuellement les connecteurs accessibles, les faisceaux, les durites de dépression sur les montages concernés et les grosses durites d'admission. Un connecteur mal verrouillé ou une durite poreuse peut suffire à créer un défaut."
+        },
+        {
+          "title": "Comparer les valeurs à la valise",
+          "html": "Le mécanicien vérifie les consignes EGR, les retours de position, les mesures d'air et, selon le diagnostic, les données du turbo et du FAP. C'est l'étape qui évite les remplacements à l'aveugle."
+        },
+        {
+          "title": "Déposer et inspecter si nécessaire",
+          "html": "Si les contrôles convergent, la vanne et les conduits peuvent être déposés pour juger l'encrassement, la liberté de mouvement et l'état des joints. Sur les moteurs peu accessibles, cette opération demande du temps et un outillage adapté."
+        },
+        {
+          "title": "Réparer, effacer les défauts et effectuer un essai",
+          "html": "Après nettoyage ou remplacement, il faut remonter avec les joints appropriés, effacer les défauts selon la procédure et réaliser un essai routier. Une adaptation ou un apprentissage peut être nécessaire sur certains montages."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe au garage",
+      "html": "<p>Demandez la cause retenue, les codes défaut relevés et les contrôles effectués avant d'accepter le remplacement. Un devis détaillant pièce, joints, nettoyage éventuel, main-d'œuvre et diagnostic est plus facile à comparer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nettoyage-ou-remplacement-egr",
+      "text": "Nettoyage ou remplacement: quelle solution choisir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nettoyage est pertinent lorsque la vanne est mécaniquement saine, que son actionneur et son capteur répondent correctement, et que le blocage vient principalement des dépôts. Il implique idéalement une dépose pour nettoyer le clapet et les passages accessibles sans endommager le moteur électrique, l'électronique ou les surfaces d'étanchéité. Les aérosols injectés dans l'admission sont parfois proposés comme traitement préventif, mais ils ne remplacent pas une dépose si la vanne est fortement colmatée ou grippée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement est préférable si le mécanisme est usé, si l'actionneur ne répond plus, si le capteur de position est incohérent, si le corps est endommagé ou si la panne revient rapidement après un nettoyage sérieux. Privilégiez une référence strictement compatible avec votre code moteur. Une pièce d'origine, équipementier ou adaptable de bonne qualité ne présentent pas le même coût ni les mêmes conditions de garantie: comparez aussi la fiabilité du vendeur et non le seul prix affiché."
+    },
+    {
+      "type": "table",
+      "caption": "Budget indicatif pour une intervention sur une EGR de Berlingo HDi",
+      "headers": [
+        "Intervention",
+        "Ce qu'elle comprend généralement",
+        "Ordre de grandeur prudent"
+      ],
+      "rows": [
+        [
+          "Diagnostic ciblé",
+          "Lecture des défauts, contrôles de base et essai éventuel",
+          "Environ 50 à 120 €"
+        ],
+        [
+          "Nettoyage avec dépose",
+          "Dépose, nettoyage des dépôts accessibles, joints selon besoin et remontage",
+          "Souvent 180 à 500 €, selon l'accessibilité"
+        ],
+        [
+          "Remplacement de la vanne",
+          "Pièce, joints, main-d'œuvre, diagnostic ou paramétrage selon le cas",
+          "Souvent 300 à 800 € au total, parfois davantage"
+        ],
+        [
+          "Intervention élargie",
+          "EGR, conduits, refroidisseur ou admission très encrassée",
+          "Budget variable, devis indispensable"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À éviter absolument",
+      "html": "<p>Ne débranchez pas la vanne EGR et ne posez pas de plaque de condamnation. Cette modification peut allumer un voyant, dégrader le fonctionnement, rendre le véhicule non conforme à son homologation et entraîner un refus lors d'un contrôle réglementaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "entretenir-egr-berlingo-hdi",
+      "text": "Réduire le risque d'encrassement au quotidien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n'existe pas d'entretien périodique universel de la vanne EGR comparable à une vidange. La prévention repose d'abord sur l'usage et le respect du plan d'entretien du Berlingo. Si vos déplacements le permettent, prévoyez régulièrement un parcours routier assez long pour que le moteur atteigne et conserve sa température normale. Roulez souplement, avec un régime adapté et sans sous-régime prolongé: l'objectif n'est pas de faire monter le compte-tours inutilement, mais d'éviter que le diesel ne passe toute sa vie à froid ou à très faible charge."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Respectez les intervalles de vidange et utilisez l'huile correspondant exactement à la norme recommandée pour votre motorisation.",
+        "Remplacez les filtres prévus, en particulier le filtre à air, sans anticiper des solutions miracles.",
+        "Faites traiter rapidement un voyant moteur, une fuite d'huile ou une perte de puissance plutôt que d'attendre une panne immobilisante.",
+        "Surveillez les rappels et campagnes constructeur éventuels avec le numéro VIN auprès du réseau ou d'un réparateur compétent.",
+        "Si votre usage est presque exclusivement urbain et très court, anticipez un diagnostic au premier symptôme au lieu de multiplier les additifs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-face-voyant-egr",
+      "text": "Que faire maintenant si votre Berlingo affiche un défaut EGR?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le voyant moteur est fixe et que le Berlingo roule normalement, évitez de paniquer, mais programmez un diagnostic rapidement. Si le véhicule passe en mode dégradé, fume fortement, manque brutalement de puissance ou affiche un voyant rouge, limitez l'utilisation et sollicitez un professionnel. Continuer à rouler longtemps avec une admission perturbée peut aggraver l'encrassement, augmenter la consommation et compliquer le diagnostic."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant le rendez-vous, rassemblez l'année du véhicule, la motorisation exacte, le kilométrage, les factures d'entretien et une description précise des symptômes. Indiquez notamment si le défaut apparaît à froid, en ville, sur autoroute ou lors d'une accélération. Demandez un contrôle du système EGR dans son ensemble, plutôt qu'un remplacement automatique de la vanne. Vous aurez ainsi une réparation adaptée au Berlingo HDi concerné, à son état réel et à votre budget."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>La vanne EGR est un maillon du système de dépollution, pas une pièce isolée. Une réparation durable commence par un diagnostic qui distingue l'encrassement du clapet, une panne de commande et un défaut d'admission, de turbo ou de FAP.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on rouler avec une vanne EGR défaillante sur un Berlingo HDi?",
+      "a": "<p>Vous pourrez parfois rouler temporairement, surtout si le voyant est fixe et que le moteur conserve une puissance normale, mais ce n'est pas une situation à laisser durer. Une EGR bloquée peut accroître la fumée, la consommation et les dépôts dans l'admission, ou déclencher un mode dégradé. En cas de forte perte de puissance, de fumée inhabituelle, de voyant rouge ou de comportement dangereux, immobilisez le véhicule et demandez conseil à un professionnel.</p>"
+    },
+    {
+      "q": "Une vanne EGR encrassée peut-elle empêcher le Berlingo HDi de démarrer?",
+      "a": "<p>C'est possible dans certains cas, mais ce n'est pas le symptôme le plus caractéristique. Un démarrage difficile ou impossible peut aussi venir de la batterie, du démarreur, de l'alimentation en carburant, des bougies de préchauffage, d'un capteur moteur ou d'un problème d'injection. Il faut lire les défauts et contrôler les paramètres moteur avant d'accuser la vanne EGR.</p>"
+    },
+    {
+      "q": "Un trajet sur autoroute peut-il nettoyer la vanne EGR?",
+      "a": "<p>Un trajet régulier moteur chaud peut limiter la formation de nouveaux dépôts et aider un moteur utilisé surtout sur de très courts parcours. En revanche, il ne réparera pas une vanne réellement grippée, un actionneur électrique défaillant ou une admission fortement obstruée. Si un voyant est allumé ou si le véhicule manque de puissance, faites diagnostiquer la cause plutôt que de compter sur un long trajet.</p>"
+    },
+    {
+      "q": "Faut-il nettoyer la vanne EGR à chaque révision du Berlingo HDi?",
+      "a": "<p>Non. Le nettoyage systématique n'est généralement pas prévu à chaque révision et une dépose inutile peut créer des risques de joints endommagés ou de connecteurs fragilisés. La bonne approche consiste à entretenir le moteur selon les préconisations, à adapter autant que possible les trajets et à intervenir lorsque des symptômes, des défauts ou un contrôle justifient l'opération.</p>"
+    },
+    {
+      "q": "Pourquoi le voyant moteur revient-il après le nettoyage de la vanne EGR?",
+      "a": "<p>Plusieurs explications sont possibles: la vanne est usée ou son capteur de position est défaillant, les conduits d'admission sont encore très chargés, une durite ou une commande pneumatique fuit, ou le défaut provient en réalité du débitmètre, du turbo, du FAP ou d'un faisceau. Il peut aussi rester un code défaut à effacer ou une procédure d'apprentissage à réaliser. Un nouveau diagnostic avec valeurs réelles est nécessaire.</p>"
+    },
+    {
+      "q": "Puis-je remplacer moi-même la vanne EGR de mon Berlingo HDi?",
+      "a": "<p>C'est envisageable seulement si vous avez la documentation correspondant à votre code moteur, l'outillage, une méthode de diagnostic et une bonne expérience mécanique. L'accès peut être difficile, les éléments chauds et les joints doivent être manipulés correctement, et certaines versions demandent un contrôle électronique après remontage. Pour une première intervention ou en présence d'un voyant moteur, un garage compétent reste souvent le choix le plus économique à long terme.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

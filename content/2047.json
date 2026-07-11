@@ -1,0 +1,334 @@
+{
+  "id": 2047,
+  "slug": "licence-abonnement-cadre-legal",
+  "title": "Licence « à vie » vs. abonnement : clarifier le cadre légal français",
+  "metaTitle": "Licence à vie vs abonnement: cadre légal français",
+  "metaDescription": "Licence à vie ou abonnement: droits, mises à jour, résiliation et recours. Le guide pour lire un contrat logiciel en France sans piège courant.",
+  "dek": "Derrière la promesse d’une licence « à vie » se cachent des droits d’usage très variables. Voici comment distinguer achat, accès en ligne et abonnement, puis vérifier ce que le droit français vous protège réellement.",
+  "category": "tech-objets",
+  "tags": [
+    "logiciels",
+    "abonnement",
+    "licence à vie",
+    "droit numérique",
+    "consommation"
+  ],
+  "keyTakeaways": [
+    "Une licence « à vie » n’est pas automatiquement un accès garanti au logiciel et à tous ses services pour votre vie.",
+    "Lisez d’abord la durée, le périmètre, les mises à jour, l’activation et les conditions de fermeture du service.",
+    "Un abonnement finance un accès continu; une licence perpétuelle achète surtout un droit d’usage d’une version ou d’un produit défini.",
+    "Pour un particulier, le droit de la consommation apporte des recours en cas de non-conformité, mais il n’efface pas les limites annoncées clairement.",
+    "Conservez la publicité, la facture et les conditions applicables le jour de votre achat: elles comptent en cas de litige."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Payer une fois pour toujours, ou payer tous les mois pour rester à jour: le choix paraît simple. Pourtant, une licence dite « à vie » peut ne couvrir qu’une version, cesser de fonctionner si un serveur d’activation ferme, ou exclure les services en ligne. En France, le mot employé par le vendeur ne suffit pas: ce sont l’offre, le contrat et les règles de protection du consommateur qui déterminent vos droits."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-vous-achetez",
+      "text": "Licence, achat et abonnement: ce que vous achetez réellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un logiciel n’est pas un objet ordinaire. En règle générale, vous n’achetez pas sa propriété intellectuelle: l’éditeur vous accorde une <strong>licence</strong>, c’est-à-dire une autorisation d’utiliser son programme dans les limites prévues. Ces limites peuvent viser le nombre d’appareils, un usage privé ou professionnel, la durée, les fonctionnalités, le territoire ou la possibilité de transférer le compte."
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule « licence à vie » est avant tout une appellation commerciale. Elle désigne souvent une licence sans date de fin explicite pour la version achetée. Elle ne signifie pas nécessairement « mises à jour incluses à vie », « stockage en ligne maintenu à vie » ni « support technique assuré à vie ». Le mot « vie » peut même renvoyer, selon les conditions, à la durée de vie commerciale du produit ou du service, formule qu’il faut examiner avec une grande prudence."
+    },
+    {
+      "type": "table",
+      "caption": "Les modèles les plus courants et leurs conséquences pratiques",
+      "headers": [
+        "Formule",
+        "Ce que vous payez",
+        "Durée effective à vérifier",
+        "Mises à jour",
+        "Risque principal"
+      ],
+      "rows": [
+        [
+          "Licence perpétuelle locale",
+          "Un droit d’utiliser un logiciel installé",
+          "Souvent sans terme pour une version donnée",
+          "Correctifs parfois inclus, nouvelles versions souvent payantes",
+          "Activation ou compatibilité perdue avec le temps"
+        ],
+        [
+          "Abonnement logiciel",
+          "Un accès au logiciel, souvent en ligne",
+          "Mensuel ou annuel, reconduit selon le contrat",
+          "En principe incluses pendant l’abonnement",
+          "Perte d’accès ou de fonctions à l’arrêt du paiement"
+        ],
+        [
+          "Achat intégré ou « lifetime deal »",
+          "Une offre promotionnelle, souvent liée à un compte",
+          "Définition contractuelle de « lifetime » essentielle",
+          "Très variable, parfois limitées",
+          "Réduction de périmètre ou disparition d’un petit éditeur"
+        ],
+        [
+          "SaaS professionnel",
+          "Un service hébergé: application, données et infrastructure",
+          "Pendant le contrat ou la période souscrite",
+          "Évolutions continues en général",
+          "Dépendance au fournisseur et difficulté à récupérer les données"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas logiciel et service",
+      "html": "<p>Un traitement de texte installé sur votre ordinateur peut rester utilisable sans l’éditeur. Un outil de comptabilité, de montage ou de stockage connecté à ses serveurs dépend, lui, d’un compte, d’une connexion et de l’infrastructure du fournisseur. Une « licence à vie » ne protège pas, à elle seule, contre la fermeture de ce service.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cadre-legal-francais",
+      "text": "Le cadre légal français: le contrat ne peut pas tout permettre"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, les conditions générales, la page de vente, le bon de commande et les échanges qui ont déterminé votre consentement forment un ensemble important. Une promesse publicitaire précise peut donc compter. Si une offre laisse raisonnablement croire que l’accès est durable, mais que des restrictions déterminantes sont cachées ou ambiguës, le vendeur s’expose à une contestation. Dans un contrat d’adhésion, une ambiguïté ne devrait pas jouer au détriment de la partie qui ne l’a pas rédigé; mieux vaut toutefois ne pas dépendre de cette règle pour acheter."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Code civil interdit les engagements perpétuels. Cela ne rend pas illégale toute licence de durée indéterminée: un droit d’usage peut être accordé durablement. En revanche, l’expression « à vie » ne crée pas une garantie absolue, détachée de toute limite raisonnable ou de tout événement. La portée dépend de ce qui a été convenu: version concernée, maintien d’un compte, services annexes, modalités de résiliation et conséquences d’une fermeture."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un particulier qui agit hors de son activité professionnelle, les contenus et services numériques relèvent aussi de règles de conformité du Code de la consommation. Le professionnel doit fournir ce qui est promis, dans le bon périmètre, et assurer les mises à jour nécessaires au maintien de la conformité. Pour une fourniture continue, cette obligation s’apprécie pendant la période du contrat. Pour une fourniture ponctuelle, elle dépend notamment de ce qu’un consommateur peut raisonnablement attendre au regard de la nature du logiciel et de l’offre."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une protection différente selon votre statut",
+      "html": "<p>Un auto-entrepreneur qui souscrit un logiciel pour son activité n’est généralement pas un consommateur pour ce contrat, même s’il travaille seul. Les protections propres au droit de la consommation, notamment sur la reconduction, ne s’appliquent donc pas toujours de la même façon. En B2B, la négociation et les clauses écrites deviennent centrales.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "duree-mises-a-jour-et-fin-de-service",
+      "text": "Durée, mises à jour, activation: les cinq lignes qui changent tout"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de comparer deux prix, cherchez les réponses à cinq questions. <strong>Quelle version</strong> est couverte? <strong>Quelles mises à jour</strong> sont incluses: correctifs de sécurité, évolutions mineures, nouvelles versions majeures? <strong>Le logiciel fonctionne-t-il hors ligne</strong> après activation? <strong>Combien d’appareils</strong> peuvent être utilisés? Enfin, <strong>que se passe-t-il si le service ferme</strong> ou si l’éditeur arrête le produit?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une clause prévoyant la possibilité de modifier ou d’arrêter un service n’est pas un blanc-seing. Face à un consommateur, elle doit être transparente et ne pas créer un déséquilibre significatif. Retirer une fonctionnalité essentielle vendue comme incluse, ou rendre un produit inutilisable sans justification ni solution, peut constituer un défaut de conformité. À l’inverse, vous ne pouvez pas exiger gratuitement une future version majeure si le contrat indiquait clairement qu’elle était exclue."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Correctif:</strong> il répare un défaut, une faille ou une incompatibilité; il est plus proche de l’obligation de conformité.",
+        "<strong>Mise à jour fonctionnelle:</strong> elle ajoute ou modifie des outils dans la même gamme de produit; vérifiez si elle est promise.",
+        "<strong>Nouvelle version majeure:</strong> elle peut être vendue séparément avec une licence perpétuelle.",
+        "<strong>Service associé:</strong> cloud, synchronisation, IA, banque de modèles ou assistance humaine peuvent avoir leur propre durée, même si l’application est « à vie »."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comparer-cout-et-liberte",
+      "text": "Licence à vie ou abonnement: comparez le coût, mais aussi votre liberté"
+    },
+    {
+      "type": "compare",
+      "title": "Dans quel cas chaque formule est-elle la plus cohérente?",
+      "a": {
+        "title": "Licence à vie",
+        "points": [
+          "Pertinente si vous utilisez longtemps une fonction stable et acceptez de garder une version donnée.",
+          "Budget prévisible: une dépense unique, parfois complétée par des mises à niveau facultatives.",
+          "Plus intéressante si le programme fonctionne localement et reste utile sans serveur du fournisseur.",
+          "Demandez le coût futur des nouvelles versions, du support et des modules complémentaires."
+        ]
+      },
+      "b": {
+        "title": "Abonnement",
+        "points": [
+          "Pertinent si vous avez besoin d’évolutions fréquentes, de collaboration ou de stockage en ligne.",
+          "Coût initial faible, mais dépense récurrente à intégrer sur plusieurs années.",
+          "Accès souvent lié au paiement: anticipez l’export de vos fichiers avant toute résiliation.",
+          "Comparez le prix mensuel, annuel, promotionnel et le tarif applicable après la première période."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "14 jours",
+          "label": "délai habituel de rétractation pour un achat à distance, sous réserve des exceptions numériques"
+        },
+        {
+          "value": "1 version",
+          "label": "périmètre fréquemment couvert par une licence dite perpétuelle"
+        },
+        {
+          "value": "1 à 3 ans",
+          "label": "horizon utile pour comparer un prix unique avec un abonnement, selon le tarif et vos besoins"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul est simple: divisez le prix de la licence unique par le coût annuel réel de l’abonnement, hors promotion temporaire. Vous obtenez un seuil indicatif. Mais ce seuil n’est utile que si les deux offres rendent le même service. Une licence de 90 € qui ne reçoit plus les mises à jour importantes au bout d’un an n’est pas directement comparable à un abonnement de 60 € par an incluant un espace cloud, une application mobile et de nouvelles fonctions."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Comparez à périmètre égal",
+      "html": "<p>Faites une liste de vos besoins concrets: travail hors ligne, mobile, export, partage, stockage, assistance, conformité métier. Ne donnez pas une valeur fictive à des fonctions que vous n’utiliserez jamais, même si elles justifient l’abonnement sur le papier.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "retractation-resiliation-et-renouvellement",
+      "text": "Rétractation, résiliation et renouvellement: vos droits ne sont pas les mêmes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un achat en ligne auprès d’un professionnel ouvre en principe un délai de rétractation de 14 jours pour un consommateur. Mais le droit change lorsque vous demandez l’accès immédiat à un contenu numérique non fourni sur support matériel, par exemple un téléchargement avec clé. Si vous avez donné votre accord exprès pour l’exécution immédiate et reconnu la perte de votre droit de rétractation, le vendeur peut opposer cette exception. Pour un service numérique qui commence tout de suite, un paiement proportionnel à ce qui a déjà été fourni peut aussi être dû selon les circonstances."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un abonnement à durée déterminée avec reconduction tacite, le professionnel doit en principe informer le consommateur de la possibilité de ne pas renouveler dans un délai encadré avant l’échéance. En cas de manquement, le consommateur peut souvent mettre fin au contrat après la reconduction, sans frais pour la période non utilisée. Un contrat conclu en ligne et résiliable en ligne doit, dans les cas prévus par la loi, offrir une fonctionnalité de résiliation électronique. Vérifiez néanmoins la procédure précise sur le site, dans votre espace client ou auprès de l’intermédiaire de paiement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une licence de durée indéterminée n’appelle pas, par nature, de résiliation de votre part puisque vous ne payez pas périodiquement. En revanche, elle peut être résiliée pour violation grave des conditions, par exemple en cas de piratage ou de partage interdit. L’éditeur ne devrait pas pouvoir supprimer arbitrairement un accès régulier sans respecter le contrat et le droit applicable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-avant-de-payer",
+      "text": "La méthode à suivre avant de cliquer sur « payer »"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Lire la promesse de vente avant les conditions",
+          "html": "Relevez les mots exacts: « à vie », « toutes les mises à jour », « accès permanent », « sans renouvellement ». Faites une capture datée de la page, y compris des astérisques et renvois."
+        },
+        {
+          "title": "Chercher les limites contractuelles",
+          "html": "Dans les conditions générales et la FAQ, recherchez « durée », « lifetime », « activation », « support », « mises à jour », « résiliation », « modification » et « arrêt du service »."
+        },
+        {
+          "title": "Tester le scénario de sortie",
+          "html": "Vérifiez si vous pouvez exporter vos données dans un format exploitable, télécharger vos créations et continuer à lire vos fichiers sans abonnement."
+        },
+        {
+          "title": "Calculer le coût sur votre horizon réel",
+          "html": "Comparez le prix total sur un, deux et trois ans avec les fonctions dont vous avez réellement besoin. Ajoutez les éventuels frais de stockage, de support ou de mise à niveau."
+        },
+        {
+          "title": "Conserver les preuves d’achat",
+          "html": "Archivez facture, courriel de confirmation, conditions applicables, captures de l’offre et échanges avec le support. Ces éléments sont beaucoup plus utiles qu’un souvenir de la publicité."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-en-cas-de-probleme",
+      "text": "Fonction supprimée, accès bloqué ou promesse trompeuse: comment réagir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par distinguer une déception commerciale d’un manquement. Si le vendeur n’a jamais promis la prochaine version, son absence n’est pas forcément un problème. En revanche, si une fonction annoncée comme incluse disparaît, si le logiciel ne correspond pas à la description ou si une mise à jour nécessaire n’est pas fournie, vous pouvez invoquer la conformité du contenu ou service numérique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez d’abord une solution écrite et précise: rétablissement de l’accès, correction, activation manuelle, export des données ou explication de la clause invoquée. Pour un consommateur, selon la gravité et la possibilité de remédier au défaut, les recours peuvent aller de la mise en conformité à une réduction de prix, voire à la résolution du contrat. Un remboursement n’est donc pas automatique parce que vous n’utilisez plus le logiciel; il devient envisageable lorsqu’un droit de rétractation, une garantie ou une inexécution contractuelle le justifie."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Réclamez avec des faits",
+      "html": "<p>Indiquez la date d’achat, la version concernée, la promesse exacte, la clause invoquée par l’éditeur et le résultat demandé. Joignez vos captures. Une demande courte, chronologique et documentée obtient souvent une réponse plus utile qu’un message général sur les réseaux sociaux.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "En l’absence de solution, adressez une réclamation formelle au vendeur, puis utilisez si besoin son médiateur de la consommation lorsqu’il en désigne un. Vous pouvez également signaler une pratique problématique sur la plateforme officielle SignalConso. Si le montant, les données perdues ou le préjudice professionnel sont importants, un conseil juridique individualisé est préférable: le contrat, le pays du vendeur et votre statut changent l’analyse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cas-des-professionnels-et-associations",
+      "text": "Pour les professionnels et associations: sécurisez davantage qu’un prix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une entreprise, une association ou un indépendant ne devrait pas choisir un SaaS uniquement sur le tarif mensuel. Le risque majeur est souvent opérationnel: perte d’accès aux dossiers, hausse soudaine du prix, arrêt d’une intégration ou impossibilité de récupérer l’historique. Les grandes structures négocient ces sujets; les petites peuvent au minimum les vérifier avant de s’engager."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Prévoyez un <strong>droit d’export</strong> clair, les formats fournis et le délai de récupération après la fin du contrat.",
+        "Demandez les règles de <strong>révision tarifaire</strong>, de reconduction et de préavis, surtout avec un engagement annuel.",
+        "Si des données personnelles sont traitées, vérifiez les rôles RGPD, les mesures de sécurité et l’accord de traitement des données.",
+        "Pour un outil critique, examinez disponibilité, assistance, sauvegardes, réversibilité et solution de remplacement.",
+        "Évitez de confondre une remise « à vie » avec une garantie de pérennité financière de l’éditeur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-et-documenter-votre-decision",
+      "text": "Choisir sereinement: une décision en quatre critères"
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez une licence durable si votre besoin est stable, si le logiciel peut fonctionner indépendamment du fournisseur et si le contrat définit sans ambiguïté les mises à jour incluses. Préférez un abonnement si la valeur du service vient réellement de ses évolutions, du cloud, de la collaboration ou d’une assistance continue. Dans les deux cas, le meilleur contrat est celui dont vous comprenez la fin: ce que vous conservez, ce que vous perdez et comment vous récupérez vos données."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de payer, gardez une trace de l’offre et attribuez une note à quatre critères: durée d’usage garantie, niveau de dépendance au fournisseur, coût total sur votre horizon et facilité de sortie. Si l’un de ces points reste flou malgré les conditions, considérez que le risque fait partie du prix. Une promesse « à vie » mérite alors moins votre confiance qu’un abonnement transparent, résiliable et réversible."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une licence « à vie » est-elle vraiment légale en France?",
+      "a": "<p>Oui, l’expression n’est pas interdite en elle-même. Elle doit toutefois correspondre à une information loyale et suffisamment claire. Le contrat doit permettre de comprendre ce qui dure: le droit d’utiliser une version, les mises à jour, l’accès à un compte ou un service complémentaire. Une formule ambiguë ou trompeuse peut être contestée.</p>"
+    },
+    {
+      "q": "L’éditeur peut-il arrêter un logiciel acheté avec une licence perpétuelle?",
+      "a": "<p>Il peut cesser de développer ou de commercialiser un produit dans certaines conditions, mais cela ne l’autorise pas automatiquement à supprimer un droit d’usage déjà acquis. Tout dépend notamment de la promesse faite, de la nécessité d’une activation en ligne et des clauses de fin de service. Si la désactivation rend le produit non conforme à ce qui était vendu, un recours est envisageable.</p>"
+    },
+    {
+      "q": "Puis-je demander le remboursement d’un abonnement logiciel que je n’utilise plus?",
+      "a": "<p>En principe, le simple fait de ne plus utiliser le service ne suffit pas. Vous pouvez vous rétracter dans le délai légal lorsque ses conditions sont réunies, résilier à l’échéance ou selon les modalités du contrat, et demander un recours si le service est non conforme. L’accès immédiat à un contenu ou service numérique peut toutefois limiter le droit de rétractation si vous y avez valablement consenti.</p>"
+    },
+    {
+      "q": "Un abonnement annuel peut-il être reconduit sans mon accord?",
+      "a": "<p>Une reconduction tacite peut être prévue au contrat. Pour les consommateurs, le professionnel doit normalement vous rappeler en temps utile la possibilité de ne pas renouveler. S’il ne le fait pas dans les formes requises, vous pouvez généralement résilier après la reconduction sans frais pour la période à venir. Conservez les courriels et vérifiez aussi les réglages de votre boutique d’applications.</p>"
+    },
+    {
+      "q": "Peut-on revendre une licence logicielle achetée une fois?",
+      "a": "<p>Ce n’est pas automatique. Le droit européen connaît un principe d’épuisement pour certains exemplaires de logiciels mis sur le marché avec une licence sans limite de durée, mais son application dépend de conditions strictes: vous ne devez notamment pas conserver une copie utilisable. Les licences liées à un compte, les abonnements et les services cloud sont souvent non transférables. Vérifiez les conditions avant toute revente.</p>"
+    },
+    {
+      "q": "Quelle preuve garder si une offre « lifetime » change ensuite?",
+      "a": "<p>Gardez la facture, le courriel de confirmation, les conditions générales applicables le jour de l’achat, la description de l’offre, les captures d’écran avec les mentions et astérisques, ainsi que les échanges avec le support. Ces documents permettent de comparer la promesse initiale avec le service effectivement fourni.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

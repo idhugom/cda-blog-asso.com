@@ -1,0 +1,321 @@
+{
+  "id": 349,
+  "slug": "comment-reconnaitre-un-numero-on-off",
+  "title": "Comment reconnaître un numéro on off",
+  "metaTitle": "Reconnaître un numéro OnOff: indices et vérifications",
+  "metaDescription": "Numéro OnOff: apprenez à repérer ses indices, comprendre les limites et vérifier sans risque un appel ou un message qui vous semble suspect: nos conseils prati…",
+  "dek": "Un numéro OnOff ressemble souvent à un numéro de mobile français tout à fait classique. Voici ce que vous pouvez réellement savoir, ce que vous ne pouvez pas déduire du numéro seul, et les bons réflexes pour communiquer en sécurité.",
+  "category": "tech-objets",
+  "tags": [
+    "numéro OnOff",
+    "numéro virtuel",
+    "arnaque téléphonique",
+    "SMS suspect",
+    "téléphonie mobile"
+  ],
+  "keyTakeaways": [
+    "Un numéro OnOff n'est pas identifiable avec certitude à sa seule apparence.",
+    "Un préfixe de mobile français ne prouve ni l'identité ni la fiabilité de l'appelant.",
+    "Le comportement du correspondant est plus révélateur que le numéro affiché.",
+    "Ne communiquez jamais un code reçu par SMS, un mot de passe ou vos coordonnées bancaires.",
+    "En cas de doute, vérifiez par un canal officiel et bloquez les sollicitations abusives."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous recevez un appel ou un SMS d'un numéro mobile inconnu et l'on vous affirme qu'il s'agit d'un « numéro OnOff »? Ce type de ligne, géré depuis une application, peut être parfaitement légitime, mais il est aussi parfois associé à des usages trompeurs. L'essentiel est de savoir qu'un numéro seul ne permet presque jamais d'établir une identité: il faut observer le contexte, vérifier prudemment et protéger vos informations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-qu-est-un-numero-onoff",
+      "text": "Qu'est-ce qu'un numéro OnOff, au juste?"
+    },
+    {
+      "type": "paragraph",
+      "html": "OnOff désigne un service de téléphonie qui permet d'obtenir et d'utiliser un ou plusieurs numéros depuis une application, sans avoir à insérer une carte SIM distincte pour chaque ligne. Selon l'offre et le pays, l'utilisateur peut appeler, envoyer ou recevoir des SMS, consulter une messagerie et séparer ses échanges personnels, professionnels ou liés à une petite annonce."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans l'usage courant, on parle souvent de <strong>numéro virtuel</strong> ou de <strong>seconde ligne</strong>. Le numéro peut avoir l'apparence d'un numéro français ordinaire, notamment avec un préfixe mobile. Il ne faut pas le confondre avec un numéro masqué: avec un appel masqué, aucun numéro n'est affiché; avec une ligne OnOff, un numéro apparaît normalement sur votre téléphone."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Un numéro géré par une application n'est pas automatiquement anonyme, frauduleux ou illégal. Comme une adresse e-mail, c'est un outil: sa fiabilité dépend surtout de la personne qui l'utilise et de ce qu'elle vous demande.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peut-on-reconnaitre-un-numero-onoff-a-sa-forme",
+      "text": "Peut-on reconnaître un numéro OnOff à sa forme?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La réponse courte est <strong>non, pas avec certitude</strong>. Un numéro OnOff peut ressembler à une ligne mobile classique. Les préfixes français en 06 ou 07 identifient historiquement des plages mobiles, mais ils ne vous disent pas quel service est employé aujourd'hui, qui détient la ligne ni si son détenteur est digne de confiance. Un changement d'opérateur ou le portage d'un numéro compliquent encore toute tentative de déduction."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les annuaires inversés peuvent parfois afficher un nom d'entreprise ou des signalements déposés par des internautes. C'est une indication, pas une preuve: de nombreux mobiles ne sont pas publiés, des fiches peuvent être incomplètes et les commentaires peuvent être erronés. De même, le fait qu'un numéro soit absent d'un annuaire ne signifie pas qu'il est suspect."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "06 / 07",
+          "label": "préfixes le plus souvent associés aux lignes mobiles françaises, sans permettre d'identifier le fournisseur"
+        },
+        {
+          "value": "0 preuve",
+          "label": "de l'identité réelle apportée par le seul affichage d'un numéro, même s'il paraît local"
+        },
+        {
+          "value": "1 canal",
+          "label": "ne suffit pas pour une vérification: croisez toujours avec un site, un contrat ou un contact officiel"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "indices-qui-doivent-vous-rendre-prudent",
+      "text": "Les indices utiles: observez la demande, pas seulement le numéro"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il existe des signaux qui justifient la prudence, mais aucun ne permet, isolément, de conclure qu'il s'agit d'une ligne OnOff ou d'une arnaque. Un professionnel peut légitimement utiliser une seconde ligne pour ne pas communiquer son téléphone personnel. À l'inverse, un fraudeur peut employer n'importe quel type de numéro, y compris un numéro dont l'affichage a été falsifié."
+    },
+    {
+      "type": "table",
+      "caption": "Ce que les principaux indices permettent réellement de conclure",
+      "headers": [
+        "Indice observé",
+        "Ce qu'il peut indiquer",
+        "Le bon réflexe"
+      ],
+      "rows": [
+        [
+          "Numéro en 06 ou 07 inconnu",
+          "Une ligne mobile ou assimilée; pas l'identité de son utilisateur",
+          "Demandez le contexte de l'appel sans donner d'information personnelle"
+        ],
+        [
+          "Messages à des heures inhabituelles ou très insistants",
+          "Une démarche commerciale agressive, un spam ou une tentative de pression",
+          "Ne répondez pas dans l'urgence; bloquez si cela continue"
+        ],
+        [
+          "Compte de messagerie sans photo, récent ou peu renseigné",
+          "Un compte peu identifiable, mais pas une fraude certaine",
+          "Vérifiez par un autre moyen si un échange important est en jeu"
+        ],
+        [
+          "Demande de code SMS, de virement ou de pièce d'identité",
+          "Un risque élevé de fraude ou d'usurpation",
+          "Refusez, interrompez l'échange et contactez l'organisme par ses coordonnées officielles"
+        ],
+        [
+          "Interlocuteur qui refuse tout appel vidéo, rendez-vous ou justificatif",
+          "Une identité difficile à confirmer, surtout pour une vente ou une location",
+          "Passez par une plateforme sécurisée ou renoncez à la transaction"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne pensez pas qu'un numéro français affiché garantit que l'appel vient réellement de France ou de l'organisme cité. L'affichage du numéro d'appelant peut être imité dans certaines fraudes. Appelez vous-même le numéro publié sur le site officiel de l'entreprise, de la banque ou de l'administration.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-verifier-un-correspondant-sans-prendre-de-risque",
+      "text": "Comment vérifier un correspondant sans prendre de risque"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre objectif n'est pas de « démasquer » techniquement une ligne, mais de confirmer que la personne est bien celle qu'elle prétend être. Pour une conversation sans enjeu, demander simplement qui appelle et pourquoi peut suffire. Pour une vente entre particuliers, un recrutement, une location, un paiement ou une démarche administrative, augmentez nettement le niveau de vérification."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Gardez votre calme et relevez les faits",
+          "html": "Notez le numéro, la date, le nom avancé, le motif invoqué et la demande formulée. N'ouvrez pas immédiatement un lien reçu par SMS et ne rappelez pas sous l'effet de l'urgence."
+        },
+        {
+          "title": "Cherchez des indices publics avec recul",
+          "html": "Vous pouvez consulter un annuaire inversé ou rechercher le numéro entre guillemets sur un moteur de recherche. Considérez les résultats comme des témoignages ou des pistes, jamais comme une identification incontestable."
+        },
+        {
+          "title": "Utilisez un canal indépendant",
+          "html": "Si l'appelant dit représenter une organisation, retrouvez vous-même son site officiel, son numéro public ou votre espace client. Ne rappelez pas le numéro donné dans le SMS et ne cliquez pas sur le lien reçu."
+        },
+        {
+          "title": "Demandez une preuve adaptée à la situation",
+          "html": "Pour une transaction, privilégiez un échange sur la messagerie de la plateforme, un rendez-vous dans un lieu sûr et un paiement traçable. Pour un professionnel, demandez une adresse e-mail de domaine cohérente, un devis ou des coordonnées d'entreprise vérifiables."
+        },
+        {
+          "title": "Décidez selon le niveau de risque",
+          "html": "Si le correspondant vous presse, se contredit ou réclame une donnée sensible, cessez l'échange. En l'absence d'enjeu, le blocage est souvent plus utile qu'une longue discussion."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test le plus simple",
+      "html": "<p>Une personne légitime accepte en général que vous rappeliez plus tard via un standard, un site officiel ou la messagerie sécurisée d'une plateforme. La pression à agir « tout de suite » est souvent plus inquiétante que le type de numéro utilisé.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "numero-onoff-ou-seconde-sim-quelle-difference",
+      "text": "Numéro OnOff, seconde SIM ou téléphone professionnel: les différences"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs solutions permettent d'avoir deux numéros. Elles répondent au même besoin de séparation des usages, mais ne fonctionnent pas exactement de la même manière. Pour vous, destinataire d'un appel, elles restent souvent indiscernables à première vue. Pour la personne qui choisit son équipement, le coût, la couverture réseau, les options de messagerie et la possibilité d'utiliser le numéro à l'étranger peuvent faire la différence."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons courantes d'avoir une seconde ligne",
+      "a": {
+        "title": "Numéro géré par application",
+        "points": [
+          "Souvent pratique pour activer, suspendre ou séparer plusieurs lignes depuis un même smartphone.",
+          "Peut convenir à des besoins ponctuels, à une activité indépendante ou à la protection de son numéro personnel.",
+          "Fonctionne selon les conditions du service, de l'appareil et de la connexion disponible."
+        ]
+      },
+      "b": {
+        "title": "Seconde SIM ou eSIM d'un opérateur",
+        "points": [
+          "Associe une autre ligne à votre téléphone, via une carte physique ou un profil eSIM.",
+          "Peut être préférable si vous souhaitez une offre mobile classique avec une gestion opérateur traditionnelle.",
+          "Demande un mobile compatible double SIM ou eSIM et implique souvent un forfait séparé."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Quel choix pour séparer vie privée et activité?",
+      "headers": [
+        "Solution",
+        "Atout principal",
+        "Point à vérifier avant de souscrire"
+      ],
+      "rows": [
+        [
+          "Ligne via application",
+          "Souplesse de gestion depuis un seul appareil",
+          "Compatibilité, conditions d'usage, SMS reçus et coût récurrent"
+        ],
+        [
+          "Seconde SIM ou eSIM",
+          "Fonctionnement proche d'une ligne mobile habituelle",
+          "Compatibilité du téléphone et prix du second forfait"
+        ],
+        [
+          "Deuxième téléphone",
+          "Séparation matérielle très nette",
+          "Achat, recharge, encombrement et gestion de deux appareils"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "usages-legitimes-et-situations-a-risque",
+      "text": "Usages légitimes et situations à risque: ne faites pas d'amalgame"
+    },
+    {
+      "type": "paragraph",
+      "html": "Utiliser une ligne distincte est courant: indépendant joignable par ses clients, association organisant un événement, parent publiant une petite annonce, étudiant qui cherche un logement ou vendeur occasionnel souhaitant éviter de diffuser son numéro personnel. Dans ces cas, la seconde ligne limite les appels non désirés une fois la démarche terminée. Elle permet aussi de cloisonner les communications professionnelles hors des horaires de travail."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette souplesse peut aussi être détournée par des personnes qui cherchent à multiplier les contacts, à éviter les rappels ou à créer une apparence de proximité. Ce n'est toutefois pas une raison pour soupçonner automatiquement votre interlocuteur. Concentrez-vous sur les faits: incohérences dans l'annonce, prix anormalement bas, refus de la procédure sécurisée d'une plateforme, lien de paiement externe, demande de code de validation ou changement soudain de version."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>La vraie question n'est pas « ce numéro est-il OnOff? », mais « puis-je vérifier l'identité et la demande par un moyen indépendant avant de m'engager? ».</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-face-a-un-appel-ou-sms-suspect",
+      "text": "Que faire face à un appel ou un SMS suspect?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le message ressemble à un démarchage, à une fraude au colis, à une fausse amende, à une alerte bancaire ou à une offre trop avantageuse, ne répondez pas par des informations personnelles. Évitez aussi de répondre simplement « STOP » à un numéro mobile inconnu si vous doutez de sa nature: vous pourriez confirmer que votre ligne est active. Sur un téléphone, vous pouvez bloquer le numéro depuis l'historique d'appels ou la conversation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Conservez les captures d'écran, les messages et les éventuelles preuves de paiement si une fraude est envisagée. Si vous avez déjà donné un code bancaire, vos identifiants ou les données de votre carte, contactez sans attendre votre banque via ses coordonnées officielles. Changez les mots de passe concernés, surtout s'ils sont réutilisés ailleurs. En cas de menace, de harcèlement, d'escroquerie ou d'usurpation, signalez les faits sur les canaux officiels adaptés et, selon la gravité, déposez plainte."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ne donnez jamais un code reçu par SMS: il peut servir à valider un paiement, récupérer un compte ou enregistrer votre ligne sur un autre appareil.",
+        "Ne transmettez pas de photo de pièce d'identité à un inconnu sans nécessité clairement établie et vérifiée.",
+        "N'avancez pas d'argent pour « réserver » un bien, débloquer un colis ou obtenir un emploi sans garanties solides.",
+        "Désactivez la conversation, bloquez le contact et signalez-le dans l'application ou sur la plateforme où l'échange a débuté.",
+        "Prévenez vos proches si votre identité, votre compte de messagerie ou vos photos ont pu être utilisés pour les contacter."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adopter-la-bonne-methode-en-cas-de-doute",
+      "text": "La méthode à adopter en cas de doute"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne disposez pas d'une méthode fiable permettant de reconnaître visuellement chaque numéro OnOff. Chercher à le faire à partir des seuls chiffres risque donc de vous donner une fausse assurance ou de vous faire écarter à tort un interlocuteur honnête. En revanche, vous pouvez réduire fortement les risques en vérifiant la cohérence de la demande, en passant par un canal officiel et en refusant toute décision précipitée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de rappeler un inconnu, posez-vous trois questions simples: <strong>est-ce que j'attendais ce contact?</strong> <strong>la personne me demande-t-elle une donnée, un paiement ou une action urgente?</strong> <strong>puis-je confirmer son identité autrement que par le numéro qui m'a contacté?</strong> Si une réponse vous inquiète, faites une pause. Une démarche légitime résiste à quelques minutes de vérification; une fraude dépend souvent de votre précipitation."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un numéro OnOff commence-t-il forcément par 06 ou 07?",
+      "a": "<p>Non. Les numéros proposés et leur présentation dépendent du pays et de l'offre choisie. En France, un numéro de type mobile peut ressembler à un 06 ou un 07 classique, mais ce préfixe ne permet pas d'affirmer qu'il s'agit d'une ligne OnOff. Il ne permet pas davantage d'identifier son titulaire.</p>"
+    },
+    {
+      "q": "Comment savoir à qui appartient réellement un numéro OnOff?",
+      "a": "<p>Vous ne pouvez généralement pas le déterminer de façon certaine avec un annuaire ou une recherche en ligne. Un annuaire inversé peut fournir une piste, notamment lorsqu'une entreprise a publié son numéro, mais l'absence de résultat est normale pour beaucoup de mobiles. Pour un échange important, vérifiez la personne par un canal indépendant: site officiel, adresse professionnelle, messagerie de plateforme, rendez-vous ou documents cohérents.</p>"
+    },
+    {
+      "q": "Est-ce légal d'utiliser un numéro OnOff en France?",
+      "a": "<p>Utiliser une seconde ligne ou un numéro fourni par une application peut répondre à des besoins parfaitement légitimes: séparer son activité professionnelle, publier une annonce ou préserver sa vie privée. En revanche, l'outil ne rend pas légales les fraudes, le harcèlement, l'usurpation d'identité ou les escroqueries. Les règles applicables dépendent des actes commis, pas uniquement du type de ligne utilisé.</p>"
+    },
+    {
+      "q": "Un numéro OnOff peut-il recevoir des codes de vérification par SMS?",
+      "a": "<p>Cela dépend du service, du numéro et de la plateforme qui envoie le code. Certaines banques, administrations, réseaux sociaux ou sites marchands refusent certains numéros virtuels pour leurs vérifications. Si vous envisagez d'utiliser une seconde ligne pour un compte essentiel, vérifiez d'abord les conditions du service et prévoyez une solution de récupération fiable.</p>"
+    },
+    {
+      "q": "J'ai reçu un SMS d'un numéro inconnu qui se dit être ma banque: que faire?",
+      "a": "<p>N'utilisez ni le lien ni le numéro de rappel contenu dans le SMS. Ouvrez votre application bancaire habituelle ou saisissez vous-même l'adresse officielle de votre banque, puis appelez le numéro figurant sur son site ou au dos de votre carte. Votre banque ne doit pas vous demander de communiquer un code de sécurité reçu par SMS pour annuler une fraude.</p>"
+    },
+    {
+      "q": "Puis-je bloquer un numéro OnOff définitivement?",
+      "a": "<p>Vous pouvez bloquer le numéro affiché dans les réglages de votre téléphone ou directement depuis l'historique d'appel et l'application de messages. Cela empêche ce numéro précis de vous joindre, mais pas nécessairement une personne qui utiliserait une autre ligne. En cas de harcèlement répété, conservez les preuves, évitez de répondre et sollicitez les dispositifs de signalement ou les autorités compétentes.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

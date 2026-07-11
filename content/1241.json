@@ -1,0 +1,353 @@
+{
+  "id": 1241,
+  "slug": "les-meilleures-recettes-de-soupes-froides-pour-un-ete-rafraichissant",
+  "title": "les meilleures recettes de soupes froides pour un été rafraîchissant",
+  "metaTitle": "Soupes froides: 6 recettes fraîches et faciles pour l’été",
+  "metaDescription": "Découvrez les meilleures recettes de soupes froides: gazpacho, concombre, melon et vichyssoise, avec conseils de préparation et conservation au frais.",
+  "dek": "Crues, mixées ou d’abord mijotées puis refroidies, les soupes froides transforment les légumes d’été en repas légers et savoureux. Voici six recettes fiables, les bons gestes et les variantes pour les réussir sans les noyer sous l’eau ou le sel.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "soupes froides",
+    "recettes d’été",
+    "gazpacho",
+    "cuisine fraîche",
+    "légumes de saison"
+  ],
+  "keyTakeaways": [
+    "Une soupe froide réussie repose sur des produits mûrs, un assaisonnement vif et un vrai temps de repos au frais.",
+    "Les recettes crues sont très rapides; les veloutés cuits offrent une texture plus ronde et se préparent à l’avance.",
+    "Ajoutez l’eau progressivement: il est facile de fluidifier une soupe, beaucoup moins de rattraper une préparation trop liquide.",
+    "Conservez les soupes froides dans un récipient fermé, au réfrigérateur, et servez-les très fraîches sans les laisser attendre au soleil."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Quand le thermomètre grimpe, un bol de soupe froide peut remplacer une entrée, compléter un déjeuner léger ou devenir un dîner express avec du pain et une garniture. Bien plus qu’un simple légume mixé, elle demande le bon équilibre entre fraîcheur, texture, acidité et sel: ces recettes vous donnent des repères concrets pour y parvenir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-adopter-les-soupes-froides-en-ete",
+      "text": "Pourquoi les soupes froides ont toute leur place en été"
+    },
+    {
+      "type": "paragraph",
+      "html": "La soupe froide est une excellente façon d’utiliser tomates très mûres, concombres croquants, courgettes, herbes et fruits de saison avant qu’ils ne s’abîment. Elle apporte naturellement une part d’eau, des végétaux et, selon la recette, des protéines grâce au yaourt, au fromage frais ou à une garniture de légumineuses. Elle ne remplace pas l’eau à boire, mais aide à composer un repas agréable lorsque l’on a peu d’appétit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son autre avantage est pratique: une grande quantité préparée le matin ou la veille évite de cuisiner au moment le plus chaud de la journée. Comptez souvent entre <strong>1,50 et 4 euros par bol maison</strong>, selon que vous utilisez des légumes du marché, des herbes, des produits laitiers ou des garnitures plus coûteuses. Le prix baisse nettement avec des légumes de pleine saison, parfois un peu marqués mais encore parfaitement sains."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "4 portions",
+          "label": "rendement habituel des recettes proposées"
+        },
+        {
+          "value": "10 à 20 min",
+          "label": "temps actif pour une soupe crue mixée"
+        },
+        {
+          "value": "1 à 2 h",
+          "label": "repos au frais utile pour fondre les saveurs"
+        },
+        {
+          "value": "24 à 48 h",
+          "label": "durée prudente pour la plupart des soupes crues"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Froide, une préparation paraît moins salée et moins parfumée qu’à température ambiante. Goûtez toujours une dernière fois après le repos au réfrigérateur, puis corrigez avec un peu de sel, de jus de citron ou de vinaigre.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-bonnes-bases-pour-une-soupe-froide-reussie",
+      "text": "Les bonnes bases pour une soupe froide réussie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par des ingrédients réellement savoureux. Une tomate farineuse ou un concombre gorgé d’eau ne deviendra pas meilleur au mixeur. Lavez soigneusement les légumes, retirez les parties abîmées et, si nécessaire, épépinez-les: les graines du concombre ou l’excès de jus des tomates peuvent diluer la texture. Pour un résultat très lisse, un blender puissant est confortable; un mixeur plongeant suffit si vous coupez les légumes finement et mixez un peu plus longtemps."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle famille de soupe froide choisir selon votre envie?",
+      "headers": [
+        "Type de soupe",
+        "Atouts",
+        "À prévoir",
+        "Idéale pour"
+      ],
+      "rows": [
+        [
+          "Crue mixée",
+          "Très rapide, goût vif, aucun feu",
+          "Des légumes très mûrs et un bon mixage",
+          "Un déjeuner minute ou une entrée"
+        ],
+        [
+          "Crémeuse au yaourt",
+          "Douce, rassasiante, texture onctueuse",
+          "Un produit laitier frais ou une alternative végétale",
+          "Un repas léger avec pain complet"
+        ],
+        [
+          "Cuite puis refroidie",
+          "Texture veloutée, légumes plus variés",
+          "Anticiper la cuisson et le refroidissement",
+          "Préparer plusieurs repas à l’avance"
+        ],
+        [
+          "Fruitée-salée",
+          "Très rafraîchissante, originale",
+          "Une acidité et une touche salée pour l’équilibre",
+          "Une entrée estivale ou un brunch"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le liant:</strong> pain rassis, pomme de terre cuite, yaourt, avocat, haricots blancs ou quelques amandes apportent du corps.",
+        "<strong>L’acidité:</strong> citron, vinaigre de Xérès, vinaigre de cidre ou tomate réveillent les saveurs.",
+        "<strong>Le gras:</strong> une huile d’olive douce, en petite quantité, arrondit la bouche et transporte les arômes.",
+        "<strong>Le croquant:</strong> graines, croûtons, concombre en dés, pois chiches grillés ou feta se posent au dernier moment."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur la plus fréquente",
+      "html": "<p>N’ajoutez pas un grand verre d’eau dès le départ. Mixez d’abord les ingrédients solides, puis versez le liquide cuillère par cuillère jusqu’à la consistance voulue. Une soupe trop épaisse se corrige facilement; une soupe fade et liquide beaucoup moins.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gazpacho-andalou-facile",
+      "text": "1. Le gazpacho andalou, la valeur sûre des tomates mûres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour 4 bols, prévoyez environ 800 g de tomates bien mûres, un demi-concombre, un poivron rouge, un petit morceau d’oignon, une petite gousse d’ail, 60 à 80 g de pain rassis, 3 cuillères à soupe d’huile d’olive, 1 à 2 cuillères à soupe de vinaigre de Xérès et du sel. Si vous préférez une version sans gluten, remplacez le pain par une petite pomme de terre cuite froide ou supprimez-le pour un résultat plus fluide."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez les légumes",
+          "html": "Coupez tomates, concombre et poivron. Ôtez les graines du poivron et, si le concombre est très aqueux, retirez-en le cœur."
+        },
+        {
+          "title": "Mixez sans excès d’eau",
+          "html": "Mettez tous les ingrédients dans le blender avec le pain légèrement humidifié, l’huile et le vinaigre. Mixez longuement, puis ajustez avec quelques cuillères d’eau très froide seulement si besoin."
+        },
+        {
+          "title": "Filtrez ou non",
+          "html": "Passez la préparation au tamis pour une texture très soyeuse. Gardez-la telle quelle si vous aimez un gazpacho plus rustique et riche en fibres."
+        },
+        {
+          "title": "Réservez et servez",
+          "html": "Placez au frais au moins une heure. Servez avec des dés de concombre, de poivron, des croûtons ou quelques gouttes d’huile d’olive."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le secret est la maturité des tomates, pas l’ajout de sucre. Si elles manquent de goût, renforcez d’abord le sel et le vinaigre avec parcimonie. Une pincée de paprika fumé peut apporter du relief, mais ne doit pas masquer les légumes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "soupes-froides-cremeuses-concombre-et-vichyssoise",
+      "text": "2. Deux soupes froides crémeuses: concombre-yaourt et vichyssoise"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "concombre-yaourt-citron-menthe",
+      "text": "Concombre, yaourt, citron et menthe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette recette est prête très vite et plaît par sa fraîcheur. Mixez 2 concombres pelés, 400 g de yaourt grec ou de fromage blanc épais, le jus d’un demi-citron, une poignée de menthe et d’aneth, 1 cuillère à soupe d’huile d’olive, du sel et du poivre. Ajoutez 5 à 10 cl d’eau froide si nécessaire. Pour une version végétale, choisissez un yaourt de soja nature assez épais; le lait de coco, lui, donnera un résultat plus rond mais moins acidulé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Goûtez le concombre avant de l’utiliser: s’il est amer, retirez davantage de peau et de graines, ou choisissez-en un autre. Servez avec quelques radis émincés, des pois chiches croustillants ou des graines de courge. Cela transforme une soupe légère en assiette plus complète."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "vichyssoise-poireaux-pommes-de-terre",
+      "text": "Vichyssoise poireaux-pommes de terre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vichyssoise est un velouté de poireaux et pommes de terre servi froid. Faites fondre doucement 3 blancs de poireaux émincés dans un peu de beurre ou d’huile, sans coloration. Ajoutez 400 g de pommes de terre en dés et environ 75 cl de bouillon peu salé. Laissez cuire jusqu’à ce que les pommes de terre soient tendres, mixez avec 10 cl de crème ou une alternative végétale, puis refroidissez rapidement avant de placer au frais. Ciboulette, poivre blanc et quelques gouttes de citron lui conviennent très bien."
+    },
+    {
+      "type": "compare",
+      "title": "Soupe crue ou soupe cuite puis froide: que choisir?",
+      "a": {
+        "title": "Soupe crue",
+        "points": [
+          "Prête rapidement, sans allumer la plaque.",
+          "Saveur végétale directe et très fraîche.",
+          "Dépend fortement de la qualité des produits crus.",
+          "À consommer assez vite après préparation."
+        ]
+      },
+      "b": {
+        "title": "Soupe cuite et refroidie",
+        "points": [
+          "Texture plus douce et plus stable.",
+          "Permet d’utiliser poireaux, carottes, courgettes ou petits pois.",
+          "Demande un temps de cuisson puis de refroidissement.",
+          "Souvent plus facile à préparer en grande quantité."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recettes-originales-melon-et-petits-pois",
+      "text": "3. Deux recettes originales: melon-tomate et petits pois-menthe"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "melon-tomate-basilic",
+      "text": "Melon, tomate, basilic et feta"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une entrée estivale, mixez la chair d’un petit melon charentais avec 300 g de tomates très mûres, le jus d’un demi-citron vert, 6 feuilles de basilic et une pincée de piment doux ou d’Espelette. Réservez une partie du melon en petits dés. Au moment de servir, ajoutez ces dés, un peu de feta émiettée et quelques feuilles de basilic. La tomate et le citron sont essentiels: ils évitent que la soupe bascule vers un simple smoothie sucré."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "petits-pois-menthe",
+      "text": "Petits pois, menthe et citron"
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites cuire 500 g de petits pois, frais ou surgelés, dans de l’eau frémissante quelques minutes. Égouttez-les et plongez-les brièvement dans de l’eau glacée pour fixer leur couleur. Mixez avec 15 cl de bouillon froid, une belle poignée de menthe, le zeste et le jus d’un demi-citron, 2 cuillères à soupe de yaourt nature et du sel. Passez au tamis si vous recherchez une texture raffinée. Des amandes effilées grillées ou du saumon fumé en lanières en font une assiette plus nourrissante."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de présentation",
+      "html": "<p>Servez dans des bols bien froids, des verres épais ou de petites tasses pour l’apéritif. Une garniture contrastée, ajoutée juste avant le service, fait toute la différence: vert d’herbes sur une soupe rouge, dés de légumes sur un velouté lisse, graines sur une préparation crémeuse.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "carotte-coco-gingembre-une-option-douce",
+      "text": "4. Carotte, coco et gingembre: une soupe froide douce et épicée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette recette convient particulièrement à celles et ceux qui aiment les soupes froides moins acides. Faites cuire 700 g de carottes en rondelles avec un petit oignon dans un peu d’huile. Couvrez avec environ 50 cl de bouillon et laissez mijoter jusqu’à ce que les carottes soient fondantes. Mixez avec 15 à 20 cl de lait de coco, un petit morceau de gingembre frais râpé, le jus d’un demi-citron vert et du sel. Laissez tiédir, puis refroidir complètement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La clé est de doser le lait de coco: trop généreux, il écrase la carotte et rend la soupe lourde. Commencez par 15 cl et ajustez. Pour une note plus fraîche, ajoutez coriandre ou menthe; pour un dîner consistant, accompagnez de pain pita et de lentilles assaisonnées. Cette soupe reste aussi très bonne légèrement fraîche plutôt que glacée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "assaisonner-et-texturer-sans-se-tromper",
+      "text": "5. Assaisonner et texturer sans se tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une bonne soupe froide doit avoir de la présence dès la première cuillerée. Si elle semble plate, ne versez pas immédiatement davantage de sel. Procédez dans l’ordre: ajoutez quelques gouttes de citron ou de vinaigre, puis une pincée de sel, puis une herbe fraîche ou un peu de poivre. L’acidité donne souvent l’impression que tous les ingrédients sont plus savoureux."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Trop épaisse:</strong> détendez avec un peu de bouillon froid, d’eau glacée ou de jus de tomate, progressivement.",
+        "<strong>Trop liquide:</strong> incorporez du pain rassis, de l’avocat, du yaourt épais, des haricots blancs rincés ou une pomme de terre cuite.",
+        "<strong>Trop acide:</strong> ajoutez un filet d’huile d’olive, un peu de yaourt ou un légume doux; évitez de corriger avec du sucre.",
+        "<strong>Trop piquante:</strong> allongez avec la base non épicée et ajoutez un élément crémeux, plutôt que de verser beaucoup d’eau."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le repos au frais ne sert pas seulement à refroidir: il laisse au pain, aux herbes, à l’ail et à l’acidité le temps de s’harmoniser. Couvrez toujours la préparation pour éviter les odeurs du réfrigérateur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conserver-et-transporter-ses-soupes-froides",
+      "text": "6. Conservation et transport: les règles de prudence"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une cuisson, ne laissez pas une grande marmite refroidir pendant des heures sur le plan de travail. Répartissez plutôt la soupe dans des contenants peu profonds ou posez le récipient dans un bain d’eau froide, puis placez-la au réfrigérateur dès qu’elle a suffisamment tiédi. Maintenez vos soupes à froid, dans des bocaux ou boîtes très propres et bien fermés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les préparations crues contenant légumes frais, herbes et produits laitiers sont à consommer de préférence sous 24 à 48 heures. Une soupe cuite sans crème peut généralement tenir un peu plus longtemps, mais fiez-vous d’abord à son aspect, son odeur et aux conditions de stockage. En cas de doute, ne goûtez pas pour vérifier: jetez-la. Pour un pique-nique, transportez-la dans un sac isotherme avec un accumulateur de froid et ne la laissez pas au soleil."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux garnitures",
+      "html": "<p>Ajoutez croûtons, herbes, fromage, graines et fruits de mer seulement au moment de servir. Les croûtons ramollissent vite, les herbes noircissent et les ingrédients fragiles réduisent la durée de conservation de la soupe.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-la-pratique-cette-semaine",
+      "text": "7. Passer à la pratique: votre plan soupe froide de la semaine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour commencer sans vous disperser, choisissez une soupe crue et une soupe cuite. Préparez par exemple un gazpacho avec les tomates les plus mûres du marché, puis une vichyssoise ou une soupe carotte-coco pour les jours suivants. Gardez les garnitures à part et servez chaque bol avec une source de protéines ou de bons féculents selon votre faim: œuf dur, pois chiches, fromage frais, pain au levain ou tartine de houmous."
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure recette n’est pas forcément la plus sophistiquée: c’est celle qui respecte le goût des produits disponibles chez vous. Retenez cette formule simple pour créer vos propres variantes: <strong>un légume ou fruit dominant + un liant + une touche acide + une herbe + un élément croquant</strong>. Vous éviterez ainsi le gaspillage tout en renouvelant vos repas d’été."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on préparer une soupe froide la veille?",
+      "a": "<p>Oui, c’est même souvent une bonne idée: une nuit au frais améliore l’harmonie des saveurs. Conservez-la dans un récipient fermé au réfrigérateur, puis mélangez et goûtez avant de servir. Pour les recettes crues au yaourt ou riches en herbes fraîches, visez une consommation dans les 24 à 48 heures.</p>"
+    },
+    {
+      "q": "Comment rendre une soupe froide plus rassasiante sans la rendre lourde?",
+      "a": "<p>Ajoutez un élément protéiné et un peu de texture plutôt que de multiplier la crème: yaourt grec, haricots blancs mixés, pois chiches rôtis, œuf, feta, tofu grillé ou poisson. Une tranche de bon pain, des graines ou des amandes complètent aussi très bien un bol de soupe.</p>"
+    },
+    {
+      "q": "Faut-il éplucher les tomates pour faire un gazpacho?",
+      "a": "<p>Ce n’est pas indispensable avec un blender efficace et des tomates à peau fine. Si vous recherchez une texture très lisse, passez le gazpacho au tamis après mixage: cette étape retire à la fois les peaux et les pépins, sans le travail fastidieux de l’épluchage préalable.</p>"
+    },
+    {
+      "q": "Pourquoi ma soupe froide est-elle fade après passage au réfrigérateur?",
+      "a": "<p>Le froid atténue la perception du sel, des herbes et des épices. Laissez la soupe reposer, puis rectifiez juste avant le service avec une petite quantité de sel et surtout une touche acide, comme du citron ou du vinaigre. Un filet d’huile d’olive et des herbes fraîches peuvent également lui redonner du relief.</p>"
+    },
+    {
+      "q": "Peut-on congeler des soupes froides?",
+      "a": "<p>Les soupes cuites de légumes se congèlent généralement bien, de préférence sans crème, yaourt ni garniture. Décongelez-les au réfrigérateur, mixez ou fouettez de nouveau si la texture s’est séparée, puis servez froides. Les recettes crues au concombre, au melon ou au yaourt supportent beaucoup moins bien la congélation, qui les rend souvent aqueuses.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

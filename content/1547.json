@@ -1,0 +1,331 @@
+{
+  "id": 1547,
+  "slug": "quelle-est-la-difference-entre-un-panneau-electrique-et-un-tableau-electrique",
+  "title": "Quelle est la différence entre un panneau électrique et un tableau électrique?",
+  "metaTitle": "Panneau électrique ou tableau électrique: différence",
+  "metaDescription": "Panneau électrique, tableau, coffret ou armoire: comprenez les différences, les équipements et les vérifications à faire chez vous.",
+  "dek": "Dans un logement français, le mot « tableau électrique » désigne l’équipement qui répartit et protège les circuits. « Panneau électrique » est un terme plus flou, souvent employé comme synonyme ou pour parler d’un support, d’un coffret ou d’une installation plus vaste.",
+  "category": "maison-immobilier",
+  "tags": [
+    "électricité",
+    "tableau électrique",
+    "rénovation",
+    "sécurité domestique",
+    "installation électrique"
+  ],
+  "keyTakeaways": [
+    "En France, le tableau électrique est le terme précis pour l’organe qui distribue et protège les circuits d’un logement.",
+    "Le panneau électrique n’a pas une définition unique: il peut désigner le tableau, sa façade ou un ensemble plus large selon le contexte.",
+    "Un coffret est surtout l’enveloppe; une armoire électrique correspond en général à un équipement plus grand et plus complexe.",
+    "Un tableau ancien, surchargé ou dépourvu de protection différentielle adaptée mérite un diagnostic professionnel.",
+    "Ne modifiez jamais un tableau sous tension: l’ajout d’un circuit doit être dimensionné et contrôlé."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous entendez parler de « panneau électrique » lors d’un devis, d’une annonce immobilière ou d’une discussion de travaux, alors que votre logement possède un « tableau électrique »? La différence tient moins à deux appareils systématiquement distincts qu’au vocabulaire et à l’usage. Voici comment nommer les éléments correctement, comprendre leur fonction et savoir ce qu’il faut vérifier pour votre sécurité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "une-difference-surtout-de-vocabulaire",
+      "text": "Une différence surtout de vocabulaire, pas deux appareils obligatoirement distincts"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, dans le domaine résidentiel, le terme le plus juste est <strong>tableau électrique</strong>, ou plus précisément <strong>tableau de répartition</strong>. C’est l’ensemble installé après le disjoncteur général qui reçoit l’électricité et la distribue vers les différents circuits: éclairage, prises, cuisson, chauffage, chauffe-eau, volets roulants ou encore borne de recharge."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression <strong>panneau électrique</strong> est plus imprécise. Elle peut être utilisée comme un synonyme courant de tableau électrique, notamment sous l’influence de traductions, de pratiques professionnelles étrangères ou d’annonces immobilières. Elle peut aussi désigner seulement le panneau de fond, la façade portant les appareils, ou un ensemble de commande électrique. Le contexte est donc décisif."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Pour un logement en France, demandez toujours si l’on parle du <strong>tableau de répartition complet</strong>, de son coffret vide ou d’un panneau de commande particulier. Cela évite de comparer des devis qui ne couvrent pas la même prestation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "le-tableau-electrique-repartit-et-protege",
+      "text": "Le tableau électrique: le centre de distribution et de protection du logement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tableau électrique a une mission concrète: acheminer l’énergie vers chaque circuit tout en coupant le courant en cas de défaut. Il ne produit pas l’électricité et ne la mesure pas; il organise son usage à l’intérieur du logement. Dans une installation récente, il est généralement placé dans la gaine technique de logement, à proximité de l’arrivée électrique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les appareils modulaires sont fixés sur des rails à l’intérieur du tableau. Chaque circuit doit être repérable afin que vous puissiez identifier rapidement ce qui est coupé: « prises séjour », « éclairage étage », « lave-linge » ou « plaques », par exemple. Ce repérage devient essentiel lors d’une panne, de travaux ou d’une urgence."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux éléments que vous pouvez trouver autour du tableau électrique",
+      "headers": [
+        "Élément",
+        "Rôle",
+        "À ne pas confondre avec"
+      ],
+      "rows": [
+        [
+          "Disjoncteur de branchement",
+          "Coupe l’alimentation générale et limite la puissance appelée selon l’abonnement.",
+          "Les petits disjoncteurs des circuits du logement."
+        ],
+        [
+          "Interrupteur différentiel",
+          "Protège les personnes en détectant une fuite de courant vers la terre.",
+          "Un disjoncteur, qui protège surtout le circuit contre surcharge et court-circuit."
+        ],
+        [
+          "Disjoncteur divisionnaire",
+          "Protège un circuit précis et permet de l’isoler.",
+          "Le compteur, qui enregistre la consommation."
+        ],
+        [
+          "Parafoudre",
+          "Limite certains effets des surtensions liées notamment à la foudre.",
+          "Une multiprise parasurtenseur, dont la protection est plus limitée."
+        ],
+        [
+          "Coffret",
+          "Constitue l’enveloppe qui reçoit rails, appareils et câblage.",
+          "Le tableau équipé dans son ensemble."
+        ]
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "tension nominale habituelle des installations domestiques en France"
+        },
+        {
+          "value": "30 mA",
+          "label": "sensibilité courante des interrupteurs différentiels destinés à la protection des personnes"
+        },
+        {
+          "value": "~150 à 500 €",
+          "label": "ordre de grandeur fréquent pour un tableau prééquipé, hors pose et adaptations"
+        },
+        {
+          "value": "~700 à 2 000 €",
+          "label": "budget souvent constaté pour un remplacement professionnel complet, très variable selon le chantier"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-peut-designer-un-panneau-electrique",
+      "text": "Ce que peut réellement désigner un panneau électrique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « panneau » décrit d’abord une <strong>forme ou un support</strong>, plutôt qu’une fonction réglementaire unique. Dans un petit logement, quelqu’un peut appeler « panneau électrique » le tableau mural complet. Dans un atelier, il peut s’agir d’une platine portant des contacteurs, des boutons de marche-arrêt, des voyants et des relais. Dans une copropriété ou un bâtiment professionnel, il peut aussi désigner un panneau de contrôle associé à des équipements collectifs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette ambiguïté explique des descriptions parfois trompeuses. Dire qu’un logement a « un panneau électrique récent » ne garantit ni la présence de protections adaptées, ni un câblage en bon état, ni la conformité de l’ensemble. Pour évaluer une installation, il faut regarder les équipements présents, leur état, leur étiquetage et, si nécessaire, le rapport de diagnostic ou l’avis d’un électricien."
+    },
+    {
+      "type": "compare",
+      "title": "Tableau électrique et panneau électrique: la distinction utile",
+      "a": {
+        "title": "Tableau électrique",
+        "points": [
+          "Terme précis et usuel pour l’équipement résidentiel qui répartit l’électricité.",
+          "Contient normalement les protections des circuits: différentiels, disjoncteurs et éventuellement accessoires.",
+          "S’emploie dans un devis de rénovation, une notice d’installation ou un diagnostic de logement."
+        ]
+      },
+      "b": {
+        "title": "Panneau électrique",
+        "points": [
+          "Terme générique dont le sens dépend du pays, du métier et de la situation.",
+          "Peut désigner le tableau entier, sa façade, un support d’appareillage ou un panneau de commande.",
+          "Doit être précisé avant tout achat, remplacement ou chiffrage de travaux."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Au Québec et dans plusieurs documents nord-américains, « panneau électrique » est un mot très courant pour ce que l’on appellerait volontiers « tableau électrique » en France. Ce n’est pas forcément une erreur: c’est avant tout une différence d’usage.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "coffret-armoire-et-tableau-des-termes-a-distinguer",
+      "text": "Coffret, armoire, tableau divisionnaire: les termes à distinguer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les mots se recoupent, mais chacun apporte une information utile. Le <strong>coffret électrique</strong> est l’enveloppe, souvent en plastique isolant, qui protège les modules et les conducteurs. Vous pouvez acheter un coffret nu, puis y installer les rails et les appareils nécessaires. Le <strong>tableau électrique</strong> est le coffret une fois équipé, câblé, repéré et raccordé à l’installation."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’<strong>armoire électrique</strong> est en général plus grande et plus robuste. On la rencontre dans les locaux techniques, ateliers, commerces, parties communes ou bâtiments tertiaires. Elle peut intégrer de la puissance, de la commande, de l’automatisme et du comptage. Employer « armoire » pour le petit tableau d’un appartement n’est pas courant, même si le principe de distribution reste comparable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un <strong>tableau divisionnaire</strong>, enfin, est un second tableau alimenté depuis le tableau principal. Il sert par exemple à distribuer les circuits d’un garage, d’une dépendance, d’un étage aménagé ou d’un atelier de jardin. Il ne remplace pas le tableau principal: il simplifie la répartition et limite les longueurs de câbles."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Un tableau divisionnaire ne se résume pas à ajouter quelques disjoncteurs dans un garage. Son alimentation, sa protection en amont, sa liaison à la terre, sa section de câble et ses appareils doivent être adaptés au projet.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-reconnaitre-votre-equipement",
+      "text": "Comment reconnaître votre équipement et vérifier l’essentiel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ouvrez uniquement la porte ou le capot prévu pour l’usage courant, sans retirer de plastron ni toucher aux conducteurs. Un tableau résidentiel se reconnaît à ses rangées de petits modules à leviers, généralement accompagnés d’étiquettes. En amont, vous pouvez trouver le disjoncteur de branchement et le compteur; selon la configuration, ces éléments ne se situent pas dans le même volume que le tableau."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Repérez la fonction de chaque appareil",
+          "html": "Cherchez les indications « différentiel », « disjoncteur », les calibres et les étiquettes de circuits. Une rangée de commandes, de voyants ou de contacteurs peut correspondre à un panneau de commande plutôt qu’au seul tableau de répartition."
+        },
+        {
+          "title": "Contrôlez l’étiquetage",
+          "html": "Chaque levier devrait pouvoir être relié à une zone ou à un appareil précis. Des étiquettes effacées, absentes ou fantaisistes compliquent les dépannages et peuvent cacher des modifications successives."
+        },
+        {
+          "title": "Observez sans intervenir",
+          "html": "Traces de chauffe, odeur de plastique, humidité, couvercles cassés, fils apparents ou disjoncteurs qui déclenchent souvent justifient une vérification rapide par un professionnel."
+        },
+        {
+          "title": "Testez seulement les dispositifs prévus à cet effet",
+          "html": "Le bouton de test d’un interrupteur différentiel est conçu pour vérifier son déclenchement. Suivez la notice, prévenez les occupants et réenclenchez si le circuit est sain. Si l’appareil ne réagit pas ou ne se réarme pas, faites contrôler l’installation."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil pratique",
+      "html": "<p>Prenez une photo nette du tableau porte ouverte, puis notez les circuits manquants. Cette photo sera utile à l’électricien, à l’assureur après un sinistre ou lors de la préparation de travaux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "protections-et-securite-ce-qui-compte-vraiment",
+      "text": "Protections et sécurité: ce qui compte vraiment au-delà du nom"
+    },
+    {
+      "type": "paragraph",
+      "html": "Qu’il soit appelé panneau ou tableau, l’équipement doit avant tout protéger les personnes et les biens. Les interrupteurs différentiels à haute sensibilité sont destinés à détecter certaines fuites de courant dangereuses. Les disjoncteurs divisionnaires protègent les conducteurs contre les surintensités. La mise à la terre et les liaisons associées sont tout aussi importantes: un tableau moderne ne corrige pas, à lui seul, une terre absente ou défaillante dans le reste du logement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les installations domestiques françaises sont encadrées par des règles techniques, dont la norme NF C 15-100 est la référence habituelle pour le neuf et les rénovations importantes. Toutefois, une installation ancienne n’a pas nécessairement à être reconstruite intégralement à chaque changement de propriétaire. En vente, le diagnostic électrique des installations de plus de quinze ans informe l’acheteur sur les risques identifiés; il ne vaut ni certificat de conformité ni devis de remise à niveau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas non plus le compteur communicant ou ancien compteur avec le tableau: le premier mesure l’énergie consommée et relève de l’alimentation, tandis que le second organise les circuits privés du logement. Certains appareils en amont peuvent être sous la responsabilité du gestionnaire de réseau ou scellés. Vous ne devez pas les déplacer ni les modifier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-renover-ou-remplacer-le-tableau",
+      "text": "Quand rénover ou remplacer le tableau électrique?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un tableau n’est pas à remplacer parce que son plastique a jauni, mais certains signes imposent de ne pas attendre. Les porte-fusibles à cartouche, l’absence de protection différentielle adaptée, les fils accessibles, les départs ajoutés sans ordre apparent, les déclenchements récurrents ou un tableau saturé sont des alertes. Une cuisine rénovée, un chauffage électrique supplémentaire, une pompe à chaleur, un atelier ou une borne de recharge peuvent aussi exiger de revoir la répartition."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vous manquez de modules libres et des ajouts sont envisagés.",
+        "Des fusibles doivent être remplacés régulièrement ou les circuits sautent sans cause claire.",
+        "Le tableau chauffe, grésille, dégage une odeur anormale ou présente des traces noircies.",
+        "Le logement a subi une rénovation lourde, une extension ou un changement important de ses usages électriques.",
+        "Le diagnostic de vente relève des anomalies de protection, de mise à la terre ou d’accessibilité."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un simple remplacement à l’identique dans un logement accessible, comptez souvent plusieurs centaines d’euros de matériel et de main-d’œuvre. Une intervention complète peut dépasser ce montant de façon sensible si elle implique de reprendre les conducteurs, d’ajouter des protections, de déplacer le tableau, de créer une gaine technique ou de remettre à niveau une partie de l’installation. Demandez un devis détaillant le coffret, le nombre de rangées, les protections, le repérage, les essais et les éventuelles reprises de câblage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "bien-formuler-votre-demande-de-devis",
+      "text": "Bien formuler votre demande de devis et décider sans vous tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous sollicitez un artisan, évitez la formule vague « changer le panneau électrique ». Dites plutôt: « Je souhaite faire contrôler ou remplacer le tableau de répartition de mon logement. » Ajoutez l’âge approximatif de l’installation, une photo du tableau fermé et ouvert, la surface du logement, les équipements puissants et les travaux prévus. L’électricien pourra ainsi évaluer le nombre de circuits, les protections nécessaires et la place disponible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Comparez des prestations réellement comparables. Un prix bas peut correspondre à un coffret prééquipé posé rapidement, alors qu’un autre devis inclut le repérage complet, la réorganisation des départs, le remplacement de conducteurs dégradés, les essais et la réserve utile pour l’avenir. Vérifiez également que l’entreprise est assurée pour ses travaux et que le devis précise les limites de son intervention."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne faites pas du tableau un chantier d’essai",
+      "html": "<p>Couper le disjoncteur général ne rend pas automatiquement toutes les parties de l’installation sans danger et ne remplace pas les compétences de câblage. La création ou la modification d’un circuit relève d’un électricien qualifié, surtout en présence d’humidité, de chauffage, de forte puissance ou d’un tableau ancien.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-maintenant-pour-une-installation-lisible-et-sure",
+      "text": "Agir maintenant pour une installation lisible et sûre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Retenez l’essentiel: dans votre logement, appelez-le <strong>tableau électrique</strong> lorsque vous parlez de l’équipement qui distribue et protège les circuits. Le mot « panneau électrique » peut être compris, mais il mérite d’être précisé, car il ne décrit pas toujours le même objet. Une nomenclature claire vous aide à obtenir un devis pertinent et à mieux dialoguer avec un professionnel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par photographier et étiqueter ce que vous avez, recherchez les signaux d’alerte visibles et rassemblez le diagnostic électrique si vous en disposez. Si le tableau est ancien, plein, mal repéré ou associé à des anomalies, programmez un contrôle. L’objectif n’est pas de moderniser pour moderniser, mais de disposer d’une installation adaptée à vos usages, compréhensible en cas d’urgence et correctement protégée."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un panneau électrique est-il la même chose qu’un tableau électrique?",
+      "a": "<p>Souvent, oui, dans le langage courant: une personne peut appeler « panneau électrique » le tableau de répartition de son logement. Mais le terme « panneau » est plus vague. Il peut aussi désigner une façade, un support d’appareillage ou un panneau de commande. Pour des travaux ou un devis, parlez de <strong>tableau électrique</strong> et précisez si vous voulez remplacer seulement le coffret, les protections ou l’ensemble du câblage.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre un tableau électrique et un coffret électrique?",
+      "a": "<p>Le coffret est l’enveloppe: la boîte fixée au mur avec sa porte, ses rails et ses emplacements modulaires. Le tableau électrique désigne généralement l’ensemble fonctionnel une fois les interrupteurs différentiels, disjoncteurs, peignes, borniers et conducteurs installés. Vous pouvez donc acheter un coffret nu, mais il ne devient un tableau opérationnel qu’après son équipement et son raccordement.</p>"
+    },
+    {
+      "q": "Le compteur Linky fait-il partie du tableau électrique?",
+      "a": "<p>Non. Le compteur mesure votre consommation et appartient à la partie alimentation et comptage. Le tableau électrique répartit ensuite l’énergie dans les circuits de votre habitation. Ces équipements peuvent être voisins dans la gaine technique, ce qui entretient la confusion, mais leurs fonctions et leurs responsabilités sont différentes. Ne manipulez pas les parties scellées ou réservées au gestionnaire de réseau.</p>"
+    },
+    {
+      "q": "Comment savoir si mon vieux tableau électrique doit être changé?",
+      "a": "<p>Des porte-fusibles anciens, l’absence de protections différentielles adaptées, des fils visibles, des traces de chauffe, une humidité persistante, des déclenchements fréquents ou un manque total de repérage doivent vous alerter. Un tableau ancien n’est pas automatiquement dangereux, mais son état ne peut pas être jugé sur l’âge ou l’apparence seulement. Faites réaliser un contrôle par un électricien, en vous appuyant aussi sur le diagnostic électrique si le logement est vendu.</p>"
+    },
+    {
+      "q": "Puis-je ajouter moi-même un disjoncteur dans le tableau?",
+      "a": "<p>Ce n’est pas recommandé sans compétences électriques solides et sans vérification de l’installation. Il ne suffit pas d’avoir une place libre: il faut déterminer le circuit à créer, la section des conducteurs, le calibre de la protection, le différentiel auquel le raccorder, le cheminement du câble et les règles applicables. Une erreur peut provoquer des déclenchements, une surchauffe ou un risque d’électrocution. Confiez l’ajout d’un circuit à un professionnel.</p>"
+    },
+    {
+      "q": "Faut-il installer un tableau divisionnaire pour un garage ou une dépendance?",
+      "a": "<p>C’est souvent une bonne solution lorsqu’un garage, un atelier, une extension ou une dépendance comporte plusieurs circuits: éclairage, prises, porte motorisée, congélateur, chauffage ou recharge de véhicule. Le tableau divisionnaire facilite la coupure locale et évite de multiplier les longs départs depuis le tableau principal. Sa conception doit néanmoins être calculée: protection en amont, câble d’alimentation, mise à la terre et dispositifs différentiels doivent être cohérents avec les usages prévus.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

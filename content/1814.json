@@ -1,0 +1,383 @@
+{
+  "id": 1814,
+  "slug": "comment-savoir-si-ma-peau-est-grasse",
+  "title": "comment savoir si ma peau est grasse ?",
+  "metaTitle": "Comment savoir si ma peau est grasse? Les signes",
+  "metaDescription": "Peau qui brille, pores visibles, imperfections: apprenez à reconnaître une peau grasse, à éviter les confusions et à choisir les bons soins quotidiens.",
+  "dek": "Une brillance en milieu de journée ne suffit pas toujours à définir votre type de peau. Voici comment observer les bons signes, distinguer une peau grasse d’une peau mixte ou déshydratée, puis construire une routine adaptée sans l’agresser.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "peau grasse",
+    "soin du visage",
+    "sébum",
+    "pores",
+    "imperfections"
+  ],
+  "keyTakeaways": [
+    "Une peau grasse produit du sébum sur une grande partie du visage, pas seulement sur le front et le nez.",
+    "La brillance seule ne suffit pas: observez aussi les pores, le confort de la peau et les zones concernées.",
+    "Une peau peut être grasse et déshydratée en même temps.",
+    "Décaper ou multiplier les gommages peut accentuer l’inconfort et les imperfections.",
+    "Une routine courte, douce et régulière est généralement plus utile qu’une accumulation de produits."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Front brillant avant midi, maquillage qui glisse, pores visibles ou boutons récurrents: ces signes peuvent évoquer une peau grasse, mais ils ne racontent pas toujours toute l’histoire. Votre type de peau dépend surtout de sa production de sébum, tandis que son état peut varier avec la saison, le stress, les produits utilisés ou les hormones. En observant votre visage au bon moment et sans le surinterpréter, vous pourrez choisir des soins réellement adaptés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peau-grasse-definition",
+      "text": "Peau grasse: de quoi parle-t-on exactement?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une peau est dite <strong>grasse</strong> lorsqu’elle produit durablement davantage de sébum que nécessaire pour son équilibre. Le sébum est pourtant utile: ce film lipidique limite la perte en eau et participe à la protection de la surface cutanée. Le problème n’est donc pas le sébum en lui-même, mais son excès apparent ou les désagréments qui peuvent l’accompagner: brillance, texture irrégulière, pores plus visibles et tendance aux comédons."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le type de peau est une tendance relativement stable, souvent influencée par la génétique et les variations hormonales. En revanche, l’aspect de votre peau n’est jamais figé. Une peau grasse peut devenir plus sensible l’hiver, paraître moins brillante après un changement de routine, ou au contraire produire davantage de sébum après des nettoyages trop agressifs. C’est pourquoi un diagnostic utile ne se résume pas à l’état de votre peau un jour précis."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le sébum et l’hydratation ne sont pas la même chose. Vous pouvez avoir un excès de sébum tout en manquant d’eau: c’est le cas d’une peau grasse déshydratée.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "signes-peau-grasse",
+      "text": "Les signes qui permettent de reconnaître une peau grasse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le signe le plus évocateur est une <strong>brillance qui revient rapidement</strong>, même après un nettoyage doux et sans application de produit riche. Elle ne concerne pas uniquement le nez ou le front: sur une peau réellement grasse, elle peut toucher les joues, le menton et parfois l’ensemble du visage. Elle se remarque davantage en lumière naturelle ou lorsque le teint semble perdre en tenue au fil de la journée."
+    },
+    {
+      "type": "table",
+      "caption": "Ce que vos observations peuvent indiquer",
+      "headers": [
+        "Ce que vous observez",
+        "Ce que cela suggère",
+        "À nuancer"
+      ],
+      "rows": [
+        [
+          "Une brillance sur le front, le nez, les joues et le menton",
+          "Une production de sébum importante sur l’ensemble du visage",
+          "La chaleur, le sport ou une crème trop riche peuvent aussi faire briller ponctuellement"
+        ],
+        [
+          "Des pores facilement visibles, surtout près du nez et sur les joues",
+          "Une peau souvent plus riche en sébum ou à grain de peau plus marqué",
+          "La taille des pores dépend aussi en partie de la génétique et ne se « ferme » pas"
+        ],
+        [
+          "Points noirs, microkystes ou boutons récurrents",
+          "Des pores susceptibles de s’obstruer plus facilement",
+          "Une peau grasse n’a pas forcément de l’acné, et l’acné peut exister sur tout type de peau"
+        ],
+        [
+          "Maquillage qui se sépare ou disparaît vite",
+          "Un excès de film gras à la surface de la peau",
+          "La formule du fond de teint, la crème et la transpiration comptent aussi"
+        ],
+        [
+          "Sensation de film gras au réveil ou après quelques heures",
+          "Un indice supplémentaire de peau grasse",
+          "Ne confondez pas ce film avec une crème de nuit mal absorbée"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les pores dilatés et les imperfections sont fréquents, mais ils ne constituent pas une preuve isolée. Certaines personnes ont naturellement des pores visibles sans produire un excès de sébum; d’autres ont une peau grasse très peu sujette aux boutons. Cherchez plutôt la cohérence de plusieurs indices, observés pendant quelques jours dans des conditions ordinaires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "test-maison-peau-grasse",
+      "text": "Faire un test simple à la maison, sans fausser le résultat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de test maison capable de poser un diagnostic dermatologique. En revanche, une observation standardisée vous aide à comprendre comment votre peau se comporte sans maquillage, sans soin riche et sans les effets immédiats d’un nettoyant. Faites ce test un jour calme, à distance d’un entraînement sportif ou d’une forte exposition à la chaleur."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Nettoyez délicatement votre visage",
+          "html": "Utilisez votre nettoyant habituel s’il est doux, puis séchez votre peau en tamponnant avec une serviette propre. Évitez le savon décapant ou le gommage juste avant le test."
+        },
+        {
+          "title": "Ne mettez aucun produit pendant un court moment",
+          "html": "Laissez votre peau au repos environ 30 à 60 minutes. Ne la touchez pas, ne vaporisez pas de brume et ne vous installez pas devant une source de chaleur."
+        },
+        {
+          "title": "Observez zone par zone",
+          "html": "Regardez le front, le nez, le menton et les joues à la lumière du jour. Notez la présence d’une brillance, mais aussi un éventuel tiraillement ou des zones plus confortables."
+        },
+        {
+          "title": "Utilisez un mouchoir comme indicateur complémentaire",
+          "html": "Pressez très légèrement un mouchoir propre sur les différentes zones, sans frotter. Des traces grasses sur la zone T seulement évoquent plus volontiers une peau mixte; des traces sur les joues en plus renforcent l’hypothèse d’une peau grasse."
+        },
+        {
+          "title": "Répétez l’observation",
+          "html": "Recommencez deux ou trois fois à quelques jours d’intervalle. Une seule journée chaude, un cycle hormonal particulier ou un nouveau produit peuvent modifier l’aspect de la peau."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "30 à 60 min",
+          "label": "d’attente utile après le nettoyage pour observer la peau sans soin"
+        },
+        {
+          "value": "3 zones",
+          "label": "forment la zone T: front, nez et menton"
+        },
+        {
+          "value": "5 à 20 €",
+          "label": "ordre de grandeur courant pour un nettoyant doux en parapharmacie ou grande surface"
+        },
+        {
+          "value": "10 à 35 €",
+          "label": "ordre de grandeur fréquent pour un soin visage ciblé ou une protection solaire visage"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil d’observation",
+      "html": "<p>Prenez une photo de votre visage propre, puis une autre en fin de journée pendant trois jours. Vous repérerez plus facilement les zones qui brillent réellement et celles qui ne réagissent qu’aux circonstances.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peau-grasse-mixte-deshydratee",
+      "text": "Ne pas confondre peau grasse, peau mixte et peau déshydratée"
+    },
+    {
+      "type": "paragraph",
+      "html": "La confusion la plus courante concerne la peau mixte. Elle est brillante principalement sur la zone T, tandis que les joues restent normales, confortables ou parfois sèches. À l’inverse, une peau grasse présente souvent un excès de sébum plus diffus. Autre piège: prendre une peau déshydratée pour une peau sèche. La sécheresse renvoie surtout à un manque de lipides; la déshydratation correspond à un manque d’eau temporaire, qui peut toucher tous les types de peau."
+    },
+    {
+      "type": "compare",
+      "title": "Peau grasse ou peau mixte: le critère qui compte",
+      "a": {
+        "title": "Peau grasse",
+        "points": [
+          "Brillance souvent présente sur la zone T et les joues",
+          "Sensation de film gras plus généralisée",
+          "Pores et imperfections possibles sur plusieurs zones du visage",
+          "Recherche de textures légères, mais besoin d’hydratation malgré tout"
+        ]
+      },
+      "b": {
+        "title": "Peau mixte",
+        "points": [
+          "Brillance surtout sur le front, le nez et le menton",
+          "Joues normales, parfois sèches ou inconfortables",
+          "Besoin de moduler les produits selon les zones",
+          "Une crème trop matifiante peut dessécher les joues"
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Peau déshydratée:</strong> teint moins rebondi, inconfort, fines ridules de déshydratation, parfois desquamations; elle peut pourtant briller.",
+        "<strong>Peau sensible ou irritée:</strong> picotements, rougeurs, échauffements ou réactions fréquentes; ce n’est pas un type de peau mais un état à prendre au sérieux.",
+        "<strong>Peau à tendance acnéique:</strong> présence persistante de lésions inflammatoires ou de comédons; elle peut être grasse, mixte, normale voire sèche."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Si votre peau brille mais tiraille, pèle ou pique après le nettoyage, ne concluez pas trop vite qu’elle a seulement besoin de produits plus asséchants. Elle est peut-être grasse et déshydratée, ou irritée par votre routine.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-peau-brille",
+      "text": "Pourquoi votre peau produit-elle plus de sébum?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La production de sébum dépend beaucoup de facteurs internes. L’hérédité joue un rôle important, tout comme les fluctuations hormonales de l’adolescence, du cycle menstruel, de la grossesse ou de certaines périodes de la vie adulte. Une peau grasse n’est donc ni un signe de mauvaise hygiène, ni la conséquence automatique d’une alimentation particulière. L’idée selon laquelle il suffirait de supprimer un aliment pour « assécher » la peau est trop simpliste."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’environnement et les habitudes peuvent néanmoins modifier l’aspect du visage: chaleur humide, transpiration, port d’un masque, cosmétique trop occlusif ou fond de teint mal adapté. À l’inverse, laver son visage trop souvent, employer des produits alcoolisés très desséchants ou multiplier les exfoliants peut altérer le confort cutané. Certaines personnes constatent alors davantage de brillance ou d’imperfections, sans que cela signifie que leur peau doit être décapée davantage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "routine-peau-grasse",
+      "text": "Choisir une routine pour peau grasse sans la décaper"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’objectif n’est pas d’obtenir une peau totalement mate à toute heure. Il consiste à garder une peau confortable, propre et protégée, tout en limitant l’accumulation de sébum et l’obstruction des pores. Une routine de base comporte peu d’étapes et s’évalue sur plusieurs semaines. Changer cinq produits en même temps empêche de savoir ce qui vous convient ou ce qui vous irrite."
+    },
+    {
+      "type": "table",
+      "caption": "Une routine simple et les critères de choix",
+      "headers": [
+        "Moment",
+        "Geste utile",
+        "Ce qu’il faut rechercher"
+      ],
+      "rows": [
+        [
+          "Matin",
+          "Nettoyer si nécessaire, puis hydrater",
+          "Gel ou crème lavante douce; hydratant fluide, gel-crème ou lotion selon votre confort"
+        ],
+        [
+          "Chaque matin",
+          "Appliquer une protection solaire",
+          "Protection large spectre à l’indice élevé, texture fluide ou matifiante si vous la préférez"
+        ],
+        [
+          "Soir",
+          "Retirer maquillage et protection solaire, puis nettoyer",
+          "Démaquillant adapté suivi d’un nettoyant doux si nécessaire; pas de frottements insistants"
+        ],
+        [
+          "Quelques soirs par semaine",
+          "Introduire un actif ciblé si besoin",
+          "Un exfoliant à l’acide salicylique peut convenir aux pores obstrués; commencez progressivement"
+        ],
+        [
+          "À la demande",
+          "Absorber la brillance",
+          "Papier matifiant ou mouchoir en pression légère, plutôt que plusieurs lavages dans la journée"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les peaux sujettes aux points noirs, l’acide salicylique est souvent apprécié car il s’emploie dans les soins destinés aux pores obstrués. La niacinamide peut aussi convenir à certaines personnes qui recherchent une routine plus équilibrante. Mais aucun ingrédient n’est universel: commencez par une faible fréquence, un seul nouveau produit à la fois, et arrêtez en cas de brûlure, rougeurs persistantes ou desquamation marquée. La mention <em>non comédogène</em> peut guider votre choix, sans garantir à elle seule une tolérance parfaite."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Une crème hydratante n’est pas réservée aux peaux sèches. Une peau grasse a également besoin d’eau et de confort; choisissez simplement une texture que vous aurez plaisir à appliquer régulièrement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-peau-grasse",
+      "text": "Les réflexes qui aggravent souvent la situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier réflexe à éviter est le « tout assécher ». Les lotions très alcoolisées, les nettoyages répétés au savon, les gommages à grains fréquents et les masques purifiants en excès peuvent donner une sensation de peau nette immédiate, mais aussi fragiliser la barrière cutanée. Résultat: tiraillements, rougeurs et routine de plus en plus difficile à équilibrer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Frotter le visage avec une brosse, un gant ou une serviette rêche pour faire disparaître les pores.",
+        "Percer les points noirs et les boutons: ce geste augmente le risque de marques, d’inflammation et d’infection.",
+        "Superposer plusieurs actifs exfoliants ou anti-imperfections dès la première semaine.",
+        "Faire l’impasse sur la protection solaire par peur de briller: il existe des textures légères adaptées.",
+        "Changer de routine tous les quatre jours parce que les résultats ne sont pas immédiats."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-consulter-peau-grasse",
+      "text": "Quand demander conseil à un dermatologue ou à un professionnel de santé?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une peau grasse ne nécessite pas, à elle seule, de consultation. En revanche, l’avis d’un dermatologue est utile si les boutons sont nombreux, douloureux, profonds ou laissent des marques; si les imperfections résistent à une routine douce bien menée; ou si vous vous sentez affecté dans votre quotidien. Un professionnel peut confirmer s’il s’agit d’acné, d’irritation, de rosacée ou d’un autre problème qui ne se traite pas de la même façon."
+    },
+    {
+      "type": "paragraph",
+      "html": "Consultez également en cas de changement soudain et important de l’aspect de votre peau, surtout s’il s’accompagne d’autres signes inhabituels comme une pilosité accrue, des cycles très irréguliers ou une chute de cheveux. Ces manifestations ne permettent pas de conclure seules à une cause hormonale, mais elles méritent d’être évoquées avec un médecin. Pendant une grossesse ou un projet de grossesse, demandez conseil avant d’utiliser des actifs anti-acné ou des dérivés de la vitamine A."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-peau-grasse",
+      "text": "Votre plan d’action pour les deux prochaines semaines"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour savoir si votre peau est réellement grasse, commencez par observer sa répartition de brillance plutôt que de vous fier à un seul bouton ou à un nez luisant. Notez pendant une semaine les zones concernées, la sensation de confort après le nettoyage et l’effet de vos produits en fin de journée. Vous disposerez d’un repère bien plus fiable qu’une impression prise devant le miroir."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Simplifiez temporairement",
+          "html": "Gardez un nettoyant doux, un hydratant léger qui vous convient et une protection solaire. Mettez en pause les gommages et les nouveautés multiples."
+        },
+        {
+          "title": "Identifiez votre répartition",
+          "html": "Si les joues brillent autant que la zone T de façon répétée, l’hypothèse d’une peau grasse est solide. Si seules les zones centrales brillent, pensez plutôt à une peau mixte."
+        },
+        {
+          "title": "Traitez un seul besoin à la fois",
+          "html": "Ajoutez un soin ciblé contre les pores obstrués uniquement si nécessaire, à faible fréquence au départ, puis observez la tolérance."
+        },
+        {
+          "title": "Réévaluez sans chercher la perfection",
+          "html": "Une peau saine peut avoir un léger éclat. Le bon produit est celui qui améliore votre confort et limite vos préoccupations sans provoquer de tiraillement ni d’irritation."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon critère de réussite",
+      "html": "<p>Ne cherchez pas une peau « zéro sébum ». Visez une peau moins inconfortable, avec une brillance gérable et une routine que vous pouvez maintenir sans agresser votre visage.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on avoir la peau grasse et des zones qui pèlent?",
+      "a": "<p>Oui. Cela peut notamment évoquer une peau grasse déshydratée ou irritée par des produits trop décapants, des exfoliants répétés ou des conditions climatiques froides. Réduisez les soins agressifs, conservez une hydratation légère et observez l’évolution. Si les squames, les rougeurs ou les démangeaisons persistent, demandez conseil à un dermatologue.</p>"
+    },
+    {
+      "q": "Comment savoir si ma peau est grasse ou si ma crème est trop riche?",
+      "a": "<p>Observez votre peau avant l’application de votre routine, après un nettoyage doux et un temps de repos, puis comparez avec son aspect après votre crème. Si elle est confortable et peu brillante sans produit mais devient luisante rapidement après l’application, la texture peut être trop riche ou trop occlusive pour vous. Si elle brille même sans soin sur plusieurs zones du visage, votre peau est probablement naturellement plus grasse.</p>"
+    },
+    {
+      "q": "Faut-il se laver le visage plus souvent quand on a la peau grasse?",
+      "a": "<p>En général, un nettoyage doux le soir et, selon votre confort, le matin suffit. Laver son visage plusieurs fois dans la journée ne retire le sébum que temporairement et peut accentuer les tiraillements ou l’irritation. En cas de brillance, préférez un papier matifiant ou pressez doucement un mouchoir propre sur la zone concernée.</p>"
+    },
+    {
+      "q": "Une peau grasse doit-elle mettre de la crème hydratante?",
+      "a": "<p>Oui. L’hydratation aide à maintenir le confort de tous les types de peau, y compris les peaux grasses. Choisissez une texture fluide, gel ou gel-crème si vous n’aimez pas la sensation des crèmes riches. Appliquez une petite quantité et ajustez selon vos joues, votre zone T et la saison.</p>"
+    },
+    {
+      "q": "Les pores dilatés veulent-ils dire que j’ai forcément la peau grasse?",
+      "a": "<p>Non. Les pores visibles sont plus fréquents sur les peaux grasses et mixtes, car le sébum et les impuretés peuvent les rendre plus apparents, mais leur taille dépend aussi de caractéristiques naturelles de la peau. Ils ne se ferment pas durablement. Une routine douce, une protection solaire régulière et des soins adaptés aux pores obstrués peuvent toutefois améliorer leur apparence.</p>"
+    },
+    {
+      "q": "Quand une peau grasse avec boutons doit-elle faire consulter?",
+      "a": "<p>Prenez rendez-vous si les boutons sont inflammatoires, douloureux, profonds, laissent des cicatrices ou pèsent sur votre moral. Consultez aussi si plusieurs semaines de routine douce et cohérente ne changent rien, ou si l’apparition est soudaine et s’accompagne d’autres symptômes inhabituels. Un dermatologue pourra proposer une prise en charge adaptée à votre situation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

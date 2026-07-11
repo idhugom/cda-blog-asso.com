@@ -1,0 +1,348 @@
+{
+  "id": 278,
+  "slug": "comment-reinstaller-windows-10",
+  "title": "Comment reinstaller windows 10",
+  "metaTitle": "Réinstaller Windows 10: le guide complet pas à pas",
+  "metaDescription": "Réinstaller Windows 10 sans perdre vos données: méthodes, sauvegarde, clé USB, activation et dépannage pour remettre votre PC durablement en état, chez vous.",
+  "dek": "PC devenu lent, instable ou infecté: réinstaller Windows 10 peut résoudre bien des problèmes, à condition de choisir la bonne méthode. Sauvegarde, clé USB, activation et pilotes: voici une marche à suivre claire pour repartir sur de bonnes bases.",
+  "category": "tech-objets",
+  "tags": [
+    "Windows 10",
+    "réinstallation",
+    "ordinateur",
+    "sauvegarde",
+    "dépannage"
+  ],
+  "keyTakeaways": [
+    "Sauvegardez vos fichiers hors du PC avant toute réinstallation, même si vous choisissez de les conserver.",
+    "La réinitialisation intégrée suffit souvent; la clé USB est préférable pour une installation totalement propre.",
+    "Installez la même édition de Windows 10 qu'auparavant pour retrouver l’activation numérique.",
+    "Après l’installation, lancez Windows Update avant de restaurer vos logiciels et vos données.",
+    "Windows 10 n’est plus pris en charge de manière générale: vérifiez si votre PC peut passer à Windows 11."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un ordinateur Windows 10 qui se bloque, accumule les erreurs ou reste désespérément lent ne doit pas forcément être remplacé. Une réinstallation peut lui redonner un fonctionnement sain, mais elle peut aussi effacer vos fichiers si vous vous lancez sans préparation. Choisissez la méthode adaptée à votre situation, sécurisez vos données et suivez les étapes dans le bon ordre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-et-quand-reinstaller-windows-10",
+      "text": "Pourquoi et quand réinstaller Windows 10?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Réinstaller Windows 10 consiste à remettre le système d’exploitation dans un état proche de l’origine. Cette opération est utile lorsque les pannes persistent malgré les mises à jour, la désinstallation de programmes suspects ou un nettoyage classique: démarrages interminables, écrans bleus répétés, fichiers système corrompus, logiciel malveillant difficile à éliminer ou ordinateur vendu à un tiers."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce n’est cependant pas le premier réflexe à avoir pour chaque ralentissement. Un disque presque plein, trop de logiciels lancés au démarrage, un navigateur saturé d’extensions ou un disque dur mécanique vieillissant peuvent expliquer le problème. Vérifiez aussi l’état matériel: une réinstallation ne réparera ni un SSD défaillant, ni une barrette de mémoire instable, ni une batterie usée."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Réinitialisation avec conservation des fichiers</strong>: vos documents personnels restent en place, mais les applications de bureau sont supprimées.",
+        "<strong>Réinitialisation complète</strong>: Windows efface vos fichiers, vos logiciels et vos réglages du disque système.",
+        "<strong>Installation propre depuis une clé USB</strong>: vous repartez de zéro et pouvez supprimer les anciennes partitions; c’est la solution la plus radicale.",
+        "<strong>Réparation sans réinstallation</strong>: à privilégier si le PC démarre encore et que le problème semble limité."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas réinitialisation et sauvegarde",
+      "html": "<p>L’option « Conserver mes fichiers » ne garantit pas la survie de toutes vos données. Une erreur de disque, une mauvaise partition sélectionnée ou un incident pendant l’opération restent possibles. Une copie externe demeure indispensable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-son-pc-avant-la-reinstallation",
+      "text": "Préparez le PC: la sauvegarde est l’étape décisive"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute manipulation, copiez vos données importantes sur un disque dur externe, une grande clé USB ou un espace de stockage en ligne fiable. Ne vous contentez pas d’un dossier synchronisé sans le contrôler: vérifiez que les fichiers sont bien accessibles depuis un autre appareil. Pensez aux emplacements moins évidents, notamment le Bureau, Téléchargements, Images, Vidéos, les archives de messagerie et les dossiers de vos logiciels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Notez vos accès essentiels: identifiants de messagerie, gestionnaire de mots de passe, licences de logiciels payants et réglages spécifiques. Exportez vos favoris de navigateur si vous n’utilisez pas de synchronisation. Si vous possédez un jeu, un logiciel de comptabilité ou un outil professionnel, cherchez sa fonction d’exportation: les données ne se trouvent pas toujours dans le dossier Documents."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "8 Go",
+          "label": "capacité minimale courante pour une clé USB d’installation, qui sera entièrement effacée"
+        },
+        {
+          "value": "20 à 90 min",
+          "label": "durée habituelle de l’installation elle-même selon le PC, le disque et la connexion"
+        },
+        {
+          "value": "2 copies",
+          "label": "de vos fichiers importants est un minimum prudent: une sur le PC et une hors du PC"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Branchez le portable sur son chargeur et, si possible, utilisez une connexion internet stable. Débranchez les disques externes inutiles une fois la sauvegarde terminée: cela réduit le risque d’effacer le mauvais support. Enfin, vérifiez l’édition installée dans <strong>Paramètres &gt; Système &gt; Informations système</strong>: Windows 10 Famille et Windows 10 Professionnel ne s’activent pas avec la même licence."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Activation: ce qu’il faut savoir",
+      "html": "<p>Sur la plupart des PC déjà activés, une licence numérique est liée à l’appareil. Réinstallez la même édition de Windows 10 et reconnectez-vous à internet: l’activation se fait généralement automatiquement. Si le PC est chiffré avec BitLocker, mettez aussi de côté sa clé de récupération, souvent consultable depuis votre <a href=\"https://account.microsoft.com/devices/recoverykey\" rel=\"noopener\">compte Microsoft</a>.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-methode",
+      "text": "Réinitialisation ou clé USB: quelle méthode choisir?"
+    },
+    {
+      "type": "table",
+      "caption": "Les principales façons de réinstaller Windows 10",
+      "headers": [
+        "Méthode",
+        "À choisir si…",
+        "Données et logiciels",
+        "Limite principale"
+      ],
+      "rows": [
+        [
+          "Conserver mes fichiers",
+          "Windows démarre encore et vous voulez corriger un problème courant",
+          "Fichiers personnels conservés; applications supprimées",
+          "Ne nettoie pas aussi profondément qu’une installation propre"
+        ],
+        [
+          "Tout supprimer",
+          "Vous gardez le PC mais voulez repartir sur une base nette",
+          "Données, applications et réglages supprimés",
+          "Nécessite une sauvegarde vérifiée"
+        ],
+        [
+          "Clé USB, installation propre",
+          "Windows est très instable, ne démarre plus ou le PC change de propriétaire",
+          "Tout peut être supprimé sur le disque choisi",
+          "Risque d’erreur de partition si vous allez trop vite"
+        ],
+        [
+          "Clé USB avec réparation",
+          "Vous devez d’abord accéder aux outils de dépannage",
+          "Aucun effacement obligatoire",
+          "Ne résout pas tous les défauts système"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Le choix le plus fréquent: fichiers conservés ou suppression totale",
+      "a": {
+        "title": "Conserver mes fichiers",
+        "points": [
+          "Plus rapide et rassurant lorsque vos documents sont encore sur le disque.",
+          "Supprime les programmes installés: préparez-vous à les réinstaller.",
+          "Adapté à un PC personnel qui reste entre vos mains."
+        ]
+      },
+      "b": {
+        "title": "Tout supprimer",
+        "points": [
+          "Élimine davantage de traces de logiciels, réglages et comptes locaux.",
+          "Recommandé avant une cession, après une infection sérieuse ou en cas de dysfonctionnements tenaces.",
+          "Ne suffit pas toujours pour une vente: choisissez l’option de nettoyage du lecteur si elle est proposée."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "La réinitialisation intégrée est le chemin le plus simple lorsque Windows s’ouvre. L’installation depuis une clé USB est plus appropriée si le système refuse de démarrer, si la réinitialisation échoue ou si vous voulez supprimer intégralement l’ancienne installation. Dans les deux cas, évitez les images Windows téléchargées sur des sites non officiels: elles peuvent être obsolètes ou compromises."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reinitialiser-depuis-les-parametres",
+      "text": "Méthode 1: réinitialiser Windows 10 depuis les paramètres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre session s’ouvre, l’outil de récupération de Windows est généralement suffisant. Son intérêt: aucune clé USB n’est nécessaire. Selon votre connexion et l’état du système, Windows peut proposer une <strong>réinstallation locale</strong>, à partir des fichiers déjà présents, ou un <strong>téléchargement dans le cloud</strong>, qui récupère une copie neuve de Windows. Le téléchargement est préférable si vous soupçonnez des fichiers système abîmés, mais il consomme plusieurs gigaoctets."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Ouvrez la récupération",
+          "html": "Allez dans <strong>Paramètres &gt; Mise à jour et sécurité &gt; Récupération</strong>, puis cliquez sur « Commencer » sous « Réinitialiser ce PC »."
+        },
+        {
+          "title": "Choisissez le niveau d’effacement",
+          "html": "Sélectionnez « Conserver mes fichiers » ou « Supprimer tout ». Lisez l’écran récapitulatif: il indique notamment les applications qui seront retirées."
+        },
+        {
+          "title": "Sélectionnez la source de Windows",
+          "html": "Choisissez la réinstallation locale si elle fonctionne et que vous voulez aller vite; préférez le cloud si les fichiers de récupération semblent endommagés et que votre connexion est fiable."
+        },
+        {
+          "title": "Contrôlez les options",
+          "html": "Pour un PC destiné à être vendu ou donné, activez le nettoyage du lecteur lorsqu’il est proposé. Pour votre propre PC, l’effacement standard est généralement plus rapide."
+        },
+        {
+          "title": "Lancez sans interrompre",
+          "html": "Vérifiez une dernière fois votre sauvegarde, branchez l’alimentation et démarrez la réinitialisation. Plusieurs redémarrages sont normaux: n’éteignez pas l’ordinateur pendant cette phase."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Si Windows ne démarre plus",
+      "html": "<p>Après plusieurs démarrages interrompus, Windows peut afficher l’environnement de récupération. Cherchez « Dépannage », puis « Réinitialiser ce PC ». Si cet écran n’apparaît pas ou si l’opération échoue, passez à la clé USB.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "installer-windows-10-depuis-une-cle-usb",
+      "text": "Méthode 2: faire une installation propre avec une clé USB"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette méthode remet réellement les compteurs à zéro. Depuis un autre ordinateur fonctionnel si nécessaire, téléchargez l’outil officiel de création de support Windows 10 sur le site de Microsoft. Préparez une clé USB vide de capacité suffisante: son contenu sera effacé. Ne copiez pas simplement un fichier ISO sur la clé; utilisez l’outil de création de support ou un logiciel adapté pour la rendre amorçable."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Créez le support d’installation",
+          "html": "Dans l’outil Microsoft, choisissez la création d’un support d’installation pour un autre PC. Sélectionnez la langue, l’architecture 64 bits dans la plupart des cas, puis votre clé USB."
+        },
+        {
+          "title": "Démarrez sur la clé",
+          "html": "Insérez-la dans le PC éteint, puis démarrez-le. Ouvrez au besoin le menu de démarrage, souvent accessible par une touche affichée au démarrage: la touche varie selon la marque. Choisissez la clé USB marquée UEFI si deux options apparaissent."
+        },
+        {
+          "title": "Lancez l’installation",
+          "html": "Choisissez « Installer maintenant ». Si l’assistant demande une clé de produit et que le PC était déjà activé, vous pouvez sélectionner l’option indiquant que vous n’en avez pas, puis choisir exactement la même édition qu’avant."
+        },
+        {
+          "title": "Sélectionnez l’installation personnalisée",
+          "html": "Pour une vraie installation propre, choisissez l’installation personnalisée. Repérez le disque système grâce à sa capacité et à ses partitions. Si vous avez plusieurs disques, prenez le temps de les identifier avant toute suppression."
+        },
+        {
+          "title": "Gérez les partitions avec prudence",
+          "html": "Sur le seul disque à réinstaller, supprimez les partitions de l’ancienne installation si vous souhaitez tout effacer, puis choisissez l’espace non alloué. Windows recréera les partitions nécessaires. Ne supprimez jamais une partition contenant vos sauvegardes."
+        },
+        {
+          "title": "Terminez la configuration",
+          "html": "Laissez le PC redémarrer et retirez la clé lorsqu’il ne démarre plus dessus. Configurez ensuite votre compte, le réseau et les réglages de confidentialité selon vos besoins."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le moment le plus risqué",
+      "html": "<p>Dans l’écran des partitions, une suppression est immédiate. Si les noms ne sont pas explicites ou si plusieurs disques ont des tailles proches, annulez, éteignez le PC et débranchez temporairement les disques de données non indispensables. Un doute de cinq minutes vaut mieux que la perte de plusieurs années de photos.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "apres-linstallation-pilotes-activation-et-donnees",
+      "text": "Après l’installation: mises à jour, pilotes, activation et restauration"
+    },
+    {
+      "type": "paragraph",
+      "html": "N’installez pas immédiatement tous vos anciens programmes. Commencez par vous connecter à internet, puis ouvrez <strong>Paramètres &gt; Mise à jour et sécurité &gt; Windows Update</strong>. Installez les mises à jour, redémarrez et recommencez jusqu’à ce qu’il n’y ait plus rien d’important. Windows installe souvent les pilotes courants, notamment pour le réseau, l’affichage et l’audio."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le Wi-Fi, le son, la webcam ou le pavé tactile ne fonctionne pas, récupérez le pilote depuis le site du fabricant de votre ordinateur ou de la carte mère, et non depuis une bibliothèque de pilotes inconnue. Vérifiez ensuite l’état de l’activation dans <strong>Paramètres &gt; Mise à jour et sécurité &gt; Activation</strong>. En cas de problème, assurez-vous d’avoir installé la bonne édition et utilisez l’utilitaire de résolution des problèmes proposé par Windows."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Installez les mises à jour Windows et les pilotes nécessaires.",
+        "Ajoutez un navigateur, une suite bureautique et vos logiciels indispensables, un par un.",
+        "Restaurez vos documents depuis la sauvegarde sans recopier d’anciens programmes inconnus.",
+        "Réinstallez ou vérifiez votre protection antivirus: Microsoft Defender est déjà intégré à Windows 10.",
+        "Créez un point de restauration ou une nouvelle sauvegarde une fois le PC stabilisé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "problemes-frequents-et-erreurs-a-eviter",
+      "text": "Les problèmes fréquents et les erreurs à éviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le message « aucun pilote trouvé » pendant l’installation peut signaler un contrôleur de stockage particulier, surtout sur certains PC récents. Téléchargez alors, depuis le site du constructeur, le pilote de stockage adapté et placez-le sur une seconde clé USB. Si le disque n’apparaît toujours pas, vérifiez dans le micrologiciel UEFI/BIOS qu’il est détecté: le souci peut être matériel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation qui boucle sur la clé USB vient souvent d’un mauvais ordre de démarrage: retirez la clé après la première phase ou choisissez le disque interne dans le menu de démarrage. Une activation impossible est fréquemment liée à une édition différente, par exemple Windows 10 Professionnel installé alors que la licence est Famille. Réinstallez l’édition correcte avant d’acheter une nouvelle licence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, n’utilisez pas une réinstallation pour masquer un défaut matériel. Si le PC se fige encore juste après une installation propre, que le disque disparaît ou que les écrans bleus continuent sans logiciel ajouté, sauvegardez ce qui reste et faites diagnostiquer le stockage, la mémoire et l’alimentation. Un SSD de remplacement peut transformer un ancien ordinateur, mais il faut d’abord confirmer la panne."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-maintenant-et-penser-a-lapres-windows-10",
+      "text": "Votre plan d’action: réinstaller sans vous mettre en difficulté"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par décider si une simple réinitialisation suffit: c’est le bon choix si Windows démarre et que vous gardez le PC. Optez pour la clé USB si le système est inutilisable, si la réinitialisation échoue ou si vous voulez céder l’appareil. Dans tous les cas, faites une sauvegarde contrôlée, notez l’édition de Windows, conservez votre clé BitLocker éventuelle et prévoyez du temps sans interrompre l’opération."
+    },
+    {
+      "type": "paragraph",
+      "html": "Gardez aussi en tête que le support général de Windows 10 a pris fin le <strong>14 octobre 2025</strong>. Le système peut toujours être réinstallé et utilisé, mais il ne reçoit plus normalement les mises à jour de sécurité grand public, hors dispositifs d’extension particuliers selon les cas. Après avoir remis le PC en état, vérifiez donc sa compatibilité avec Windows 11 ou envisagez une solution maintenue adaptée à votre matériel. Une installation propre est une excellente occasion de repartir avec un système plus sûr, pas seulement plus rapide."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de cliquer",
+      "html": "<p>Sauvegarde vérifiée, bonne édition de Windows, alimentation branchée, support officiel et choix prudent du disque: ces cinq points évitent l’immense majorité des mauvaises surprises.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment réinstaller Windows 10 gratuitement?",
+      "a": "<p>Vous pouvez télécharger gratuitement l’outil officiel de création de support Windows 10 et réinstaller le système. En revanche, l’activation nécessite une licence valide. Sur un PC qui exécutait déjà Windows 10 activé, la licence numérique est généralement reconnue automatiquement après la réinstallation de la même édition et la connexion à internet. Le téléchargement est gratuit; une nouvelle licence ne l’est que si votre appareil n’en possède pas.</p>"
+    },
+    {
+      "q": "Peut-on réinstaller Windows 10 sans perdre ses fichiers?",
+      "a": "<p>Oui, l’option « Conserver mes fichiers » de la réinitialisation conserve en principe les dossiers personnels du compte utilisateur. Elle supprime toutefois les applications installées, certains pilotes et vos réglages. Surtout, elle ne remplace pas une sauvegarde: copiez vos données sur un support externe avant de commencer, car un problème de disque ou une erreur de manipulation peut toujours entraîner une perte.</p>"
+    },
+    {
+      "q": "Comment réinstaller Windows 10 sans clé USB?",
+      "a": "<p>Si Windows démarre, ouvrez Paramètres, puis Mise à jour et sécurité, Récupération, et choisissez « Réinitialiser ce PC ». Vous pourrez conserver vos fichiers ou tout supprimer, avec une réinstallation locale ou un téléchargement dans le cloud. Sans clé USB, cette méthode dépend toutefois des outils de récupération présents sur le disque: si Windows ne démarre plus ou si la réinitialisation échoue, une clé USB d’installation devient la solution la plus fiable.</p>"
+    },
+    {
+      "q": "Dois-je entrer ma clé de produit pendant la réinstallation de Windows 10?",
+      "a": "<p>Pas forcément. Si votre PC a déjà été activé avec Windows 10 et que vous réinstallez la même édition, choisissez l’option indiquant que vous n’avez pas de clé de produit lorsque l’assistant la demande. Une fois connecté à internet, Windows retrouve habituellement sa licence numérique. Si l’activation échoue, vérifiez d’abord l’édition installée: Famille et Professionnel sont deux licences distinctes.</p>"
+    },
+    {
+      "q": "Pourquoi mon disque dur n’apparaît-il pas lors de l’installation de Windows 10?",
+      "a": "<p>Le disque peut être absent parce qu’un pilote de contrôleur de stockage manque, parce que le mode de stockage choisi dans l’UEFI/BIOS n’est pas adapté, ou parce que le disque est défaillant. Commencez par vérifier dans l’UEFI/BIOS si le SSD ou disque dur est détecté. S’il l’est, téléchargez depuis le site du fabricant du PC le pilote de stockage approprié et chargez-le dans l’installateur. S’il n’est pas détecté même dans l’UEFI/BIOS, un diagnostic matériel est nécessaire.</p>"
+    },
+    {
+      "q": "Est-il encore conseillé de réinstaller Windows 10 en 2026?",
+      "a": "<p>Cela peut être utile pour remettre en service un ordinateur existant ou récupérer des fichiers, mais Windows 10 n’est plus couvert par le support général depuis octobre 2025. Une installation propre peut améliorer la stabilité, pas rétablir les mises à jour de sécurité ordinaires. Avant de vous y engager, vérifiez si le PC est compatible avec Windows 11. S’il ne l’est pas, limitez les usages sensibles sur Windows 10 et renseignez-vous sur les options de support étendu éventuellement disponibles pour votre situation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

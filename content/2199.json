@@ -1,0 +1,352 @@
+{
+  "id": 2199,
+  "slug": "garantie-decenale-panneaux-solaires",
+  "title": "Garantie décennale pour installation solaire : quelles obligations pour les installateurs de panneaux photovoltaïques ?",
+  "metaTitle": "Garantie décennale solaire: obligations des installateurs",
+  "metaDescription": "Garantie décennale solaire: obligations des installateurs, sinistres couverts, attestations à vérifier et recours pour protéger un projet photovoltaïque.",
+  "dek": "Une installation photovoltaïque mal posée peut endommager une toiture, provoquer des infiltrations ou créer un risque électrique. La décennale protège contre certains désordres graves, mais elle ne couvre ni tout défaut ni toute baisse de production: voici ce que l’installateur doit réellement garantir.",
+  "category": "assurance-finance",
+  "tags": [
+    "garantie décennale",
+    "panneaux solaires",
+    "photovoltaïque",
+    "assurance travaux",
+    "toiture"
+  ],
+  "keyTakeaways": [
+    "La garantie décennale ne couvre pas automatiquement toute panne de panneaux photovoltaïques.",
+    "L’installateur doit être assuré pour les activités et techniques réellement mises en œuvre sur votre chantier.",
+    "Une infiltration liée à la pose peut relever de la décennale si elle rend le bâtiment impropre à son usage.",
+    "Demandez l’attestation d’assurance avant le démarrage et vérifiez son périmètre, pas seulement sa date.",
+    "La réception écrite des travaux déclenche les principaux délais de garantie."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un panneau solaire n’est pas un simple appareil posé sur un toit: sa fixation peut toucher à la couverture, à l’étanchéité, à la structure et à l’installation électrique du logement. En cas de fuite, de départ de feu ou d’installation défaillante, la question de la garantie décennale devient vite centrale. Mais cette protection ne se déclenche qu’à des conditions précises, qu’il est utile de connaître avant de signer un devis."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "decennale-solaire-definition",
+      "text": "Garantie décennale solaire: de quoi parle-t-on exactement?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage courant, on parle de <strong>garantie décennale</strong>. Juridiquement, il s’agit surtout de la responsabilité décennale du constructeur: pendant dix ans à compter de la réception des travaux, l’entreprise peut être tenue de réparer les dommages qui compromettent la solidité de l’ouvrage ou le rendent impropre à sa destination. Un installateur photovoltaïque peut être concerné dès lors qu’il réalise des travaux de construction susceptibles d’affecter le bâtiment."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le point décisif n’est donc pas la seule présence de panneaux sur le toit, ni leur prix. Il faut regarder la gravité du désordre et ses conséquences sur le bâtiment. Une fuite durable due aux fixations ou aux raccords d’étanchéité, par exemple, peut empêcher une maison d’être normalement habitée. À l’inverse, un onduleur qui tombe en panne sans affecter le bâti relève le plus souvent d’une autre garantie ou du contrat conclu avec l’entreprise."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle à retenir",
+      "html": "<p>La décennale protège le <strong>bâtiment contre des dommages graves</strong>. Elle n’est pas une assurance de rendement solaire, ni une extension automatique de la garantie commerciale des équipements.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "10 ans",
+          "label": "durée de la responsabilité décennale après la réception des travaux"
+        },
+        {
+          "value": "1 an",
+          "label": "durée de la garantie de parfait achèvement pour les désordres signalés"
+        },
+        {
+          "value": "2 ans",
+          "label": "durée habituelle de la garantie des éléments d’équipement dissociables"
+        },
+        {
+          "value": "20 à 30 ans",
+          "label": "durées souvent annoncées pour certaines garanties de puissance des modules, selon les fabricants"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sinistres-couverts",
+      "text": "Quels problèmes photovoltaïques peuvent relever de la décennale?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’application de la décennale s’apprécie toujours au cas par cas. La jurisprudence retient surtout l’effet concret du défaut sur l’ouvrage dans son ensemble. Un équipement installé sur un bâtiment existant n’entraîne donc pas, à lui seul, une garantie de dix ans pour la moindre défaillance. En revanche, si le désordre affecte gravement la maison, son clos et couvert, sa sécurité ou son usage normal, l’assureur décennal de l’entreprise peut avoir vocation à intervenir."
+    },
+    {
+      "type": "table",
+      "caption": "Exemples de situations rencontrées après une pose de panneaux photovoltaïques",
+      "headers": [
+        "Désordre constaté",
+        "Décennale envisageable?",
+        "Point à examiner"
+      ],
+      "rows": [
+        [
+          "Infiltrations autour des crochets, abergements ou passages de câbles",
+          "Souvent oui",
+          "La fuite doit être liée aux travaux et rendre le bâtiment impropre à son usage ou causer des dommages graves."
+        ],
+        [
+          "Dégradation importante de la charpente ou de la couverture après une pose inadaptée",
+          "Oui, potentiellement",
+          "Il faut établir le lien entre le désordre, la mise en œuvre et l’atteinte à la solidité ou à la destination."
+        ],
+        [
+          "Incendie ou risque électrique lié à une installation défectueuse",
+          "Souvent possible si le bâti est atteint",
+          "La gravité des dommages au bâtiment et l’origine technique seront déterminantes."
+        ],
+        [
+          "Onduleur, micro-onduleur ou panneau isolé en panne",
+          "En général non",
+          "Un équipement remplaçable sans dommage au bâtiment relève plus volontiers de la garantie biennale, contractuelle ou fabricant."
+        ],
+        [
+          "Production inférieure aux promesses commerciales",
+          "Pas automatiquement",
+          "Il faut analyser le contrat, l’étude de production, les ombrages annoncés, le dimensionnement et la réalité du préjudice."
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Surimposition ou intégration au bâti: les points de vigilance ne sont pas les mêmes",
+      "a": {
+        "title": "Panneaux en surimposition",
+        "points": [
+          "Les modules sont posés au-dessus de la couverture existante, sur des rails et des fixations adaptées.",
+          "La couverture demeure en place, mais chaque fixation, passage de câble et raccord doit préserver l’étanchéité.",
+          "Demandez comment l’entreprise traite la compatibilité avec votre type de tuile, d’ardoise ou de bac acier."
+        ]
+      },
+      "b": {
+        "title": "Panneaux intégrés à la toiture",
+        "points": [
+          "Les panneaux remplacent une partie de la couverture et participent davantage au clos et couvert.",
+          "La gestion de l’eau, des raccords périphériques et de la ventilation exige une mise en œuvre particulièrement maîtrisée.",
+          "Vérifiez que la technique exacte d’intégration est bien déclarée dans l’activité assurée de l’entreprise."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne confondez pas <strong>faible production</strong> et désordre décennal. Une estimation optimiste ou un mauvais dimensionnement peut ouvrir un litige contractuel, mais pas nécessairement une indemnisation au titre de la décennale.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "obligations-assurance-installateur",
+      "text": "Quelles obligations pèsent sur l’installateur de panneaux solaires?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entreprise qui réalise des travaux relevant de la responsabilité décennale doit souscrire une assurance couvrant cette responsabilité <strong>avant l’ouverture du chantier</strong>. Pour une installation photovoltaïque sur toiture, cette obligation est généralement déterminante: l’entreprise intervient à la frontière de plusieurs métiers, notamment l’électricité, la couverture, l’étanchéité et parfois la charpente. Son assurance doit correspondre à ce qu’elle fait réellement, et non à une activité déclarée de façon trop générale."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’installateur doit aussi exécuter les travaux conformément aux règles de l’art, aux prescriptions du fabricant, aux normes et réglementations applicables au projet, ainsi qu’aux caractéristiques du bâtiment. Cela suppose notamment une visite technique sérieuse: état de la toiture, mode de fixation, portance éventuelle, risques d’ombrage, cheminement des câbles, protections électriques, emplacement de l’onduleur et accès pour la maintenance. Une pose standard vendue sans diagnostic du toit est un mauvais signal."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Mentionner sur le devis et la facture les références de son assurance obligatoire, son assureur et la zone géographique couverte.",
+        "Remettre une attestation d’assurance décennale en cours de validité avant le démarrage des travaux.",
+        "Informer le client sur la solution retenue, ses contraintes techniques, les démarches de raccordement et les limites de l’estimation de production.",
+        "Prévoir une réception des travaux, idéalement formalisée par écrit, avec réserves si nécessaire.",
+        "Transmettre les documents utiles: schéma ou dossier de l’installation, notices, garanties fabricant, procès-verbal éventuel et consignes d’entretien."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Assurance et qualification: deux contrôles différents",
+      "html": "<p>Une qualification telle que <strong>RGE</strong> peut être utile pour l’accès à certains dispositifs et renseigner sur la démarche de l’entreprise. Elle ne remplace jamais une assurance décennale adaptée, et une attestation d’assurance ne prouve pas à elle seule la qualité de la pose.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "documents-a-verifier",
+      "text": "Comment vérifier l’attestation décennale avant de signer?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne vous contentez pas d’un logo ou d’un document ancien envoyé par courriel. Une attestation est une photographie de la couverture d’assurance à une date donnée; elle doit être cohérente avec votre chantier. Demandez-la avant de verser un acompte significatif et conservez-en une copie avec le devis signé. Vous pouvez également contacter l’assureur indiqué, à partir de ses coordonnées officielles, pour vérifier l’existence de la police et l’identité de l’entreprise assurée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Identifiez précisément l’entreprise",
+          "html": "Comparez la dénomination sociale, l’adresse et le numéro SIREN figurant sur le devis, l’attestation et les registres d’entreprise. Méfiez-vous des documents au nom d’un partenaire qui ne signera pas le contrat."
+        },
+        {
+          "title": "Contrôlez la période et le territoire",
+          "html": "L’attestation doit être valide au moment pertinent pour l’ouverture du chantier et couvrir les travaux réalisés à votre adresse, y compris dans la zone géographique indiquée."
+        },
+        {
+          "title": "Lisez les activités garanties",
+          "html": "Cherchez une activité compatible avec la pose photovoltaïque et, selon votre projet, avec les interventions sur couverture, étanchéité ou intégration au bâti. Une seule mention d’électricité peut être insuffisante si l’entreprise modifie l’étanchéité de votre toit."
+        },
+        {
+          "title": "Faites préciser la technique au devis",
+          "html": "Le devis doit décrire la pose: surimposition ou intégration, marque ou système de fixation, protections électriques, puissance prévue, traitement des passages de toiture et prestation de raccordement éventuelle."
+        },
+        {
+          "title": "Archivez le dossier complet",
+          "html": "Gardez devis, facture, attestation, photos avant et après travaux, notices, échanges et procès-verbal de réception. Ces pièces faciliteront une expertise si un problème apparaît plusieurs années plus tard."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe",
+      "html": "<p>Si l’attestation est imprécise, demandez à l’entreprise une confirmation écrite de son assureur sur la couverture de <strong>la technique photovoltaïque prévue</strong>. Un professionnel sérieux comprendra cette précaution.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "garanties-qui-se-cumulent",
+      "text": "Décennale, parfait achèvement, biennale et garantie fabricant: ne les confondez pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs protections peuvent s’appliquer successivement à une même installation. Elles ne répondent pas au même problème et ne désignent pas toujours le même interlocuteur. L’entreprise reste votre premier contact pour un défaut de pose. Le fabricant intervient plutôt pour un défaut propre au matériel, dans les limites de ses conditions. L’assureur décennal intervient, lui, lorsque les critères légaux d’un dommage grave sont réunis."
+    },
+    {
+      "type": "table",
+      "caption": "Les protections à mobiliser selon la nature du problème",
+      "headers": [
+        "Protection",
+        "Durée de référence",
+        "Ce qu’elle vise principalement"
+      ],
+      "rows": [
+        [
+          "Garantie de parfait achèvement",
+          "1 an après réception",
+          "Les désordres signalés à l’entreprise, qu’ils soient mineurs ou importants, sauf usure normale."
+        ],
+        [
+          "Garantie biennale de bon fonctionnement",
+          "2 ans après réception",
+          "Les éléments d’équipement dissociables, comme certains appareils ou composants remplaçables."
+        ],
+        [
+          "Responsabilité décennale",
+          "10 ans après réception",
+          "Les dommages graves compromettant la solidité ou rendant l’ouvrage impropre à sa destination."
+        ],
+        [
+          "Garantie commerciale fabricant",
+          "Variable selon le produit",
+          "Le matériel lui-même, selon les exclusions, procédures et conditions de pose imposées par le fabricant."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La réception est donc une date essentielle. Elle peut être expresse, par un procès-verbal signé, ou parfois résulter des circonstances, mais un document écrit évite les ambiguïtés. Faites-y figurer les réserves visibles: tuile cassée, finition incomplète, câble mal fixé, chantier non nettoyé, absence de documents ou production non testée. Une réserve n’empêche pas de réceptionner; elle oblige l’entreprise à corriger ce qui est signalé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reagir-en-cas-de-desordre",
+      "text": "Fuite, panne ou incendie: comment réagir sans compromettre vos recours?"
+    },
+    {
+      "type": "paragraph",
+      "html": "En présence d’une infiltration ou d’un risque électrique, la priorité est la sécurité: protégez les occupants, coupez l’installation si cela est nécessaire et sollicitez un professionnel compétent en urgence. Documentez ensuite le problème avant toute réparation lourde: photographies datées, vidéos, relevés de production, messages d’erreur, factures d’intervention et constat de l’étendue des dégâts. Ces éléments permettent de distinguer un défaut de matériel, une erreur de pose ou un événement extérieur."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Déclarez le désordre à l’entreprise par écrit, avec une description factuelle et une demande de visite ou de réparation.",
+        "Prévenez votre assureur habitation en cas de dégât des eaux, d’incendie ou de dommage aux biens; il peut mandater un expert selon votre contrat.",
+        "Adressez une déclaration à l’assureur décennal de l’entreprise si le dommage paraît grave et entre dans le champ de cette assurance.",
+        "Évitez de faire déposer toute l’installation avant expertise, sauf mesure de sauvegarde indispensable et justifiée.",
+        "En cas de désaccord, envisagez une expertise amiable contradictoire, puis un conseil juridique ou une expertise judiciaire si le dossier le nécessite."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne tardez pas",
+      "html": "<p>Une réparation d’urgence peut être indispensable, mais conservez des preuves et prévenez les parties concernées dès que possible. Sans constat de l’état initial, établir l’origine d’une fuite devient beaucoup plus difficile.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-installateur-solaire",
+      "text": "Choisir un installateur: les critères qui réduisent vraiment le risque"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix ne doit pas être le seul critère. Pour une installation résidentielle, l’écart entre deux devis peut refléter la qualité des fixations, la complexité du tableau électrique, les protections, les travaux de toiture inclus ou exclus, la mise en service et le suivi administratif. Comparez des offres techniquement équivalentes. Un devis très bas qui reste vague sur la pose, l’étanchéité ou la responsabilité de chacun doit vous alerter."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Privilégiez une visite sur place et une étude tenant compte de l’orientation, des ombres, de l’état de la couverture et de votre consommation réelle.",
+        "Demandez des références de chantiers comparables, particulièrement si votre toiture est ancienne, plate, fragile ou complexe.",
+        "Vérifiez qui réalise concrètement la couverture, l’électricité, le raccordement et la mise en service; la sous-traitance doit être claire.",
+        "Faites inscrire les éventuels travaux annexes: remplacement de tuiles, renforcement, passage en toiture, coffrets, tranchées ou remise en état.",
+        "Ne versez pas la totalité du prix avant une réception satisfaisante et la remise du dossier technique annoncé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-avant-chantier",
+      "text": "Votre plan d’action avant le démarrage du chantier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’accepter l’offre, obtenez un devis détaillé, une attestation décennale lisible et une description non ambiguë de la méthode de pose. Vérifiez ensuite que les activités garanties correspondent à votre toiture et aux travaux prévus. Enfin, préparez une réception écrite avec les documents que vous attendrez à la fin du chantier. Cette méthode simple ne transforme pas une assurance en garantie absolue, mais elle réduit fortement le risque de vous retrouver sans interlocuteur face à une fuite ou un défaut sérieux."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Checklist finale",
+      "html": "<p><strong>Avant signature:</strong> identité de l’entreprise, assurance adaptée et devis détaillé. <strong>Avant réception:</strong> contrôle visuel, essai de fonctionnement, réserves écrites et récupération de tous les documents. <strong>En cas de sinistre:</strong> sécuriser, prouver, déclarer et faire constater.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "La garantie décennale est-elle obligatoire pour tous les poseurs de panneaux solaires?",
+      "a": "<p>Elle est obligatoire pour les professionnels dont les travaux peuvent engager la responsabilité décennale, ce qui est fréquemment le cas pour une pose photovoltaïque sur toiture. La situation dépend toutefois de la nature exacte du chantier: une prestation limitée à la vente d’équipements ou certains équipements indépendants du bâtiment ne s’analysent pas toujours de la même façon. Dans le doute, exigez une attestation couvrant précisément l’activité réalisée.</p>"
+    },
+    {
+      "q": "Une attestation décennale couvrant l’électricité suffit-elle pour poser des panneaux sur un toit?",
+      "a": "<p>Pas nécessairement. Si l’entreprise intervient sur la couverture, traverse le toit, pose des fixations ou réalise une intégration au bâti, l’activité assurée doit être compatible avec ces travaux. Lisez le libellé des activités et demandez une confirmation écrite lorsque la couverture photovoltaïque est formulée de manière trop vague.</p>"
+    },
+    {
+      "q": "Une installation photovoltaïque qui produit moins que prévu est-elle couverte pendant dix ans?",
+      "a": "<p>En principe, non, pas automatiquement. Une baisse de production peut venir de l’ombrage, de l’encrassement, d’un mauvais dimensionnement, d’un défaut d’onduleur ou d’une estimation commerciale irréaliste. Il faut d’abord relire le devis, l’étude de production, les conditions de garantie fabricant et les engagements précis de l’entreprise. La décennale suppose un dommage grave touchant l’ouvrage, pas une simple déception de rendement.</p>"
+    },
+    {
+      "q": "Que faire si mon installateur solaire a fermé avant l’apparition d’une fuite?",
+      "a": "<p>Retrouvez l’attestation décennale remise avant le chantier, ainsi que le devis, la facture et la date de réception. Si le désordre paraît relever de la décennale, vous pouvez déclarer le sinistre à l’assureur de responsabilité de l’entreprise, même si celle-ci a cessé son activité. La conservation du dossier de chantier est alors déterminante. Faites constater l’origine de la fuite avant une réfection complète, sauf urgence.</p>"
+    },
+    {
+      "q": "Le label RGE garantit-il une indemnisation en cas de malfaçon solaire?",
+      "a": "<p>Non. Le label RGE n’est pas une assurance et ne remplace ni la responsabilité de l’entreprise ni son assurance décennale. Il peut constituer un indicateur utile de qualification et être nécessaire pour certains dispositifs, mais vous devez vérifier séparément l’assurance, le contenu du devis, les références et la qualité de la réception des travaux.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

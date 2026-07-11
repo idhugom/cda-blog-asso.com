@@ -1,0 +1,360 @@
+{
+  "id": 2044,
+  "slug": "activation-active-directory-windows",
+  "title": "Mettre en place Active Directory‑Based activation sous Windows Server 2025",
+  "metaTitle": "Active Directory-Based Activation: Windows Server 2025",
+  "metaDescription": "Déployez Active Directory-Based Activation sous Windows Server 2025: prérequis, licences, installation, vérifications et dépannage pour un parc maîtrisé.",
+  "dek": "Active Directory-Based Activation permet d’activer automatiquement les Windows éligibles reliés à votre domaine, sans installer un serveur KMS accessible aux postes. Voici comment préparer, déployer et contrôler ce dispositif sous Windows Server 2025 sans confondre activation technique et conformité des licences.",
+  "category": "business-pro",
+  "tags": [
+    "Windows Server 2025",
+    "Active Directory",
+    "activation Windows",
+    "licences en volume",
+    "administration système"
+  ],
+  "keyTakeaways": [
+    "ADBA active les appareils joints à un domaine Active Directory à partir d’un objet répliqué dans la forêt.",
+    "Cette solution n’ajoute aucune licence: elle automatise uniquement l’activation de licences en volume déjà acquises.",
+    "La clé à utiliser est une clé hôte KMS/CSVLK issue de votre contrat de licences en volume, pas une clé MAK, OEM ou Retail.",
+    "Les postes doivent disposer d’une édition et d’une clé cliente en volume compatibles, puis pouvoir joindre régulièrement un contrôleur de domaine.",
+    "Un pilote sur quelques serveurs et postes permet de valider les éditions, la réplication et les procédures avant le déploiement général."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Activer un parc Windows machine par machine est long, peu fiable et difficile à auditer. Avec <strong>Active Directory-Based Activation</strong>, souvent abrégé ADBA, l’activation est distribuée par votre annuaire aux ordinateurs joints au domaine. Sous Windows Server 2025, cette approche convient particulièrement aux organisations déjà structurées autour d’Active Directory et de licences en volume."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-adba",
+      "text": "Comprendre ce qu’ADBA fait — et ce qu’il ne fait pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "ADBA est un mécanisme d’activation Microsoft intégré à Active Directory Domain Services. L’administrateur crée dans la forêt un ou plusieurs <strong>objets d’activation</strong>, chacun associé à une clé hôte de licences en volume. Lorsqu’un ordinateur Windows compatible, joint au domaine, contacte un contrôleur de domaine, il peut obtenir son activation sans avoir à dialoguer directement avec Microsoft ni avec un hôte KMS sur le réseau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le rôle de Windows Server 2025 est ici celui d’outil d’administration: il sert à publier et activer l’objet dans Active Directory. Il ne transforme pas votre serveur en distributeur de licences ni en système de comptage. L’objet est ensuite répliqué avec la configuration Active Directory dans la forêt."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>ADBA active techniquement</strong> les éditions Windows prises en charge et correctement installées.",
+        "<strong>ADBA ne remplace pas</strong> l’achat de licences Windows Server, de CAL Windows Server ou de droits d’accès client.",
+        "<strong>ADBA ne gère pas</strong> les licences Microsoft 365, les applications métier ou les postes hors domaine.",
+        "<strong>ADBA n’est pas Entra ID</strong>: il s’appuie sur un Active Directory local classique, avec des contrôleurs de domaine disponibles."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>L’activation n’est pas une preuve de conformité. Une machine peut être activée tout en étant mal couverte contractuellement; inversement, une licence achetée ne suffit pas si l’édition installée ou le canal de clé n’est pas le bon.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-adba-kms-mak",
+      "text": "ADBA, KMS ou MAK: choisir le bon mécanisme"
+    },
+    {
+      "type": "paragraph",
+      "html": "ADBA n’est pas systématiquement le meilleur choix. Il est très efficace pour des postes de travail et serveurs durablement joints à un domaine, mais il devient moins adapté aux appareils isolés, aux environnements multi-forêts sans administration commune ou aux machines rarement connectées au réseau interne. Avant de configurer quoi que ce soit, classez votre parc selon son mode de connexion et son canal de licence."
+    },
+    {
+      "type": "table",
+      "caption": "Comparaison des principales méthodes d’activation en volume",
+      "headers": [
+        "Méthode",
+        "Convient surtout à",
+        "Infrastructure nécessaire",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "ADBA",
+          "Postes et serveurs joints au domaine dans une même forêt",
+          "Active Directory sain et objet d’activation répliqué",
+          "Ne convient pas aux machines en groupe de travail"
+        ],
+        [
+          "KMS",
+          "Parcs variés, y compris des appareils non joints au domaine mais présents sur le réseau",
+          "Hôte KMS, enregistrement DNS et accès réseau au service",
+          "Un seuil minimal d’activation est requis avant de servir certains clients"
+        ],
+        [
+          "MAK",
+          "Postes isolés, laboratoires déconnectés, faibles volumes",
+          "Accès ponctuel à Microsoft ou processus d’activation téléphonique",
+          "Chaque activation consomme le quota prévu par la clé"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "ADBA ou KMS dans une infrastructure Windows Server 2025?",
+      "a": {
+        "title": "Choisir ADBA",
+        "points": [
+          "Vos appareils sont majoritairement joints à Active Directory.",
+          "Vous voulez éviter un service KMS à publier et le port TCP 1688 à superviser.",
+          "Vous avez plusieurs domaines dans une forêt administrée de façon cohérente.",
+          "Vous recherchez une activation discrète, liée au fonctionnement habituel de l’annuaire."
+        ]
+      },
+      "b": {
+        "title": "Conserver ou déployer KMS",
+        "points": [
+          "Vous devez activer des machines qui ne sont pas jointes au domaine.",
+          "Votre parc inclut des réseaux séparés capables de joindre un hôte KMS mais pas les contrôleurs de domaine.",
+          "Vous exploitez déjà une infrastructure KMS stable et correctement documentée.",
+          "Vous devez répondre à des cas d’usage spécifiques que l’annuaire seul ne couvre pas."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1",
+          "label": "objet d’activation créé par clé hôte configurée dans Active Directory"
+        },
+        {
+          "value": "0",
+          "label": "port KMS TCP 1688 à exposer pour le fonctionnement propre d’ADBA"
+        },
+        {
+          "value": "~180 jours",
+          "label": "durée d’activation généralement accordée aux clients, renouvelée lors de leurs contacts avec le domaine"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prerequis-licences-infrastructure",
+      "text": "Vérifier les prérequis de licences et d’infrastructure"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prérequis le plus souvent oublié est le <strong>canal de licence</strong>. Pour créer un objet ADBA, vous avez besoin d’une clé hôte KMS, aussi appelée CSVLK, obtenue via votre programme de licences en volume. Cette clé est différente d’une clé MAK, qui sert à activer individuellement des machines, et d’une clé OEM ou Retail livrée avec un ordinateur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les clients doivent, eux aussi, utiliser une édition compatible avec les droits en volume et une clé cliente générique de volume, ou GVLK, appropriée à leur produit. Un poste livré avec Windows OEM n’est pas automatiquement basculé dans votre modèle de licences en volume parce qu’il rejoint le domaine. De même, une édition d’évaluation de Windows Server doit d’abord être convertie vers une édition licenciée compatible avant de pouvoir être activée normalement."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Un environnement <strong>Active Directory Domain Services</strong> opérationnel, avec une réplication de configuration fonctionnelle entre contrôleurs de domaine.",
+        "Un serveur sous Windows Server 2025, membre du domaine ou contrôleur de domaine selon vos règles d’exploitation, pour installer les outils d’activation en volume.",
+        "Un compte ayant les autorisations nécessaires au niveau de la forêt; pour une première mise en place, il s’agit souvent d’un compte d’administration de forêt.",
+        "Une connectivité Internet ponctuelle pour activer l’objet auprès de Microsoft, ou la possibilité d’utiliser l’activation téléphonique si votre politique réseau l’impose.",
+        "La validation de la matrice de compatibilité Microsoft pour les éditions exactes que vous souhaitez activer: Windows Server 2025, versions clientes de Windows et produits plus anciens éventuels."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>N’utilisez pas une clé trouvée sur une étiquette de serveur, dans le BIOS d’un PC ou sur une facture OEM pour créer l’objet ADBA. Seule une clé hôte de licences en volume autorisée pour vos produits remplit ce rôle.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "ADBA ne nécessite généralement pas de serveur dédié: les outils peuvent être installés sur un serveur d’administration existant et durci. Le coût logiciel spécifique est donc en principe nul si vous disposez déjà des droits Windows et de l’infrastructure. Le vrai budget se situe dans les licences en volume, la vérification de conformité, le temps de préparation et les tests; il varie fortement selon les éditions, le nombre de cœurs serveur, les CAL et votre contrat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-deploiement",
+      "text": "Préparer le déploiement avant d’entrer la moindre clé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un court inventaire évite la majorité des échecs. Relevez, pour chaque famille de machines, la version de Windows, son édition, son état d’activation actuel, son appartenance au domaine et le type de clé installé. Ne vous fiez pas uniquement au constructeur: Dell, HP ou Lenovo peuvent livrer des machines très différentes du point de vue du canal de licence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez ensuite une forêt pilote, un petit groupe de serveurs non critiques et quelques postes représentatifs. Prévoyez un retour arrière simple: documentez l’état initial, exportez vos rapports d’inventaire et conservez les clés hôtes dans un coffre-fort de mots de passe ou une procédure d’accès restreinte. Ne diffusez jamais une CSVLK dans un script, une image système, une documentation partagée ou une capture d’écran."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de gouvernance",
+      "html": "<p>Associez chaque objet d’activation à son produit, à sa clé hôte, à son propriétaire et à la date de mise en service dans votre documentation. Cette traçabilité est précieuse lors d’un audit, d’un renouvellement de contrat ou d’un départ d’administrateur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "installer-configurer-adba",
+      "text": "Installer et configurer ADBA sur Windows Server 2025"
+    },
+    {
+      "type": "paragraph",
+      "html": "La configuration s’effectue depuis le Gestionnaire de serveur de Windows Server 2025. Le composant à ajouter est le rôle <strong>Services d’activation en volume</strong>, puis ses outils d’administration. L’assistant vous guide vers l’option d’activation basée sur Active Directory. Évitez d’activer simultanément plusieurs solutions sans objectif clair: un parc peut techniquement utiliser différents mécanismes, mais la maintenance devient vite confuse."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "1. Contrôler l’annuaire et choisir le serveur d’administration",
+          "html": "Vérifiez la santé de la réplication Active Directory et DNS, puis sélectionnez un serveur Windows Server 2025 administré, sauvegardé et accessible aux équipes autorisées. Il n’a pas besoin d’être exposé à Internet en permanence."
+        },
+        {
+          "title": "2. Ajouter les services d’activation en volume",
+          "html": "Dans le Gestionnaire de serveur, utilisez l’assistant Ajout de rôles et de fonctionnalités, sélectionnez Services d’activation en volume et installez les outils d’activation en volume. Redémarrez uniquement si l’assistant le demande."
+        },
+        {
+          "title": "3. Créer l’objet Active Directory",
+          "html": "Lancez les Outils d’activation en volume, sélectionnez Active Directory-Based Activation, puis saisissez la clé hôte KMS/CSVLK correspondant au produit visé. Utilisez un compte autorisé à écrire la configuration de la forêt."
+        },
+        {
+          "title": "4. Activer l’objet auprès de Microsoft",
+          "html": "Choisissez l’activation en ligne si la politique réseau le permet, ou l’activation téléphonique. Cette étape active l’objet publié dans Active Directory; elle ne doit pas être répétée par chaque poste client."
+        },
+        {
+          "title": "5. Attendre la réplication et tester",
+          "html": "Laissez la configuration se répliquer vers les contrôleurs de domaine concernés. Testez ensuite un appareil du pilote avec une édition en volume compatible, joint au domaine, avant d’étendre le dispositif."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>ADBA n’est pas un serveur KMS caché. Une fois l’objet d’activation publié et répliqué, les clients s’appuient sur Active Directory; vous n’avez pas de service KMS permanent à faire écouter sur le réseau.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-activation-clients",
+      "text": "Configurer les clients et vérifier que l’activation fonctionne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur les images de déploiement, utilisez l’édition prévue par vos droits de licence et assurez-vous que la clé cliente GVLK correspond au produit installé. Une fois la machine jointe au domaine, l’activation est normalement déclenchée automatiquement lorsqu’elle contacte un contrôleur de domaine. Pour un test immédiat, un administrateur peut lancer la commande <strong>slmgr /ato</strong> dans une invite élevée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour contrôler le résultat sans dévoiler inutilement de clé, utilisez <strong>slmgr /xpr</strong> afin d’afficher l’état d’expiration, et <strong>slmgr /dlv</strong> pour obtenir des détails sur le canal et l’état de licence. Complétez ce contrôle par la page Activation des paramètres Windows. Sur un serveur, vérifiez aussi que l’édition réellement installée correspond bien à celle attendue dans votre standard d’exploitation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Testez au moins un poste Windows client et un serveur Windows Server 2025 si les deux familles sont concernées.",
+        "Testez un ordinateur dans chaque domaine important de la forêt, après réplication.",
+        "Vérifiez le comportement après un redémarrage et après une reconnexion au réseau de l’entreprise.",
+        "Conservez un relevé anonymisé de l’état avant et après pilote pour votre dossier de changement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "depanner-maintenir",
+      "text": "Dépanner les échecs courants et maintenir le dispositif"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand un client ne s’active pas, commencez par le plus simple: est-il réellement joint au bon domaine, peut-il joindre un contrôleur de domaine, son horloge est-elle correcte et l’édition installée relève-t-elle bien de votre licence en volume? Un poste en groupe de travail, un appareil connecté seulement à Internet ou une installation avec une clé OEM ne bénéficiera pas automatiquement d’ADBA."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ensuite, vérifiez l’objet d’activation et sa réplication dans Active Directory. Il est stocké dans la partition de configuration de la forêt: ne le modifiez pas directement avec un outil bas niveau sauf procédure Microsoft documentée et sauvegarde préalable. Utilisez plutôt les Outils d’activation en volume pour consulter ou mettre à jour votre configuration. Une réplication incomplète explique fréquemment pourquoi l’activation fonctionne dans un site et échoue dans un autre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les ordinateurs portables restent un cas particulier. Ils n’ont pas besoin de contacter Microsoft à chaque usage, mais ils doivent rejoindre périodiquement le domaine pour renouveler leur activation. Une connexion VPN régulière ou un accès aux contrôleurs de domaine selon votre architecture est donc nécessaire. Pour des équipements durablement hors réseau, une stratégie MAK ou un autre dispositif adapté peut être plus réaliste."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Échec sur une seule machine:</strong> contrôlez l’édition, la clé cliente, l’appartenance au domaine, l’heure et les journaux de licence.",
+        "<strong>Échec dans un site entier:</strong> contrôlez d’abord la connectivité vers les contrôleurs de domaine, DNS et la réplication AD.",
+        "<strong>Échec après clonage de VM:</strong> revoyez votre modèle d’image et utilisez Sysprep avec généralisation avant le déploiement, plutôt qu’un clonage d’une machine déjà activée.",
+        "<strong>Échec après changement de contrat:</strong> vérifiez que la nouvelle clé hôte couvre toujours les produits ciblés avant de remplacer ou d’ajouter un objet."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne supprimez pas à l’aveugle",
+      "html": "<p>Supprimer un objet d’activation ou retirer une clé peut perturber les renouvellements de tout un parc. Faites une sauvegarde de l’état du système Active Directory, validez l’impact et planifiez le changement comme une opération de production.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-laction",
+      "text": "Passer à l’action: un déploiement sûr en quatre décisions"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour réussir, ne commencez pas par l’assistant Windows Server. Commencez par décider si votre parc est bien majoritairement joint au domaine, confirmez vos droits de licences en volume, identifiez les éditions réellement déployées et choisissez une forêt pilote. Ces quatre décisions séparent un déploiement propre d’une accumulation de contournements."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Valider le périmètre",
+          "html": "Séparez les machines jointes au domaine, les appareils nomades, les équipements isolés et les environnements hors forêt. Réservez ADBA au périmètre qui peut réellement en bénéficier."
+        },
+        {
+          "title": "Faire confirmer les clés et les droits",
+          "html": "Demandez à la personne en charge des licences ou à votre revendeur de confirmer la clé hôte et les éditions couvertes. Conservez cette confirmation avec votre inventaire."
+        },
+        {
+          "title": "Déployer un pilote mesurable",
+          "html": "Publiez l’objet, attendez la réplication et contrôlez l’activation sur un échantillon varié de postes et serveurs avant tout déploiement de masse."
+        },
+        {
+          "title": "Industrialiser et documenter",
+          "html": "Intégrez les GVLK compatibles dans vos images approuvées, surveillez les échecs d’activation et consignez chaque évolution de clé ou d’objet dans votre gestion de changements."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Bien mis en place, Active Directory-Based Activation simplifie l’exploitation sans ajouter de point de passage réseau dédié pour l’activation. Sa réussite repose moins sur un paramètre Windows Server 2025 que sur la cohérence entre votre annuaire, vos images systèmes et vos droits de licences."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Windows Server 2025 peut-il être activé avec Active Directory-Based Activation?",
+      "a": "<p>Oui, si vous utilisez une édition Windows Server 2025 éligible à vos licences en volume, avec la clé cliente adaptée, et si l’objet ADBA est créé à partir d’une clé hôte compatible. Vérifiez toujours la matrice de prise en charge associée à votre contrat et au produit concerné: une clé hôte ne couvre pas nécessairement toutes les éditions ou tous les produits imaginables.</p>"
+    },
+    {
+      "q": "Faut-il installer le rôle Services d’activation en volume sur un contrôleur de domaine?",
+      "a": "<p>Non, ce n’est généralement pas indispensable. Les outils peuvent être installés sur un serveur membre Windows Server 2025 administré de manière sécurisée. L’objet d’activation est publié dans Active Directory et répliqué vers les contrôleurs de domaine. En revanche, le compte employé doit disposer des autorisations nécessaires dans la forêt.</p>"
+    },
+    {
+      "q": "ADBA fonctionne-t-il avec les ordinateurs portables hors du bureau?",
+      "a": "<p>Oui, à condition qu’ils rejoignent périodiquement le domaine, par exemple via le réseau interne ou un VPN conforme à votre architecture. Ils ne doivent pas contacter Microsoft à chaque utilisation, mais une absence prolongée de tout contact avec Active Directory peut empêcher le renouvellement de leur activation. Pour des appareils durablement isolés, une activation MAK peut être plus adaptée.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre une clé CSVLK et une clé GVLK?",
+      "a": "<p>La CSVLK, aussi appelée clé hôte KMS, est la clé issue de vos licences en volume que l’administrateur utilise pour créer et activer l’objet ADBA dans Active Directory. La GVLK est la clé cliente générique installée sur chaque édition Windows en volume afin qu’elle puisse demander une activation ADBA ou KMS. Ne déployez jamais la CSVLK sur les postes clients.</p>"
+    },
+    {
+      "q": "Puis-je utiliser ADBA avec un poste Windows acheté chez Dell, HP ou Lenovo?",
+      "a": "<p>Le constructeur n’est pas le critère déterminant. Ce qui compte est l’édition installée et son canal de licence. Un poste livré avec une licence OEM peut conserver cette activation OEM; pour l’intégrer à une activation en volume ADBA, vous devez disposer des droits correspondants et installer une édition ou une clé cliente compatible. Vérifiez ce point avec votre responsable licences avant toute modification en masse.</p>"
+    },
+    {
+      "q": "Pourquoi un poste joint au domaine ne s’active-t-il pas malgré ADBA?",
+      "a": "<p>Les causes les plus courantes sont une mauvaise édition de Windows, une clé client non compatible, une absence de contact avec un contrôleur de domaine, un problème de DNS ou de réplication Active Directory, ou un objet ADBA créé avec une clé qui ne couvre pas le produit. Contrôlez d’abord l’état avec <strong>slmgr /dlv</strong>, l’appartenance au domaine et l’accès à un contrôleur de domaine, puis examinez la configuration de l’objet d’activation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

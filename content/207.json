@@ -1,0 +1,337 @@
+{
+  "id": 207,
+  "slug": "comprendre-les-regles-du-jeu-6-qui-prend-strategies-et-astuces-pour-gagner-a-tous-les-coups",
+  "title": "Comprendre les règles du jeu ‘6 qui prend’ : stratégies et astuces pour gagner à tous les coups !",
+  "metaTitle": "Règles de 6 qui prend: stratégies pour mieux gagner",
+  "metaDescription": "Règles de 6 qui prend, déroulé d’une manche et stratégies concrètes pour lire les risques, éviter les rangées et réduire les têtes de bœuf sans hasard.",
+  "dek": "À 6 qui prend, poser une petite carte n’est pas toujours prudent et une grosse carte peut devenir un piège. Comprendre l’ordre de résolution, lire les quatre rangées et gérer votre main vous aidera à prendre moins de têtes de bœuf — le vrai objectif du jeu.",
+  "category": "loisirs-sport",
+  "tags": [
+    "6 qui prend",
+    "jeux de cartes",
+    "stratégie",
+    "jeux de société",
+    "soirée jeux"
+  ],
+  "keyTakeaways": [
+    "Le but n’est pas de gagner des plis, mais de récolter le moins de têtes de bœuf.",
+    "Les cartes se résolvent toujours de la plus petite à la plus grande, ce qui change les rangées avant votre tour.",
+    "Une rangée de cinq cartes et une carte trop basse sont les deux dangers majeurs.",
+    "Gardez des cartes moyennes pour vous placer et des cartes hautes pour sortir d’une zone encombrée.",
+    "On ne peut pas gagner à tous les coups: une bonne stratégie consiste surtout à limiter les grosses pénalités."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Derrière ses cartes numérotées et ses règles rapides, <strong>6 qui prend</strong> est un jeu d’anticipation redoutable. Vous ne contrôlez ni les cartes choisies en secret par vos adversaires ni tous les enchaînements possibles: l’objectif réaliste n’est donc pas de gagner chaque manche, mais de savoir quand vous êtes en danger, de réduire vos pertes et de provoquer de mauvaises décisions chez les autres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "objectif-et-materiel-du-jeu",
+      "text": "L’objectif de 6 qui prend et la mise en place"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans l’édition classique, le paquet comporte 104 cartes numérotées de 1 à 104. Chaque carte affiche une ou plusieurs <strong>têtes de bœuf</strong>, qui représentent des points de pénalité. À la fin de la partie, le gagnant est celui qui en a le moins, et non celui qui a posé le plus de cartes ni celui qui a remporté le plus de rangées."
+    },
+    {
+      "type": "paragraph",
+      "html": "La partie se joue généralement de 2 à 10 personnes. Après mélange, placez quatre cartes face visible: elles démarrent les quatre rangées. Distribuez ensuite dix cartes à chaque joueur. Chacun regarde sa main, choisit une carte face cachée, puis tous les joueurs révèlent leur choix en même temps. Répétez l’opération jusqu’à avoir joué les dix cartes."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "104",
+          "label": "cartes numérotées dans le jeu classique"
+        },
+        {
+          "value": "4",
+          "label": "rangées ouvertes au centre de la table"
+        },
+        {
+          "value": "10",
+          "label": "cartes jouées par personne au cours d’une manche"
+        },
+        {
+          "value": "66",
+          "label": "têtes de bœuf: seuil de fin souvent utilisé, selon l’édition ou la règle choisie"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Avant de commencer, vérifiez le seuil de fin indiqué par votre règle. Beaucoup de groupes arrêtent lorsqu’un joueur atteint ou dépasse 66 têtes de bœuf, puis comparent les totaux: le plus petit score l’emporte.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deroulement-dun-tour-et-regles-de-pose",
+      "text": "Comment se déroule un tour: les deux règles à connaître absolument"
+    },
+    {
+      "type": "paragraph",
+      "html": "La subtilité centrale est l’ordre de résolution. Même si tout le monde révèle sa carte simultanément, les cartes sont ensuite posées <strong>dans l’ordre croissant</strong>. La plus petite est donc traitée en premier, puis la suivante, jusqu’à la plus grande. Entre-temps, les extrémités des rangées peuvent changer, et une rangée peut avoir été ramassée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisissez tous une carte",
+          "html": "Chaque joueur sélectionne une carte de sa main sans la montrer. La révélation est simultanée: vous ne pouvez plus modifier votre choix en voyant celui des autres."
+        },
+        {
+          "title": "Traitez les cartes de la plus petite à la plus grande",
+          "html": "Pour chaque carte, recherchez parmi les quatre dernières cartes visibles celle qui est inférieure à la vôtre et la plus proche de votre nombre. Votre carte doit rejoindre cette rangée."
+        },
+        {
+          "title": "Ramassez si votre carte est la sixième",
+          "html": "Lorsqu’une carte deviendrait la sixième d’une rangée, le joueur ramasse les cinq cartes déjà présentes et leurs têtes de bœuf. Sa carte reste alors seule et devient le nouveau départ de la rangée."
+        },
+        {
+          "title": "Choisissez une rangée si votre carte est trop petite",
+          "html": "Si votre carte est inférieure aux quatre dernières cartes des rangées, elle ne peut aller nulle part. Vous choisissez alors la rangée à prendre, ajoutez ses pénalités à votre score, puis posez votre carte seule à sa place."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne posez jamais une carte en vous fiant seulement aux quatre rangées visibles au moment de la révélation. Les cartes plus petites que la vôtre seront résolues avant elle: elles peuvent remplir, vider ou transformer la rangée que vous visiez.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "lire-les-tetes-de-boeuf-et-les-cartes-dangereuses",
+      "text": "Lire les têtes de bœuf: toutes les rangées ne se valent pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nombre inscrit en grand indique où la carte peut se poser; les têtes de bœuf indiquent le coût si vous la ramassez. Dans le jeu classique, la plupart des cartes valent une tête, mais certaines sont bien plus pénalisantes. Retenez surtout la carte <strong>55</strong>, qui vaut sept têtes, les multiples de 11 — hors 55 — qui en valent cinq, les dizaines qui en valent trois, ainsi que les autres multiples de 5, souvent à deux têtes. En cas de doute, fiez-vous toujours aux symboles imprimés sur les cartes de votre édition."
+    },
+    {
+      "type": "table",
+      "caption": "Les signaux de risque à observer avant de choisir votre carte",
+      "headers": [
+        "Situation visible",
+        "Ce qu’elle signifie",
+        "Réponse souvent pertinente"
+      ],
+      "rows": [
+        [
+          "Une rangée compte déjà cinq cartes",
+          "La prochaine carte qui doit s’y placer fera ramasser les cinq cartes",
+          "Évitez son intervalle de pose, sauf si la rangée est très peu chargée en pénalités"
+        ],
+        [
+          "Votre carte est sous les quatre fins de rangée",
+          "Vous devrez choisir une rangée entière à prendre",
+          "Choisissez la rangée ayant le moins de têtes de bœuf, même si sa dernière carte semble peu avantageuse"
+        ],
+        [
+          "Une rangée contient 55 ou plusieurs cartes à forte valeur",
+          "Son ramassage peut coûter très cher",
+          "Ne la prenez volontairement qu’en dernier recours"
+        ],
+        [
+          "Plusieurs cartes de votre main sont proches d’une même fin de rangée",
+          "Vous risquez d’être forcé dans le même couloir plus tard",
+          "Jouez l’une d’elles avant que ce couloir ne devienne saturé"
+        ],
+        [
+          "Les fins de rangée sont très éloignées les unes des autres",
+          "Les intervalles sont lisibles, mais certains attirent beaucoup de cartes",
+          "Privilégiez une carte avec une marge confortable, pas juste une unité au-dessus d’une fin"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une rangée de faible valeur peut être une bonne rangée à prendre volontairement lorsqu’une petite carte vous y oblige. À l’inverse, une rangée composée de cartes apparemment anodines peut devenir dangereuse si elle compte déjà cinq cartes: vous n’en ramasserez pas une, mais cinq. Distinguez donc toujours <strong>la valeur totale de la rangée</strong> et <strong>son niveau de remplissage</strong>."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-une-carte-selon-votre-main",
+      "text": "Choisir votre carte: petite, moyenne ou grande?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de carte universellement bonne. Une petite carte limite parfois le risque de devenir la sixième, car elle sera résolue tôt; mais si elle est plus petite que toutes les fins de rangée, elle vous oblige à ramasser. Une grande carte a davantage de chances d’être supérieure à une fin de rangée, mais elle arrive tard dans l’ordre et peut tomber dans une rangée remplie par les autres."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons d’aborder une main",
+      "a": {
+        "title": "Jouer une petite carte",
+        "points": [
+          "Vous passez tôt dans l’ordre de résolution et subissez moins les cartes adverses plus hautes.",
+          "C’est utile lorsqu’elle dépasse clairement au moins une fin de rangée et que la rangée n’est pas proche de six cartes.",
+          "Le danger majeur: être plus bas que les quatre rangées et devoir choisir celle à ramasser."
+        ]
+      },
+      "b": {
+        "title": "Jouer une grande carte",
+        "points": [
+          "Vous pouvez franchir une zone encombrée et conserver des petites cartes pour plus tard.",
+          "C’est intéressant si votre carte vise une rangée peu remplie ou si elle est très au-dessus des extrémités actuelles.",
+          "Le danger majeur: les cartes intermédiaires des autres joueurs peuvent remplir la rangée avant votre passage."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une main équilibrée, conservez en général plusieurs valeurs moyennes: elles servent à vous insérer dans les intervalles entre deux fins de rangée. Ne videz pas trop vite toutes vos grandes cartes, car elles peuvent devenir votre seule issue lorsque les fins de rangée montent. De même, gardez rarement toutes vos petites cartes jusqu’à la fin: si les quatre rangées ont déjà des extrémités élevées, elles risquent de vous condamner à un ramassage forcé."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une marge vaut mieux qu’un ajustement parfait",
+      "html": "<p>Une carte située juste au-dessus d’une fin de rangée paraît idéale, mais elle attire souvent les mêmes cartes que celles des adversaires. Préférez, lorsque c’est possible, une valeur qui conserve un peu d’espace avant la prochaine fin de rangée et qui ne tombe pas sur une cinquième carte.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "anticiper-les-adversaires-et-lordre-de-resolution",
+      "text": "Anticiper les autres joueurs sans deviner leurs cartes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne connaissez pas les mains adverses, mais vous connaissez les cartes déjà sorties. Cette information suffit à prendre de meilleures décisions. Au début d’une manche, mémoriser chaque carte est rarement indispensable; en revanche, suivez les zones devenues rares. Si beaucoup de cartes entre 40 et 60 ont été jouées, une carte 54 ou 58 rencontrera moins de concurrence immédiate qu’au début de la manche. À l’inverse, un grand intervalle encore peu exploré peut attirer plusieurs choix."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Comptez les cartes par rangée</strong>: une rangée de quatre ou cinq cartes mérite toute votre attention.",
+        "<strong>Repérez les cartes à forte pénalité</strong>: elles déterminent quelle rangée il faut éviter de prendre.",
+        "<strong>Regardez les mains restantes</strong>: à mi-manche, les joueurs qui ont déjà posé leurs petites cartes peuvent chercher à écouler de grosses valeurs.",
+        "<strong>Surveillez les écarts</strong> entre les fins de rangée: un large couloir peut cacher une forte concurrence, surtout à nombreux joueurs.",
+        "<strong>Raisonnez dans l’ordre croissant</strong>: demandez-vous quelles cartes plus petites que la vôtre pourraient agir avant elle."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "À quatre ou cinq joueurs, vous pouvez parfois lire les styles de jeu: certains posent systématiquement leur plus petite carte quand une rangée approche de six; d’autres évitent les cartes moyennes. Exploitez ces habitudes avec prudence. Elles donnent une tendance, pas une certitude, car une main défavorable oblige parfois n’importe qui à prendre une décision surprenante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gerer-les-ramassages-forces",
+      "text": "Quand prendre une rangée devient inévitable: limiter les dégâts"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prendre une rangée n’est pas toujours une erreur. Cela devient parfois le choix le moins coûteux, et il peut même vous donner une nouvelle rangée de départ avec une carte basse, donc un repère utile pour la suite. Le mauvais réflexe consiste à vouloir absolument éviter tout ramassage: vous pourriez alors placer une carte importante dans une zone où elle vous fera prendre une rangée beaucoup plus lourde au tour suivant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre carte est inférieure aux quatre fins de rangée, comparez les <strong>têtes de bœuf totales</strong>, pas seulement le nombre de cartes. Une rangée de cinq cartes à une tête vaut souvent moins cher qu’une rangée de trois cartes contenant 55 et un multiple de 11. Pensez aussi à la carte que vous poserez ensuite: en prenant une rangée, votre petite carte en devient la nouvelle extrémité. Cela peut créer un point d’ancrage attractif pour les cartes suivantes, y compris celles de vos adversaires."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Choisir le moindre mal",
+      "html": "<p>Une faible rangée à prendre volontairement peut être préférable à l’attente. Si vous savez que vos trois petites cartes restantes seront toutes sous les fins de rangée, payer peu maintenant peut empêcher une pénalité massive plus tard.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-frequentes-et-exemple-pratique",
+      "text": "Les erreurs fréquentes, avec un exemple de lecture"
+    },
+    {
+      "type": "paragraph",
+      "html": "Supposons que les fins de rangée soient 18, 37, 62 et 83. Vous envisagez de jouer 64: à première vue, elle doit aller derrière 62. Mais si cette rangée compte déjà quatre cartes et qu’un adversaire a choisi 63, sa carte est résolue avant la vôtre. Elle devient la cinquième; votre 64 est alors la sixième et vous ramassez la rangée. Votre calcul initial était juste sur la destination, mais incomplet sur l’ordre de passage et le nombre de cartes."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Confondre “proche” et “libre”</strong>: une rangée proche n’est pas sûre si elle est déjà à cinq cartes ou si plusieurs valeurs peuvent y arriver avant vous.",
+        "<strong>Oublier les pénalités</strong>: éviter un ramassage de trois têtes pour risquer une rangée à dix têtes n’est pas une bonne affaire.",
+        "<strong>Jouer toujours la plus petite ou la plus grande carte</strong>: une routine est facile à exploiter et ne tient pas compte de la table.",
+        "<strong>Négliger la fin de manche</strong>: vos dernières cartes doivent être planifiées plusieurs tours à l’avance, surtout si elles sont toutes basses.",
+        "<strong>Vouloir prédire exactement</strong>: à plusieurs joueurs, cherchez une décision robuste, pas une certitude impossible."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-de-jeu-pour-progresser-des-la-prochaine-partie",
+      "text": "Votre plan de jeu pour progresser dès la prochaine partie"
+    },
+    {
+      "type": "paragraph",
+      "html": "La promesse de gagner « à tous les coups » ne correspond pas à la réalité de 6 qui prend: les choix secrets et la distribution des cartes introduisent une part d’incertitude irréductible. En revanche, vous pouvez devenir nettement plus régulier en évitant les grosses erreurs de lecture. Votre priorité n’est pas de réussir une pose spectaculaire, mais de ne pas être celui qui ramasse les rangées les plus coûteuses."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Avant chaque choix, relevez les quatre fins de rangée",
+          "html": "Classez mentalement les destinations possibles et vérifiez immédiatement si votre carte est trop basse pour toutes les rejoindre."
+        },
+        {
+          "title": "Comptez jusqu’à cinq",
+          "html": "Notez la longueur de chaque rangée. Une cinquième carte annoncée doit déclencher une alerte: la carte suivante dans le même intervalle ramassera."
+        },
+        {
+          "title": "Évaluez le coût, pas seulement le risque",
+          "html": "Si un ramassage paraît probable, comparez les têtes de bœuf de chaque rangée et identifiez le moindre mal."
+        },
+        {
+          "title": "Préservez des options pour la fin",
+          "html": "Gardez idéalement des valeurs réparties: quelques petites cartes jouables, des moyennes pour les couloirs et au moins une solution haute."
+        },
+        {
+          "title": "Faites un bilan après chaque manche",
+          "html": "Demandez-vous non pas quelle carte était “malchanceuse”, mais quelle information vous n’avez pas utilisée: longueur d’une rangée, ordre de résolution, cartes sorties ou valeur des pénalités."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de jouer",
+      "html": "<p>À 6 qui prend, une bonne décision est celle qui reste acceptable même si un adversaire joue une carte imprévue. Lisez les rangées, anticipez les cartes plus petites que la vôtre et acceptez un petit ramassage lorsqu’il vous évite une catastrophe.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de joueurs peuvent participer à une partie de 6 qui prend?",
+      "a": "<p>Le jeu classique se pratique généralement de 2 à 10 joueurs. Il fonctionne très bien à partir de 3 ou 4 joueurs; avec davantage de participants, les rangées évoluent plus vite et la part d’anticipation devient plus délicate, car plusieurs cartes peuvent se disputer le même intervalle.</p>"
+    },
+    {
+      "q": "Que se passe-t-il exactement quand je pose la sixième carte d’une rangée?",
+      "a": "<p>Vous ramassez les cinq cartes qui étaient déjà dans cette rangée et additionnez leurs têtes de bœuf à votre score. La carte que vous venez de jouer ne fait pas partie des cartes ramassées: elle reste seule sur la table et devient la nouvelle première carte de cette rangée.</p>"
+    },
+    {
+      "q": "Puis-je choisir librement la rangée où poser ma carte?",
+      "a": "<p>Non. Votre carte doit aller après la dernière carte inférieure la plus proche de sa valeur. Par exemple, avec des fins de rangée à 20, 43, 61 et 90, une carte 58 doit aller après 43. Vous ne choisissez une rangée que si votre carte est plus petite que les quatre fins de rangée: vous devez alors prendre une rangée entière.</p>"
+    },
+    {
+      "q": "Comment éviter de prendre la carte 55 à 6 qui prend?",
+      "a": "<p>La carte 55 vaut particulièrement cher, mais vous ne pouvez pas toujours l’éviter. Surveillez la rangée qui la contient, sa longueur et les cartes susceptibles de s’y poser. Si vous devez choisir une rangée à prendre, calculez le total réel des têtes de bœuf: une rangée avec 55 est souvent mauvaise, mais une autre rangée peut parfois coûter davantage si elle accumule plusieurs cartes pénalisantes.</p>"
+    },
+    {
+      "q": "Faut-il jouer ses petites cartes en premier à 6 qui prend?",
+      "a": "<p>Pas systématiquement. Une petite carte est résolue tôt, ce qui peut être utile, mais elle est dangereuse si elle est sous les quatre fins de rangée. Jouez-la plutôt quand elle peut se placer avec une marge raisonnable dans une rangée peu remplie, ou lorsqu’elle vous évite de la conserver jusqu’à une fin de manche où les rangées seront trop hautes.</p>"
+    },
+    {
+      "q": "Quelle est la meilleure stratégie pour gagner une partie de 6 qui prend?",
+      "a": "<p>La meilleure stratégie consiste à gérer votre risque sur toute la manche: surveillez les rangées de quatre ou cinq cartes, mémorisez les zones déjà jouées, gardez une main diversifiée et privilégiez le plus faible coût lorsqu’un ramassage semble inévitable. Vous ne maîtrisez pas les choix cachés des autres joueurs, mais cette méthode réduit fortement les grosses pénalités qui font basculer une partie.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

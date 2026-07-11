@@ -1,0 +1,342 @@
+{
+  "id": 1418,
+  "slug": "comment-preparer-un-menu-equilibre-de-grossesse-mois-par-mois",
+  "title": "Comment préparer un menu équilibré de grossesse mois par mois",
+  "metaTitle": "Menu équilibré de grossesse: mois par mois",
+  "metaDescription": "Préparez un menu équilibré de grossesse mois par mois: besoins, repas, aliments sûrs, portions et astuces pour manger sereinement sans stress au quotidien.",
+  "dek": "La grossesse ne demande pas de manger pour deux, mais de mieux choisir, de mieux répartir et de sécuriser les aliments. Voici une méthode souple et des idées de menus adaptées aux neuf mois de grossesse.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "grossesse",
+    "alimentation",
+    "menu équilibré",
+    "nutrition prénatale",
+    "repas grossesse"
+  ],
+  "keyTakeaways": [
+    "Un menu de grossesse équilibré repose d’abord sur la variété, la régularité et la sécurité alimentaire.",
+    "Les besoins n’évoluent pas de façon spectaculaire chaque mois: ce sont surtout les symptômes et l’appétit qui changent.",
+    "Ne mangez pas pour deux: adaptez les portions à votre faim et privilégiez des collations utiles si nécessaire.",
+    "L’acide folique, le fer, l’iode et la vitamine D demandent une attention particulière, parfois avec un complément prescrit.",
+    "Zéro alcool, prudence avec les aliments crus et cuisson rigoureuse protègent la mère comme le bébé."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Préparer un menu équilibré pendant la grossesse peut sembler compliqué entre les nausées, les conseils contradictoires et les aliments à éviter. Pourtant, il n’est pas nécessaire de suivre un régime rigide ni de cuisiner des plats sophistiqués. En partant d’une assiette simple, de produits sûrs et d’ajustements mois après mois, vous pouvez nourrir votre grossesse avec sérénité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-bases-dun-menu-de-grossesse-equilibre",
+      "text": "Les bases d’un menu de grossesse équilibré"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon menu de grossesse n’est pas une succession d’« aliments parfaits ». C’est une alimentation suffisamment variée pour apporter de l’énergie, des protéines, des fibres, des vitamines, des minéraux et de bonnes graisses, tout en limitant les risques infectieux ou toxiques. Durant les premiers mois, les besoins énergétiques changent peu: la priorité est donc la qualité des repas, pas leur volume. Plus tard, l’appétit peut augmenter, mais il ne s’agit toujours pas de « manger pour deux »: écoutez votre faim, votre rassasiement et les recommandations de l’équipe qui suit votre grossesse."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "0 verre",
+          "label": "d’alcool: il n’existe pas de dose considérée comme sûre pendant la grossesse."
+        },
+        {
+          "value": "2 portions/semaine",
+          "label": "de poisson en général, en variant les espèces et en limitant les grands prédateurs."
+        },
+        {
+          "value": "~1,5 à 2 L/jour",
+          "label": "d’eau et de boissons non sucrées, à ajuster selon la chaleur, l’activité et les conseils médicaux."
+        },
+        {
+          "value": "~200 mg/jour",
+          "label": "plafond de caféine couramment retenu, toutes boissons et aliments caféinés confondus."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Les grands repères à retrouver au fil de la journée",
+      "headers": [
+        "Famille d’aliments",
+        "Rôle pendant la grossesse",
+        "Exemples simples à alterner"
+      ],
+      "rows": [
+        [
+          "Fruits et légumes",
+          "Fibres, vitamine C, folates et diversité micronutritionnelle",
+          "Légumes cuits ou crus soigneusement lavés, soupe, compote sans sucre ajouté, fruit frais"
+        ],
+        [
+          "Féculents et légumineuses",
+          "Énergie durable et fibres",
+          "Pain complet, avoine, riz, pâtes, pommes de terre, lentilles, pois chiches, haricots"
+        ],
+        [
+          "Protéines",
+          "Construction des tissus maternels et du bébé, fer selon les aliments",
+          "Œufs bien cuits, viande bien cuite, poisson adapté, tofu, légumes secs"
+        ],
+        [
+          "Produits laitiers ou équivalents enrichis",
+          "Calcium, protéines et parfois iode",
+          "Lait pasteurisé, yaourt, fromage pasteurisé, boisson végétale enrichie en calcium"
+        ],
+        [
+          "Matières grasses de qualité",
+          "Acides gras essentiels et absorption de certaines vitamines",
+          "Huile de colza ou de noix, huile d’olive, avocat, noix et graines en portions raisonnables"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe le plus simple",
+      "html": "<p>À midi et le soir, visez une assiette composée de légumes, d’un féculent ou d’une légumineuse, d’une source de protéines et d’un peu de matière grasse. Ajoutez un produit laitier ou équivalent si cela correspond à votre journée, puis un fruit selon votre envie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "composer-une-journee-sans-se-prendre-la-tete",
+      "text": "Composer une journée sans se prendre la tête"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur rythme est celui que vous tolérez et que vous pouvez tenir. Beaucoup de femmes se sentent bien avec trois repas structurés et une collation. En cas de nausées, de reflux ou de satiété rapide, des prises plus petites et plus fréquentes sont souvent plus confortables. Dans tous les cas, évitez de sauter systématiquement les repas: les grosses fringales favorisent les choix improvisés, parfois très sucrés, et peuvent accentuer les nausées chez certaines personnes."
+    },
+    {
+      "type": "compare",
+      "title": "Trois repas ou repas fractionnés: que choisir?",
+      "a": {
+        "title": "Trois repas et une collation",
+        "points": [
+          "Convient si votre appétit est stable et que vous digérez bien.",
+          "Facilite la préparation et le repérage des groupes d’aliments.",
+          "Une collation peut associer un fruit et un yaourt, ou du pain complet et une purée d’oléagineux."
+        ]
+      },
+      "b": {
+        "title": "Petites prises réparties",
+        "points": [
+          "Utile en cas de nausées, remontées acides ou impression d’être vite rassasiée.",
+          "Gardez une source nourrissante à chaque prise: féculent, laitage, fruit ou protéine.",
+          "Évitez le grignotage continu de produits sucrés, qui soulage peu durablement."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisissez deux ou trois bases de féculents",
+          "html": "Par exemple: pain complet, riz, pommes de terre, pâtes semi-complètes ou quinoa. Prévoir les féculents évite de composer les repas uniquement autour de légumes ou de produits prêts à consommer."
+        },
+        {
+          "title": "Prévoyez des protéines variées",
+          "html": "Alternez œufs bien cuits, volaille ou viande bien cuite, légumineuses, tofu et poissons compatibles avec la grossesse. Préparez-en davantage pour disposer d’un reste sûr à réchauffer rapidement."
+        },
+        {
+          "title": "Ajoutez légumes et fruits à chaque repas",
+          "html": "Les légumes surgelés nature, les conserves sans excès de sel et les soupes maison sont de bonnes solutions les jours de fatigue. Lavez soigneusement les végétaux consommés crus."
+        },
+        {
+          "title": "Anticipez les collations de secours",
+          "html": "Gardez à portée de main un fruit, une compote, des amandes ou noix, du pain, des crackers simples, un yaourt pasteurisé ou une portion de fromage autorisé. Vous limiterez les achats dictés par une faim urgente."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une semaine réaliste vaut mieux qu’un menu idéal",
+      "html": "<p>Faites tourner les mêmes bases sur plusieurs repas: légumes rôtis un soir, ajoutés à une omelette bien cuite le lendemain, puis dans une soupe. La variété se construit sur la semaine, pas obligatoirement dans chaque assiette.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "du-premier-au-troisieme-mois-priorite-aux-nausees",
+      "text": "Du 1er au 3e mois: priorité aux nausées et aux folates"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au début de la grossesse, fatigue, dégoûts alimentaires et nausées peuvent bouleverser vos habitudes. Si les crudités ou les odeurs de cuisson vous écœurent, les légumes cuits, les soupes, les compotes et les fruits faciles à manger sont de bonnes alternatives. Ne culpabilisez pas si votre alimentation est momentanément moins variée: l’objectif est de manger et boire suffisamment, puis de rééquilibrer progressivement. Les aliments riches en folates, comme les légumes verts, les légumineuses et certains fruits, sont intéressants; ils ne remplacent toutefois pas le complément d’acide folique lorsqu’il vous a été prescrit."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Mois 1:</strong> au réveil, quelques crackers ou une tartine avant de vous lever si cela calme les nausées; à midi, soupe de légumes, pain et œuf bien cuit; le soir, riz, courgettes fondantes et poulet bien cuit.",
+        "<strong>Mois 2:</strong> porridge avec lait pasteurisé ou boisson enrichie, banane et noix; salade de lentilles avec légumes bien lavés et feta pasteurisée; pâtes, sauce tomate maison et boulettes bien cuites.",
+        "<strong>Mois 3:</strong> yaourt nature et fruit au petit-déjeuner; pomme de terre, haricots verts et saumon bien cuit au déjeuner; omelette bien prise, pain complet et compote au dîner."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une petite collation peut être particulièrement utile en milieu de matinée ou d’après-midi: fruit et yaourt, pain et fromage pasteurisé, ou poignée de fruits à coque non salés. En revanche, des vomissements répétés, l’impossibilité de garder les boissons, une perte de poids marquée ou des urines très foncées justifient un avis médical rapide."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "du-quatrieme-au-sixieme-mois-consolider-les-repas",
+      "text": "Du 4e au 6e mois: consolider les repas et le fer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le deuxième trimestre est souvent plus confortable: l’appétit revient et il devient plus facile de retrouver des repas réguliers. C’est le bon moment pour installer une routine riche en légumes, féculents complets ou semi-complets, protéines variées et produits riches en calcium. Le fer mérite une attention particulière, mais un complément ne doit pas être pris de votre propre initiative: il dépend de votre bilan, de vos antécédents et de votre suivi. Associer une source de vitamine C à un repas contenant des légumineuses ou de la viande aide l’organisme à mieux utiliser le fer alimentaire."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Mois 4:</strong> tartines de pain complet, fromage frais pasteurisé et kiwi; émincé de dinde bien cuit, semoule et ratatouille; yaourt et poire en collation; velouté de lentilles corail le soir.",
+        "<strong>Mois 5:</strong> flocons d’avoine, yaourt et fruits rouges; chili doux de haricots rouges, riz et avocat; collation de fruit et quelques noix; cabillaud bien cuit, pommes de terre et épinards.",
+        "<strong>Mois 6:</strong> pain, beurre de cacahuète sans sucre ajouté et banane; pois chiches mijotés aux légumes avec couscous; fromage blanc pasteurisé; sardines, légumes rôtis et pain au dîner."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le fer alimentaire: pensez aux associations",
+      "html": "<p>Les lentilles, haricots, pois chiches, œufs, viandes bien cuites et certains poissons contribuent aux apports en fer. Ajoutez par exemple un kiwi, une orange, des fraises ou du poivron à proximité du repas. Évitez de prendre thé ou café juste au même moment si votre professionnel de santé surveille votre fer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "du-septieme-au-neuvieme-mois-gerer-confort-et-organisation",
+      "text": "Du 7e au 9e mois: gérer le confort et l’organisation"
+    },
+    {
+      "type": "paragraph",
+      "html": "En fin de grossesse, le bébé prend davantage de place et certains repas copieux deviennent inconfortables. Reflux, constipation, essoufflement ou faim plus fréquente peuvent apparaître. Préférez alors des portions modérées, mastiquées lentement, et une collation équilibrée plutôt qu’un dîner très abondant. Les fibres, l’eau et une activité adaptée si elle est autorisée aident souvent le transit; augmentez les fibres progressivement pour éviter ballonnements et inconfort. Préparer quelques plats au congélateur peut aussi vous soulager dans les dernières semaines et au retour de la maternité."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Mois 7:</strong> yaourt, pruneaux réhydratés et pain complet; poulet bien cuit, patate douce et brocoli; compote et amandes; soupe de légumes, tartine de fromage pasteurisé et fruit.",
+        "<strong>Mois 8:</strong> petit-déjeuner léger mais complet avec pain, fruit et laitage; salade de quinoa avec pois chiches et légumes bien lavés; banane en collation; dîner précoce de riz, légumes cuits et omelette bien cuite pour limiter le reflux.",
+        "<strong>Mois 9:</strong> porridge et poire; plat préparé d’avance de lentilles aux légumes et œuf bien cuit; yaourt et fruit; portion de lasagnes de légumes bien réchauffée, salade soigneusement lavée si elle est bien tolérée."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les remontées acides, évitez de vous allonger juste après le repas, réduisez les portions très grasses ou très épicées si elles aggravent vos symptômes, et gardez le dîner relativement léger. En cas de constipation persistante, de douleurs importantes, d’œdèmes soudains, de maux de tête inhabituels ou de malaise, ne cherchez pas à régler la situation par le menu seul: contactez votre sage-femme ou votre médecin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-nutriments-a-surveiller-sans-obsession",
+      "text": "Les nutriments à surveiller sans faire de calculs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Aucun aliment isolé ne couvre tous les besoins. En revanche, quelques nutriments font l’objet d’une vigilance particulière pendant la grossesse. Une alimentation variée aide beaucoup, mais certains compléments sont fréquents ou nécessaires selon votre situation. Votre professionnel de santé reste la bonne personne pour interpréter une prise de sang, vérifier vos traitements et décider d’une supplémentation: plus n’est pas toujours mieux, notamment pour la vitamine A ou le fer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Folates:</strong> légumes à feuilles, légumineuses, agrumes, avocat. Le complément prescrit autour du projet de grossesse et au début de celle-ci reste prioritaire lorsqu’il est indiqué.",
+        "<strong>Iode:</strong> poissons adaptés, produits laitiers, œufs et sel iodé utilisé avec modération. Une maladie de la thyroïde impose un avis individualisé.",
+        "<strong>Calcium et vitamine D:</strong> laitages pasteurisés, eaux riches en calcium, boissons végétales enrichies, œufs et poissons. La vitamine D peut être prescrite selon la saison, l’alimentation et le suivi.",
+        "<strong>Vitamine B12:</strong> indispensable à surveiller si vous êtes végétalienne; une supplémentation adaptée est alors nécessaire.",
+        "<strong>Oméga-3:</strong> présents notamment dans les petits poissons gras. Variez les espèces plutôt que de consommer toujours le même poisson."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "hygiene-alimentaire-les-regles-qui-protegent",
+      "text": "Hygiène alimentaire: les règles qui protègent vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pendant la grossesse, un menu équilibré doit aussi être un menu sûr. Les précautions visent surtout la listériose, la toxoplasmose lorsque vous n’êtes pas immunisée, et certaines intoxications alimentaires. Lavez soigneusement vos mains, les ustensiles, le plan de travail et les fruits, herbes et légumes consommés crus. Respectez la chaîne du froid, les dates de consommation et réchauffez les restes jusqu’à ce qu’ils soient bien chauds. En cas de doute sur un produit, il vaut mieux ne pas le consommer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>À éviter:</strong> alcool, viandes et poissons crus ou peu cuits, coquillages crus, œufs crus ou préparations qui en contiennent, lait cru et produits à base de lait cru non cuits, pâtés et rillettes réfrigérés.",
+        "<strong>À cuire complètement:</strong> viandes, volaille, poisson, œufs et plats contenant des restes. Évitez les préparations dont le centre demeure cru.",
+        "<strong>À limiter:</strong> café, thé fort, boissons énergisantes et sodas caféinés; les grands poissons prédateurs, plus susceptibles de concentrer du mercure; le foie et les produits très riches en vitamine A.",
+        "<strong>Si vous n’êtes pas immunisée contre la toxoplasmose:</strong> évitez le contact avec la terre sans gants, déléguez si possible le nettoyage de la litière du chat et redoublez de soin pour le lavage des végétaux."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur fréquente: se fier uniquement à l’étiquette « artisanal »",
+      "html": "<p>Un fromage artisanal, une mayonnaise maison ou un poisson fumé peuvent être excellents en temps normal sans être adaptés à la grossesse. Vérifiez la pasteurisation, la cuisson et les consignes de conservation; en cas d’hésitation, choisissez une alternative cuite ou pasteurisée.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adapter-le-menu-a-votre-situation",
+      "text": "Adapter le menu à votre situation, sans vous isoler"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un menu standard ne remplace pas un suivi personnalisé. En cas de diabète gestationnel, d’hypertension, de grossesse multiple, de maladie digestive, de troubles alimentaires ou de prise de poids très rapide ou très faible, demandez un plan adapté à votre sage-femme, médecin ou diététicienne. Si vous êtes végétarienne, une alimentation bien construite peut couvrir de nombreux besoins avec œufs, laitages, légumineuses, tofu et céréales; si vous êtes végétalienne, la vitamine B12 et plusieurs autres points doivent impérativement être encadrés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget n’oblige pas à renoncer à l’équilibre. Les légumes surgelés nature, les lentilles, les pois chiches, les œufs bien cuits, les sardines ou maquereaux adaptés, les fruits de saison et les yaourts nature sont souvent des bases accessibles. Cuisiner une grande marmite de soupe, de chili de haricots ou de dahl de lentilles permet de couvrir plusieurs repas et de limiter le recours aux produits ultra-transformés."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Quand demander de l’aide",
+      "html": "<p>Parlez rapidement de vos difficultés si vous vomissez beaucoup, ne parvenez pas à boire, avez des fringales incontrôlables, une forte anxiété autour de l’alimentation ou des symptômes digestifs persistants. Vous n’avez pas à gérer cela seule.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-pour-commencer-des-cette-semaine",
+      "text": "Votre plan pour commencer dès cette semaine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour démarrer, ne changez pas tout à la fois. Choisissez trois petits-déjeuners que vous appréciez, prévoyez deux plats de légumineuses, deux repas de poisson adapté, quelques protéines bien cuites et des légumes faciles à utiliser. Faites une liste de collations rassasiantes, vérifiez les aliments à risque dans votre réfrigérateur, puis adaptez le rythme à vos symptômes du mois. Cette organisation souple suffit à construire un menu de grossesse nourrissant, réaliste et compatible avec la vie quotidienne."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de faire les courses",
+      "html": "<p>Remplissez votre panier avec des aliments simples: légumes, fruits, féculents, légumineuses, protéines à cuire, laitages pasteurisés ou équivalents enrichis, huiles variées et collations peu transformées. Ensuite, ajustez les quantités à votre faim et les choix à votre suivi médical.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il vraiment manger pour deux pendant la grossesse?",
+      "a": "<p>Non. Votre corps a besoin de nutriments de bonne qualité et, selon l’avancée de la grossesse, d’un peu plus d’énergie, mais pas de doubler les portions. Mangez à votre faim, sans vous forcer, et ajoutez une collation nourrissante si vous avez faim entre les repas. Votre prise de poids et vos besoins doivent être discutés avec le professionnel qui vous suit.</p>"
+    },
+    {
+      "q": "Que manger enceinte quand les nausées empêchent de faire de vrais repas?",
+      "a": "<p>Privilégiez de petites prises régulières et des aliments que vous tolérez: crackers, pain, compote, banane, soupe, riz, pomme de terre, yaourt pasteurisé ou œuf bien cuit selon vos envies. Gardez une collation près du lit si les nausées sont matinales et buvez par petites gorgées. Consultez rapidement si les vomissements vous empêchent de boire ou de vous alimenter.</p>"
+    },
+    {
+      "q": "Peut-on avoir un menu de grossesse équilibré en étant végétarienne?",
+      "a": "<p>Oui, à condition de varier les sources de protéines et de surveiller certains nutriments. Associez légumineuses, céréales, œufs bien cuits, laitages pasteurisés ou alternatives enrichies, tofu et oléagineux. Le fer, l’iode, la vitamine D et la vitamine B12 méritent une vigilance particulière. Une alimentation végétalienne nécessite un accompagnement médical et une supplémentation en vitamine B12.</p>"
+    },
+    {
+      "q": "Quels fromages peut-on manger pendant la grossesse?",
+      "a": "<p>Privilégiez les fromages fabriqués avec du lait pasteurisé et les préparations bien cuites. Les fromages au lait cru, surtout à pâte molle et à croûte fleurie ou lavée, présentent davantage de risques et sont généralement déconseillés. Lisez l’étiquette, respectez la conservation et, en cas de doute, choisissez un fromage pasteurisé ou un plat dans lequel le fromage est cuit.</p>"
+    },
+    {
+      "q": "Comment répartir les glucides en cas de diabète gestationnel?",
+      "a": "<p>Ne supprimez pas les féculents sans avis médical: ils restent une source d’énergie importante. Le principe est souvent de les répartir sur la journée, de privilégier les aliments riches en fibres et de les associer à des légumes et des protéines. Les quantités, les collations et les aliments à limiter doivent être personnalisés avec l’équipe qui suit votre diabète gestationnel.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

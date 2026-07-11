@@ -1,0 +1,317 @@
+{
+  "id": 1012,
+  "slug": "comment-recuperer-son-compte-facebook-en-3-etapes-simples",
+  "title": "Comment récupérer son compte Facebook en 3 étapes simples ?",
+  "metaTitle": "Récupérer son compte Facebook en 3 étapes simples",
+  "metaDescription": "Compte Facebook inaccessible? Retrouvez l’accès en trois étapes: identifiez votre compte, validez le code et sécurisez-le, même après un piratage.",
+  "dek": "Mot de passe oublié, adresse e-mail perdue ou compte piraté: un compte Facebook inaccessible ne se récupère pas toujours de la même manière. Voici la marche à suivre, en trois étapes claires, puis les solutions si le parcours habituel échoue.",
+  "category": "tech-objets",
+  "tags": [
+    "Facebook",
+    "compte piraté",
+    "mot de passe",
+    "sécurité numérique",
+    "réseaux sociaux"
+  ],
+  "keyTakeaways": [
+    "Passez uniquement par l’application Facebook ou le site officiel pour lancer une récupération.",
+    "Utilisez un appareil, un navigateur et un réseau déjà connus de Facebook si vous le pouvez.",
+    "Après le changement de mot de passe, vérifiez immédiatement vos coordonnées, vos sessions et la double authentification.",
+    "Ne communiquez jamais un code de récupération: Facebook ne vous le demandera pas par message.",
+    "Un compte désactivé ou supprimé suit une procédure différente d’un simple mot de passe oublié."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous ne parvenez plus à vous connecter à Facebook? Dans la majorité des cas, la récupération commence par l’identification du compte, la réception d’un code puis la création d’un nouveau mot de passe. Le bon réflexe consiste toutefois à adapter cette procédure si vous soupçonnez un piratage ou si vous avez aussi perdu l’accès à votre e-mail ou à votre téléphone."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-la-cause-du-blocage",
+      "text": "Avant de commencer: identifier la cause du blocage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un message d’erreur à la connexion ne signifie pas forcément que votre compte a été piraté. Vous pouvez avoir saisi une ancienne adresse e-mail, oublié quel numéro de téléphone est associé au profil, changé de téléphone ou simplement confondu un mot de passe enregistré. À l’inverse, des publications inconnues, des messages envoyés sans votre accord, une adresse e-mail modifiée ou des connexions depuis des lieux inhabituels sont de vrais signaux d’alerte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction est importante: le parcours « mot de passe oublié » suffit lorsque vous contrôlez encore votre adresse e-mail ou votre numéro de téléphone. Si une personne a modifié ces informations, il faut traiter le compte comme compromis et vérifier rapidement les changements effectués."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3",
+          "label": "actions forment le parcours de récupération: retrouver le compte, valider un accès, puis le sécuriser."
+        },
+        {
+          "value": "2",
+          "label": "coordonnées de secours au minimum sont utiles: une adresse e-mail et un numéro que vous contrôlez."
+        },
+        {
+          "value": "12 à 16",
+          "label": "caractères constituent un bon ordre de grandeur pour un mot de passe long, unique et difficile à deviner."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le nom affiché sur votre profil, votre ancienne adresse e-mail et un numéro de téléphone précédemment associé peuvent aider à retrouver le bon compte. Préparez-les avant de recommencer plusieurs tentatives.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-une-recuperation-reconnue",
+      "text": "Préparez une récupération que Facebook pourra reconnaître"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’ouvrir le formulaire de récupération, revenez si possible dans votre environnement habituel: le téléphone ou l’ordinateur déjà utilisé pour Facebook, le navigateur où vous vous connectiez souvent et un réseau connu, par exemple votre connexion domestique. Ce n’est pas une obligation, mais cela peut éviter qu’une demande légitime paraisse inhabituelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Assurez-vous aussi de pouvoir ouvrir votre boîte e-mail et de recevoir des SMS sur le numéro concerné. Si le code n’arrive pas, vérifiez les courriers indésirables, les filtres de messagerie et l’espace disponible dans votre boîte. Évitez de demander le code en boucle: plusieurs demandes rapprochées peuvent invalider le code précédent ou déclencher une temporisation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Notez les adresses e-mail, numéros et variantes de nom que vous avez pu utiliser sur Facebook.",
+        "Demandez à un proche de consulter votre profil et de vous envoyer son adresse web si vous ne retrouvez pas votre compte dans la recherche.",
+        "Fermez les VPN ou services de localisation inhabituels le temps de la récupération, sauf si vous les utilisiez habituellement.",
+        "Ne tentez pas de vous connecter avec des dizaines de mots de passe: des essais répétés peuvent compliquer l’accès temporairement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recuperer-le-compte-en-trois-etapes",
+      "text": "Récupérer votre compte Facebook en 3 étapes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le chemin exact peut varier légèrement selon la version de l’application et le type d’appareil. Commencez toujours depuis l’écran de connexion de Facebook ou en saisissant vous-même l’adresse officielle du site dans votre navigateur. Ne cliquez pas sur un lien reçu par e-mail, SMS ou message privé pour effectuer cette opération."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Retrouvez votre compte",
+          "html": "Sur l’écran de connexion, choisissez <strong>Mot de passe oublié?</strong> ou l’option équivalente. Saisissez l’adresse e-mail, le numéro de téléphone ou, selon les options proposées, le nom associé au compte. Sélectionnez soigneusement votre profil si plusieurs résultats apparaissent. Si vous êtes déjà connecté sur un autre appareil, utilisez-le pour confirmer qu’il s’agit bien du bon compte."
+        },
+        {
+          "title": "Recevez et saisissez le code de sécurité",
+          "html": "Choisissez une méthode de réception que vous contrôlez encore: e-mail, SMS ou autre option affichée par Facebook. Copiez le code dans la page officielle sans le transmettre à quiconque. Si le code n’est pas reçu, attendez quelques minutes, vérifiez les indésirables, puis demandez un nouvel envoi une seule fois. Si l’adresse ou le numéro proposé ne vous appartient plus, ne choisissez pas cette voie: cherchez l’option indiquant que vous n’y avez plus accès."
+        },
+        {
+          "title": "Créez un nouveau mot de passe et sécurisez l’accès",
+          "html": "Choisissez un mot de passe inédit, long et réservé à Facebook. Une phrase facile à retenir, enrichie de chiffres ou de signes, est souvent plus solide qu’un mot court et compliqué. Une fois connecté, contrôlez immédiatement l’adresse e-mail, le numéro de téléphone, les appareils connectés et les réglages de sécurité. Déconnectez toute session que vous ne reconnaissez pas."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur à éviter",
+      "html": "<p>Un code reçu par SMS ou e-mail est une clé temporaire d’accès. Même si la demande vient d’un « ami », d’un faux support ou d’un prétendu concours, ne le donnez jamais. Une personne qui possède ce code peut prendre le contrôle du compte.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-methode-de-verification",
+      "text": "Quel moyen de vérification choisir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez la méthode la plus sûre, pas nécessairement la plus rapide. Une adresse e-mail protégée par un mot de passe robuste et une double authentification est généralement préférable. Le SMS reste pratique, mais il dépend de votre ligne téléphonique et de sa bonne réception. Si Facebook affiche une vérification supplémentaire, suivez les consignes affichées plutôt que de contourner l’étape."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir le canal de récupération selon votre situation",
+      "headers": [
+        "Situation",
+        "Méthode à privilégier",
+        "Vérifications utiles"
+      ],
+      "rows": [
+        [
+          "Vous ouvrez encore votre boîte e-mail",
+          "Code par e-mail",
+          "Indésirables, règles de transfert, sécurité de la boîte e-mail"
+        ],
+        [
+          "Vous avez toujours votre numéro",
+          "Code par SMS",
+          "Réseau mobile, numéro exact avec indicatif, blocage des SMS"
+        ],
+        [
+          "Vous avez perdu l’e-mail mais gardé le téléphone",
+          "Code par SMS puis mise à jour de l’e-mail",
+          "Ajoutez ensuite une nouvelle adresse que vous contrôlez"
+        ],
+        [
+          "Vous ne contrôlez plus ni l’e-mail ni le numéro",
+          "Option de récupération alternative proposée par Facebook",
+          "Appareil habituel, identité du compte, éventuelle vérification demandée"
+        ],
+        [
+          "Vous suspectez une prise de contrôle",
+          "Parcours compte compromis",
+          "Changements de coordonnées, sessions inconnues, publications ou messages"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "E-mail ou SMS: lequel utiliser pour récupérer l’accès?",
+      "a": {
+        "title": "Code par e-mail",
+        "points": [
+          "À privilégier si votre boîte e-mail est bien sécurisée et encore accessible.",
+          "Permet de consulter facilement l’historique des alertes de sécurité.",
+          "Vérifiez les spams et les filtres qui pourraient déplacer les messages."
+        ]
+      },
+      "b": {
+        "title": "Code par SMS",
+        "points": [
+          "Utile si vous n’avez plus accès à votre ancienne adresse e-mail.",
+          "Rapide lorsque votre ligne fonctionne et que le numéro est toujours associé.",
+          "À éviter comme unique protection: ajoutez aussi une adresse e-mail de secours."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "si-vous-navez-plus-acces-aux-coordonnees",
+      "text": "Vous n’avez plus accès à l’e-mail ou au téléphone associés"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est la situation la plus frustrante, mais elle ne rend pas forcément la récupération impossible. Dans l’écran de récupération, cherchez l’option signalant que vous n’avez plus accès à ces coordonnées. Facebook peut alors proposer d’autres moyens de confirmer votre identité: un appareil déjà reconnu, des contrôles de sécurité ou, dans certains cas, des informations complémentaires. Les possibilités affichées dépendent de l’historique du compte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne créez pas immédiatement un nouveau compte sous le même nom pour contourner le problème. Vous risquez de disperser vos contacts, de compliquer l’identification de votre profil original et de perdre des éléments utiles à la récupération. Commencez par tenter de reprendre le contrôle de votre e-mail: réinitialiser l’accès auprès de votre fournisseur de messagerie peut débloquer tout le reste."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Priorité à votre e-mail",
+      "html": "<p>Votre boîte e-mail est souvent la clé de nombreux services. Si elle a été compromise, changez d’abord son mot de passe, vérifiez ses adresses et méthodes de récupération, puis reprenez la procédure Facebook.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-en-cas-de-piratage",
+      "text": "Compte piraté: agissez vite, sans paniquer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous voyez une adresse e-mail inconnue, un nouveau numéro, des publications frauduleuses ou des messages que vous n’avez pas écrits, considérez le compte comme compromis. Utilisez le parcours officiel dédié aux comptes piratés, accessible notamment via <a href=\"https://www.facebook.com/hacked\" rel=\"noopener\">facebook.com/hacked</a>, de préférence depuis un appareil déjà utilisé. Il est conçu pour examiner les modifications récentes et vous guider vers leur annulation lorsque cela est possible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après avoir récupéré la connexion, ne vous contentez pas de changer le mot de passe. Consultez les réglages relatifs aux mots de passe et à la sécurité, retirez les appareils et sessions inconnus, contrôlez les applications ou sites liés au compte et vérifiez les administrateurs éventuels de pages ou groupes que vous gérez. Prévenez vos proches si des messages frauduleux ont pu être envoyés depuis votre profil: cela limite les nouvelles victimes."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Modifiez le mot de passe Facebook et celui de l’adresse e-mail associée s’ils étaient proches ou réutilisés.",
+        "Supprimez toute adresse e-mail, tout numéro ou tout appareil que vous ne reconnaissez pas.",
+        "Activez la double authentification avec une méthode que vous maîtrisez.",
+        "Examinez les messages, publications et campagnes publicitaires éventuelles pour repérer une activité indésirable.",
+        "Conservez les e-mails d’alerte de sécurité: ils peuvent indiquer la date et la nature d’un changement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "distinguer-compte-pirate-desactive-ou-supprime",
+      "text": "Compte désactivé, verrouillé ou supprimé: ce n’est pas la même procédure"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le formulaire de mot de passe oublié ne résout pas tout. Si Facebook indique que votre compte est désactivé ou suspendu, suivez l’instruction de contestation ou de vérification affichée à la connexion. Il peut s’agir d’un contrôle automatique, d’un problème d’identité ou d’une décision liée aux règles de la plateforme. Répondez avec exactitude aux demandes: multiplier les formulaires ou fournir des informations incohérentes n’accélère généralement pas l’examen."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un compte supprimé volontairement est encore un autre cas. La récupération n’est habituellement envisageable que pendant le délai d’annulation indiqué au moment de la suppression; passé ce délai, les données peuvent ne plus être récupérables. Si l’écran indique un verrouillage temporaire après trop de tentatives, cessez les essais pendant quelque temps et reprenez depuis l’appareil habituel plutôt que de forcer l’accès."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-les-arnaques-de-recuperation",
+      "text": "Éviter les fausses aides à la récupération"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’un compte est inaccessible, les escrocs profitent de l’urgence. Ils promettent de le récupérer contre paiement, demandent votre code reçu par SMS, vous envoient vers une page presque identique à Facebook ou se font passer pour le support dans Messenger, WhatsApp ou les commentaires. Aucun « expert » trouvé sur un réseau social ne peut légitimement demander votre mot de passe, un code de connexion ou le paiement d’un service de déblocage."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux supports",
+      "html": "<p>Le support fiable ne vous demandera pas votre mot de passe ni un code de connexion en message privé. Tapez vous-même l’adresse de Facebook dans votre navigateur ou utilisez l’application officielle; ne suivez pas un lien envoyé sous prétexte d’urgence.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "securiser-le-compte-durablement",
+      "text": "Après récupération: sécurisez votre compte pour ne pas recommencer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une récupération réussie n’est complète qu’après un contrôle de sécurité. Gardez une adresse e-mail actuelle, un numéro à jour et, si possible, une seconde méthode de connexion. Activez les alertes de connexion inconnue et la double authentification dans les paramètres de sécurité. Un gestionnaire de mots de passe peut vous aider à créer et conserver un mot de passe différent pour chaque service."
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites enfin un contrôle régulier, en particulier après un changement de téléphone, de numéro ou d’adresse e-mail. Mettez à jour vos coordonnées avant de perdre l’accès à l’ancienne ligne. Cette précaution simple réduit fortement le risque de vous retrouver bloqué au mauvais moment."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>La voie la plus courte est toujours la même: retrouvez le bon compte, validez un moyen de contact que vous contrôlez, puis supprimez tout accès suspect. Si vos coordonnées ont été modifiées, basculez sans attendre vers le parcours de compte piraté.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment récupérer mon compte Facebook sans adresse e-mail ni numéro de téléphone?",
+      "a": "<p>Depuis l’écran <strong>Mot de passe oublié?</strong>, recherchez l’option indiquant que vous n’avez plus accès aux coordonnées proposées. Effectuez la demande depuis un téléphone, un ordinateur ou un navigateur déjà utilisés pour Facebook, car cela peut faciliter la reconnaissance de votre compte. Si aucune solution alternative n’apparaît, tentez d’abord de récupérer votre ancienne boîte e-mail auprès de son fournisseur: c’est souvent le moyen le plus efficace de rétablir l’accès.</p>"
+    },
+    {
+      "q": "Pourquoi Facebook ne m’envoie-t-il pas le code de récupération?",
+      "a": "<p>Vérifiez l’adresse e-mail ou le numéro sélectionné, puis consultez les indésirables et les filtres de votre messagerie. Pour un SMS, contrôlez la réception réseau et assurez-vous que votre ligne est toujours active. Attendez quelques minutes avant de demander un nouvel envoi: plusieurs demandes successives peuvent rendre le précédent code inutilisable. Si le problème persiste, choisissez une autre méthode proposée à l’écran.</p>"
+    },
+    {
+      "q": "J’ai reçu un e-mail disant que mon adresse Facebook a été modifiée: que faire?",
+      "a": "<p>N’utilisez pas les liens suspects d’un message douteux. Ouvrez directement Facebook depuis son application ou tapez son adresse dans votre navigateur, puis lancez le parcours pour compte compromis, notamment via <a href=\"https://www.facebook.com/hacked\" rel=\"noopener\">facebook.com/hacked</a>. Si vous avez encore accès à la boîte e-mail concernée, cherchez aussi les alertes de sécurité de Facebook: elles peuvent comporter une procédure pour signaler qu’un changement n’a pas été autorisé.</p>"
+    },
+    {
+      "q": "Peut-on récupérer un compte Facebook supprimé?",
+      "a": "<p>Cela dépend du moment et du type de suppression. Lorsqu’une suppression a été demandée volontairement, Facebook affiche normalement une période pendant laquelle l’annulation reste possible. Une fois ce délai écoulé et la suppression finalisée, la récupération peut ne plus être possible. Si vous ne savez pas si le compte a été supprimé, désactivé ou piraté, essayez de le rechercher et consultez le message affiché à la connexion: il orientera vers la procédure adaptée.</p>"
+    },
+    {
+      "q": "Comment retrouver mon compte Facebook avec seulement mon nom?",
+      "a": "<p>Vous pouvez tenter de saisir votre nom dans l’outil de récupération, mais les homonymes sont fréquents. Ajoutez dès que possible une ancienne adresse e-mail ou un ancien numéro de téléphone. Une autre solution consiste à demander à un proche de trouver votre profil et de vous transmettre son adresse web exacte. N’utilisez que des informations qui vous appartiennent et évitez de multiplier les recherches imprécises.</p>"
+    },
+    {
+      "q": "Faut-il payer quelqu’un pour récupérer un compte Facebook piraté?",
+      "a": "<p>Non. Méfiez-vous des personnes qui proposent un déblocage payant sur les réseaux sociaux ou par messagerie: elles peuvent chercher à obtenir vos codes, vos identifiants ou de l’argent. Utilisez les outils officiels de Facebook, sécurisez votre adresse e-mail et ne partagez jamais le code reçu pour la récupération. Un code ou un mot de passe transmis à un tiers peut permettre une nouvelle prise de contrôle.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": 1651,
+  "slug": "combien-de-kilos-de-beton-pour-un-metre-cube",
+  "title": "Combien de kilos de béton pour un mètre cube ?",
+  "metaTitle": "Kilos de béton pour un mètre cube: poids et dosage",
+  "metaDescription": "Combien pèse 1 m³ de béton? Densité, ciment, sacs à prévoir et méthode de calcul pour réussir fondations, dalles et petits travaux sur vos chantiers.",
+  "dek": "Un mètre cube de béton courant pèse généralement autour de 2,3 tonnes, mais ce chiffre ne dit pas à lui seul combien de ciment, de sable ou de sacs acheter. Voici comment distinguer le poids du béton fini de son dosage, puis calculer vos besoins sans surdimensionner votre commande.",
+  "category": "maison-immobilier",
+  "tags": [
+    "béton",
+    "dosage béton",
+    "ciment",
+    "fondations",
+    "dalle béton"
+  ],
+  "keyTakeaways": [
+    "1 m³ de béton courant pèse le plus souvent entre 2 300 et 2 400 kg.",
+    "Le dosage de 350 kg/m³ désigne le ciment seul, pas le poids total du béton.",
+    "Le volume réel de l'ouvrage se calcule avant de choisir sacs, bétonnière ou toupie.",
+    "Ajoutez une petite marge pour les pertes, mais évitez de noyer le béton avec trop d'eau.",
+    "Pour un élément porteur, suivez la formulation prescrite plutôt qu'une recette générique."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "La réponse courte est simple: <strong>un mètre cube de béton courant pèse en général de 2 300 à 2 400 kg</strong>, soit environ 2,3 tonnes. Mais, pour préparer une dalle, une fondation ou un seuil, il faut aussi savoir ce que recouvre ce poids: le ciment n'en représente qu'une part, et la composition varie selon l'ouvrage. Ce guide vous aide à estimer la charge, le nombre de sacs et le bon mode d'approvisionnement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "poids-dun-metre-cube-de-beton",
+      "text": "Combien pèse réellement 1 m³ de béton?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un béton ordinaire, composé de ciment, de sable, de gravillons et d'eau, retenez une masse volumique fraîche d'environ <strong>2 300 à 2 400 kg par m³</strong>. Cette valeur est très pratique pour anticiper une livraison, vérifier la charge transportée ou comprendre pourquoi un petit volume devient vite difficile à manipuler. Un cube de 1 m de côté représente 1 000 litres: il ne peut évidemment pas être déplacé avec une remorque légère ou une voiture particulière."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "2 300 à 2 400 kg",
+          "label": "poids habituel d'1 m³ de béton courant"
+        },
+        {
+          "value": "≈ 350 kg",
+          "label": "quantité de ciment souvent utilisée pour 1 m³ de béton courant"
+        },
+        {
+          "value": "10 sacs de 35 kg",
+          "label": "équivalent du dosage de 350 kg de ciment"
+        },
+        {
+          "value": "160 à 180 L",
+          "label": "ordre de grandeur de l'eau de gâchage, selon la formulation"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le chiffre à retenir",
+      "html": "<p>Si votre question porte uniquement sur le poids: comptez <strong>environ 2,35 tonnes pour 1 m³ de béton normal</strong>. Si elle porte sur les achats de matériaux, ne confondez pas cette masse totale avec le seul dosage en ciment.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-poids-varie",
+      "text": "Pourquoi le poids du béton n'est-il pas toujours le même?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le repère de 2,3 tonnes est fiable pour un béton classique, mais il ne s'agit pas d'une règle immuable. La masse dépend surtout de la nature et de l'humidité des granulats, de la quantité d'eau, du dosage en ciment, de la présence éventuelle d'adjuvants et du type de béton choisi. Un béton allégé, réalisé avec des granulats spécifiques, peut être beaucoup moins dense; à l'inverse, un béton lourd destiné à des usages techniques dépasse nettement la masse d'un béton courant."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur de poids et de dosage selon le type de béton",
+      "headers": [
+        "Type de béton",
+        "Poids indicatif pour 1 m³",
+        "Ciment indicatif",
+        "Usage courant"
+      ],
+      "rows": [
+        [
+          "Béton courant",
+          "2 300 à 2 400 kg",
+          "Environ 300 à 350 kg",
+          "Dalle, terrasse, petits ouvrages"
+        ],
+        [
+          "Béton maigre",
+          "Environ 2 200 à 2 350 kg",
+          "Souvent 150 à 250 kg",
+          "Couche de propreté, calage, travaux peu sollicités"
+        ],
+        [
+          "Béton pour ouvrage armé",
+          "Souvent proche du béton courant",
+          "Formulation définie selon le projet",
+          "Semelle, poteau, poutre, dalle porteuse"
+        ],
+        [
+          "Béton léger ou lourd",
+          "Très variable selon les granulats",
+          "Selon prescription du fabricant ou du bureau d'études",
+          "Isolation, contraintes techniques particulières"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Frais ou durci: une différence limitée pour votre estimation",
+      "html": "<p>Le béton frais contient l'eau de gâchage et sa masse évolue légèrement en durcissant, notamment par évaporation d'une partie de l'eau. Pour commander, transporter ou estimer une charge, le repère de 2 300 à 2 400 kg/m³ reste généralement le bon ordre de grandeur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "poids-total-et-dosage-ciment",
+      "text": "Poids total, dosage en ciment et nombre de sacs: ne mélangez pas tout"
+    },
+    {
+      "type": "paragraph",
+      "html": "La confusion la plus fréquente vient de la formule <strong>350 kg de béton par m³</strong>, qui est erronée. Lorsqu'on parle d'un béton dosé à 350 kg/m³, cela signifie qu'il contient environ 350 kg de <strong>ciment</strong> dans un mètre cube de béton fini. Le mètre cube complet pèse, lui, autour de 2 350 kg, car il comprend aussi les granulats et l'eau."
+    },
+    {
+      "type": "paragraph",
+      "html": "À titre indicatif, une formulation de béton courant peut mobiliser autour de 350 kg de ciment, 700 à 800 kg de sable, 1 000 à 1 100 kg de gravillons et 160 à 180 litres d'eau. Les valeurs exactes changent avec la granulométrie, l'humidité du sable et la résistance recherchée. Le volume final n'est pas la simple addition des volumes des composants: les grains s'imbriquent, les vides se remplissent et le mélange se compacte."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "equivalence-sacs-de-ciment",
+      "text": "L'équivalence en sacs de ciment"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Pour un dosage de <strong>350 kg/m³</strong>, prévoyez 10 sacs de 35 kg.",
+        "Avec des sacs de <strong>25 kg</strong>, le même dosage représente 14 sacs.",
+        "Avec des sacs de <strong>30 kg</strong>, il faut compter environ 12 sacs.",
+        "Un dosage plus faible peut convenir à certains travaux non structurels, mais il ne faut pas réduire le ciment au hasard pour une dalle, une fondation ou un élément armé."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une recette n'est pas un dimensionnement",
+      "html": "<p>Pour une fondation, un plancher, un mur de soutènement, une piscine ou tout ouvrage recevant une charge importante, la classe de béton, l'armature et les dimensions doivent correspondre au projet. Un dosage standard ne remplace ni les préconisations du fabricant, ni celles d'un professionnel lorsque l'ouvrage est structurel.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quantites-de-materiaux-pour-un-metre-cube",
+      "text": "Quels matériaux prévoir pour fabriquer 1 m³ de béton?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous réalisez votre béton à la bétonnière, partez d'un dosage cohérent avec l'usage prévu et adaptez les proportions à votre matériel. Pour du béton courant autour de 350 kg de ciment par m³, les quantités précédentes donnent un bon ordre de grandeur d'achat. Toutefois, les sacs de mélange à béton, les granulats vendus en big bag et le sable livré en vrac n'ont pas tous la même humidité ni le même calibre: le volume obtenu peut varier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le plus sûr est de vous appuyer sur les indications de rendement du fournisseur. Pour les granulats, raisonnez à la fois en poids et en volume livré. Pour le ciment, vérifiez le poids net du sac. Pour l'eau, dosez progressivement: elle sert à obtenir une pâte maniable, pas à rendre le mélange liquide."
+    },
+    {
+      "type": "compare",
+      "title": "Acheter des constituants séparés ou du béton prêt à l'emploi?",
+      "a": {
+        "title": "Ciment, sable et gravillons séparés",
+        "points": [
+          "Adapté aux petits à moyens volumes et aux chantiers accessibles.",
+          "Demande une bétonnière, du temps, un stockage sec du ciment et une régularité entre les gâchées.",
+          "Peut être économique, mais les pertes et les livraisons de granulats sont à intégrer au budget."
+        ]
+      },
+      "b": {
+        "title": "Béton prêt à l'emploi",
+        "points": [
+          "Pratique pour les volumes importants, les accès faciles et une qualité homogène.",
+          "Le prix global est plus élevé, avec parfois un minimum de commande ou des frais selon l'accès.",
+          "Il faut préparer coffrage, armatures et équipe avant l'arrivée de la toupie."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calculer-volume-et-poids-du-projet",
+      "text": "Comment calculer le volume et le poids de votre ouvrage?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de convertir en kilos, calculez d'abord le volume géométrique en mètres cubes. Pour une dalle rectangulaire, la formule est: longueur × largeur × épaisseur. Toutes les mesures doivent être exprimées en mètres. Une épaisseur de 12 cm devient donc 0,12 m; oublier cette conversion conduit à une erreur d'un facteur 100."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Mesurez les dimensions finies",
+          "html": "Relevez longueur, largeur et épaisseur après décaissement, en tenant compte du coffrage. Pour une semelle filante, utilisez longueur × largeur × hauteur."
+        },
+        {
+          "title": "Calculez le volume en m³",
+          "html": "Exemple: une dalle de 5 m × 3 m × 0,12 m représente 1,8 m³ de béton."
+        },
+        {
+          "title": "Convertissez en poids si nécessaire",
+          "html": "Multipliez le volume par environ 2 350 kg/m³. Dans l'exemple, 1,8 m³ représentent environ 4 230 kg de béton frais."
+        },
+        {
+          "title": "Déterminez le ciment selon le dosage retenu",
+          "html": "Avec un dosage de 350 kg/m³, 1,8 m³ nécessitent environ 630 kg de ciment, soit 18 sacs de 35 kg ou un peu plus de 25 sacs de 25 kg."
+        },
+        {
+          "title": "Ajoutez une marge raisonnable",
+          "html": "Prévoyez généralement une petite marge pour les irrégularités du sol, les fonds de bétonnière et les pertes. Une marge de 5 à 10 % suffit souvent; une marge excessive coûte cher et crée un surplus difficile à évacuer."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pensez aux formes non rectangulaires",
+      "html": "<p>Pour un poteau cylindrique, calculez le volume du cylindre: rayon × rayon × 3,14 × hauteur. Pour une marche, un escalier ou un seuil irrégulier, découpez mentalement l'ouvrage en petits blocs simples et additionnez les volumes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-sacs-betonniere-ou-toupie",
+      "text": "Sacs, bétonnière ou toupie: quel choix pour quel volume?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le poids de 1 m³ doit vous faire réfléchir à la logistique. Un sac de béton prêt à gâcher de 25 ou 30 kg n'offre que quelques dizaines de litres de béton une fois mélangé, selon sa formule. Il faut donc souvent plusieurs dizaines de sacs pour atteindre un mètre cube. Ces sacs conviennent très bien à une réparation, un poteau, quelques plots de clôture ou un petit seuil, mais deviennent vite pénibles et coûteux pour une grande dalle."
+    },
+    {
+      "type": "paragraph",
+      "html": "La bétonnière est intéressante si vous pouvez fabriquer des gâchées régulières et couler sans interruption excessive. Sa capacité affichée ne correspond pas toujours au volume utile de béton: ne la remplissez pas à ras bord. Au-delà d'un volume conséquent, le béton prêt à l'emploi permet de couler plus vite et plus homogènement, à condition que le camion puisse approcher et que tout soit prêt le jour J."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Petite réparation ou scellement:</strong> les sacs prêts à gâcher simplifient le travail.",
+        "<strong>Petite dalle ou plusieurs plots:</strong> comparez le coût des sacs avec une bétonnière et des matériaux en vrac.",
+        "<strong>Dalle importante ou fondations continues:</strong> demandez un devis de béton prêt à l'emploi et vérifiez l'accès toupie ou pompe.",
+        "<strong>Ouvrage porteur:</strong> privilégiez une formulation commandée ou validée pour l'usage visé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-a-eviter-avec-le-beton",
+      "text": "Les erreurs qui font rater le calcul ou le béton"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à confondre un mètre cube avec un mètre carré. Le mètre carré mesure une surface; il faut toujours le multiplier par une épaisseur pour obtenir un volume. La deuxième est de prendre le poids de 2,3 tonnes comme une liste de courses: ce poids inclut les granulats et l'eau, pas seulement les sacs de ciment."
+    },
+    {
+      "type": "paragraph",
+      "html": "La troisième erreur, très courante à la bétonnière, est d'ajouter de l'eau pour faciliter la mise en place. Un béton trop fluide est plus facile à étaler à court terme, mais il peut perdre en résistance, se fissurer davantage et produire plus de retrait. Préférez une mise en œuvre organisée: granulats correctement dosés, eau ajoutée peu à peu, vibration ou serrage adapté, puis protection du béton frais contre le soleil, le vent et le gel."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à la charge transportée",
+      "html": "<p>Même 0,25 m³ de béton courant représentent près de 600 kg. Vérifiez la charge utile réelle de la remorque, du véhicule et du support. Ne vous fiez jamais à la seule capacité en litres de la cuve ou de la benne.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-daction-avant-de-couler",
+      "text": "Votre plan d'action avant de commander ou de gâcher"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par mesurer l'ouvrage et calculez son volume en m³. Multipliez-le par 2 350 kg si vous avez besoin d'estimer la charge totale, puis par le dosage en ciment choisi si vous fabriquez le béton vous-même. Comparez ensuite les rendements indiqués sur les sacs ou les big bags avec votre volume calculé, en ajoutant une marge limitée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, préparez l'intégralité du chantier avant le premier mélange: coffrage stable, treillis ou armatures en place, accès pour les brouettes, outils de réglage, eau maîtrisée et protection de cure. Pour retenir l'essentiel: <strong>1 m³ de béton courant pèse environ 2,3 tonnes, dont environ 350 kg de ciment dans une formulation fréquemment utilisée</strong>. C'est cette distinction qui vous permettra de commander juste."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de tonnes fait un mètre cube de béton?",
+      "a": "<p>Un mètre cube de béton courant représente généralement entre 2,3 et 2,4 tonnes. Pour un calcul rapide, vous pouvez retenir 2,35 tonnes. Les bétons légers, lourds ou formulés avec des granulats particuliers s'écartent de cette valeur: vérifiez alors la fiche technique du produit.</p>"
+    },
+    {
+      "q": "Combien de sacs de ciment de 35 kg faut-il pour 1 m³ de béton?",
+      "a": "<p>Avec un dosage de 350 kg de ciment par m³, il faut exactement 10 sacs de 35 kg. Ce dosage est un repère fréquent pour un béton courant, mais il n'est pas universel: un béton maigre utilisera moins de ciment, tandis qu'un ouvrage soumis à des contraintes particulières peut nécessiter une formulation différente.</p>"
+    },
+    {
+      "q": "Combien de sacs de béton prêt à l'emploi faut-il pour 1 m³?",
+      "a": "<p>Cela dépend du rendement inscrit sur le sac, et non de son seul poids. Divisez 1 000 litres par le volume de béton frais annoncé. Par exemple, si un sac donne 12 litres de béton, il faut environ 84 sacs pour atteindre 1 m³. Vérifiez toujours le rendement du fabricant: il varie selon le poids du sac et la composition du mélange.</p>"
+    },
+    {
+      "q": "Combien de mètres cubes représentent une tonne de béton?",
+      "a": "<p>Avec une densité retenue de 2 350 kg/m³, une tonne de béton correspond à environ 0,43 m³, soit 430 litres. En pratique, vous pouvez retenir une fourchette d'environ 0,42 à 0,45 m³ par tonne pour du béton courant.</p>"
+    },
+    {
+      "q": "Peut-on faire 1 m³ de béton avec une petite bétonnière?",
+      "a": "<p>Oui, mais il faut le réaliser en plusieurs gâchées et organiser le coulage pour éviter les temps d'attente trop longs entre elles. Le volume utile d'une bétonnière est inférieur à sa capacité nominale. Pour une dalle, la difficulté n'est pas seulement de produire 1 m³: il faut aussi transporter, répartir, régler et finir le béton avant qu'il ne commence à prendre.</p>"
+    },
+    {
+      "q": "Le dosage de 350 kg/m³ convient-il à une dalle de terrasse?",
+      "a": "<p>Il constitue un ordre de grandeur courant, mais le bon choix dépend de l'épaisseur de la dalle, de son armature, de la nature du sol, des charges prévues, de l'exposition au gel et de la présence éventuelle d'un véhicule. Pour une terrasse piétonne, suivez les préconisations adaptées au système de dalle choisi; pour une dalle carrossable ou un élément porteur, faites valider la conception et la formulation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

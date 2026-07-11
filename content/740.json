@@ -1,0 +1,304 @@
+{
+  "id": 740,
+  "slug": "comment-calculer-son-dejeuner",
+  "title": "Comment calculer son déjeuner ?",
+  "metaTitle": "Comment calculer son déjeuner sans se compliquer la vie",
+  "metaDescription": "Apprenez à calculer un déjeuner équilibré: portions, calories, protéines et exemples concrets pour adapter votre assiette à votre journée au quotidien.",
+  "dek": "Calculer son déjeuner ne consiste pas forcément à peser chaque aliment ni à compter chaque calorie. Avec quelques repères visuels, la lecture des étiquettes et une assiette bien construite, vous pouvez composer un repas rassasiant et adapté à votre journée.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "déjeuner équilibré",
+    "nutrition",
+    "portions",
+    "calories",
+    "repas sain"
+  ],
+  "keyTakeaways": [
+    "Un déjeuner équilibré se juge d’abord sur sa composition, pas sur un chiffre isolé.",
+    "La règle de la demi-assiette de légumes, du quart de féculents et du quart de protéines est un bon point de départ.",
+    "Les portions se modulent selon votre faim, votre activité, votre petit-déjeuner et le reste de la journée.",
+    "Compter les calories peut aider ponctuellement, mais ne doit pas faire oublier la satiété et la qualité des aliments.",
+    "Un déjeuner simple préparé à l’avance peut être aussi équilibré qu’un plat élaboré."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "À midi, le défi n’est pas de produire un calcul parfait: il s’agit de manger assez pour tenir l’après-midi, sans lourdeur ni fringale. Pour calculer votre déjeuner utilement, combinez une structure d’assiette simple, des portions adaptées à votre situation et, si besoin, une lecture raisonnée des calories et des étiquettes. Voici une méthode concrète, valable à la maison, au bureau comme au restaurant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-veut-dire-calculer-son-dejeuner",
+      "text": "Calculer son déjeuner: de quoi parle-t-on vraiment?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « calculer » peut recouvrir deux approches. La première, la plus utile au quotidien, consiste à vérifier que votre repas contient les grandes familles d’aliments nécessaires: légumes ou fruits, source de protéines, féculents ou pain selon votre faim, et un peu de matières grasses de qualité. La seconde consiste à chiffrer les calories et les nutriments. Elle peut être pertinente dans certaines situations, mais elle n’est pas indispensable pour mieux manger."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un même déjeuner ne convient pas à tout le monde. Vos besoins changent selon votre gabarit, votre âge, votre activité, vos horaires, ce que vous avez mangé le matin, votre faim réelle et le dîner prévu. Une assiette très légère peut suffire après un copieux brunch et avant un dîner tôt; elle sera souvent insuffisante si vous avez marché, porté des charges ou prévoyez du sport après le travail."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "½",
+          "label": "d’assiette: un repère visuel simple pour les légumes, crus et/ou cuits"
+        },
+        {
+          "value": "¼",
+          "label": "d’assiette: une base courante pour les féculents, à ajuster à votre activité"
+        },
+        {
+          "value": "1 paume",
+          "label": "de main: un ordre de grandeur pratique pour la portion de protéines"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>L’équilibre s’observe sur plusieurs repas, pas à la perfection dans chaque assiette. Un déjeuner moins complet peut être compensé naturellement par le reste de la journée, sans culpabilité ni « rattrapage » excessif.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adapter-le-repas-a-sa-journee",
+      "text": "Commencez par regarder votre journée, pas seulement votre assiette"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de servir ou de commander, posez-vous trois questions: à quelle heure avez-vous mangé le matin? Quel sera votre niveau d’activité jusqu’au soir? Quand et comment dînerez-vous? Elles donnent une réponse plus pertinente qu’une application qui vous attribue un objectif théorique identique tous les jours."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une journée de bureau ne signifie pas automatiquement qu’il faut supprimer les féculents. Ils apportent de l’énergie et participent à la satiété, surtout lorsqu’ils sont peu raffinés: pain complet ou au levain, riz complet, pâtes semi-complètes, pommes de terre, quinoa, semoule ou légumineuses. En revanche, une portion importante de féculents, accompagnée de pain, de boisson sucrée et de dessert très sucré, peut dépasser votre faim réelle sans vous apporter davantage de confort."
+    },
+    {
+      "type": "compare",
+      "title": "Deux déjeuners, deux ajustements logiques",
+      "a": {
+        "title": "Après une matinée plutôt sédentaire",
+        "points": [
+          "Gardez légumes et protéines comme base du repas.",
+          "Choisissez une portion modérée de féculents, selon votre appétit.",
+          "Privilégiez l’eau et limitez l’accumulation de produits très sucrés."
+        ]
+      },
+      "b": {
+        "title": "Avant une après-midi active ou du sport",
+        "points": [
+          "Conservez une vraie portion de féculents pour l’énergie disponible.",
+          "Évitez un repas très gras ou trop copieux juste avant l’effort.",
+          "Prévoyez une collation simple si le dîner est tardif."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "construire-une-assiette-equilibree",
+      "text": "Construire l’assiette: le calcul visuel le plus fiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode de l’assiette évite de transformer chaque repas en exercice de comptabilité. Elle fonctionne avec un plat maison, une gamelle, un bowl ou un self-service. Servez d’abord les légumes, ajoutez une source de protéines, puis les féculents. Terminez par une petite quantité de matière grasse, souvent déjà présente dans la cuisson, la sauce ou l’assaisonnement."
+    },
+    {
+      "type": "table",
+      "caption": "Les composants d’un déjeuner équilibré et leurs repères pratiques",
+      "headers": [
+        "Élément du repas",
+        "Repère et exemples"
+      ],
+      "rows": [
+        [
+          "Légumes",
+          "Environ la moitié de l’assiette: crudités, soupe de légumes, légumes rôtis, poêlée, ratatouille ou salade composée."
+        ],
+        [
+          "Protéines",
+          "Environ une paume: poisson, œufs, volaille, viande, tofu, tempeh, fromage blanc, lentilles, pois chiches ou haricots."
+        ],
+        [
+          "Féculents",
+          "Environ un quart de l’assiette, davantage si besoin: pain, riz, pâtes, semoule, pommes de terre, quinoa ou légumineuses."
+        ],
+        [
+          "Matières grasses",
+          "Une petite quantité: huile de colza ou d’olive, noix, graines, avocat ou sauce maison mesurée."
+        ],
+        [
+          "Fin de repas",
+          "Un fruit, un laitage nature ou les deux selon votre faim, vos habitudes et le reste de la journée."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les légumineuses ont un statut particulier: lentilles, pois chiches et haricots apportent à la fois des glucides, des fibres et des protéines. Dans une salade de lentilles, elles peuvent donc prendre une place importante, complétées par beaucoup de légumes et éventuellement un œuf, du thon, du tofu ou un produit laitier. Inutile de forcer tous les compartiments si le plat est déjà cohérent."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Une grande salade n’est pas forcément un déjeuner complet. Si elle ne contient que quelques feuilles, des tomates et une sauce, la faim peut revenir très vite. Ajoutez une vraie source de protéines et, selon votre besoin, du pain ou un féculent.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "estimer-les-portions-sans-balance",
+      "text": "Estimer les portions sans balance ni application"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de peser votre riz ou vos courgettes tous les jours. Votre main constitue un repère transportable: une paume pour les protéines, un poing pour les féculents cuits, deux poignées pour les légumes et un pouce pour une matière grasse dense, comme le fromage, les oléagineux ou l’avocat. Ce ne sont pas des prescriptions médicales; ce sont des repères simples pour sortir des portions automatiques souvent dictées par la taille du paquet ou de l’assiette."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vous avez encore faim une vingtaine de minutes après le repas: augmentez d’abord les légumes, les protéines ou les féculents peu raffinés.",
+        "Vous êtes régulièrement lourd ou somnolent après déjeuner: réduisez le cumul pain + grosse portion de féculents + dessert sucré, et ralentissez le rythme du repas.",
+        "Vous grignotez systématiquement vers 16 heures: vérifiez qu’il y avait assez de protéines, de fibres et de quantité globale à midi.",
+        "Vous n’avez pas faim: respectez ce signal, mais prévoyez un encas nourrissant plus tard plutôt que d’attendre d’être affamé."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon indicateur",
+      "html": "<p>Un déjeuner bien dosé vous laisse rassasié, concentré et confortable jusqu’au prochain repas ou à une collation prévue. La sensation obtenue compte autant que la portion servie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calculer-calories-et-etiquettes",
+      "text": "Calculer les calories et les étiquettes: utile, mais avec méthode"
+    },
+    {
+      "type": "paragraph",
+      "html": "Compter les calories peut être utile pendant quelques jours pour comprendre les écarts entre un plat maison, un sandwich ou une formule livrée. Cela aide aussi à repérer les ajouts discrets: huile versée généreusement, fromage, mayonnaise, boissons sucrées, alcool ou biscuits pris en fin de repas. Mais un chiffre de calories ne dit pas tout de la qualité nutritionnelle, des fibres, du sel ni de votre satiété."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un emballage, les informations sont généralement données pour 100 g et parfois pour une portion. Pour calculer l’énergie d’une quantité consommée, multipliez la valeur pour 100 g par le poids mangé, puis divisez par 100. Par exemple, 180 g d’un aliment affiché à 120 kcal pour 100 g représentent 216 kcal. Pour un plat composé, additionnez les ingrédients, sans oublier l’assaisonnement et la boisson."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Notez ce qui compose réellement le repas",
+          "html": "Incluez les aliments principaux, la matière grasse de cuisson, la sauce, le pain, le dessert et la boisson. C’est là que les estimations sont le plus souvent incomplètes."
+        },
+        {
+          "title": "Utilisez la bonne référence de poids",
+          "html": "Vérifiez si l’étiquette ou votre recette parle d’aliment cru ou cuit. Le poids change beaucoup avec l’eau, notamment pour les pâtes, le riz et les légumineuses."
+        },
+        {
+          "title": "Additionnez, puis interprétez",
+          "html": "Comparez le total à votre faim, votre activité et à la composition du repas. Ne concluez pas qu’un déjeuner est « bon » ou « mauvais » sur la seule base d’un total calorique."
+        },
+        {
+          "title": "Réévaluez après le repas",
+          "html": "Observez votre énergie, votre confort digestif et votre faim dans l’après-midi. Ces retours vous permettent d’ajuster la prochaine assiette plus utilement qu’une précision au gramme près."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au piège du contrôle permanent",
+      "html": "<p>Si le calcul des calories provoque stress, culpabilité, restriction ou perte de repères de faim, faites une pause. Un médecin ou un diététicien-nutritionniste peut proposer un accompagnement adapté, notamment en cas de trouble du comportement alimentaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adapter-au-bureau-au-restaurant-et-au-budget",
+      "text": "Adapter le calcul au bureau, au restaurant et à votre budget"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au bureau, le déjeuner le plus facile à équilibrer est souvent une base préparée en double la veille: légumes cuits ou crus, céréale ou pomme de terre, protéine, sauce à part et fruit. Une lunch box maison revient fréquemment à quelques euros par portion selon les ingrédients; une formule achetée le midi peut facilement coûter autour d’une dizaine d’euros, voire davantage dans certaines villes. Préparer une base à l’avance aide donc autant le budget que l’équilibre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au restaurant ou à la cantine, cherchez d’abord un plat identifiable: poisson et légumes avec riz, poulet et ratatouille, chili de haricots avec salade, omelette et pommes de terre, par exemple. Vous n’avez pas besoin de refuser systématiquement les frites, la pizza ou le dessert. L’idée est d’éviter le cumul quotidien: entrée frite, plat très riche, pain, soda et pâtisserie dans un même repas. Si le plat est copieux, une entrée de crudités ou un fruit peuvent suffire ensuite."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un déjeuner végétarien, associez régulièrement légumineuses, tofu, œufs ou produits laitiers à une source de céréales et à des légumes. Pour une alimentation végétalienne, misez sur les lentilles, haricots, pois chiches, tofu, tempeh et produits enrichis lorsque cela est pertinent. En cas de diabète, de maladie rénale, de pathologie digestive, de grossesse ou d’objectif de perte de poids important, les repères généraux ne remplacent pas un conseil individualisé."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Astuce anti-dépannage répétitif",
+      "html": "<p>Gardez au travail ou chez vous une réserve de pain complet, conserves de poisson ou de légumineuses, légumes surgelés nature, œufs et fruits. En quelques minutes, vous évitez de devoir choisir chaque jour un déjeuner par défaut.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "idees-dejeuners-simples-a-calculer",
+      "text": "Trois déjeuners simples à calculer"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Le bol chaud classique:</strong> une portion de poulet, de poisson ou de tofu, du riz ou des pommes de terre, beaucoup de légumes rôtis et une cuillère de sauce au yaourt ou d’huile assaisonnée. Ajoutez un fruit si vous en avez envie. Cette formule permet de visualiser immédiatement les trois grandes parties de l’assiette."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>La salade-repas qui tient au corps:</strong> lentilles ou pois chiches, concombre, tomates, carottes, herbes, feta ou œuf, pain complet et fruit. Les légumineuses apportent déjà une base nourrissante; le pain peut être adapté selon votre faim et votre activité. Mesurez surtout l’huile de la vinaigrette au début: elle est utile, mais vite abondante lorsqu’elle est versée sans repère."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Le sandwich amélioré:</strong> pain complet ou aux céréales, garniture généreuse en poulet, thon, œuf ou houmous, crudités en quantité, un peu de fromage ou de sauce, puis un fruit et de l’eau. Si vous achetez un sandwich industriel, regardez la taille réelle, la teneur en sel et la présence de légumes plutôt que de vous fier uniquement au mot « équilibré » affiché sur l’emballage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mettre-en-place-sa-methode",
+      "text": "Votre plan d’action pour mieux calculer vos déjeuners"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pendant une semaine, ne cherchez pas la perfection: composez simplement vos déjeuners avec le repère légumes-protéines-féculents, puis notez mentalement votre faim et votre énergie vers 16 heures. Si vous avez faim trop tôt, renforcez progressivement le repas; si vous êtes inconfortablement rassasié, réduisez les éléments les plus denses ou les doublons. Cette observation vaut davantage qu’un calcul rigide répété sans tenir compte de vos sensations."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur calcul est celui que vous pouvez appliquer durablement: une assiette majoritairement végétale, une protéine identifiable, des féculents ajustés et une vraie attention à votre faim. Les calories sont un outil éventuel, pas le pilote de tous vos repas.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il compter les calories de son déjeuner pour manger équilibré?",
+      "a": "<p>Non. Pour la plupart des personnes, la structure de l’assiette, la qualité des aliments et la satiété donnent déjà de bons repères. Compter peut aider temporairement à comprendre un plat très riche, à comparer des produits ou à suivre une recommandation professionnelle, mais ce n’est pas une obligation quotidienne.</p>"
+    },
+    {
+      "q": "Combien de calories doit contenir un déjeuner?",
+      "a": "<p>Il n’existe pas de chiffre valable pour tous. Dans une journée organisée autour de trois repas, le déjeuner représente souvent une part importante des apports quotidiens, mais cette part varie selon le petit-déjeuner, les collations, l’activité physique et le dîner. Fiez-vous d’abord à une assiette complète et à votre niveau de faim dans l’après-midi.</p>"
+    },
+    {
+      "q": "Un déjeuner équilibré doit-il obligatoirement finir par un dessert?",
+      "a": "<p>Non. Un fruit ou un laitage peut compléter agréablement le repas, mais il n’est pas obligatoire si vous n’avez plus faim ou si ces aliments sont prévus à un autre moment. Un dessert très sucré n’est pas interdit non plus: il s’intègre plus facilement lorsqu’il ne s’ajoute pas systématiquement à un repas déjà très riche.</p>"
+    },
+    {
+      "q": "Comment calculer une salade composée achetée en supermarché?",
+      "a": "<p>Regardez d’abord la quantité réellement contenue dans la barquette et non seulement les valeurs pour 100 g. Vérifiez ensuite la présence d’une protéine, de légumes, de féculents et la quantité de sauce fournie. Une salade avec peu de protéines et beaucoup de sauce ou de croûtons peut être moins rassasiante qu’elle n’en a l’air; complétez-la au besoin avec du pain complet, un œuf, un yaourt nature ou un fruit.</p>"
+    },
+    {
+      "q": "Comment équilibrer son déjeuner si l’on veut perdre du poids?",
+      "a": "<p>Évitez de sauter systématiquement le déjeuner ou de vous contenter d’une assiette minuscule: cela favorise souvent la fatigue et les fringales. Conservez légumes, protéines et féculents, mais ajustez les quantités, les sauces, les produits frits, les boissons sucrées et les grignotages selon votre situation. Si l’objectif est important ou si la relation à l’alimentation est difficile, un professionnel de santé pourra construire un cadre adapté.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

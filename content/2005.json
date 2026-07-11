@@ -1,0 +1,304 @@
+{
+  "id": 2005,
+  "slug": "comment-lassurance-habitation-couvre-t-elle-les-catastrophes-naturelles",
+  "title": "Comment l’assurance habitation couvre-t-elle les catastrophes naturelles ?",
+  "metaTitle": "Assurance habitation et catastrophes naturelles: vos droits",
+  "metaDescription": "Catastrophes naturelles: garantie, arrêté, déclaration, franchise et indemnisation. Comprenez les démarches à suivre pour protéger votre logement au mieux.",
+  "dek": "Une inondation, une sécheresse ou un glissement de terrain ne déclenchent pas automatiquement un remboursement. Pour être indemnisé au titre des catastrophes naturelles, votre assurance habitation et une décision administrative doivent se rejoindre.",
+  "category": "assurance-finance",
+  "tags": [
+    "assurance habitation",
+    "catastrophes naturelles",
+    "indemnisation",
+    "inondation",
+    "sécheresse"
+  ],
+  "keyTakeaways": [
+    "La garantie Cat Nat est intégrée aux assurances de dommages aux biens, mais elle dépend d'un arrêté officiel.",
+    "Déclarez le sinistre sans attendre et, au plus tard, dans le délai prévu par votre contrat, qui ne peut être inférieur à 30 jours après l'arrêté.",
+    "La franchise Cat Nat reste à votre charge, même lorsque le sinistre est reconnu.",
+    "Conservez photos, factures, devis et biens endommagés jusqu'au passage de l'expert.",
+    "Tempête, grêle et neige relèvent souvent d'une autre garantie que la Cat Nat."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Quand l'eau entre dans votre maison, que le sol fissure les murs ou qu'une coulée de boue ravage un quartier, le réflexe est de contacter son assureur. C'est indispensable, mais l'indemnisation au titre des catastrophes naturelles obéit à un mécanisme précis: la garantie de votre contrat ne suffit pas toujours. Voici ce qui est couvert, les démarches à accomplir et les pièges qui peuvent retarder votre dossier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "garantie-catastrophes-naturelles-principe",
+      "text": "La garantie catastrophes naturelles: un dispositif légal, pas une option de confort"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, la garantie catastrophes naturelles, souvent abrégée en <strong>Cat Nat</strong>, est obligatoirement incluse dans les contrats qui assurent des dommages à des biens, dont la plupart des assurances multirisques habitation. Elle vise les dommages matériels directs causés par l'intensité anormale d'un phénomène naturel: inondation, coulée de boue, sécheresse avec retrait-gonflement des argiles, séisme ou mouvement de terrain, par exemple."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne s'agit donc pas d'une garantie que vous choisissez ou non à la souscription de votre assurance habitation. En revanche, elle ne joue que pour les <strong>biens effectivement assurés</strong> par votre contrat. Une dépendance non déclarée, du mobilier dont le plafond de garantie est insuffisant ou une clôture exclue des conditions du contrat ne deviennent pas automatiquement couverts parce qu'un arrêté Cat Nat est publié."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point décisif",
+      "html": "<p>La garantie Cat Nat est bien prévue par la loi, mais le versement n'est pas automatique: il faut que l'événement soit reconnu pour votre commune et pour la période concernée par un arrêté interministériel.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "evenements-couverts-et-exclusions",
+      "text": "Quels phénomènes sont couverts, et lesquels relèvent d'une autre garantie?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nom de la garantie peut prêter à confusion. Tout événement météo spectaculaire n'est pas nécessairement une catastrophe naturelle au sens de l'assurance. La bonne question est double: quel phénomène a causé le dommage, et quelle garantie de votre contrat est mobilisable?"
+    },
+    {
+      "type": "table",
+      "caption": "Identifier la garantie susceptible d'intervenir",
+      "headers": [
+        "Situation",
+        "Garantie généralement mobilisée",
+        "Ce qu'il faut vérifier"
+      ],
+      "rows": [
+        [
+          "Inondation, ruissellement exceptionnel, coulée de boue",
+          "Cat Nat si un arrêté est publié",
+          "La commune et les dates doivent figurer dans l'arrêté."
+        ],
+        [
+          "Sécheresse provoquant fissures et affaissement du sol argileux",
+          "Cat Nat si l'état est reconnu",
+          "Le lien entre les désordres et le phénomène de sécheresse sera examiné."
+        ],
+        [
+          "Séisme, avalanche ou mouvement de terrain d'intensité anormale",
+          "Cat Nat le plus souvent",
+          "Le bien endommagé doit être assuré et l'arrêté doit s'appliquer."
+        ],
+        [
+          "Tempête, grêle, poids de la neige sur la toiture",
+          "Garantie tempête, grêle, neige du contrat habitation",
+          "Un arrêté Cat Nat n'est habituellement pas nécessaire."
+        ],
+        [
+          "Dégât des eaux dû à une fuite ou à une canalisation privée",
+          "Garantie dégâts des eaux",
+          "Il faut rechercher l'origine exacte du sinistre."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas tempête et Cat Nat",
+      "html": "<p>Attendre un arrêté pour déclarer une toiture arrachée par le vent peut vous faire perdre du temps. Les dommages de tempête, de grêle ou de neige sont le plus souvent traités au titre des garanties classiques de votre assurance habitation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "biens-personnes-concernes",
+      "text": "Propriétaire, locataire, copropriétaire: qui doit déclarer quoi?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La personne qui déclare n'est pas toujours celle qui possède les murs. Votre rôle dépend de votre statut et de la partie du bâtiment touchée. En pratique, chacun alerte son propre assureur afin qu'il ouvre un dossier, même si plusieurs contrats interviennent ensuite."
+    },
+    {
+      "type": "compare",
+      "title": "Après un sinistre Cat Nat: propriétaire ou locataire?",
+      "a": {
+        "title": "Vous êtes propriétaire occupant",
+        "points": [
+          "Votre assurance multirisques habitation peut couvrir le bâtiment et vos biens mobiliers, selon les garanties souscrites.",
+          "Déclarez les fissures, infiltrations, dommages au toit, aux murs et aux équipements assurés.",
+          "Vérifiez les plafonds, les règles de vétusté et l'éventuelle couverture des annexes."
+        ]
+      },
+      "b": {
+        "title": "Vous êtes locataire",
+        "points": [
+          "Votre assurance habitation concerne d'abord vos meubles, équipements et effets personnels assurés.",
+          "Prévenez sans délai le propriétaire ou l'agence: le bailleur doit gérer les dommages au bâti avec son propre assureur.",
+          "Ne confondez pas l'indemnisation de vos biens avec la responsabilité des travaux sur l'immeuble."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "En copropriété, le syndic déclare généralement les dommages aux parties communes, tels que la toiture, les façades, les caves collectives ou les canalisations communes. Chaque copropriétaire traite de son côté les dégâts de son logement et de ses biens. Pour une voiture endommagée par une inondation, c'est l'assurance automobile comportant une garantie de dommages qui est en principe concernée: l'assurance habitation ne remplace pas l'assurance auto."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "arrete-catastrophe-naturelle",
+      "text": "L'arrêté Cat Nat: la condition qui déclenche le régime d'indemnisation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un phénomène important, la commune peut demander la reconnaissance de l'état de catastrophe naturelle. L'État examine alors la situation et publie, le cas échéant, un arrêté interministériel au <em>Journal officiel</em>. Cet arrêté liste les communes reconnues, le phénomène retenu et la période visée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne pouvez pas obtenir une indemnisation Cat Nat si votre commune n'apparaît pas dans l'arrêté applicable au sinistre. Cela ne signifie pas forcément qu'aucune indemnisation n'est possible: votre contrat peut couvrir l'événement sous une autre garantie, notamment tempête ou dégâts des eaux. En cas de doute, demandez à l'assureur quelle garantie il étudie et sur quel motif il se prononce."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Si l'arrêté tarde à paraître",
+      "html": "<p>N'attendez pas sa publication pour signaler les dégâts. Déclarez le sinistre à votre assureur, gardez les preuves et contactez la mairie pour savoir si une demande de reconnaissance a été déposée. L'assureur pourra instruire votre dossier dès que le cadre applicable sera connu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "declarer-sinistre-cat-nat",
+      "text": "Comment déclarer un sinistre: la méthode qui protège votre dossier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une déclaration claire et documentée évite de longues demandes de compléments. Le contrat précise les canaux acceptés: espace client, application, téléphone, agence, courrier ou courriel. La lettre recommandée avec accusé de réception n'est pas systématiquement obligatoire, mais elle constitue une preuve utile si le dossier est sensible ou si vous ne recevez pas d'accusé de prise en charge par un autre moyen."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Mettez les personnes et le logement en sécurité",
+          "html": "Contactez les secours si nécessaire, coupez les réseaux uniquement si cela ne présente aucun danger et prenez les mesures urgentes pour limiter l'aggravation des dommages. Conservez les factures de pompage, bâchage ou assèchement d'urgence."
+        },
+        {
+          "title": "Photographiez avant de nettoyer",
+          "html": "Prenez des vues larges et rapprochées, avec la date si possible: hauteur d'eau, fissures, meubles endommagés, murs, sols, toiture et dépendances. Filmez l'état général et notez la date, l'heure et les circonstances."
+        },
+        {
+          "title": "Déclarez rapidement à l'assureur",
+          "html": "Indiquez votre numéro de contrat, l'adresse, la nature du phénomène, la date supposée, les biens touchés et une première estimation. Le délai fixé par le contrat ne peut pas être inférieur à <strong>30 jours après la publication de l'arrêté</strong>, mais attendre ce terme est rarement une bonne idée."
+        },
+        {
+          "title": "Constituez un inventaire chiffré",
+          "html": "Listez chaque bien: description, date d'achat approximative, prix, facture, photo antérieure ou relevé bancaire lorsque vous en disposez. Ajoutez devis et factures de remise en état, sans jeter les objets endommagés avant l'accord de l'assureur."
+        },
+        {
+          "title": "Coopérez avec l'expert, sans réparer trop vite",
+          "html": "Facilitez l'accès au logement, remettez les pièces demandées et expliquez les désordres observés. Les travaux conservatoires sont nécessaires; les réparations définitives importantes doivent, sauf urgence, attendre les consignes de l'assureur ou le constat de l'expert."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un dossier simple à vérifier",
+      "html": "<p>Créez un dossier unique avec les photos, échanges avec l'assureur, factures, devis, inventaire, déclaration et coordonnées des artisans. N'envoyez que des copies et gardez les originaux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "indemnisation-franchise-montant",
+      "text": "Indemnisation et franchise: ce que l'assureur rembourse réellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'indemnité vise les <strong>dommages matériels directs</strong> causés par le phénomène reconnu, dans la limite des biens et montants garantis. Son calcul ne correspond pas toujours au prix d'achat neuf: votre contrat peut prévoir une évaluation avec vétusté, une indemnisation en valeur de remplacement ou un complément après présentation des factures de remplacement. Les plafonds applicables au mobilier, aux objets de valeur et aux dépendances restent déterminants."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "30 jours",
+          "label": "délai minimal légal laissé pour déclarer après la publication de l'arrêté"
+        },
+        {
+          "value": "380 €",
+          "label": "franchise réglementaire habituellement appliquée aux biens à usage d'habitation"
+        },
+        {
+          "value": "1 520 €",
+          "label": "franchise habituellement appliquée aux dommages liés à la sécheresse et à la réhydratation des sols"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La franchise est la part qui reste à votre charge sur le sinistre. Pour un dommage indemnisable évalué à 6 000 euros, une franchise de 380 euros laisserait, à titre illustratif, environ 5 620 euros avant prise en compte d'éventuelles limites ou règles d'évaluation du contrat. Les franchises réglementaires peuvent évoluer: consultez les conditions particulières et demandez le détail du calcul par écrit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les délais de traitement varient selon l'ampleur du sinistre, l'accès au logement, l'expertise et le volume de dossiers après un événement majeur. Lorsque le montant est discuté, demandez un calendrier précis, les pièces manquantes et le rapport ou les conclusions d'expertise communicables. Ne confondez pas une avance éventuelle avec le règlement final."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "expertise-refus-contestation",
+      "text": "Expertise, refus ou désaccord: les erreurs à éviter et vos recours"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'expert missionné par l'assureur apprécie l'origine des dommages, leur étendue et leur coût. C'est particulièrement important pour les fissures liées à la sécheresse: il faut distinguer les désordres réellement causés par le retrait-gonflement des sols de fissures anciennes, de défauts de construction, d'un manque d'entretien ou d'autres causes. Présentez toutes les photos datées, les précédents rapports, les factures de travaux et les éléments qui permettent de reconstituer l'évolution des dégâts."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ne jetez pas les biens détériorés avant que l'assureur vous y autorise, sauf impératif de santé ou de sécurité.",
+        "Ne signez pas un devis de reconstruction complet sans vérifier les conditions de prise en charge.",
+        "Demandez une explication écrite si un poste est refusé, réduit ou considéré comme antérieur au sinistre.",
+        "En cas de désaccord persistant, adressez d'abord une réclamation écrite au service compétent de l'assureur, puis envisagez le médiateur de l'assurance ou un expert indépendant selon l'enjeu."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux réparations irréversibles",
+      "html": "<p>Assécher, bâcher ou sécuriser est souvent indispensable. Refaire une façade fissurée, remplacer tous les sols ou démolir un mur avant expertise peut en revanche rendre plus difficile la preuve de l'étendue initiale des dommages.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-des-maintenant",
+      "text": "Après une catastrophe naturelle: votre plan d'action en trois priorités"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour mettre toutes les chances de votre côté, commencez par protéger les personnes et empêcher les dégâts de s'aggraver. Ensuite, documentez méthodiquement l'état du logement avant toute remise en état importante. Enfin, ouvrez immédiatement un dossier auprès de votre assureur et suivez la publication éventuelle de l'arrêté pour votre commune."
+    },
+    {
+      "type": "paragraph",
+      "html": "Hors sinistre, prenez une heure pour relire vos conditions particulières: surfaces déclarées, dépendances, capital mobilier, franchise, garantie valeur à neuf et coordonnées de contact. Photographier régulièrement vos pièces et conserver les factures importantes dans un espace numérique sécurisé rendra une future déclaration beaucoup plus solide. La garantie Cat Nat est un filet de sécurité puissant, à condition de connaître ses règles et de pouvoir prouver ce qui a été endommagé."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Mon assureur habitation m'indemnise-t-il sans arrêté de catastrophe naturelle?",
+      "a": "<p>Pas au titre de la garantie Cat Nat. L'arrêté interministériel est nécessaire pour déclencher ce régime dans votre commune et pour la période concernée. Toutefois, votre sinistre peut relever d'une autre garantie de votre contrat, par exemple tempête, grêle, neige, dégâts des eaux ou incendie. Déclarez-le tout de même sans attendre et demandez à l'assureur quelle garantie il examine.</p>"
+    },
+    {
+      "q": "Dois-je obligatoirement envoyer ma déclaration en recommandé avec accusé de réception?",
+      "a": "<p>Pas nécessairement. Votre assureur peut accepter une déclaration depuis l'espace client, par application, téléphone, courriel ou en agence. Le recommandé avec accusé de réception reste utile pour conserver une preuve formelle de la date et du contenu de votre déclaration, notamment en cas de dossier complexe. Quel que soit le canal, gardez une copie de vos échanges et l'accusé de réception éventuel.</p>"
+    },
+    {
+      "q": "Quel est le délai pour déclarer une catastrophe naturelle à son assurance?",
+      "a": "<p>Déclarez dès que vous connaissez le sinistre, même si l'arrêté n'est pas encore publié. Une fois l'arrêté paru, le délai prévu par votre contrat ne peut pas être inférieur à 30 jours à compter de sa publication. Vérifiez néanmoins vos conditions générales, car elles précisent les modalités de déclaration et les informations à fournir.</p>"
+    },
+    {
+      "q": "Les fissures causées par la sécheresse sont-elles toujours indemnisées?",
+      "a": "<p>Non. Il faut d'abord que la commune soit reconnue en état de catastrophe naturelle pour la sécheresse et la période visée. Ensuite, l'assureur examine si les fissures sont directement liées au phénomène reconnu. Les désordres préexistants, un défaut de construction ou une autre cause peuvent limiter ou exclure la prise en charge. Gardez les photos anciennes, les constats, les devis et tout document montrant l'évolution des fissures.</p>"
+    },
+    {
+      "q": "Que se passe-t-il si je suis locataire et que l'appartement est inondé?",
+      "a": "<p>Déclarez à votre assureur les dommages à vos meubles, vêtements, appareils et autres biens assurés. Prévenez en parallèle le propriétaire ou l'agence, car les murs, plafonds, sols intégrés et éléments du bâtiment relèvent généralement de l'assurance du propriétaire. Si l'immeuble est en copropriété, le syndic peut aussi devoir déclarer les dégâts affectant les parties communes.</p>"
+    },
+    {
+      "q": "Ma commune n'est pas reconnue en catastrophe naturelle: puis-je contester?",
+      "a": "<p>Vous ne pouvez pas imposer directement à l'assureur l'application de la garantie Cat Nat sans arrêté. Renseignez-vous auprès de la mairie sur la demande déposée, les périodes retenues et les suites données par l'État. En parallèle, faites vérifier par votre assureur les autres garanties de votre contrat. Si un refus d'indemnisation vous paraît injustifié au regard de votre contrat, demandez une réponse motivée par écrit et utilisez la procédure de réclamation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

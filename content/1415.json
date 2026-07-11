@@ -1,0 +1,327 @@
+{
+  "id": 1415,
+  "slug": "pistolet-a-peinture-resoudre-le-probleme-des-gouttelettes",
+  "title": "Pistolet à peinture : résoudre le problème des gouttelettes",
+  "metaTitle": "Pistolet à peinture: éliminer les gouttelettes",
+  "metaDescription": "Le pistolet à peinture fait des gouttelettes ou des coulures? Identifiez la cause, réglez pression et buse, puis appliquez une couche nette et durable.",
+  "dek": "Des grosses projections aux coulures, les défauts de pulvérisation ont presque toujours une cause identifiable. Réglage de l’appareil, dilution, propreté ou geste: apprenez à diagnostiquer le problème pour obtenir une finition régulière.",
+  "category": "maison-immobilier",
+  "tags": [
+    "pistolet à peinture",
+    "peinture",
+    "bricolage",
+    "pulvérisation",
+    "finitions"
+  ],
+  "keyTakeaways": [
+    "Distinguez le crachotement, le brouillard granuleux et la coulure: leurs causes ne sont pas les mêmes.",
+    "Réglez toujours la pression et le débit sur une plaque d’essai avant de peindre la surface finale.",
+    "Une peinture filtrée, bien mélangée et diluée selon sa fiche technique évite une grande partie des projections.",
+    "Travaillez à distance constante, avec des passes parallèles et un recouvrement d’environ 50 %.",
+    "Une coulure fraîche se rattrape souvent; un défaut sec demande généralement un léger ponçage."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un pistolet à peinture qui projette des gouttes, crache ou fait couler le revêtement peut ruiner une porte, un meuble ou une carrosserie en quelques secondes. Pourtant, il ne s’agit pas d’une fatalité: le défaut révèle généralement un mauvais équilibre entre la peinture, le matériel et le geste. Voici comment reconnaître précisément ce qui se passe, corriger la cause et retrouver une pulvérisation fine et régulière."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-defaut",
+      "text": "Avant de régler le pistolet, identifiez le défaut"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « gouttelettes » recouvre plusieurs problèmes très différents. Si le pistolet émet par intermittence de grosses gouttes rondes, il <strong>crache</strong>: la peinture arrive mal à la buse ou l’air est perturbé. Si la surface semble rugueuse, poudreuse ou semée de très fines particules, il s’agit plutôt d’un <strong>brouillard de pulvérisation</strong> qui sèche avant de se tendre. Enfin, une trace épaisse qui descend lentement est une <strong>coulure</strong>, provoquée par un dépôt de peinture trop important à un endroit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Observez également le moment où le défaut apparaît. Des projections dès le premier passage orientent vers un problème de préparation ou de réglage. Un crachotement qui survient quand le godet se vide peut signaler une prise d’air, un tube d’aspiration mal positionné ou un évent de godet bouché. Des coulures uniquement sur les chants, les moulures et les angles indiquent souvent un geste trop lent ou un débit excessif dans ces zones."
+    },
+    {
+      "type": "compare",
+      "title": "Grosse goutte ou coulure: ne corrigez pas de la même façon",
+      "a": {
+        "title": "Crachotement et grosses projections",
+        "points": [
+          "Défaut souvent ponctuel, avec des points plus épais que le reste de la surface.",
+          "Cherchez d’abord une buse encrassée, une peinture mal filtrée, une prise d’air ou un manque de pression.",
+          "Ne continuez pas à peindre: démontez et nettoyez la tête de pulvérisation."
+        ]
+      },
+      "b": {
+        "title": "Coulure et surcharge de peinture",
+        "points": [
+          "Film continu, brillant et trop épais qui descend sous l’effet de la gravité.",
+          "Réduisez le débit, augmentez légèrement la vitesse du geste ou éloignez un peu le pistolet.",
+          "Traitez rapidement la zone si la peinture est encore fraîche, puis reprenez avec des voiles plus fins."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Augmenter systématiquement la pression pour faire disparaître des gouttes peut empirer le résultat. Trop de pression crée du brouillard, du rebond de peinture et une surface granuleuse; il faut d’abord contrôler la viscosité, la buse et la propreté du circuit.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-causes",
+      "text": "Diagnostiquer la cause avec les signes visibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un essai sur un carton posé verticalement donne un diagnostic rapide. Visez une bande régulière: elle doit être homogène au centre comme sur les bords, sans amas ni zones presque sèches. Si le jet est dissymétrique, faites tourner le chapeau d’air de 180 degrés et recommencez. Si le défaut tourne avec le chapeau, il est probablement encrassé; s’il reste du même côté, inspectez plutôt la buse, l’aiguille ou l’arrivée de produit."
+    },
+    {
+      "type": "table",
+      "caption": "Les défauts de pulvérisation les plus courants et leur remède",
+      "headers": [
+        "Aspect observé",
+        "Cause probable",
+        "Correction à essayer"
+      ],
+      "rows": [
+        [
+          "Grosses gouttes espacées",
+          "Buse ou chapeau d’air bouché, peinture contenant des impuretés",
+          "Filtrez la peinture, nettoyez les passages et vérifiez l’état de la buse"
+        ],
+        [
+          "Jet qui tousse ou s’interrompt",
+          "Évent du godet bouché, tube d’aspiration mal serré, prise d’air",
+          "Nettoyez l’évent, resserrez les éléments et contrôlez les joints"
+        ],
+        [
+          "Surface granuleuse ou sèche",
+          "Pistolet trop loin, pression trop forte, dilution insuffisante ou air chaud",
+          "Rapprochez-vous légèrement, réglez progressivement la pression et adaptez le produit"
+        ],
+        [
+          "Coulure verticale",
+          "Débit trop élevé, passage trop lent ou peinture trop fluide",
+          "Réduisez le débit et appliquez des couches plus fines"
+        ],
+        [
+          "Bande chargée au centre et faible sur les bords",
+          "Réglage de jet ou pression inadaptés, tête partiellement obstruée",
+          "Nettoyez puis ajustez l’ouverture de jet et la pression"
+        ],
+        [
+          "Petits cratères qui s’ouvrent dans la peinture",
+          "Support contaminé par silicone, cire, graisse ou produit lustrant",
+          "Dégraissez soigneusement; ce défaut n’est pas un simple problème de réglage"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-peinture",
+      "text": "Préparer la peinture, le support et l’air: la base d’un jet propre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Même un bon pistolet ne pulvérise pas correctement une peinture mal préparée. Commencez par la remuer lentement jusqu’à ce qu’elle soit parfaitement homogène, en insistant au fond du pot où les charges se déposent. Filtrez-la ensuite à travers un tamis adapté, surtout après l’ouverture d’un ancien pot ou si vous utilisez une laque, un vernis ou une peinture qui a commencé à épaissir. Une particule minuscule peut perturber l’aiguille et provoquer une projection."
+    },
+    {
+      "type": "paragraph",
+      "html": "La dilution doit suivre la notice du fabricant du revêtement et les préconisations de votre système de pulvérisation. Ne vous fiez pas seulement à l’impression visuelle: une peinture trop épaisse atomise mal et forme des gouttes; trop diluée, elle perd en pouvoir couvrant et coule facilement. Si vous disposez d’une coupe de viscosité, utilisez le temps d’écoulement demandé par le fabricant. Sinon, diluez par très petites quantités, mélangez, puis faites un essai avant de poursuivre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le support compte autant que le produit. Poncez les aspérités, dépoussiérez avec soin et dégraissez avec un produit compatible avec la surface. Laissez sécher complètement. Sur du bois brut, une sous-couche limite l’absorption irrégulière; sur du métal, une primaire adaptée évite les problèmes d’adhérence. Dans le cas d’un compresseur, l’air doit être propre et sec: un filtre régulateur et, si nécessaire, un séparateur d’eau réduisent les défauts liés à l’humidité ou aux traces d’huile."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test qui évite de recommencer",
+      "html": "<p>Préparez toujours une chute du même matériau que votre support final, ou au minimum un carton vertical. Vous pourrez régler le jet, vérifier la couvrance et observer les coulures sans prendre de risque sur le meuble ou le mur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "regler-pistolet",
+      "text": "Régler pression, buse et débit sans travailler au hasard"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les trois réglages liés sont la pression d’air ou la puissance, le débit de produit et la largeur du jet. Il n’existe pas un réglage universel: il dépend du type de pistolet, de la taille de buse, de la peinture, de la température et de la pièce à couvrir. Partez du réglage recommandé par le fabricant du pistolet et par la fiche technique de la peinture, puis ajustez un seul paramètre à la fois sur votre panneau d’essai."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec un pistolet pneumatique, contrôlez la pression lorsque la gâchette est enfoncée: la valeur au repos peut être trompeuse. Ouvrez le débit progressivement jusqu’à obtenir une bande pleine mais sans surcharge. Réglez ensuite le jet en éventail pour les grandes surfaces, ou plus rond et étroit pour un barreau, une moulure ou une petite réparation. Une buse trop petite pour une peinture épaisse favorise le crachotement; une buse trop large dépose trop de matière si le geste n’est pas adapté."
+    },
+    {
+      "type": "compare",
+      "title": "Pistolet électrique basse pression ou pistolet pneumatique",
+      "a": {
+        "title": "Système électrique ou HVLP",
+        "points": [
+          "Pratique pour les meubles, portes, clôtures et petits à moyens chantiers.",
+          "Demande souvent une peinture plus soigneusement diluée pour les produits épais.",
+          "Un modèle d’entrée de gamme coûte souvent autour de 70 à 150 euros; les appareils plus réguliers et mieux équipés montent généralement davantage."
+        ]
+      },
+      "b": {
+        "title": "Pistolet pneumatique sur compresseur",
+        "points": [
+          "Offre un réglage fin, à condition d’avoir un compresseur assez dimensionné et de l’air filtré.",
+          "La propreté du chapeau d’air, des raccords et du régulateur est déterminante.",
+          "Le budget doit inclure les accessoires: flexible, filtre, régulateur et éventuellement plusieurs buses."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "15 à 25 cm",
+          "label": "distance de départ souvent adaptée entre la buse et le support; ajustez selon votre appareil et le jet obtenu"
+        },
+        {
+          "value": "≈ 50 %",
+          "label": "recouvrement usuel entre deux passes pour éviter les bandes plus claires ou plus chargées"
+        },
+        {
+          "value": "1,5 à 2,5 bar",
+          "label": "plage fréquemment rencontrée à l’entrée d’un pistolet pneumatique, gâchette enfoncée; la fiche du modèle reste prioritaire"
+        },
+        {
+          "value": "2 à 3 voiles",
+          "label": "couches fines généralement préférables à une seule couche très chargée"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "geste-pulverisation",
+      "text": "Adopter le bon geste pour éviter surcharges et gouttes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un réglage correct peut être ruiné par un mauvais mouvement. Tenez le pistolet perpendiculairement au support, à distance constante. Déplacez tout le bras de façon régulière: ne pivotez pas seulement le poignet, car les extrémités de la passe recevraient moins de peinture que le centre. Gardez une vitesse stable et superposez légèrement les bandes."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Réglez sur une chute",
+          "html": "Faites une passe d’essai verticale. Cherchez un éventail uniforme, sans grosses gouttes et sans centre excessivement chargé. Nettoyez ou modifiez le réglage avant de toucher au support final."
+        },
+        {
+          "title": "Commencez le mouvement avant de pulvériser",
+          "html": "Mettez le bras en mouvement juste avant d’appuyer sur la gâchette. Vous éviterez le paquet de peinture laissé au point de départ."
+        },
+        {
+          "title": "Pulvérisez en passes parallèles",
+          "html": "Avancez sans accélération brusque, gardez le pistolet face au support et recouvrez environ la moitié de la bande précédente. Travaillez de haut en bas sur une grande surface verticale."
+        },
+        {
+          "title": "Relâchez avant l’arrêt du bras",
+          "html": "À la fin de chaque passe, relâchez la gâchette tout en poursuivant le mouvement. C’est le moyen le plus simple de ne pas créer de goutte au point d’arrêt."
+        },
+        {
+          "title": "Traitez d’abord les détails",
+          "html": "Pulvérisez légèrement les chants, angles, moulures et creux, puis réalisez les grandes faces. Ces zones retiennent davantage de peinture et coulent plus vite."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À savoir",
+      "html": "<p>Le « passage croisé » peut améliorer l’uniformité sur certains supports: une première série de passes horizontales, puis une seconde verticale très légère. Il ne doit pas doubler l’épaisseur déposée; adaptez le débit ou attendez le temps indiqué entre couches.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "corriger-defaut",
+      "text": "Rattraper une goutte ou une coulure sans abîmer la finition"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous repérez une coulure immédiatement, cessez de charger la zone. Selon le produit et son temps ouvert, vous pouvez l’étirer très délicatement au pinceau fin propre ou la reprendre par une passe très légère et bien maîtrisée. Cette solution demande de la prudence: repasser trop longtemps dans une peinture qui commence à tirer laissera des marques. Sur une petite zone peu visible, il est parfois plus sûr de laisser sécher et de corriger ensuite."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la peinture est sèche à cœur, poncez localement la surépaisseur avec un abrasif fin adapté au support, sur une cale pour ne pas creuser autour du défaut. Dépoussiérez, puis appliquez une couche fine sur la zone ou sur toute la face si un raccord risquerait de se voir. Une grosse goutte sèche se traite de la même manière: ne tentez pas de la gratter brutalement, notamment sur un placage, un vernis ou une surface déjà fragile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si des projections sont encore humides autour de la zone peinte, ne cherchez pas à les essuyer à sec: vous les étaleriez. Protégez les parties voisines avant le chantier avec du masquage et des bâches. À la fin, nettoyez immédiatement le pistolet avec le diluant approprié au produit utilisé. Faites circuler du produit de nettoyage, démontez la buse et le chapeau d’air, puis brossez-les avec une brosse souple. Un appareil mal nettoyé est une cause majeure de crachotement lors de l’utilisation suivante."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "N’utilisez jamais un objet dur dans la buse",
+      "html": "<p>Une aiguille, un fil métallique ou un foret peut déformer l’orifice de la buse. Le jet deviendra irrégulier même après nettoyage. Préférez la brosse de nettoyage fournie, une brosse souple et le solvant compatible.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cas-particuliers",
+      "text": "Adapter votre méthode au produit et aux conditions de travail"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les peintures à l’eau, les lasures, les vernis et les laques ne se comportent pas de la même manière. Une lasure fluide demande surtout de surveiller les coulures sur les zones verticales. Une laque ou une peinture meuble, plus épaisse, exige souvent une buse adaptée et une dilution très mesurée. Vérifiez également la compatibilité entre le revêtement, le diluant éventuel et les joints du pistolet. Un mauvais solvant peut modifier le séchage, l’adhérence ou la brillance."
+    },
+    {
+      "type": "paragraph",
+      "html": "La météo et l’environnement ont aussi leur rôle. Dans un local trop froid, la peinture s’étale moins bien et peut paraître plus visqueuse. Sous forte chaleur, avec de l’air très sec ou un courant d’air, les particules peuvent sécher avant d’atteindre le support et laisser un toucher rugueux. Évitez autant que possible le vent, la poussière et le plein soleil. Ventilez sans créer un souffle direct sur la pièce fraîchement peinte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action",
+      "text": "Votre plan d’action avant la prochaine pulvérisation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour résoudre durablement un problème de gouttelettes, ne changez pas tout en même temps. Nettoyez d’abord le pistolet, filtrez et mélangez la peinture, puis réalisez un essai. Si le jet reste irrégulier, vérifiez l’évent du godet, les joints, le tube d’aspiration et l’état de la buse. Une fois l’éventail propre, ajustez progressivement la pression ou la puissance, puis le débit. Terminez en travaillant votre distance et votre vitesse de déplacement sur une chute."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant d’appuyer sur la gâchette",
+      "html": "<p>Peinture filtrée, pistolet propre, essai sur carton vertical, couches fines et mouvement continu: cette routine simple résout la majorité des gouttelettes, crachotements et coulures.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon pistolet à peinture crache-t-il seulement à la fin du godet?",
+      "a": "<p>Lorsque le problème apparaît en fin de godet, le tube d’aspiration n’est parfois plus correctement immergé, ou de l’air entre dans le circuit. Vérifiez sa position, le serrage du godet et l’état des joints. Contrôlez aussi l’évent: s’il est obstrué, un vide se crée dans le godet et la peinture arrive de façon irrégulière. Ne cherchez pas à vider le fond à tout prix; rechargez avant que le niveau devienne trop bas.</p>"
+    },
+    {
+      "q": "Faut-il diluer la peinture pour éviter les gouttelettes au pistolet?",
+      "a": "<p>Pas systématiquement, mais la peinture doit avoir la viscosité compatible avec votre pistolet et votre buse. Une peinture trop épaisse est une cause classique de mauvaise atomisation et de grosses projections. Respectez d’abord les indications du fabricant du revêtement: il précise généralement le diluant compatible et, parfois, un pourcentage maximal. Ajoutez le diluant en petites quantités, mélangez, filtrez et testez. Une dilution excessive remplace les gouttes par des coulures et réduit souvent l’opacité.</p>"
+    },
+    {
+      "q": "Quelle distance faut-il garder entre le pistolet à peinture et le support?",
+      "a": "<p>Une distance d’environ 15 à 25 cm constitue souvent un bon point de départ, mais elle varie avec l’appareil, la largeur du jet et le produit. Trop près, vous déposez trop de matière et risquez les coulures. Trop loin, la peinture sèche partiellement en vol, provoque un toucher granuleux et augmente le brouillard. Faites un essai sur carton, puis retenez la distance qui donne un film uniforme avec la pression et le débit prévus.</p>"
+    },
+    {
+      "q": "Comment enlever une coulure de peinture au pistolet après séchage?",
+      "a": "<p>Attendez le séchage complet recommandé par le fabricant, sinon l’abrasif encrassera la peinture et arrachera le film. Poncez ensuite doucement la surépaisseur avec un abrasif fin monté sur une petite cale. Le but est de niveler la coulure, pas de traverser la couche. Dépoussiérez soigneusement et appliquez une nouvelle couche fine. Sur une face très visible, repeindre l’ensemble de la face donne souvent un résultat plus discret qu’une retouche isolée.</p>"
+    },
+    {
+      "q": "Pourquoi ai-je des gouttelettes alors que la pression est élevée?",
+      "a": "<p>Une pression élevée ne garantit pas une pulvérisation correcte. Le problème peut venir d’une buse encrassée ou usée, d’une peinture trop épaisse, d’un évent de godet bouché, d’une prise d’air sur le circuit de produit ou d’humidité dans l’air comprimé. Une pression excessive peut même générer un brouillard qui se dépose en grains. Revenez au réglage conseillé par le fabricant, nettoyez la tête de pulvérisation et testez d’abord la peinture filtrée sur un carton.</p>"
+    },
+    {
+      "q": "Peut-on peindre au pistolet sans masque dans un garage?",
+      "a": "<p>Non. La pulvérisation produit un brouillard de fines particules, même avec une peinture à l’eau. Portez au minimum une protection respiratoire adaptée au produit, des lunettes et des gants, et ventilez le garage sans souffler directement sur la pièce. Les peintures et solvants contenant des composés plus agressifs nécessitent une protection plus exigeante: consultez leur étiquette et leur fiche de sécurité. Éloignez toute flamme, étincelle ou source de chaleur lors de l’emploi de produits inflammables.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

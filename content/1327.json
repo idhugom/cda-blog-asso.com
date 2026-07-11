@@ -1,0 +1,352 @@
+{
+  "id": 1327,
+  "slug": "comment-resoudre-des-problemes-de-son-sur-mon-iphone",
+  "title": "Comment résoudre des problèmes de son sur mon iPhone ?",
+  "metaTitle": "Problèmes de son sur iPhone: les résoudre pas à pas",
+  "metaDescription": "Plus de son sur votre iPhone? Vérifiez les réglages, nettoyez sans risque et diagnostiquez rapidement haut-parleur, appels, Bluetooth ou panne matérielle.",
+  "dek": "Un iPhone silencieux, un appel inaudible ou un micro qui ne transmet plus votre voix ne désignent pas forcément la même panne. En procédant par tests simples, vous pouvez souvent retrouver le son sans réparation et savoir quand faire contrôler l’appareil.",
+  "category": "tech-objets",
+  "tags": [
+    "iPhone",
+    "dépannage",
+    "haut-parleur",
+    "Bluetooth",
+    "microphone"
+  ],
+  "keyTakeaways": [
+    "Testez séparément la sonnerie, les médias et les appels avant de conclure à une panne.",
+    "Le mode Silence, Concentration et une sortie Bluetooth expliquent de nombreux iPhone apparemment muets.",
+    "Un nettoyage doux et parfaitement sec suffit parfois; n’enfoncez jamais d’objet dans les grilles.",
+    "Si un seul type de son échoue, la pièce ou le réglage en cause est plus facile à cibler.",
+    "Sauvegardez l’iPhone avant une réinitialisation ou un dépôt en réparation."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Votre iPhone ne sonne plus, le haut-parleur grésille, vous n’entendez pas votre interlocuteur ou, au contraire, il ne vous entend pas? Ces symptômes peuvent venir d’un réglage discret, d’un accessoire connecté, d’une grille obstruée, d’une application ou d’un composant matériel. Voici une méthode progressive pour identifier la cause sans effacer inutilement vos données ni risquer d’aggraver le problème."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-le-type-de-probleme-de-son",
+      "text": "Commencez par identifier précisément le son qui manque"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « son » recouvre plusieurs circuits sur un iPhone: le haut-parleur du bas pour la musique et le mode mains libres, l’écouteur placé en haut de l’écran pour les appels à l’oreille, plusieurs microphones, les alertes de sonnerie et les sorties vers des écouteurs ou une enceinte. Un diagnostic devient beaucoup plus simple lorsque vous savez ce qui fonctionne encore."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3 tests",
+          "label": "sonnerie, appel et média permettent d’isoler rapidement la zone en cause"
+        },
+        {
+          "value": "0 €",
+          "label": "pour les premiers contrôles de réglages, d’accessoires et de nettoyage doux"
+        },
+        {
+          "value": "1 à 2 min",
+          "label": "suffisent en général pour redémarrer et refaire un essai sans accessoire"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites trois essais courts. D’abord, lancez une musique ou une vidéo et montez le volume avec les boutons latéraux. Ensuite, demandez à un proche de vous appeler: écoutez une fois à l’oreille, puis activez le haut-parleur. Enfin, ouvrez Dictaphone, enregistrez quelques mots et réécoutez-les. Ce dernier test est particulièrement utile: si l’enregistrement est silencieux ou très étouffé, le souci concerne probablement un microphone ou son ouverture."
+    },
+    {
+      "type": "table",
+      "caption": "Associer le symptôme au premier contrôle pertinent",
+      "headers": [
+        "Symptôme observé",
+        "Test rapide",
+        "Cause fréquente",
+        "Premier geste"
+      ],
+      "rows": [
+        [
+          "Aucun son pour musique et vidéos",
+          "Vérifier le volume et la sortie audio",
+          "Bluetooth, AirPlay ou volume média",
+          "Déconnecter les accessoires et choisir l’iPhone comme sortie"
+        ],
+        [
+          "L’iPhone ne sonne pas",
+          "S’appeler depuis un autre téléphone",
+          "Mode Silence, Concentration ou volume de sonnerie",
+          "Contrôler le commutateur ou bouton Action et les réglages d’alertes"
+        ],
+        [
+          "Vous n’entendez pas l’appelant à l’oreille",
+          "Passer en haut-parleur",
+          "Écouteur supérieur obstrué ou défaillant",
+          "Retirer la protection d’écran, nettoyer doucement la grille"
+        ],
+        [
+          "L’appelant ne vous entend pas",
+          "Faire un mémo vocal puis une vidéo",
+          "Micro obstrué, permission d’application ou panne de micro",
+          "Nettoyer les ouvertures et tester hors de l’application concernée"
+        ],
+        [
+          "Le son est faible ou grésille partout",
+          "Tester sans coque ni écouteurs",
+          "Poussière, humidité ou haut-parleur endommagé",
+          "Sécher, nettoyer à sec, puis demander un diagnostic si cela persiste"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le test le plus parlant",
+      "html": "<p>Si la musique fonctionne mais pas les appels à l’oreille, ne cherchez pas d’abord du côté du haut-parleur inférieur: l’écouteur supérieur ou ses réglages sont davantage en cause. Si le mémo vocal est inaudible, la piste du microphone devient prioritaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-les-reglages-de-sonnerie-et-de-volume",
+      "text": "Vérifiez les réglages de sonnerie, de volume et de Concentration"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un iPhone peut rester parfaitement fonctionnel tout en ne produisant aucune alerte audible. Sur les modèles dotés d’un commutateur latéral, la présence d’une marque orange indique le mode Silence. Sur les modèles avec bouton Action, ce bouton peut être configuré pour activer le mode Silence, mais il peut aussi avoir une autre fonction: vérifiez son état dans les réglages ou le Centre de contrôle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas le <strong>volume des médias</strong>, modifié pendant l’écoute d’une vidéo ou d’une musique, avec le <strong>volume de la sonnerie et des alertes</strong>. Ouvrez Réglages, puis la rubrique consacrée aux sons et vibrations; le nom exact peut varier légèrement selon votre version d’iOS. Vérifiez le curseur de sonnerie et déclenchez une sonnerie d’essai. Un volume média au maximum ne garantit donc pas que l’iPhone sonnera lors d’un appel."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Mode Concentration:</strong> vérifiez si Ne pas déranger, Sommeil, Travail ou un autre mode est actif. Il peut filtrer appels et notifications selon les personnes et applications autorisées.",
+        "<strong>Résumé programmé des notifications:</strong> certaines alertes peuvent être reportées plutôt que diffusées immédiatement.",
+        "<strong>Vibration:</strong> si l’iPhone vibre mais ne sonne pas, la sonnerie, le mode Silence ou Concentration est plus suspect qu’une panne totale de haut-parleur.",
+        "<strong>Réglages d’accessibilité:</strong> dans Audio et visuel, contrôlez que la balance gauche-droite n’est pas totalement déplacée d’un côté lorsque le problème concerne un écouteur ou un casque."
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "iPhone muet: alerte désactivée ou son envoyé ailleurs?",
+      "a": {
+        "title": "Sonnerie et notifications désactivées",
+        "points": [
+          "L’iPhone peut vibrer, afficher l’appel ou recevoir les messages sans émettre de son.",
+          "Cherchez le mode Silence, le curseur de sonnerie et le mode Concentration.",
+          "La musique peut continuer à fonctionner normalement."
+        ]
+      },
+      "b": {
+        "title": "Audio dirigé vers un accessoire",
+        "points": [
+          "La musique semble jouer, mais elle sort d’écouteurs, d’une voiture, d’une enceinte ou d’un téléviseur.",
+          "Cherchez la destination audio dans le lecteur du Centre de contrôle.",
+          "Le souci touche surtout les médias et parfois les appels mains libres."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le mode Concentration n’est pas une panne: il bloque ou filtre surtout les alertes selon ses règles. Il n’empêche normalement pas une vidéo déjà lancée de diffuser du son, sauf si celui-ci est envoyé vers une autre sortie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "elimine-bluetooth-airplay-et-accessoires",
+      "text": "Éliminez les écouteurs, le Bluetooth et AirPlay avant toute autre manipulation"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est l’une des causes les plus courantes: l’iPhone est encore connecté à des AirPods dans une poche, à l’autoradio, à une montre, à une enceinte ou à un appareil AirPlay. L’écran peut afficher la lecture en cours alors que le son est émis dans une autre pièce. Dans le Centre de contrôle, ouvrez le panneau du lecteur puis choisissez l’iPhone comme destination de lecture. Vérifiez aussi le bouton de sortie audio pendant un appel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour lever le doute, désactivez temporairement le Bluetooth dans Réglages, et non seulement depuis le Centre de contrôle si vous souhaitez couper réellement les connexions actives. Testez ensuite une vidéo. Si le son revient, reconnectez vos accessoires un par un. Un périphérique qui reprend automatiquement la main peut être oublié dans les réglages Bluetooth, puis appairé à nouveau si nécessaire."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Test sans ambiguïté",
+      "html": "<p>Retirez les écouteurs filaires, éloignez les AirPods de l’iPhone ou placez-les dans leur boîtier fermé, coupez le Bluetooth, puis lancez une sonnerie ou une vidéo. Vous saurez ainsi si le téléphone est bien forcé d’utiliser son propre haut-parleur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "resoudre-les-problemes-de-son-pendant-les-appels",
+      "text": "Pour les appels, distinguez l’écouteur, le haut-parleur et le microphone"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’un correspondant est inaudible uniquement à l’oreille, augmentez le volume <em>pendant l’appel</em>, retirez une protection d’écran mal ajustée et inspectez la fine grille de l’écouteur supérieur. Passez ensuite en mode haut-parleur: si la voix devient claire, l’appel et le réseau ne sont probablement pas en cause. En revanche, si le son coupe ou disparaît dans les deux modes, testez un second appel et une application d’appel différente afin d’écarter un incident ponctuel de réseau ou d’application."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si c’est votre voix qui ne parvient pas au correspondant, retirez la coque et vérifiez qu’elle ne recouvre pas l’une des ouvertures du bas ou du bloc photo. Enregistrez un mémo vocal, puis filmez une courte vidéo avec les caméras avant et arrière. Les iPhone utilisent plusieurs microphones selon l’usage: un résultat différent entre ces essais aide un réparateur à cibler le composant, mais ne suffit pas toujours à établir seul un diagnostic définitif."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne vous fiez pas à un seul appel sur une application donnée. Une permission de microphone refusée, un bug de l’application ou une mauvaise connexion peuvent imiter une panne. Dans Réglages, vérifiez que l’application concernée est autorisée à accéder au microphone.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nettoyer-les-grilles-et-gerer-lhumidite-sans-risque",
+      "text": "Nettoyez les grilles sans abîmer les microphones ni les membranes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une accumulation de poussière, de fibres de poche, de maquillage ou de graisse suffit à affaiblir fortement un écouteur ou un haut-parleur. Éteignez l’iPhone, retirez la coque, puis utilisez une brosse très souple, propre et sèche pour balayer délicatement les grilles. Un chiffon doux non pelucheux peut nettoyer les surfaces autour des ouvertures. Travaillez sans pression et sans chercher à aller profondément dans le maillage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une exposition à l’eau, n’essayez pas de « chasser » l’humidité avec un sèche-cheveux, de l’air comprimé ou un objet introduit dans le port de charge. Posez l’iPhone, connecteur vers le bas, dans un endroit sec et aéré, puis laissez-le sécher. Évitez également le riz: il peut laisser des poussières dans les ouvertures et ne remplace pas un séchage adapté. Ne rechargez pas l’appareil s’il affiche une alerte de liquide ou si le connecteur est manifestement humide."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À ne pas utiliser",
+      "html": "<p>Aiguille, trombone, cure-dent enfoncé, coton-tige humide, produit ménager, alcool versé dans une grille ou jet d’air comprimé: ces gestes peuvent déplacer les saletés, percer une membrane ou introduire de l’humidité. Un nettoyage agressif peut transformer un simple encrassement en réparation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mettre-a-jour-redemarrer-et-reinitialiser-les-reglages",
+      "text": "Redémarrez, mettez iOS à jour, puis réinitialisez seulement si nécessaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le problème est apparu après une mise à jour, une chute d’application ou une connexion Bluetooth instable, un redémarrage peut suffire à rétablir le service audio. Installez ensuite la dernière version d’iOS proposée pour votre appareil: les mises à jour corrigent parfois des défauts liés aux appels, aux accessoires ou aux applications. Pensez aussi à mettre à jour l’application qui présente seule le problème."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Sauvegardez ce qui compte",
+          "html": "Avant une manipulation plus poussée, faites une sauvegarde iCloud ou sur ordinateur. C’est indispensable avant une réparation, mais utile aussi si le problème devient plus sérieux."
+        },
+        {
+          "title": "Redémarrez normalement",
+          "html": "Éteignez l’iPhone depuis les boutons ou via Réglages, attendez quelques secondes, rallumez-le et refaites les trois tests: média, appel et mémo vocal."
+        },
+        {
+          "title": "Mettez iOS et l’application en cause à jour",
+          "html": "Installez les mises à jour disponibles, puis retestez sans écouteur ni connexion Bluetooth. Si seule une app est muette, vérifiez aussi ses autorisations de microphone."
+        },
+        {
+          "title": "Réinitialisez les réglages en dernier recours logiciel",
+          "html": "La commande Réinitialiser tous les réglages ne supprime pas vos photos, messages ni applications, mais elle remet de nombreux paramètres à zéro et demande de reconfigurer certains choix, notamment des connexions et préférences. N’effacez pas tout l’iPhone avant d’avoir épuisé ces vérifications."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le redémarrage forcé peut être utile si l’écran ou l’iPhone ne répond plus, mais sa combinaison de boutons dépend du modèle. Sur les iPhone récents à Face ID, elle consiste généralement à appuyer brièvement sur volume plus, puis volume moins, avant de maintenir le bouton latéral jusqu’à l’apparition du logo Apple. Si vous avez un modèle plus ancien, vérifiez la procédure correspondant précisément à votre appareil."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reconnaitre-une-panne-materielle-et-faire-reparer",
+      "text": "Reconnaître une panne matérielle et choisir une réparation adaptée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une intervention est plus probable si le son reste absent après les tests sans accessoires, si le haut-parleur grésille systématiquement à volume modéré, si le problème a suivi une chute ou une infiltration d’eau, ou si Dictaphone et les appels échouent malgré la mise à jour. Une coque abîmée n’explique pas tout: une nappe, un microphone, un écouteur ou le haut-parleur peut être touché."
+    },
+    {
+      "type": "table",
+      "caption": "Avant de confier l’iPhone à un réparateur",
+      "headers": [
+        "Situation",
+        "Option raisonnable",
+        "Budget à envisager",
+        "Précaution"
+      ],
+      "rows": [
+        [
+          "Encrassement visible sans choc ni eau",
+          "Nettoyage prudent ou diagnostic en boutique",
+          "Souvent gratuit à quelques dizaines d’euros selon le service",
+          "Demandez ce qui sera fait avant toute ouverture"
+        ],
+        [
+          "Haut-parleur ou écouteur à remplacer",
+          "Centre agréé ou réparateur compétent avec devis",
+          "Souvent de plusieurs dizaines à quelques centaines d’euros selon le modèle",
+          "Comparez le devis à la valeur réelle de l’iPhone"
+        ],
+        [
+          "Chute, oxydation ou sons coupés sur plusieurs fonctions",
+          "Diagnostic matériel complet",
+          "Coût très variable, parfois peu rentable sur un ancien modèle",
+          "Ne retardez pas la sauvegarde; les symptômes peuvent évoluer"
+        ],
+        [
+          "Appareil encore couvert par une garantie applicable",
+          "Contacter d’abord le vendeur ou le service concerné",
+          "Peut être pris en charge si le défaut entre dans la couverture",
+          "Les dommages accidentels et liquides sont souvent exclus"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, pour un achat neuf auprès d’un professionnel, la garantie légale de conformité peut s’appliquer pendant deux ans lorsque le défaut est couvert; le vendeur est alors votre interlocuteur. Une chute, un choc ou un liquide compliquent généralement la prise en charge. Dans tous les cas, exigez un devis écrit, demandez si la pièce est d’origine ou compatible, et confirmez les conséquences éventuelles sur l’étanchéité, les fonctions de sécurité et la garantie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-daction-pour-retrouver-le-son",
+      "text": "Votre plan d’action en dix minutes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par retirer coque et écouteurs, coupez le Bluetooth et vérifiez la sortie audio. Contrôlez ensuite le mode Silence, le volume de sonnerie et les modes Concentration. Testez une musique, un appel à l’oreille et en haut-parleur, puis un mémo vocal. Nettoyez uniquement à sec avec une brosse souple, redémarrez et installez les mises à jour. Si le même défaut persiste dans plusieurs applications et après ces contrôles, sauvegardez immédiatement votre iPhone et faites établir un diagnostic: vous éviterez les dépenses inutiles comme l’effacement prématuré de vos données."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un son absent n’implique pas automatiquement un iPhone en panne. La comparaison entre média, appel et enregistrement vocal vous donne le meilleur indice pour décider: réglage, accessoire, nettoyage, mise à jour ou réparation.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon iPhone ne sonne-t-il pas alors que le son des vidéos fonctionne?",
+      "a": "<p>Le volume des vidéos et celui des sonneries sont distincts. Vérifiez d’abord le mode Silence, le curseur Sonnerie et alertes dans les réglages audio, puis un éventuel mode Concentration. Si l’iPhone vibre ou affiche l’appel sans sonner, ce scénario est bien plus probable qu’une panne de haut-parleur.</p>"
+    },
+    {
+      "q": "Pourquoi je n’entends mon correspondant qu’en haut-parleur sur mon iPhone?",
+      "a": "<p>Le haut-parleur inférieur fonctionne alors que l’écouteur supérieur est probablement obstrué, mal réglé ou défaillant. Montez le volume pendant l’appel, retirez temporairement la protection d’écran et nettoyez très doucement la grille supérieure à sec. Si le problème persiste sur tous les appels, un diagnostic de l’écouteur est justifié.</p>"
+    },
+    {
+      "q": "Que faire si les gens ne m’entendent pas pendant les appels iPhone?",
+      "a": "<p>Retirez la coque, contrôlez les ouvertures des microphones et faites un test dans Dictaphone. Vérifiez également les autorisations de microphone de l’application utilisée. Si les mémos vocaux, appels classiques et vidéos enregistrent tous une voix très faible ou absente, une obstruction persistante ou une panne matérielle est possible.</p>"
+    },
+    {
+      "q": "Comment récupérer le son de mon iPhone après une connexion aux AirPods ou à la voiture?",
+      "a": "<p>Ouvrez le Centre de contrôle, choisissez la sortie audio du lecteur et sélectionnez l’iPhone. Coupez ensuite le Bluetooth dans Réglages pour effectuer un test sans accessoire. Si le son revient, reconnectez les appareils un par un; vous pouvez oublier puis réappairer celui qui détourne le son de façon anormale.</p>"
+    },
+    {
+      "q": "Mon iPhone a pris l’eau et le son grésille: puis-je le sécher avec du riz?",
+      "a": "<p>Non. Le riz peut laisser des particules dans les ports et ne résout pas un éventuel dommage interne. Débranchez les accessoires, ne rechargez pas l’iPhone s’il est humide ou s’il affiche une alerte de liquide, placez-le dans un endroit sec et ventilé avec le connecteur vers le bas, puis laissez-le sécher. Si le grésillement persiste, faites-le examiner.</p>"
+    },
+    {
+      "q": "Réinitialiser tous les réglages sur iPhone efface-t-il mes photos?",
+      "a": "<p>Non, cette commande ne supprime pas vos photos, messages, applications ni autres contenus personnels. En revanche, elle remet de nombreux paramètres à leur état initial et peut vous obliger à reconfigurer certaines préférences et connexions. Faites tout de même une sauvegarde avant de l’utiliser, et ne choisissez pas l’effacement complet de l’iPhone sans raison précise.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

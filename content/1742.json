@@ -1,0 +1,363 @@
+{
+  "id": 1742,
+  "slug": "a-quoi-sert-un-panneau-electrique",
+  "title": "À quoi sert un panneau électrique?",
+  "metaTitle": "Panneau électrique: rôle, protections et fonctionnement",
+  "metaDescription": "Découvrez à quoi sert un panneau électrique: distribuer le courant, protéger les personnes et les appareils, organiser et faire évoluer votre logement.",
+  "dek": "Souvent appelé tableau électrique, le panneau électrique est le poste de commande de l'installation d'un logement. Il répartit l'électricité, coupe les défauts dangereux et rend chaque circuit identifiable.",
+  "category": "maison-immobilier",
+  "tags": [
+    "tableau électrique",
+    "électricité maison",
+    "disjoncteur",
+    "sécurité électrique",
+    "rénovation"
+  ],
+  "keyTakeaways": [
+    "Le panneau électrique répartit le courant entre des circuits distincts et identifiés.",
+    "Les interrupteurs différentiels protègent contre les fuites de courant; les disjoncteurs protègent les circuits contre les surintensités.",
+    "Un tableau bien conçu sépare les usages importants et prévoit de la place pour les évolutions.",
+    "Un déclenchement répété, une odeur de brûlé ou une trace de chauffe exigent l'avis rapide d'un électricien.",
+    "Ne travaillez jamais dans un tableau sous tension: couper le courant ne rend pas toutes ses parties accessibles sans risque."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Derrière sa porte blanche, souvent oubliée dans une entrée, un placard ou un garage, le panneau électrique est l'un des équipements les plus importants de votre logement. Il ne crée pas l'électricité: il l'organise, la distribue et coupe l'alimentation lorsqu'un défaut peut endommager une installation ou mettre des personnes en danger. Comprendre son rôle permet de mieux réagir à une panne, de préparer des travaux et de savoir quand faire intervenir un professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "panneau-electrique-definition",
+      "text": "Panneau électrique: de quoi parle-t-on exactement?"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, on parle plus couramment de <strong>tableau électrique</strong>. Le terme « panneau électrique » peut désigner le coffret qui le protège et l'ensemble des appareils installés à l'intérieur. C'est le point à partir duquel l'électricité reçue par le logement est répartie vers les prises, l'éclairage, le chauffage, le chauffe-eau, la cuisson ou encore la ventilation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut le distinguer du compteur électrique, qui mesure votre consommation, et du disjoncteur de branchement, qui permet notamment une coupure générale et fixe la limite de puissance disponible selon votre abonnement. Selon la configuration du logement, ces éléments peuvent être proches ou séparés. Le tableau se situe en aval: il organise les protections des différents circuits de l'habitation."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Un tableau électrique n'est pas un simple boîtier rempli de leviers. Son agencement, le choix des protections et le repérage des circuits participent directement à la sécurité et au confort d'usage du logement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "repartir-electricite-circuits",
+      "text": "Sa première mission: répartir l'électricité circuit par circuit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plutôt que d'alimenter tout le logement par un seul câble, le tableau envoie le courant vers plusieurs <strong>circuits indépendants</strong>. Chaque circuit dessert une zone ou un usage déterminé. Cette organisation évite qu'un incident local ne plonge toute la maison dans le noir et rend l'installation plus lisible au quotidien."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Éclairage:</strong> les points lumineux sont regroupés sur un ou plusieurs circuits.",
+        "<strong>Prises de courant:</strong> elles sont réparties par pièces ou zones pour limiter la charge de chaque ligne.",
+        "<strong>Appareils puissants:</strong> plaque de cuisson, four, lave-linge, lave-vaisselle, chauffe-eau ou pompe à chaleur disposent souvent de circuits dédiés.",
+        "<strong>Équipements techniques:</strong> VMC, volets roulants, portail, borne de recharge ou chauffage électrique peuvent nécessiter leurs propres protections et commandes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette séparation a un intérêt très concret. Si le disjoncteur du lave-linge saute, les lampes et le réfrigérateur peuvent continuer de fonctionner. Lors d'une rénovation, elle aide aussi l'électricien à isoler une partie de l'installation sans intervenir sur toutes les autres. Enfin, des étiquettes précises sur le tableau vous permettent d'identifier rapidement le bon circuit avant de remplacer un luminaire ou de signaler une panne."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "proteger-personnes-et-materiel",
+      "text": "Sa deuxième mission: protéger les personnes, les câbles et les appareils"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tableau concentre des dispositifs de protection qui n'ont pas tous le même rôle. Leur association est essentielle: une protection contre la surcharge ne remplace pas une protection contre une fuite de courant vers la terre. À l'inverse, un dispositif différentiel ne dispense ni d'une installation correctement câblée ni d'une prise de terre en bon état."
+    },
+    {
+      "type": "compare",
+      "title": "Interrupteur différentiel ou disjoncteur: des fonctions complémentaires",
+      "a": {
+        "title": "Interrupteur différentiel",
+        "points": [
+          "Détecte une différence anormale entre le courant qui part et celui qui revient, signe possible d'une fuite vers la terre.",
+          "À haute sensibilité, généralement 30 mA dans l'habitat, il contribue à protéger les personnes contre les défauts d'isolement.",
+          "Peut couper plusieurs circuits placés sous sa protection."
+        ]
+      },
+      "b": {
+        "title": "Disjoncteur divisionnaire",
+        "points": [
+          "Protège un circuit précis contre une surcharge ou un court-circuit.",
+          "Son calibre est choisi en fonction des conducteurs et de l'usage du circuit.",
+          "S'il déclenche, il limite l'incident au circuit concerné plutôt qu'à tout le logement."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains tableaux comportent aussi un <strong>parafoudre</strong>. Il aide à limiter les conséquences de certaines surtensions, notamment celles liées au réseau ou à la foudre. Son utilité et son éventuelle obligation dépendent de la zone, de l'alimentation du bâtiment et de la réglementation applicable au projet. Il ne rend pas les appareils invulnérables: pour l'électronique sensible, une protection complémentaire peut rester pertinente."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le tableau réduit les conséquences d'un défaut; il ne compense pas une prise de terre absente, des fils dégradés, une rallonge surchargée ou un appareil défectueux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "elements-dun-tableau-electrique",
+      "text": "Les principaux éléments que vous pouvez reconnaître"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'apparence varie selon l'âge de l'installation, mais les composants remplissent généralement les fonctions suivantes. Vous pouvez les repérer sans démonter le coffret ni toucher aux conducteurs."
+    },
+    {
+      "type": "table",
+      "caption": "Les composants courants d'un tableau électrique domestique",
+      "headers": [
+        "Élément",
+        "Rôle principal",
+        "Ce qu'il faut savoir"
+      ],
+      "rows": [
+        [
+          "Disjoncteur de branchement",
+          "Coupe l'alimentation générale et limite la puissance appelée.",
+          "Il est distinct des protections de détail du tableau et relève souvent du dispositif lié au réseau."
+        ],
+        [
+          "Interrupteur différentiel",
+          "Détecte les fuites de courant et coupe un groupe de circuits.",
+          "Son bouton de test sert à vérifier son mécanisme, selon les recommandations du fabricant."
+        ],
+        [
+          "Disjoncteur divisionnaire",
+          "Protège une ligne particulière contre les surintensités et courts-circuits.",
+          "Son étiquette devrait indiquer clairement l'usage: four, prises séjour, éclairage étage, etc."
+        ],
+        [
+          "Peigne ou bornier",
+          "Répartit l'alimentation entre les appareils du tableau.",
+          "Ces connexions doivent être correctement dimensionnées et serrées par une personne compétente."
+        ],
+        [
+          "Contacteur ou module de commande",
+          "Pilote un équipement selon un ordre ou un horaire.",
+          "Il peut par exemple gérer un chauffe-eau, un éclairage extérieur ou certains équipements automatisés."
+        ],
+        [
+          "Parafoudre",
+          "Limite certaines surtensions transitoires.",
+          "Son voyant d'état doit être contrôlé; il peut devoir être remplacé après avoir rempli son rôle."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne confondez pas un levier abaissé avec la cause de la panne. Le disjoncteur qui a déclenché signale un problème sur le circuit ou l'appareil concerné; le réarmer sans chercher l'origine peut provoquer de nouveaux déclenchements.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "dimensionner-tableau-electrique",
+      "text": "Un bon tableau ne se choisit pas seulement selon le nombre de pièces"
+    },
+    {
+      "type": "paragraph",
+      "html": "La taille d'un tableau dépend avant tout du nombre de circuits présents, des appareils fixes, du mode de chauffage, des dépendances et des projets futurs. Une petite surface entièrement chauffée au gaz n'a pas les mêmes besoins qu'une maison équipée de radiateurs électriques, d'un atelier, de volets motorisés et d'une borne de recharge. Le nombre de rangées visibles est donc un indice, pas un diagnostic."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~230 V",
+          "label": "tension habituelle d'une alimentation domestique monophasée en France"
+        },
+        {
+          "value": "30 mA",
+          "label": "sensibilité courante des interrupteurs différentiels dédiés à la protection des personnes"
+        },
+        {
+          "value": "~20 %",
+          "label": "ordre de grandeur de modules libres souvent prévu pour faciliter les évolutions du tableau"
+        },
+        {
+          "value": "2 à 4 rangées",
+          "label": "format fréquemment rencontré dans un logement, selon sa surface et ses équipements"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "anticiper-les-besoins",
+      "text": "Prévoir les usages d'aujourd'hui et de demain"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant tout remplacement ou ajout, dressez la liste des équipements actuels et envisagés: induction, climatisation, pompe à chaleur, chauffe-eau thermodynamique, panneaux photovoltaïques, véhicule électrique, atelier ou extension. Ces projets peuvent exiger de nouveaux circuits, des protections spécifiques, voire une adaptation de l'alimentation générale. Un tableau rempli à ras bord rend chaque évolution plus coûteuse et moins propre."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vérifiez que chaque ligne est étiquetée et que les circuits importants sont faciles à isoler.",
+        "Demandez si les conducteurs existants sont adaptés aux protections prévues: augmenter le calibre d'un disjoncteur sans vérifier les câbles est dangereux.",
+        "Prévoyez des emplacements libres, plutôt que d'accumuler des ajouts improvisés.",
+        "Pour une construction ou une rénovation lourde, faites vérifier le projet au regard de la norme NF C 15-100 et de ses évolutions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "remplacer-ou-faire-evoluer",
+      "text": "Ajouter un circuit, moderniser ou remplacer: comment décider?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un tableau ancien n'est pas automatiquement dangereux, mais certains signes justifient une évaluation: protections absentes ou inadaptées, fusibles difficiles à identifier, manque de différentiel 30 mA, coffret trop petit, fils abîmés, traces de chauffe ou déclenchements fréquents. Dans ces situations, ajouter un seul module ne règle pas forcément le problème de fond."
+    },
+    {
+      "type": "compare",
+      "title": "Faire évoluer le tableau ou le refaire entièrement?",
+      "a": {
+        "title": "Ajouter ou adapter un circuit",
+        "points": [
+          "Approprié si le tableau est récent, correctement protégé et dispose d'emplacements libres.",
+          "Utile pour un nouvel appareil identifié: lave-vaisselle, volet roulant, éclairage extérieur ou prise d'atelier.",
+          "Nécessite tout de même de vérifier la capacité disponible et le cheminement des câbles."
+        ]
+      },
+      "b": {
+        "title": "Remplacer ou réorganiser le tableau",
+        "points": [
+          "À envisager lorsque les protections sont vieillissantes, mal repérées ou incompatibles avec les besoins actuels.",
+          "Permet de remettre à plat les circuits, les différentiels, les réserves et l'étiquetage.",
+          "Peut révéler la nécessité de corriger aussi certains câblages en amont ou dans les pièces."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, le matériel seul d'un petit tableau prééquipé peut coûter quelques centaines d'euros, mais le prix final dépend surtout de la complexité: nombre de circuits, état des câbles, accessoires, accès au tableau et remise en conformité nécessaire. Pour un remplacement simple avec main-d'œuvre, comptez souvent plusieurs centaines d'euros; une rénovation électrique plus large peut atteindre plusieurs milliers d'euros. Demandez des devis détaillant le tableau, les protections, les reprises de câblage et les éventuels travaux hors tableau."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil devis",
+      "html": "<p>Comparez les prestations, pas seulement le total. Un devis utile précise les circuits créés ou repris, le type de protections, les repérages prévus, les modules de réserve et ce qui reste hors périmètre.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "emplacement-et-organisation",
+      "text": "L'emplacement et l'organisation comptent aussi pour la sécurité"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tableau doit rester accessible, protégé des chocs et de l'humidité excessive, sans être dissimulé derrière un meuble difficile à déplacer. En cas d'urgence, vous devez pouvoir atteindre la coupure générale rapidement. Une porte de coffret fermée protège les appareillages, mais elle ne doit pas empêcher l'accès au tableau."
+    },
+    {
+      "type": "paragraph",
+      "html": "À l'intérieur, une présentation nette n'est pas seulement esthétique. Des conducteurs rangés, des appareils clairement identifiés et une réserve de place facilitent les contrôles et réduisent le risque d'erreur lors d'une intervention. Si votre tableau est dans un logement loué et que vous constatez un défaut apparent ou des déclenchements répétés, signalez-le par écrit au propriétaire ou au gestionnaire plutôt que d'entreprendre vous-même une modification."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-et-reagir",
+      "text": "Vérifier le tableau et réagir correctement à un déclenchement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez effectuer quelques contrôles visuels et fonctionnels simples, sans retirer le capot ni manipuler de fil. L'objectif n'est pas de réparer l'installation, mais d'identifier un problème, de sécuriser la situation et de transmettre des informations utiles à un électricien."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Observez sans ouvrir",
+          "html": "Recherchez une odeur de plastique chaud, des traces noires, un bruit inhabituel, de l'humidité ou un coffret endommagé. Si vous en constatez, coupez l'alimentation générale si cela peut être fait sans danger et contactez rapidement un professionnel."
+        },
+        {
+          "title": "Repérez le circuit concerné",
+          "html": "Si un seul disjoncteur est abaissé, lisez son étiquette. Débranchez ou éteignez les appareils reliés à ce circuit avant de tenter un unique réarmement."
+        },
+        {
+          "title": "Testez sans insister",
+          "html": "Si le disjoncteur retombe immédiatement, laissez-le abaissé. Le défaut peut venir d'un appareil, d'une prise, d'un câble ou d'un équipement fixe; il doit être recherché méthodiquement."
+        },
+        {
+          "title": "Utilisez le bouton test avec précaution",
+          "html": "Le bouton « test » d'un interrupteur différentiel sert à vérifier son déclenchement, selon la fréquence indiquée par le fabricant. Prévenez les occupants: il coupe les circuits placés sous sa protection. S'il ne déclenche pas, faites contrôler l'appareil."
+        },
+        {
+          "title": "Faites intervenir au bon moment",
+          "html": "Sollicitez un électricien en cas de déclenchements répétés, d'ajout de circuit, de doute sur la terre, de tableau vétuste ou de toute partie abîmée. Pour une installation neuve ou profondément rénovée, les démarches de contrôle applicables doivent aussi être anticipées."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne prenez pas de risque",
+      "html": "<p>Même après une coupure générale, certaines parties situées en amont peuvent rester sous tension. Ne retirez pas le capot du tableau, ne resserrez pas une connexion et ne remplacez pas un disjoncteur sans les compétences, le matériel et les vérifications nécessaires.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-laction",
+      "text": "Passez de la question au bon diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour savoir si votre panneau électrique répond à vos besoins, commencez par trois gestes simples: photographiez le tableau porte ouverte sans démonter quoi que ce soit, vérifiez que chaque disjoncteur porte une étiquette compréhensible et notez les équipements que vous souhaitez ajouter dans les prochaines années. Cette préparation permet de distinguer une simple amélioration d'une modernisation plus complète."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le rôle d'un panneau électrique est donc double: <strong>faire fonctionner le logement au quotidien</strong> et <strong>limiter les risques lorsqu'un défaut survient</strong>. S'il est lisible, correctement dimensionné et entretenu par des intervenants qualifiés, il vous offre aussi une base fiable pour faire évoluer votre habitat sans multiplier les bricolages hasardeux."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre un panneau électrique, un tableau électrique et un compteur?",
+      "a": "<p>Dans l'usage courant, panneau électrique et tableau électrique désignent souvent le même ensemble: le coffret qui réunit les protections des circuits du logement. Le compteur, lui, mesure l'électricité consommée. Le disjoncteur de branchement assure notamment la coupure générale et la limitation liée à la puissance disponible; il ne faut donc pas le confondre avec les petits disjoncteurs du tableau.</p>"
+    },
+    {
+      "q": "Pourquoi le disjoncteur général saute-t-il alors qu'aucun disjoncteur du tableau ne semble abaissé?",
+      "a": "<p>Plusieurs causes sont possibles: une puissance appelée trop importante par rapport à votre abonnement, un défaut affectant l'installation, ou un problème sur un équipement. Éteignez les appareils les plus énergivores avant de réarmer une seule fois. Si la coupure se reproduit ou si vous observez une odeur, une chauffe ou un bruit inhabituel, laissez l'installation hors tension et demandez un diagnostic à un électricien.</p>"
+    },
+    {
+      "q": "Peut-on ajouter soi-même un disjoncteur dans un tableau électrique?",
+      "a": "<p>Ce n'est pas une opération de bricolage ordinaire. Il faut vérifier le type de tableau, la place disponible, l'équilibrage de l'ensemble, le calibre de la protection, la section et le cheminement des conducteurs, ainsi que la protection différentielle associée. Une erreur peut provoquer échauffement, coupures intempestives ou défaut de protection. Pour créer un circuit, l'intervention d'un électricien est fortement recommandée.</p>"
+    },
+    {
+      "q": "Comment savoir si un tableau électrique ancien doit être remplacé?",
+      "a": "<p>Un âge élevé ne suffit pas à conclure, mais l'absence de protections différentielles adaptées, des fusibles peu lisibles, des circuits non repérés, un coffret surchargé, des traces de chauffe, des fils dégradés ou des déclenchements fréquents sont des signaux importants. Faites réaliser un diagnostic, notamment avant l'achat d'un logement, une location, une extension ou l'installation d'un équipement puissant.</p>"
+    },
+    {
+      "q": "Un panneau électrique protège-t-il les appareils contre la foudre?",
+      "a": "<p>Les disjoncteurs et interrupteurs différentiels n'ont pas pour fonction principale de protéger l'électronique contre les surtensions dues à la foudre. Un parafoudre installé au tableau peut limiter certaines surtensions, lorsque sa présence est adaptée à l'installation. Son choix dépend du contexte local et du réseau. Pour les appareils très sensibles, une protection complémentaire peut être utile, sans remplacer un parafoudre correctement installé.</p>"
+    },
+    {
+      "q": "Un panneau électrique est-il la même chose qu'un panneau solaire?",
+      "a": "<p>Non. Un panneau solaire photovoltaïque produit de l'électricité à partir du soleil. Le tableau électrique reçoit et distribue l'électricité dans le logement. Une installation photovoltaïque nécessite généralement des protections et des équipements spécifiques raccordés à proximité ou dans le tableau, mais les deux éléments n'ont pas la même fonction.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

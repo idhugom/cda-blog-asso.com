@@ -1,0 +1,293 @@
+{
+  "id": 483,
+  "slug": "obtenez-le-marteau-de-khazgoroth-dans-wow-etapes-detaillees-pour-acquerir-cette-puissante-relique",
+  "title": "Obtenez le marteau de khaz’goroth dans wow: étapes détaillées pour acquérir cette puissante relique",
+  "metaTitle": "Marteau de Khaz’goroth WoW: comment l’obtenir",
+  "metaDescription": "Marteau de Khaz’goroth dans WoW: la quête d’Uldaman expliquée, ses prérequis, la récompense à choisir et les différences entre versions de jeu actuelles.",
+  "dek": "Le Marteau de Khaz’goroth n’est pas une arme légendaire à obtenir par un simple taux de butin: il est lié à une ancienne progression de quêtes d’Uldaman. Voici comment vérifier votre version du jeu, suivre le bon parcours et ne pas rater cette récompense unique.",
+  "category": "loisirs-sport",
+  "tags": [
+    "World of Warcraft",
+    "WoW Classic",
+    "Uldaman",
+    "quêtes WoW",
+    "équipement"
+  ],
+  "keyTakeaways": [
+    "Le Marteau de Khaz’goroth est une récompense de quête d’Uldaman, pas un objet à farmer sur un boss.",
+    "La chaîne classique se termine autour de la quête The Platinum Discs.",
+    "Le choix de récompense est définitif pour le personnage: vérifiez vos armes alternatives avant de valider.",
+    "Sur WoW moderne, Uldaman et ses quêtes ne fonctionnent pas forcément comme dans Classic.",
+    "L’objet est surtout intéressant pour la progression Classic, la collection ou le transmogrification selon votre version."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le Marteau de Khaz’goroth fait partie de ces objets de World of Warcraft dont le nom titanique entretient une réputation plus grande que leur mode d’obtention réel. Il ne se gagne pas en achetant une « relique » ni en répétant aveuglément un donjon: dans le contenu Classic d’origine, il s’agit d’une récompense proposée au terme d’une quête liée à Uldaman. Ce guide vous aide à suivre la bonne route, à adapter votre démarche à votre version de WoW et à choisir la récompense sans regret."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-marteau-de-khazgoroth",
+      "text": "Ce qu’est réellement le Marteau de Khaz’goroth"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>Marteau de Khaz’goroth</strong> est une arme à deux mains associée au contenu historique d’Uldaman, le donjon des Terres ingrates. Malgré son nom lié au titan Khaz’goroth, ce n’est ni une arme prodigieuse de Legion, ni une arme légendaire moderne, ni un objet dont la puissance reste au niveau des extensions récentes. Son intérêt dépend donc de votre objectif: améliorer temporairement un personnage en phase de montée de niveau dans Classic, compléter une collection ou obtenir une apparence lorsque votre version permet de l’ajouter à la garde-robe."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les versions Classic qui préservent cette chaîne, le marteau est proposé parmi les récompenses de la quête <em>The Platinum Discs</em>, à l’issue de la progression d’Uldaman. Le point important est là: vous ne cherchez pas un butin aléatoire sur Archaedas. Vous devez mener à bien la quête et sélectionner le marteau dans la fenêtre de récompenses."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point à retenir",
+      "html": "<p>Tuer Archaedas plusieurs fois après avoir terminé la quête n’augmente pas vos chances d’obtenir le marteau. La récompense dépend de votre validation de quête, et non d’un taux de drop.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-votre-version-de-wow",
+      "text": "Commencez par identifier votre version de WoW"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le même nom de donjon ne garantit pas le même contenu. World of Warcraft a profondément remanié les zones, les niveaux et certaines chaînes de quêtes au fil des extensions. Avant de réunir un groupe, ouvrez votre journal de quêtes, consultez la source indiquée sur l’objet si vous l’avez repéré dans l’interface, puis vérifiez que votre version donne bien accès à la chaîne classique d’Uldaman."
+    },
+    {
+      "type": "table",
+      "caption": "Où la méthode de quête est la plus pertinente",
+      "headers": [
+        "Version de WoW",
+        "Ce qu’il faut attendre du Marteau de Khaz’goroth",
+        "Réflexe utile"
+      ],
+      "rows": [
+        [
+          "WoW Classic Era ou Hardcore",
+          "Récompense de quête d’Uldaman utile pendant la progression, selon votre classe et votre niveau.",
+          "Suivez la chaîne jusqu’à <em>The Platinum Discs</em> et choisissez l’objet à la fin."
+        ],
+        [
+          "Royaumes Classic avec règles saisonnières",
+          "La route est souvent proche du contenu Classic, mais les niveaux, accès ou équilibrages peuvent évoluer.",
+          "Contrôlez le journal de quêtes et la récompense affichée en jeu avant de vous déplacer."
+        ],
+        [
+          "WoW moderne (Retail)",
+          "L’objet peut relever du contenu ancien, d’une source modifiée ou d’un objectif de collection plutôt que d’un équipement utile.",
+          "Distinguez l’ancien Uldaman d’autres versions du donjon et vérifiez la source exacte dans votre client."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux guides mélangés",
+      "html": "<p>Ne confondez pas l’Uldaman du contenu classique avec les versions plus récentes portant le nom d’Uldaman. Un guide qui parle de clé mythique, de niveau d’extension actuel ou d’équipement de fin de jeu ne décrit pas l’obtention historique du Marteau de Khaz’goroth.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-expedition-a-uldaman",
+      "text": "Préparez votre expédition à Uldaman"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans Classic, Uldaman se situe dans les <strong>Terres ingrates</strong>. Le donjon est prévu pour une tranche de niveaux intermédiaires: arriver vers le niveau 40, avec un groupe capable d’affronter la fin de l’instance, rend généralement l’expédition plus confortable. Le niveau exact exigé par une quête et la difficulté ressentie dépendent toutefois de votre version, de votre groupe et des éventuels ajustements saisonniers."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Prévenez le groupe que votre objectif est la <strong>quête de fin d’Uldaman</strong>, pas seulement une montée de niveau rapide.",
+        "Vérifiez que vous avez de la place dans vos sacs pour les objets de quête et les récompenses.",
+        "Prenez des consommables adaptés à votre niveau: soins, mana et, si votre groupe en utilise, quelques améliorations temporaires.",
+        "Assurez-vous de pouvoir manier une masse à deux mains avant de choisir le marteau: la compétence d’arme compte dans Classic.",
+        "Réparez votre équipement et prévoyez le temps d’un parcours complet, car écourter le donjon peut vous faire manquer l’étape décisive."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 fois",
+          "label": "la quête de récompense se valide normalement une seule fois par personnage"
+        },
+        {
+          "value": "≈ 40",
+          "label": "niveau de personnage souvent plus confortable pour viser la fin d’Uldaman dans Classic"
+        },
+        {
+          "value": "≈ 45 à 90 min",
+          "label": "durée courante d’une exploration complète avec un groupe qui découvre ou réalise les quêtes"
+        },
+        {
+          "value": "0 pièce",
+          "label": "coût direct de l’objet: le marteau n’est pas un achat auprès d’un vendeur"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de groupe",
+      "html": "<p>Demandez dès le départ si le groupe prévoit de vaincre Archaedas et de passer par la salle finale. Beaucoup de groupes de nivellement quittent un donjon dès que leurs objectifs personnels sont atteints.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "etapes-pour-obtenir-le-marteau",
+      "text": "Les étapes détaillées pour obtenir le marteau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le parcours ci-dessous décrit la logique de la chaîne classique. Les intitulés ou la position d’un donneur de quête peuvent légèrement varier selon les éditions de WoW; fiez-vous toujours au suivi affiché dans votre journal. L’essentiel consiste à progresser jusqu’à la salle finale, à utiliser les disques de Norgannon et à remettre la quête qui propose le choix de récompense."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Vérifiez la chaîne avant d’entrer",
+          "html": "Dans votre journal, recherchez la progression liée à Uldaman et aux <em>Platinum Discs</em>. Si la quête n’est pas encore proposée, ne partez pas du principe que le marteau tombera directement sur un ennemi: avancez d’abord dans les quêtes d’Uldaman disponibles pour votre personnage."
+        },
+        {
+          "title": "Traversez Uldaman jusqu’à son affrontement final",
+          "html": "Progressez avec votre groupe sans ignorer les étapes qui ouvrent l’accès à la zone finale. Les gardiens et groupes de créatures peuvent se réveiller ou arriver par vagues selon les salles; laissez le tank établir la menace et évitez de déclencher plusieurs packs à la fois."
+        },
+        {
+          "title": "Vainquez Archaedas",
+          "html": "Archaedas est l’étape qui vous mène à la conclusion de l’exploration classique. Conservez vos capacités défensives et vos ressources pour cette partie: les combats de constructions peuvent devenir chaotiques si les ennemis secondaires ne sont pas pris en charge rapidement."
+        },
+        {
+          "title": "Activez l’étape des disques dans la salle concernée",
+          "html": "Après la progression finale, interagissez avec les disques ou le personnage de lore requis par votre objectif. Lisez le texte de quête et attendez bien la mise à jour dans le journal. Partir immédiatement après le boss sans cette interaction est une erreur fréquente."
+        },
+        {
+          "title": "Remettez la quête et choisissez le marteau",
+          "html": "Suivez le marqueur de remise de quête, puis sélectionnez explicitement le <strong>Marteau de Khaz’goroth</strong> dans les récompenses de <em>The Platinum Discs</em>. Relisez la fenêtre avant de confirmer: les autres objets proposés remplacent le marteau, ils ne s’ajoutent pas automatiquement à votre inventaire."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ne-pas-farmer-le-mauvais-objectif",
+      "text": "Pourquoi le farm du boss n’est pas la bonne stratégie"
+    },
+    {
+      "type": "compare",
+      "title": "Deux approches, un seul bon objectif",
+      "a": {
+        "title": "Répéter Archaedas pour un drop",
+        "points": [
+          "Vous dépensez du temps dans des réinitialisations qui ne font pas progresser une récompense de quête déjà terminée.",
+          "Vous risquez de confondre le Marteau de Khaz’goroth avec un véritable objet de butin de donjon.",
+          "Cette méthode n’a de sens que pour d’autres objets ou pour l’expérience, pas pour sécuriser cette récompense."
+        ]
+      },
+      "b": {
+        "title": "Terminer la chaîne d’Uldaman",
+        "points": [
+          "Vous suivez une route déterministe: quête, salle finale, validation, choix de récompense.",
+          "Vous savez avant de confirmer quel objet vous allez obtenir.",
+          "Une seule expédition complète peut suffire si votre journal est correctement avancé."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction évite une perte de temps considérable. Si, après avoir vaincu le boss et activé les disques, aucune quête ne propose le marteau, arrêtez-vous avant de recommencer l’instance. Vérifiez plutôt votre version, vos quêtes préalables éventuelles et l’objet exact affiché dans la base de données intégrée ou dans le journal de votre client."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-recompense-sans-regret",
+      "text": "Le marteau est-il le meilleur choix pour votre personnage?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Marteau de Khaz’goroth peut représenter une amélioration appréciable pour un personnage Classic qui utilise réellement les masses à deux mains. Mais son prestige ne doit pas remplacer une comparaison simple avec votre arme actuelle et avec les autres récompenses proposées. Une arme à deux mains est peu pertinente si votre spécialisation repose sur un bouclier, deux armes, une arme à distance ou une autre caractéristique prioritaire."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Choisissez le marteau si vous pouvez l’équiper immédiatement et qu’il améliore sensiblement vos dégâts ou vos statistiques utiles.",
+        "Préférez une autre récompense si elle correspond mieux à votre rôle actuel, notamment pour un personnage orienté protection, soins ou distance.",
+        "Pensez à votre rythme de progression: une très bonne arme de niveau intermédiaire sera remplacée plus tard, parfois rapidement.",
+        "Si vous le visez pour l’apparence, vérifiez d’abord que votre version et votre classe permettent bien de la collectionner."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Récompense unique",
+      "html": "<p>Dans la logique Classic, le choix de fin de quête est lié à votre personnage. Vous ne pourrez pas revenir chercher les autres récompenses avec le même héros simplement en refaisant le donjon.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cout-temps-et-collection",
+      "text": "Coût, temps à prévoir et intérêt pour la collection"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas à acheter le Marteau de Khaz’goroth: il est lié à la récompense de quête et ne se traite donc pas comme une arme ordinaire de l’hôtel des ventes. Votre dépense réelle correspond surtout au trajet, aux réparations, aux consommables et au temps de groupe. Ces frais restent en général modestes face au gain d’un équipement de quête, mais ils peuvent peser davantage sur un personnage qui débute sans réserve d’or."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les propositions de passage payant pour cet objectif, sauf si vous comprenez parfaitement ce qui est vendu et si les règles de votre royaume l’autorisent. Un groupe normal, clairement informé de l’objectif, suffit habituellement. Méfiez-vous aussi des annonces qui promettent « le marteau garanti sur Archaedas »: la garantie vient de la quête, pas du boss ni d’un service."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une collection sur WoW moderne, l’intérêt est surtout visuel et historique. Avant de supprimer ou de désenchanter l’objet, ouvrez votre collection d’apparences pour contrôler s’il a bien été enregistré. Les règles de transmogrification, les restrictions de type d’arme et la disponibilité du contenu ancien varient selon les versions; ne supposez pas qu’un objet obtenu sur un personnage est utilisable par tous vos personnages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-action",
+      "text": "Votre plan d’action avant de partir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour obtenir le Marteau de Khaz’goroth efficacement, commencez par ouvrir votre journal et confirmer que votre version de WoW conserve bien la récompense de <em>The Platinum Discs</em>. Formez ensuite un groupe pour un Uldaman complet, précisez que vous devez atteindre la salle finale et valider l’étape des disques. Enfin, comparez les récompenses avant le départ: lorsque la fenêtre de choix s’ouvrira, vous saurez que le marteau est réellement l’objet adapté à votre personnage."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La méthode la plus sûre",
+      "html": "<p>Quête suivie dans le journal, Uldaman complété jusqu’à Archaedas, interaction finale validée, puis choix conscient de la récompense: c’est cette séquence qui vous évite les trajets inutiles et les mauvaises informations.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le Marteau de Khaz’goroth tombe-t-il sur Archaedas?",
+      "a": "<p>Non, dans la route Classic d’origine, le marteau est lié à la récompense de quête autour de <em>The Platinum Discs</em>. Archaedas fait partie de la progression nécessaire vers la fin d’Uldaman, mais il ne faut pas le farmer en espérant un taux de drop du marteau. Vérifiez toujours les récompenses de quête affichées dans votre version du jeu.</p>"
+    },
+    {
+      "q": "À quel niveau peut-on faire Uldaman pour obtenir le Marteau de Khaz’goroth?",
+      "a": "<p>Dans Classic, viser environ le niveau 40 permet souvent d’aborder plus sereinement la partie finale d’Uldaman, surtout avec un groupe peu équipé. La tranche réellement confortable dépend de votre classe, de la composition du groupe et des règles du royaume. Consultez aussi le niveau indiqué dans votre journal de quêtes: c’est lui qui détermine si vous pouvez prendre ou remettre une étape.</p>"
+    },
+    {
+      "q": "Puis-je récupérer les autres récompenses de The Platinum Discs après avoir choisi le marteau?",
+      "a": "<p>En règle générale, non: une quête de récompense de ce type se termine une fois par personnage et vous impose de choisir un seul objet. Prenez quelques secondes pour comparer le Marteau de Khaz’goroth aux autres propositions avant de cliquer sur Valider. Pour posséder une autre récompense, il faut habituellement la faire choisir par un autre personnage éligible.</p>"
+    },
+    {
+      "q": "Pourquoi ne vois-je pas le Marteau de Khaz’goroth dans Uldaman sur WoW Retail?",
+      "a": "<p>WoW Retail a modifié de nombreux donjons, accès et parcours de quêtes anciens. Vous pouvez aussi être dans une version différente d’Uldaman de celle visée par la chaîne Classic. Contrôlez la source de l’objet dans votre client, l’intitulé exact de la quête et la version du donjon accessible à votre personnage avant de conclure que l’objet est indisponible.</p>"
+    },
+    {
+      "q": "Le Marteau de Khaz’goroth est-il encore puissant au niveau maximum?",
+      "a": "<p>Non. Son niveau d’objet et ses statistiques correspondent à un équipement de progression du contenu ancien. Il n’est pas destiné au contenu de haut niveau des extensions actuelles. Sa valeur tient surtout à son utilité pendant le leveling Classic, à son nom, à son histoire et, selon les règles de votre version, à son potentiel de collection d’apparence.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

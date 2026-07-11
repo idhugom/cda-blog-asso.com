@@ -1,0 +1,318 @@
+{
+  "id": 1604,
+  "slug": "comment-preserver-la-saveur-des-tomates-congelees",
+  "title": "Comment préserver la saveur des tomates congelées",
+  "metaTitle": "Tomates congelées: préserver leur saveur",
+  "metaDescription": "Tomates congelées: les bons gestes, emballages et cuissons pour conserver leurs arômes, leur couleur et leur goût, de l’été à vos plats d’hiver.",
+  "dek": "La congélation ne peut pas conserver le croquant d’une tomate fraîche, mais elle peut préserver remarquablement ses arômes pour les sauces, soupes et plats mijotés. Du choix des fruits au mode de cuisson, voici les gestes qui font réellement la différence.",
+  "category": "maison-immobilier",
+  "tags": [
+    "tomates",
+    "congélation",
+    "conservation",
+    "cuisine maison",
+    "récolte"
+  ],
+  "keyTakeaways": [
+    "Congelez des tomates très mûres, saines et encore fermes au toucher.",
+    "Pour le goût, le froid rapide et l’absence d’air dans l’emballage comptent autant que la recette.",
+    "Les tomates congelées sont excellentes cuites, mais ne retrouveront pas la texture d’une salade.",
+    "Congelez en petites portions, étiquetées et plates, pour limiter les cristaux et le gaspillage.",
+    "Cuire les tomates directement encore gelées préserve souvent mieux leur jus et leurs arômes."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une tomate mûrie au soleil mérite mieux qu’un sachet rempli à la hâte et oublié au fond du congélateur. Bien préparée, elle gardera une grande partie de son parfum, de sa couleur et de son intensité pour vos sauces, soupes ou gratins d’hiver. La clé est d’accepter ce que le froid transforme, puis de choisir la méthode adaptée à l’usage que vous en ferez."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-le-froid-change",
+      "text": "Comprendre ce que le froid change dans une tomate"
+    },
+    {
+      "type": "paragraph",
+      "html": "La tomate est composée en grande partie d’eau. Lorsqu’elle gèle, cette eau forme des cristaux qui percent une partie des cellules de sa chair. À la décongélation, la tomate rend donc du jus et devient molle: c’est un phénomène normal, pas le signe d’une congélation ratée. Sa texture ne conviendra plus à une salade, à des tartines ou à une tomate farcie qui doit se tenir."
+    },
+    {
+      "type": "paragraph",
+      "html": "En revanche, ses qualités gustatives restent très intéressantes si le fruit était savoureux au départ et s’il a été congelé correctement. Les sucres, l’acidité, les pigments et une bonne part des composés aromatiques sont conservés. Le jus rendu n’est pas un déchet: il contient de la saveur. Dans une sauce, une soupe, un curry, une ratatouille ou une pizza, il suffit de le laisser réduire ou de l’intégrer à la préparation."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon objectif",
+      "html": "<p><strong>Ne cherchez pas à retrouver une tomate fraîche.</strong> Cherchez à obtenir une base de cuisine parfumée, pratique et disponible toute l’année.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "−18 °C",
+          "label": "repère habituel pour un congélateur domestique, à maintenir de façon stable"
+        },
+        {
+          "value": "8 à 12 mois",
+          "label": "période pendant laquelle la qualité gustative reste généralement la plus satisfaisante"
+        },
+        {
+          "value": "1 à 2 portions",
+          "label": "format souvent le plus pratique à congeler pour éviter les restes"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-et-preparer-les-tomates",
+      "text": "Choisir les bonnes tomates avant de les congeler"
+    },
+    {
+      "type": "paragraph",
+      "html": "La congélation ne bonifie pas un fruit fade. Utilisez des tomates arrivées à pleine maturité, parfumées, sans partie moisie, fissure profonde ni zone abîmée. Elles doivent être souples mais pas écrasées. Les variétés charnues, telles que les tomates allongées ou les grosses tomates à chair dense, donnent des sauces moins aqueuses. Les petites tomates très sucrées sont parfaites rôties ou ajoutées à des plats mijotés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Récoltez ou achetez-les idéalement le jour même de la préparation. Si elles finissent de mûrir chez vous, laissez-les à température ambiante jusqu’à ce qu’elles développent leur parfum, puis congelez-les sans attendre plusieurs jours. Une tomate farineuse, trop mûre ou déjà aqueuse donnera inévitablement un résultat plus dilué après décongélation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Lavez</strong> les tomates à l’eau claire, sans les laisser tremper longtemps.",
+        "<strong>Séchez-les soigneusement</strong> avec un torchon propre ou du papier absorbant: l’eau de surface crée du givre inutile.",
+        "<strong>Retirez</strong> pédoncules, parties dures et zones abîmées avant de couper.",
+        "<strong>Travaillez proprement</strong> avec une planche, un couteau et des contenants propres, surtout si vous préparez un coulis ou une sauce."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne congelez pas des tomates simplement parce qu’elles sont trop molles pour être mangées. Si leur goût est déjà passé, le congélateur ne le réparera pas.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-methode-selon-vos-plats",
+      "text": "Choisir la méthode selon vos futurs plats"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une seule bonne façon de congeler les tomates. La meilleure méthode dépend du temps que vous voulez gagner plus tard et de la recette prévue. Conserver les tomates crues offre une grande souplesse; les rôtir ou les cuire avant congélation concentre davantage leur goût et réduit le problème d’excès d’eau."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle forme de tomate congelée pour quel usage?",
+      "headers": [
+        "Méthode",
+        "Atout principal",
+        "Limite",
+        "Idéale pour"
+      ],
+      "rows": [
+        [
+          "Entières, avec peau",
+          "Préparation très rapide",
+          "Très molles après décongélation",
+          "Soupes, sauces, plats mixés"
+        ],
+        [
+          "En quartiers ou en dés",
+          "Portions faciles à doser",
+          "Rend du jus à la cuisson",
+          "Ratatouille, chili, mijotés"
+        ],
+        [
+          "Rôties au four",
+          "Saveur concentrée et légèrement confite",
+          "Demande une cuisson préalable",
+          "Pâtes, tartes, sauces express"
+        ],
+        [
+          "Coulis ou sauce cuite",
+          "Prête à l’emploi, peu de pertes",
+          "Moins polyvalente qu’une tomate nature",
+          "Pizza, lasagnes, potages"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Tomates crues ou tomates cuites avant congélation?",
+      "a": {
+        "title": "Tomates crues préparées",
+        "points": [
+          "Préservent mieux les notes fraîches et l’acidité du fruit.",
+          "Demandent peu de temps le jour de la récolte.",
+          "S’adaptent à de nombreuses recettes salées.",
+          "Rendent davantage d’eau et nécessitent souvent une réduction à la cuisson."
+        ]
+      },
+      "b": {
+        "title": "Tomates rôties ou en sauce",
+        "points": [
+          "Développent une saveur plus profonde et plus concentrée.",
+          "Occupent moins de volume une fois réduites en coulis.",
+          "Se versent directement dans un plat sans préparation supplémentaire.",
+          "Demandent un peu plus de travail avant la congélation."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-fiable-pas-a-pas",
+      "text": "La méthode la plus fiable pour des tomates en morceaux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la plupart des cuisines du quotidien, congelez les tomates en quartiers ou en gros dés, séparés d’abord sur une plaque. Cette étape évite la formation d’un bloc compact et accélère la prise au froid. Vous pourrez ensuite prélever exactement la quantité voulue, sans devoir décongeler tout un sachet."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez et découpez",
+          "html": "Lavez et séchez les tomates, ôtez le pédoncule puis coupez-les en quartiers ou en dés. Retirez les graines uniquement si votre recette le nécessite: elles ne nuisent pas à la congélation."
+        },
+        {
+          "title": "Étalez sans superposer",
+          "html": "Disposez les morceaux sur une plaque ou un grand plat recouvert d’un support propre, en les espaçant. Placez la plaque à plat dans le congélateur jusqu’à ce que les morceaux soient bien fermes."
+        },
+        {
+          "title": "Emballez rapidement",
+          "html": "Transférez les morceaux gelés dans un sac de congélation épais ou une boîte hermétique. Chassez autant d’air que possible avant de fermer, sans écraser les tomates."
+        },
+        {
+          "title": "Étiquetez et rangez",
+          "html": "Indiquez le contenu, la date et, si utile, la quantité. Rangez les sachets à plat dans la zone la plus froide du congélateur, plutôt que dans la porte."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour peler sans effort",
+      "html": "<p>Congelez des tomates entières avec leur peau si vous les destinez à une sauce. Sous un filet d’eau tiède, la peau d’une tomate encore gelée se retire très facilement. Vous pouvez alors la mettre directement dans la casserole.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "emballage-air-et-portion",
+      "text": "Soigner l’emballage: l’air est l’ennemi du goût"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principal risque pour la qualité n’est pas seulement le temps: c’est aussi l’air emprisonné autour des aliments. Il favorise le dessèchement, le givre et les odeurs de congélateur. Un sac spécial congélation dont vous chassez l’air convient très bien pour un usage courant. Une machine sous vide peut être utile si vous congelez souvent de grandes quantités, mais elle n’est pas indispensable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les boîtes hermétiques rigides protègent mieux les tomates fragiles et sont pratiques pour un coulis. Choisissez-les adaptées au congélateur. Si vous utilisez des bocaux en verre prévus pour cet usage, ne les remplissez jamais jusqu’au bord: le contenu augmente de volume en gelant et pourrait casser le récipient. Laissez une marge visible, particulièrement avec les sauces liquides."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Préférez des sachets fins et plats: ils gèlent plus vite et se rangent mieux.",
+        "Congelez environ 250 à 500 g par paquet pour une sauce familiale, ou de petites portions pour une personne.",
+        "Évitez d’ajouter beaucoup de sel avant congélation: il fait sortir l’eau de la chair.",
+        "Gardez basilic, ail, oignon et épices pour la cuisson, sauf si vous congelez déjà une sauce terminée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p><strong>Plus la tomate gèle vite et moins elle rencontre d’air, mieux elle conservera sa saveur.</strong> Ne surchargez pas le congélateur avec plusieurs kilos de produits encore tièdes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cuire-ou-decongeler-sans-perdre-le-gout",
+      "text": "Cuire ou décongeler sans perdre le goût"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la grande majorité des recettes, utilisez les tomates encore gelées. Versez-les directement dans une casserole chaude pour une sauce, dans une cocotte pour un plat mijoté ou sur une plaque pour une cuisson au four. Leur eau va s’évaporer progressivement; laissez simplement un peu plus de temps de cuisson et évitez de couvrir en permanence si vous voulez concentrer la préparation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si une décongélation est nécessaire, faites-la au réfrigérateur dans une passoire posée sur un bol, afin de récupérer le liquide. Ne le jetez pas: ajoutez-le à la sauce, à une soupe ou à un bouillon. Une décongélation au micro-ondes est possible si vous cuisinez immédiatement après, mais elle peut chauffer certaines zones et accentuer la texture molle. Évitez de laisser des tomates coupées décongeler longuement à température ambiante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour obtenir une sauce dense, commencez par faire réduire le jus à feu assez vif, puis ajoutez l’huile d’olive, les aromates et le sel en fin de cuisson. Pour une soupe, au contraire, gardez tout le liquide. Une pincée de sucre n’est utile que si les tomates sont réellement acides: goûtez toujours avant de corriger l’assaisonnement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-a-eviter",
+      "text": "Les erreurs qui affadissent les tomates congelées"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier faux pas consiste à enfermer des tomates encore humides ou chaudes: la vapeur se transforme en givre et dilue ensuite les saveurs. Le deuxième est de laisser un sachet entrouvert, mal fermé ou rempli d’air. Enfin, les variations de température, par exemple quand un paquet reste longtemps près de la porte ou pendant le rangement des courses, favorisent la recristallisation et dégradent progressivement la chair."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "N’empilez pas des aliments encore chauds dans le congélateur: laissez refroidir une sauce rapidement avant de l’emballer.",
+        "Ne gardez pas un sachet entamé pendant des mois: refermez-le soigneusement ou divisez en portions dès le départ.",
+        "Ne confondez pas givre et danger immédiat: c’est surtout un signe de perte de qualité et de dessèchement.",
+        "Évitez de recongeler des tomates crues déjà décongelées; mieux vaut les cuire, puis congeler la préparation cuite si nécessaire."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-d-action-pour-la-prochaine-recolte",
+      "text": "Votre plan d’action pour profiter des tomates tout l’hiver"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jour où vos tomates sont les plus parfumées, triez-les en trois groupes: les plus belles à manger fraîches, les charnues à couper et congeler, les très mûres à transformer en coulis ou à rôtir. Préparez des petits sachets plats de tomates nature et quelques portions de sauce cuite: vous aurez ainsi une solution adaptée à presque chaque repas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Étiquetez clairement, placez les nouvelles portions derrière les plus anciennes et utilisez d’abord celles de la saison précédente. Au moment de cuisiner, ne cherchez pas à les faire redevenir fermes: exploitez leur jus et leur fondant. C’est ainsi que vos tomates congelées garderont ce qui compte le plus, leur goût d’été."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le geste à faire dès maintenant",
+      "html": "<p>Préparez une première série de deux ou trois petits sachets de quartiers surgelés individuellement. Vous testerez facilement leur comportement dans vos recettes avant de congeler toute votre récolte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on congeler des tomates crues avec leur peau?",
+      "a": "<p>Oui, et c’est même la solution la plus simple pour les sauces et les soupes. Lavez et séchez parfaitement les tomates, retirez le pédoncule, puis congelez-les entières ou coupées. Leur peau se retirera facilement sous un filet d’eau tiède lorsqu’elles sont encore gelées. Gardez toutefois en tête qu’elles seront molles après décongélation et ne conviendront pas à une préparation crue.</p>"
+    },
+    {
+      "q": "Faut-il blanchir les tomates avant de les congeler?",
+      "a": "<p>Ce n’est pas obligatoire. Le blanchiment facilite surtout l’épluchage avant congélation: incisez légèrement la peau, plongez la tomate quelques secondes dans l’eau bouillante, puis dans l’eau froide. Pour gagner du temps et préserver un profil plus frais, vous pouvez aussi congeler les tomates crues avec la peau et les peler plus tard. Réservez le blanchiment aux recettes qui exigent vraiment une sauce sans peau.</p>"
+    },
+    {
+      "q": "Pourquoi mes tomates congelées rendent-elles autant d’eau?",
+      "a": "<p>C’est l’effet normal de la congélation sur un aliment très riche en eau. Les cristaux de glace fragilisent la structure de la chair, qui relâche son jus en décongelant. Pour limiter cet effet, congelez des variétés charnues, faites des portions fines qui gèlent vite et évitez les emballages remplis d’air. En cuisine, utilisez les tomates gelées directement et laissez réduire le jus au lieu de l’égoutter systématiquement.</p>"
+    },
+    {
+      "q": "Combien de temps peut-on garder des tomates au congélateur?",
+      "a": "<p>Dans un congélateur stable autour de −18 °C, comptez en général sur une qualité optimale pendant environ huit à douze mois. Elles peuvent rester utilisables au-delà si la chaîne du froid n’a pas été rompue, mais elles risquent de perdre progressivement en parfum, en couleur et en texture. Une date sur chaque sachet et une rotation des stocks vous éviteront de les oublier.</p>"
+    },
+    {
+      "q": "Peut-on congeler une sauce tomate déjà cuite?",
+      "a": "<p>Oui, c’est l’une des meilleures options pour préserver une saveur concentrée et gagner du temps. Laissez la sauce refroidir rapidement, répartissez-la dans de petits contenants adaptés au congélateur en laissant un espace libre, puis étiquetez. Une sauce simple, peu salée et peu chargée en herbes reste la plus polyvalente: vous pourrez l’assaisonner différemment au moment de la réchauffer.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": 1157,
+  "slug": "comment-organiser-un-atelier-de-creation-de-cocktails",
+  "title": "Comment organiser un atelier de création de cocktails ?",
+  "metaTitle": "Organiser un atelier de création de cocktails: le guide",
+  "metaDescription": "Organisez un atelier cocktails réussi: recettes, matériel, budget, quantités, déroulé et conseils de sécurité pour des invités ravis à la maison, sans stress.",
+  "dek": "Un bon atelier cocktails ne consiste pas à aligner des bouteilles sur une table: il donne à chacun les moyens de comprendre, doser et créer. Voici comment bâtir une expérience conviviale, accessible et sûre, même si vous débutez.",
+  "category": "loisirs-sport",
+  "tags": [
+    "cocktails",
+    "soirée à la maison",
+    "mixologie",
+    "réception",
+    "boissons sans alcool"
+  ],
+  "keyTakeaways": [
+    "Limitez-vous à deux cocktails et une option sans alcool.",
+    "Prévoyez un poste de travail clair pour trois à quatre personnes.",
+    "Laissez les invités mesurer, mélanger et ajuster eux-mêmes.",
+    "La glace, les agrumes et l'eau comptent autant que les spiritueux.",
+    "Faites de l'option sans alcool un choix désirable, pas une solution de secours."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un atelier de création de cocktails transforme un simple apéritif en activité participative: vos invités apprennent des gestes, testent des saveurs et repartent avec des idées à refaire. Pour qu'il reste fluide et convivial, le secret est moins de multiplier les alcools que de préparer un format simple, inclusif et bien cadencé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "definir-le-format-de-l-atelier",
+      "text": "Définissez un format réaliste avant d'acheter quoi que ce soit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par décider ce que vos invités doivent vivre. Un atelier d'initiation vise trois gestes faciles: mesurer, secouer ou remuer, puis dresser le verre. Un atelier plus créatif invite chacun à partir d'une même base pour inventer une variante. Dans les deux cas, gardez un objectif modeste: savoir réaliser deux boissons équilibrées est plus gratifiant que survoler six recettes dans la précipitation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une première édition, réunissez idéalement 6 à 10 personnes et réservez environ deux heures. Au-delà, créez des petits groupes avec des postes identiques; sinon, une partie des convives regardera les autres manipuler. Indiquez dès l'invitation qu'il s'agit d'un atelier avec dégustation facultative, et demandez les allergies, préférences alimentaires ainsi que les choix avec ou sans alcool."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "6 à 10",
+          "label": "participants: une taille confortable pour un atelier à domicile"
+        },
+        {
+          "value": "2 à 2 h 30",
+          "label": "durée souvent suffisante, accueil et rangement compris"
+        },
+        {
+          "value": "2 + 1",
+          "label": "deux recettes principales et une alternative sans alcool constituent un bon rythme"
+        },
+        {
+          "value": "15 à 35 €",
+          "label": "budget indicatif par personne pour les ingrédients, très variable selon les alcools déjà disponibles"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon niveau d'ambition",
+      "html": "<p>Un atelier réussi fait pratiquer chaque participant. Préférez trois recettes maîtrisées à une carte interminable qui immobilise tout le monde derrière le bar.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prevoir-un-atelier-inclusif",
+      "text": "Prévoyez une expérience agréable avec ou sans alcool"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'option sans alcool ne doit pas être un verre d'eau gazeuse posé à part. Prévoyez-lui les mêmes attentions: belle verrerie, glace, herbes fraîches, jus de qualité, sirop maison ou cordial, touche d'acidité et décoration. Ainsi, les personnes qui ne boivent pas, conduisent, sont enceintes, suivent un traitement ou souhaitent simplement modérer leur consommation participent pleinement à l'activité."
+    },
+    {
+      "type": "compare",
+      "title": "Quel cadre choisir pour votre groupe?",
+      "a": {
+        "title": "Atelier avec alcool",
+        "points": [
+          "Permet de découvrir le rôle d'un spiritueux, d'un vin pétillant ou d'une liqueur dans l'équilibre d'une recette.",
+          "Demande des doses mesurées, de petites portions de dégustation et une solution de retour sûre pour chaque convive.",
+          "Fonctionne mieux avec peu de références: deux bases alcoolisées suffisent généralement."
+        ]
+      },
+      "b": {
+        "title": "Atelier sans alcool ou hybride",
+        "points": [
+          "Convient à tous les âges et évite de gérer les effets de l'alcool pendant l'animation.",
+          "Mise sur les textures, les infusions, les épices, les jus, les bulles et l'acidité.",
+          "Peut intégrer une version alcoolisée facultative à ajouter individuellement, sans changer toute la recette."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une base commune facilite tout",
+      "html": "<p>Préparez par exemple un sirop de menthe-citron ou une infusion de fruits rouges utilisable dans les deux versions. Les invités comparent alors les équilibres de goût, pas seulement la présence ou l'absence d'alcool.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-des-recettes-adaptees",
+      "text": "Choisissez des recettes courtes, visuelles et faciles à personnaliser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Écartez les recettes qui exigent des ingrédients rares, une flamme, un blender puissant ou une succession de techniques délicates. Le meilleur programme alterne les méthodes: une boisson construite directement dans le verre, une recette au shaker et une boisson remuée. Chaque participant découvre ainsi la différence entre secouer pour aérer et refroidir rapidement, et remuer pour conserver une texture limpide."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "equilibre-des-saveurs",
+      "text": "Donnez une grille simple pour créer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Présentez chaque recette comme un équilibre entre <strong>force</strong>, <strong>sucre</strong>, <strong>acidité</strong> et <strong>dilution</strong>. Une boisson paraît trop vive? Ajoutez un peu de sirop ou de jus. Elle est lourde ou trop sucrée? Allongez avec un élément pétillant ou une pointe d'agrume. Elle manque de relief? Une herbe froissée, un zeste ou une pincée d'épice peut suffire. Faites goûter avant d'ajouter les bulles: c'est le moment où les invités comprennent réellement ce qu'ils font."
+    },
+    {
+      "type": "table",
+      "caption": "Un programme de trois recettes adapté à une première animation",
+      "headers": [
+        "Recette ou famille",
+        "Ingrédients faciles à trouver",
+        "Geste à apprendre",
+        "Personnalisation possible"
+      ],
+      "rows": [
+        [
+          "Pétillant agrumes-gingembre",
+          "Agrumes, ginger beer ou limonade peu sucrée, glace, base alcoolisée facultative",
+          "Construire dans le verre et remuer doucement",
+          "Citron vert, pamplemousse, romarin ou concombre"
+        ],
+        [
+          "Sour aux fruits rouges",
+          "Jus de citron, coulis ou purée de fruits, sirop, eau gazeuse, spiritueux facultatif",
+          "Mesurer, shaker puis filtrer",
+          "Dosage du sirop, fruits frais, version sans alcool"
+        ],
+        [
+          "Citron-menthe pétillant",
+          "Menthe, citron, sirop simple, eau pétillante, glace",
+          "Froisser les herbes et gérer la dilution",
+          "Basilic, fraise, thé froid ou concombre"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Faites des cartes-recettes",
+      "html": "<p>Posez une carte par poste avec les mesures, le verre à utiliser, les étapes et une case intitulée « ma variation ». Les invités n'auront pas besoin de vous interrompre à chaque geste.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "materiel-ingredients-et-budget",
+      "text": "Rassemblez le matériel utile sans transformer votre cuisine en bar professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n'avez pas besoin d'un équipement complet de mixologue. Pour 6 à 8 personnes, deux shakers, deux doseurs gradués, deux passoires, deux pilons, des cuillères longues et des planches à découper permettent de faire tourner les groupes. Un grand saladier ou une glacière propre pour la glace, des bacs pour les garnitures et des essuie-tout changent aussi radicalement le confort de service."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Indispensable:</strong> jigger ou verre doseur, shaker avec couvercle, cuillère, passoire, couteau et planche séparée pour les agrumes.",
+        "<strong>Très utile:</strong> presse-agrumes, économe pour les zestes, pilon, pinces à glace et marqueurs pour identifier les bouteilles.",
+        "<strong>À prévoir en quantité:</strong> eau plate et pétillante, glaçons, agrumes, serviettes, verres solides et contenants pour les déchets organiques.",
+        "<strong>Pour limiter le budget:</strong> choisissez deux spiritueux au maximum, des fruits de saison et des sirops utilisables dans plusieurs recettes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté dépenses, l'achat du matériel peut représenter quelques dizaines d'euros si vous partez de zéro; emprunter deux shakers et utiliser des verres ordinaires est tout à fait acceptable. Pour les ingrédients, le coût dépend surtout du nombre de spiritueux, du niveau de gamme des jus et du choix de fruits frais. Faites le calcul à partir de portions de dégustation plutôt que de grands verres: vous réduirez à la fois le gaspillage et le budget."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur qui ruine le plus souvent les cocktails",
+      "html": "<p>N'économisez pas sur la glace. Elle sert à refroidir, diluer et présenter la boisson. Comptez largement, souvent entre 500 g et 1 kg par personne selon la durée, la météo et le nombre de boissons préparées.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-la-logistique",
+      "text": "Préparez votre atelier en amont pour rester disponible le jour J"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jour de l'atelier, vous devez animer, pas chercher un citron ou laver un doseur entre deux groupes. Préparez les éléments qui n'altèrent pas la qualité: sirops, fruits lavés, quartiers d'agrumes, fiches et matériel. En revanche, pressez les jus proches du service, gardez la glace au froid et ne mélangez pas à l'avance les boissons contenant des bulles. Disposez les ingrédients dans l'ordre de la recette, de gauche à droite, pour rendre les gestes intuitifs."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Une semaine avant: cadrer",
+          "html": "Fixez le nombre de personnes, le créneau, le thème et les recettes. Recueillez allergies, régimes et besoins sans alcool; adaptez alors le menu, plutôt que d'improviser au dernier moment."
+        },
+        {
+          "title": "La veille: préparer ce qui se conserve",
+          "html": "Faites les sirops, lavez et séchez les herbes, vérifiez les ustensiles, imprimez les cartes et libérez une surface de travail. Réfrigérez les boissons et les verres si vous avez de la place."
+        },
+        {
+          "title": "Une heure avant: installer des postes",
+          "html": "Créez un poste pour trois ou quatre personnes avec matériel, fiche, bac à déchets et chiffon. Répartissez les ingrédients fragiles dans de petits contenants et gardez une réserve hors de la table."
+        },
+        {
+          "title": "Au moment de servir: finir les préparations",
+          "html": "Coupez les derniers agrumes, ouvrez les boissons pétillantes, sortez la glace et placez l'eau ainsi que les grignotages à un endroit distinct du plan de travail."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "animer-sans-perdre-le-rythme",
+      "text": "Animez avec un déroulé qui laisse vraiment les invités pratiquer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Accueillez le groupe avec une boisson sans alcool déjà prête et expliquez le programme en deux minutes. Montrez ensuite chaque geste une seule fois, lentement: mesurer, remplir le shaker de glace, secouer fermement, filtrer. Évitez de faire un long exposé sur l'histoire des cocktails; donnez plutôt une consigne claire, puis laissez les groupes essayer. Passez de poste en poste pour corriger un dosage ou rappeler de ne pas trop écraser les herbes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Prévoyez environ 20 minutes pour la première recette, 25 à 30 minutes pour celle au shaker, puis 20 minutes pour une création libre. Entre les séquences, prenez cinq minutes pour comparer les résultats: pourquoi un verre est-il plus acide, moins pétillant ou plus dilué? Cette discussion fait émerger les bons réflexes sans donner l'impression d'un cours. Une feuille de vote amusante, par exemple sur l'équilibre, la couleur et le nom de la création, termine l'atelier sur une note ludique."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Répartissez les rôles",
+      "html": "<p>Dans chaque équipe, désignez un doseur, un responsable de la glace, un shaker et un observateur qui lit la fiche. Changez les rôles à la recette suivante: personne ne reste spectateur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "hygiene-securite-et-consommation-responsable",
+      "text": "Gardez l'atelier festif, hygiénique et responsable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lavez soigneusement fruits, herbes et mains, utilisez des planches propres et conservez les ingrédients périssables au frais. Ne réutilisez pas une paille ou une cuillère de dégustation d'une personne à l'autre. Affichez ou annoncez clairement les ingrédients qui peuvent poser problème, notamment les fruits à coque, certains sirops, les produits laitiers ou les boissons contenant des sulfites. Proposez aussi des bouchées salées et de l'eau, en continu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l'atelier comporte de l'alcool, servez de petites quantités et ne poussez jamais à finir un verre. Ne servez pas d'alcool aux mineurs. Encouragez les invités à alterner avec de l'eau et anticipez les retours: conducteur désigné, transports en commun, taxi ou couchage sur place. Les bouteilles ne doivent pas rester en libre-service à la fin de l'animation. La meilleure soirée est celle dont chacun se souvient avec plaisir, y compris sur le chemin du retour."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-l-action",
+      "text": "Votre plan d'action pour un premier atelier réussi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez une date, limitez la liste à huit personnes, puis bâtissez un menu de deux recettes simples autour d'une même famille de goûts. Ajoutez une vraie version sans alcool, empruntez le matériel manquant et achetez la glace au dernier moment. Enfin, imprimez vos cartes-recettes et installez les postes avant l'arrivée des invités. Avec ce cadre, vous pourrez vous concentrer sur l'essentiel: faire goûter, encourager les essais et partager un bon moment."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant d'envoyer les invitations",
+      "html": "<p>Un thème clair, peu de recettes, des mesures visibles, assez de glace et une alternative sans alcool soignée: ce sont les cinq ingrédients d'un atelier qui paraît simple à vos invités et serein pour vous.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de personnes inviter à un atelier de cocktails à la maison?",
+      "a": "<p>Pour une première fois, visez 6 à 10 personnes. Avec moins de six personnes, l'ambiance peut ressembler à une simple dégustation; au-delà de dix, prévoyez plusieurs postes complets et, idéalement, une personne pour vous aider à réapprovisionner. Le bon repère est un shaker et un poste de travail pour trois à quatre invités.</p>"
+    },
+    {
+      "q": "Quelle quantité d'alcool faut-il prévoir pour un atelier cocktails?",
+      "a": "<p>Calculez d'abord le nombre de portions de dégustation, pas des verres pleins. Deux recettes alcoolisées en petites portions par personne suffisent largement pour un atelier. Choisissez deux bases seulement, complétées par des ingrédients communs comme les agrumes, le sirop et l'eau pétillante. Prévoyez toujours autant de choix sans alcool, de l'eau et de quoi manger.</p>"
+    },
+    {
+      "q": "Peut-on organiser un atelier cocktails sans shaker?",
+      "a": "<p>Oui. Vous pouvez construire des boissons directement dans le verre, utiliser un bocal propre à couvercle hermétique pour secouer une petite quantité, ou privilégier des recettes remuées. Toutefois, si plusieurs invités doivent participer, deux shakers empruntés simplifieront vraiment l'organisation et éviteront les attentes.</p>"
+    },
+    {
+      "q": "Comment organiser un atelier de cocktails avec des enfants ou des adolescents?",
+      "a": "<p>Choisissez un atelier 100 % sans alcool et adaptez les tâches à l'âge des participants. Les plus jeunes peuvent laver les fruits, froisser les herbes, mesurer des jus avec un doseur et décorer les verres; un adulte garde la découpe et les ustensiles coupants. Les sirops, thés froids, jus, eaux pétillantes et fruits permettent de travailler les mêmes notions d'équilibre et de présentation.</p>"
+    },
+    {
+      "q": "Peut-on préparer les cocktails à l'avance pour gagner du temps?",
+      "a": "<p>Vous pouvez préparer à l'avance les sirops, les garnitures lavées, certains jus proches du service et les mélanges sans bulles, à conserver au frais. N'ajoutez la glace, les éléments pétillants et les herbes fraîches qu'au dernier moment: sinon la boisson se dilue, perd ses bulles et son parfum. Pour un atelier, préparez surtout les ingrédients séparément afin que les invités réalisent eux-mêmes les gestes.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

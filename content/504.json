@@ -1,0 +1,340 @@
+{
+  "id": 504,
+  "slug": "comment-installer-et-configurer-votre-repeteur-wifi-pop-pour-un-signal-sans-fil-ameliore",
+  "title": "Comment installer et configurer votre répéteur wifi pop pour un signal sans fil amélioré",
+  "metaTitle": "Répéteur WiFi Pop: installation et configuration",
+  "metaDescription": "Installez et réglez votre répéteur WiFi Pop: emplacement, application Freebox Connect, liaison Ethernet et dépannage des zones sans signal à domicile.",
+  "dek": "Un répéteur WiFi Pop peut supprimer une zone blanche, à condition de ne pas le placer là où le signal a déjà disparu. Voici comment l’associer à votre Freebox, choisir le bon emplacement et corriger les problèmes de débit ou de connexion.",
+  "category": "tech-objets",
+  "tags": [
+    "WiFi",
+    "Freebox Pop",
+    "répéteur WiFi",
+    "réseau domestique",
+    "Freebox Connect"
+  ],
+  "keyTakeaways": [
+    "Installez d’abord le répéteur près de la Freebox, puis déplacez-le vers la zone à couvrir.",
+    "Un répéteur doit recevoir un bon signal: il ne peut pas améliorer une connexion déjà inexistante.",
+    "Conservez un seul nom de réseau WiFi pour laisser les appareils basculer plus facilement.",
+    "Une liaison Ethernet entre la Freebox et le répéteur offre généralement le meilleur débit.",
+    "Testez le réseau à l’endroit où vous utilisez vos appareils, pas uniquement à côté du répéteur."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une chambre mal couverte, une visioconférence qui coupe dans le bureau ou une terrasse sans réseau ne signifient pas forcément qu’il faut changer d’abonnement Internet. Le Répéteur WiFi Pop peut étendre la couverture de votre Freebox, mais son efficacité dépend surtout de son emplacement et de quelques réglages simples. Suivez une méthode progressive pour obtenir un signal plus stable sans transformer votre logement en laboratoire informatique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-role-du-repeteur-wifi-pop",
+      "text": "Comprendre ce que le répéteur WiFi Pop peut — et ne peut pas — faire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Répéteur WiFi Pop capte le réseau émis par votre Freebox et le prolonge dans une autre partie du logement. Il s’intègre au réseau de la box: vos appareils peuvent normalement conserver le même nom de WiFi et le même mot de passe, au lieu de devoir choisir un second réseau à chaque déplacement. L’objectif est de faciliter la circulation entre la Freebox et le répéteur, notamment pour un téléphone, un ordinateur portable ou une tablette."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne crée toutefois ni débit Internet supplémentaire ni signal miraculeux à travers plusieurs murs porteurs. Si la liaison entre la Freebox et le répéteur est faible, le réseau rediffusé le sera aussi. Considérez-le comme un relais placé sur le trajet du signal, pas comme une antenne à déposer directement dans une pièce totalement isolée."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le Répéteur WiFi Pop est conçu pour l’écosystème Freebox compatible. Il n’est pas à traiter comme un répéteur universel classique: l’association et les réglages sont largement automatisés par la Freebox et l’application Freebox Connect.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-le-bon-emplacement",
+      "text": "Choisir le bon emplacement avant toute configuration"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur emplacement se situe généralement <strong>à mi-chemin</strong> entre la Freebox et la zone mal couverte. Le répéteur doit encore recevoir un signal solide de la box tout en se rapprochant du bureau, de l’étage ou de la pièce concernée. Une prise dans un couloir ouvert, sur un palier ou dans une pièce intermédiaire est souvent plus efficace qu’une prise cachée derrière un meuble dans la zone blanche."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~5 à 10 min",
+          "label": "pour une première association simple, hors éventuelle mise à jour"
+        },
+        {
+          "value": "1 à 2 pièces",
+          "label": "de couverture supplémentaire souvent envisageable en intérieur peu cloisonné"
+        },
+        {
+          "value": "1 câble Ethernet",
+          "label": "pour transformer la liaison avec la Freebox en connexion filaire plus stable"
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Relais sans fil ou liaison Ethernet: quel choix faire?",
+      "a": {
+        "title": "Répéteur relié en WiFi",
+        "points": [
+          "Installation rapide, sans câble à tirer dans le logement.",
+          "Très adapté pour étendre la couverture d’un appartement ou d’un étage proche.",
+          "Le débit dépend de la qualité du signal reçu depuis la Freebox."
+        ]
+      },
+      "b": {
+        "title": "Répéteur relié en Ethernet",
+        "points": [
+          "Connexion entre la Freebox et le répéteur généralement plus stable et plus rapide.",
+          "Particulièrement pertinent pour le télétravail, le jeu en ligne ou la vidéo 4K.",
+          "Nécessite une prise réseau proche ou un câble Ethernet à faire passer."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de placement",
+      "html": "<p>Évitez les placards, les coffres techniques métalliques, l’arrière d’un téléviseur et les prises au ras du sol derrière un gros meuble. Béton armé, murs anciens épais, miroirs et appareils électriques peuvent fortement dégrader les ondes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "installer-le-repeteur-wifi-pop",
+      "text": "Installer le répéteur WiFi Pop pas à pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de commencer, vérifiez que la Freebox accède bien à Internet et que votre téléphone peut se connecter à son WiFi près de la box. Installez ou mettez à jour l’application Freebox Connect: elle est utile pour vérifier que le répéteur est reconnu et pour évaluer la qualité de couverture. Ne démarrez pas l’installation dans la pièce la plus éloignée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Repérez la zone réellement problématique",
+          "html": "Faites un test avec votre téléphone ou ordinateur dans les pièces où le WiFi est insuffisant. Notez les coupures, les pages lentes ou l’impossibilité de joindre le réseau. Cela évite de déplacer le répéteur au hasard."
+        },
+        {
+          "title": "Branchez d’abord le répéteur près de la Freebox",
+          "html": "Utilisez une prise murale libre dans la même pièce ou dans une pièce voisine. Cette proximité facilite la première détection par la Freebox et permet au matériel de récupérer sa configuration."
+        },
+        {
+          "title": "Patientez pendant l’association",
+          "html": "Laissez au répéteur le temps de démarrer et d’être détecté. Selon l’état du matériel, une mise à jour peut prolonger l’opération. Consultez l’indication affichée dans Freebox Connect ou la notice correspondant à votre version plutôt que d’enchaîner les débranchements."
+        },
+        {
+          "title": "Vérifiez sa présence dans Freebox Connect",
+          "html": "Dans la rubrique consacrée au réseau ou aux équipements, contrôlez que le répéteur apparaît comme connecté. Vérifiez aussi qu’un appareil proche peut bien accéder à Internet."
+        },
+        {
+          "title": "Déplacez-le vers sa position intermédiaire",
+          "html": "Débranchez-le, installez-le sur la prise choisie entre la Freebox et la zone blanche, puis attendez sa reconnexion. Un emplacement un peu moins éloigné, mais mieux relié à la box, donne souvent un résultat supérieur."
+        },
+        {
+          "title": "Testez depuis la zone d’usage",
+          "html": "Ouvrez une page, lancez une vidéo ou effectuez un appel dans la pièce concernée. Comparez plusieurs emplacements, en vous déplaçant d’une prise ou d’une pièce si nécessaire."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne réinitialisez pas le répéteur au premier délai de connexion et n’appuyez pas sur les boutons de la Freebox sans raison. Une remise à zéro efface l’association et vous oblige à recommencer. Laissez toujours quelques minutes au matériel après un déplacement ou un redémarrage.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "configurer-le-reseau-dans-freebox-connect",
+      "text": "Configurer le réseau dans Freebox Connect sans le compliquer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la plupart des cas, la meilleure configuration consiste à laisser la Freebox et le Répéteur WiFi Pop gérer automatiquement le réseau. Gardez le même nom de réseau et le même mot de passe: vos équipements pourront alors choisir le point d’accès le plus pertinent. Créer un WiFi « salon » et un WiFi « étage » semble pratique, mais oblige souvent à reconnecter manuellement les appareils et perturbe la continuité du réseau."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "reglages-a-verifier",
+      "text": "Les réglages à vérifier en priorité"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le nom du réseau:</strong> privilégiez un nom unique pour le WiFi principal, sauf besoin très particulier.",
+        "<strong>Le mot de passe:</strong> utilisez un mot de passe long et distinct de vos informations personnelles. Changez-le dans l’interface Freebox si vous pensez qu’il a été partagé trop largement.",
+        "<strong>Les mises à jour:</strong> laissez la Freebox et le répéteur effectuer leurs mises à jour. Elles peuvent corriger des problèmes de stabilité ou de compatibilité.",
+        "<strong>La qualité de réception:</strong> utilisez l’application pour contrôler l’état du répéteur après chaque déplacement, plutôt que de vous fier uniquement au nombre de barres sur un téléphone.",
+        "<strong>Les appareils connectés:</strong> vérifiez quel équipement utilise le répéteur et déconnectez les appareils inconnus si nécessaire."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les réseaux modernes utilisent habituellement les bandes 2,4 GHz et 5 GHz. La première porte mieux à travers les obstacles, mais offre souvent moins de débit; la seconde est plus rapide à courte ou moyenne distance, mais plus sensible aux murs. La sélection automatique est généralement préférable. Forcer une bande n’est utile que pour résoudre un problème précis avec un objet connecté ancien ou un appareil récalcitrant."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un téléphone compatible WiFi récent fonctionnera avec le répéteur, mais le débit final est limité par le maillon le moins performant. Les premiers Répéteurs WiFi Pop sont notamment moins récents que certaines Freebox en WiFi 6 ou WiFi 7: ne vous attendez pas, dans la pièce relayée, aux mêmes performances qu’à côté de la box.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "resoudre-les-problemes-de-connexion",
+      "text": "Résoudre les problèmes de connexion, de débit ou de bascule"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation réussie ne se juge pas seulement à la présence du répéteur dans l’application. Testez le débit et la stabilité à l’endroit exact où vous travaillez, regardez des vidéos ou utilisez vos objets connectés. Effectuez si possible plusieurs essais à différents moments: une lenteur peut aussi venir du site consulté, d’un ordinateur chargé ou de la connexion Internet elle-même, pas du WiFi."
+    },
+    {
+      "type": "table",
+      "caption": "Diagnostic rapide des difficultés les plus courantes",
+      "headers": [
+        "Symptôme",
+        "Cause probable",
+        "Action utile"
+      ],
+      "rows": [
+        [
+          "Le répéteur n’apparaît pas dans l’application",
+          "Association trop éloignée, démarrage incomplet ou mise à jour en cours",
+          "Rebranchez-le temporairement près de la Freebox, attendez, puis vérifiez de nouveau dans Freebox Connect."
+        ],
+        [
+          "Le WiFi est visible mais reste lent",
+          "Répéteur placé dans une zone où le signal de la box est déjà trop faible",
+          "Rapprochez-le d’une prise intermédiaire et refaites le test dans la pièce cible."
+        ],
+        [
+          "Le téléphone reste connecté à la Freebox lointaine",
+          "L’appareil hésite à basculer ou conserve une ancienne connexion",
+          "Coupez puis rallumez le WiFi du téléphone, éloignez-vous quelques instants puis reconnectez-vous."
+        ],
+        [
+          "La connexion coupe par moments",
+          "Obstacles, perturbations locales, surchauffe ou liaison radio limite",
+          "Dégagez le répéteur, évitez les multiprises surchargées et essayez une autre prise plus ouverte."
+        ],
+        [
+          "Le réseau est mauvais avec une liaison Ethernet",
+          "Câble, prise murale ou switch défaillant",
+          "Testez avec un autre câble Ethernet et reliez temporairement le répéteur directement à la Freebox."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas seulement aux barres de WiFi",
+      "html": "<p>Des barres pleines indiquent une bonne liaison entre votre appareil et le répéteur, pas forcément entre le répéteur et la Freebox. Une vidéo, un appel visio ou un test de débit effectué dans la pièce concernée donnent une mesure beaucoup plus utile.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "connaitre-les-limites-et-les-alternatives",
+      "text": "Connaître les limites du répéteur et les alternatives utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un seul répéteur bien placé vaut souvent mieux que plusieurs relais en chaîne. Chaque relais sans fil doit écouter puis retransmettre les données, ce qui réduit la capacité disponible et peut augmenter les délais. Dans une grande maison sur plusieurs niveaux, dans un logement aux murs très épais ou pour une dépendance, une liaison filaire ou un équipement réseau supplémentaire sera parfois plus cohérent."
+    },
+    {
+      "type": "table",
+      "caption": "Comparer les solutions pour étendre votre réseau domestique",
+      "headers": [
+        "Solution",
+        "À privilégier si",
+        "Atout principal",
+        "Limite à anticiper"
+      ],
+      "rows": [
+        [
+          "Répéteur WiFi Pop en liaison sans fil",
+          "Une ou deux pièces sont mal couvertes et une prise intermédiaire est disponible",
+          "Simple à installer et intégré à la Freebox",
+          "Débit dépendant du signal reçu depuis la box"
+        ],
+        [
+          "Répéteur WiFi Pop en Ethernet",
+          "Vous pouvez tirer un câble jusqu’à la zone à couvrir",
+          "Stabilité et débit généralement meilleurs",
+          "Câblage à prévoir"
+        ],
+        [
+          "Point d’accès WiFi filaire",
+          "Grande maison, étage éloigné ou besoin professionnel stable",
+          "Couverture locale performante avec une arrivée réseau",
+          "Choix et paramétrage d’un équipement complémentaire"
+        ],
+        [
+          "Système WiFi maillé dédié",
+          "Logement vaste ou très compartimenté avec plusieurs zones faibles",
+          "Plusieurs bornes pensées pour fonctionner ensemble",
+          "Coût plus élevé et intégration différente de celle du répéteur Freebox"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, vérifiez dans votre espace abonné les conditions applicables à votre offre Freebox: la mise à disposition d’un répéteur et ses modalités peuvent évoluer selon l’abonnement. Si vous devez améliorer une installation filaire, un câble Ethernet de longueur adaptée coûte souvent de quelques euros à quelques dizaines d’euros. À l’inverse, faire passer un câble dans des murs ou acheter un système maillé représente un investissement nettement plus important, à réserver aux problèmes de couverture réellement étendus."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-l-action-pour-un-wifi-fiable",
+      "text": "Passer à l’action pour un WiFi réellement fiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par installer le Répéteur WiFi Pop près de votre Freebox, confirmez sa détection dans Freebox Connect, puis déplacez-le progressivement vers la zone faible. Testez chaque position avec vos usages réels et conservez celle qui apporte le meilleur compromis entre réception du signal et couverture de la pièce. Si le résultat reste insuffisant, ne multipliez pas les répéteurs: envisagez d’abord une liaison Ethernet, qui résout souvent le problème à la source."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Identifiez précisément la pièce et les usages qui souffrent du manque de WiFi.",
+        "Associez le répéteur près de la Freebox avant de le déplacer.",
+        "Placez-le dans une zone intermédiaire, dégagée et encore bien couverte.",
+        "Vérifiez le réseau dans Freebox Connect et testez depuis la pièce cible.",
+        "Passez à l’Ethernet ou à une solution filaire si les murs ou la distance restent trop pénalisants."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Où placer exactement un répéteur WiFi Pop?",
+      "a": "<p>Placez-le entre la Freebox et la zone mal couverte, là où votre téléphone reçoit encore correctement le WiFi de la box. Une prise dans un couloir, sur un palier ou dans une pièce voisine est souvent un meilleur choix que la pièce la plus éloignée. Évitez les meubles fermés, les surfaces métalliques et la proximité immédiate d’appareils électroniques volumineux.</p>"
+    },
+    {
+      "q": "Faut-il appuyer sur le bouton WPS pour installer un Répéteur WiFi Pop?",
+      "a": "<p>Pas nécessairement. Le Répéteur WiFi Pop est généralement conçu pour être reconnu et configuré automatiquement par une Freebox compatible. Branchez-le d’abord près de la box et vérifiez sa détection dans Freebox Connect. Suivez les indications propres à votre matériel si l’application ou la notice demande une action particulière, mais n’utilisez pas le WPS ou la réinitialisation comme premier réflexe.</p>"
+    },
+    {
+      "q": "Peut-on brancher le Répéteur WiFi Pop en Ethernet?",
+      "a": "<p>Oui, une liaison Ethernet entre la Freebox, ou un switch relié à celle-ci, et le répéteur est une très bonne solution lorsque le câblage est possible. Elle évite que le répéteur dépende du signal WiFi reçu depuis la box et améliore généralement la stabilité. Utilisez un câble Ethernet en bon état et vérifiez dans Freebox Connect que le répéteur est bien actif après le branchement.</p>"
+    },
+    {
+      "q": "Pourquoi mon téléphone ne se connecte-t-il pas au répéteur WiFi Pop?",
+      "a": "<p>Votre téléphone peut conserver quelques instants la connexion à la Freebox, même si le répéteur est plus proche: c’est un comportement courant lors du déplacement. Coupez puis réactivez le WiFi du téléphone, éloignez-vous temporairement de la box et vérifiez que vous utilisez bien le réseau principal. Si le problème persiste, contrôlez l’emplacement du répéteur: un appareil ne basculera pas utilement vers un relais lui-même mal connecté.</p>"
+    },
+    {
+      "q": "Le répéteur WiFi Pop fonctionne-t-il avec une box d’un autre opérateur?",
+      "a": "<p>Il est destiné à fonctionner avec l’environnement Freebox compatible et son association automatique dépend de cet écosystème. Ne l’achetez pas en supposant qu’il se configurera comme un répéteur universel avec une box d’un autre opérateur. Pour un routeur ou une box non-Free, choisissez plutôt un répéteur universel, un point d’accès ou un système maillé explicitement compatible.</p>"
+    },
+    {
+      "q": "Faut-il réinitialiser le répéteur si le débit est faible?",
+      "a": "<p>Non, pas en premier recours. Un débit faible provient beaucoup plus souvent d’un mauvais emplacement, de murs trop épais ou d’une liaison sans fil trop distante. Commencez par rapprocher le répéteur de la Freebox, redémarrez si besoin vos appareils et vérifiez l’état dans Freebox Connect. La réinitialisation est à réserver à un échec d’association persistant, après avoir suivi les instructions de Free correspondant à votre modèle.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 7
+  }
+}

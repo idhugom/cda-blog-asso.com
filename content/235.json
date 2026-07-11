@@ -1,0 +1,392 @@
+{
+  "id": 235,
+  "slug": "reparation-de-tondeuse-guide-pratique",
+  "title": "Réparation de tondeuse : guide pratique",
+  "metaTitle": "Réparation de tondeuse: guide pratique et dépannage",
+  "metaDescription": "Réparation de tondeuse: diagnostiquez les pannes, entretenez votre matériel et sachez quand réparer ou faire appel à un professionnel, sans risque.",
+  "dek": "Une tondeuse qui ne démarre plus, coupe mal ou avance par à-coups n’est pas forcément bonne à remplacer. Apprenez à isoler la panne, à réaliser les vérifications sans vous mettre en danger et à décider si la réparation est rentable.",
+  "category": "nature-animaux",
+  "tags": [
+    "tondeuse",
+    "jardin",
+    "bricolage",
+    "entretien",
+    "réparation"
+  ],
+  "keyTakeaways": [
+    "Débranchez toujours l’alimentation ou retirez l’antiparasite avant toute intervention sous le carter.",
+    "Les pannes courantes viennent souvent du carburant, de l’allumage, du filtre à air, de la batterie ou d’une lame encrassée.",
+    "Un diagnostic méthodique évite d’acheter des pièces au hasard.",
+    "Une lame faussée, un problème électrique interne ou un moteur endommagé justifient souvent un professionnel.",
+    "L’entretien après chaque tonte et l’hivernage prolongent nettement la durée de vie de la machine."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une tondeuse en panne ne réclame pas automatiquement un remplacement coûteux. Entre une bougie encrassée, un câble mal connecté, une batterie fatiguée ou de l’herbe compactée sous le carter, beaucoup de causes sont simples à repérer. Ce guide vous aide à intervenir dans le bon ordre, avec les précautions indispensables, puis à choisir lucidement entre réparation maison, atelier et achat neuf."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "securite-avant-toute-reparation",
+      "text": "Sécurité: les gestes à faire avant toute réparation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La lame d’une tondeuse reste dangereuse, y compris lorsque le moteur ne tourne pas. Avant de nettoyer le dessous du carter, de toucher au moteur ou de retirer une lame, immobilisez complètement la machine sur une surface plane et portez des gants solides. Attendez que les pièces chaudes aient refroidi: un pot d’échappement ou une bougie de tondeuse thermique peut provoquer une brûlure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Tondeuse thermique:</strong> coupez le moteur, fermez le robinet d’essence s’il existe et débranchez le capuchon de bougie. Éloignez toute flamme ou cigarette de l’essence.",
+        "<strong>Tondeuse filaire:</strong> débranchez la fiche de la prise, pas seulement la rallonge côté jardin. Vérifiez que le câble ne peut pas être rebranché par inadvertance.",
+        "<strong>Tondeuse sur batterie:</strong> retirez la batterie. Ne l’ouvrez jamais, ne la percez pas et ne la rechargez pas si elle est gonflée, très chaude ou endommagée.",
+        "<strong>Tondeuse autoportée:</strong> retirez la clé, engagez le frein de stationnement et débranchez la batterie avant une intervention mécanique importante."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne mettez jamais les mains sous le carter",
+      "html": "<p>Un amas d’herbe se retire avec une brosse, un grattoir non métallique ou une cale adaptée, alimentation neutralisée. Ne bloquez pas la lame avec votre main et ne travaillez pas sous une machine seulement soutenue par un cric.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour basculer une tondeuse thermique afin d’accéder à la lame, consultez d’abord sa notice. En règle générale, on évite de coucher le moteur du côté du filtre à air ou du carburateur afin de limiter les fuites d’huile et d’essence. La configuration varie toutefois selon le moteur: la documentation du constructeur reste la référence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-son-type-de-tondeuse",
+      "text": "Identifier votre tondeuse et la panne observée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le même symptôme n’a pas la même cause selon l’énergie utilisée. Une tondeuse thermique combine alimentation en carburant, air, allumage et lubrification. Une tondeuse électrique filaire dépend du câble, de l’interrupteur, de la protection thermique et du moteur. Sur batterie, l’état de charge, les contacts, l’électronique de protection et l’accumulateur entrent en jeu. Relevez la marque, la référence exacte et le numéro de série avant de commander une pièce: une lame, une bougie ou une batterie « ressemblante » peut ne pas être compatible."
+    },
+    {
+      "type": "table",
+      "caption": "Premières pistes selon le symptôme constaté",
+      "headers": [
+        "Symptôme",
+        "Causes fréquentes",
+        "Vérification prioritaire"
+      ],
+      "rows": [
+        [
+          "Le moteur ne démarre pas",
+          "Carburant ancien, bougie, sécurité de poignée, filtre à air, batterie",
+          "Alimentation, commande de sécurité et bougie ou charge"
+        ],
+        [
+          "Le moteur démarre puis cale",
+          "Carburateur encrassé, essence dégradée, filtre bouché, prise d’air",
+          "Carburant frais et état du filtre"
+        ],
+        [
+          "La tondeuse coupe mal",
+          "Lame émoussée, herbe humide, hauteur trop basse, carter chargé",
+          "Nettoyage et inspection de la lame"
+        ],
+        [
+          "La tondeuse vibre fortement",
+          "Lame tordue, mal montée ou déséquilibrée, fixation desserrée",
+          "Arrêt immédiat et contrôle de la lame"
+        ],
+        [
+          "Elle n’avance plus seule",
+          "Courroie, câble de traction, roue motrice ou transmission",
+          "Réglage du câble et état de la courroie"
+        ],
+        [
+          "Elle s’arrête à chaud",
+          "Surchauffe, refroidissement encrassé, bobine ou batterie en protection",
+          "Nettoyage des aérations et temps de refroidissement"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Prenez une photo avant de démonter une tringlerie, un câble ou un carter. Elle facilitera le remontage et évitera une erreur de passage de câble ou de ressort.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-une-panne-sans-se-tromper",
+      "text": "Diagnostiquer une panne sans changer des pièces au hasard"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par ce qui est visible, accessible et peu coûteux. Ne démontez pas le carburateur ou le moteur dès le premier essai infructueux. La méthode ci-dessous fonctionne pour la plupart des tondeuses poussées; adaptez-la ensuite à votre modèle et à son manuel."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Observer le symptôme précis",
+          "html": "La machine ne réagit-elle pas du tout, le lanceur est-il bloqué, le moteur tousse-t-il, ou démarre-t-il puis cale-t-il? Notez aussi si le problème survient uniquement dans l’herbe dense ou après quelques minutes."
+        },
+        {
+          "title": "Vérifier les sécurités et l’alimentation",
+          "html": "Maintenez correctement l’arceau de sécurité sur une thermique. Contrôlez la prise, la rallonge et le disjoncteur pour une filaire. Pour une batterie, essayez une batterie chargée et propre, sur des contacts secs et non oxydés."
+        },
+        {
+          "title": "Examiner le carter et la lame",
+          "html": "Retirez l’herbe accumulée. Cherchez une lame bloquée par une branche, fissurée, voilée ou très émoussée. Une résistance anormale au lancement peut venir d’un obstacle sous le carter."
+        },
+        {
+          "title": "Contrôler les consommables",
+          "html": "Sur une thermique, regardez le niveau et l’aspect de l’huile, l’état du filtre à air, le carburant et la bougie. Un carburant stocké plusieurs mois perd de ses qualités et encrasse facilement le circuit."
+        },
+        {
+          "title": "Essayer après chaque correction",
+          "html": "Ne modifiez qu’un élément à la fois puis testez. Si la panne persiste, arrêtez-vous avant de multiplier les démontages: cela rend le diagnostic professionnel plus difficile et peut créer une panne supplémentaire."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 fois/an",
+          "label": "minimum conseillé pour l’entretien complet d’une tondeuse utilisée régulièrement"
+        },
+        {
+          "value": "~20 à 60 €",
+          "label": "ordre de grandeur d’une lame courante seule, selon format et marque"
+        },
+        {
+          "value": "~80 à 250 €",
+          "label": "ordre de grandeur d’une batterie de tondeuse, très variable selon tension et capacité"
+        },
+        {
+          "value": "1 à 2 h",
+          "label": "temps souvent nécessaire pour un diagnostic simple, nettoyage et entretien de base"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pannes-des-tondeuses-thermiques",
+      "text": "Tondeuse thermique: résoudre les pannes de démarrage et de fonctionnement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le moteur ne démarre pas, vérifiez d’abord qu’il y a suffisamment d’essence récente, que le robinet est ouvert et que la commande de sécurité est actionnée. Videz, si nécessaire, un carburant très ancien dans une filière de collecte adaptée; ne le versez ni à l’évier ni dans un caniveau. Remplissez avec le carburant préconisé par la notice. Un mélange inadapté est particulièrement risqué pour un moteur deux-temps; la plupart des tondeuses courantes sont toutefois équipées d’un moteur quatre-temps fonctionnant avec de l’essence et une huile moteur séparée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>bougie</strong> est un bon point de contrôle. Retirez-la moteur froid avec une clé adaptée. Si son électrode est noire et sèche, brossez-la délicatement ou remplacez-la par la référence préconisée; si elle est humide d’essence, laissez sécher avant remontage. Une bougie fendue, une électrode très usée ou un filetage endommagé se remplace. Serrez sans forcer: un filetage de culasse abîmé coûte bien plus cher qu’une bougie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un filtre à air en mousse se nettoie ou se remplace suivant les indications du fabricant; un filtre papier très gris, saturé ou déformé se remplace généralement. Si le moteur démarre mais cale, tourne de façon irrégulière ou refuse de prendre ses tours malgré une bougie et un carburant corrects, le carburateur peut être encrassé. Le nettoyage externe et la purge de cuve sont parfois accessibles, mais démonter les gicleurs sans repère ni kit de joints peut aggraver la situation. Confiez cette étape à un réparateur si vous n’êtes pas habitué."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un démarrage plus facile",
+      "html": "<p>Après l’hiver, ne vous acharnez pas sur le lanceur. Contrôlez d’abord l’essence, la bougie et le filtre. Dix tentatives inutiles peuvent noyer le moteur et masquer la cause initiale.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pannes-des-tondeuses-electriques-et-batterie",
+      "text": "Tondeuses électriques et sur batterie: les contrôles spécifiques"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une tondeuse filaire qui ne démarre pas, commencez par tester la prise avec un autre appareil, puis inspectez la rallonge sur toute sa longueur. Une gaine entaillée, un câble écrasé ou une prise chauffée impose son remplacement. N’essayez pas de réparer au ruban adhésif un câble de jardin abîmé: l’humidité et les tractions en font un risque électrique. Vérifiez aussi le verrouillage de la rallonge dans son serre-câble et la position du bouton de sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un modèle à batterie, nettoyez les contacts avec un chiffon sec et contrôlez le chargeur. Une batterie qui ne tient presque plus la charge, qui coupe très vite sous effort ou qui ne charge plus après refroidissement est possiblement en fin de vie. Avant d’en acheter une nouvelle, testez si possible avec une autre batterie compatible: cela permet de distinguer une batterie défaillante d’un chargeur ou d’une tondeuse en panne. Évitez les batteries non homologuées de provenance incertaine, surtout si elles doivent être chargées sans surveillance."
+    },
+    {
+      "type": "compare",
+      "title": "Batterie à remplacer ou problème de charge?",
+      "a": {
+        "title": "La batterie est probablement en cause",
+        "points": [
+          "Elle se recharge normalement mais l’autonomie s’est effondrée.",
+          "Une autre batterie compatible fait fonctionner correctement la tondeuse.",
+          "Elle est ancienne, chauffe anormalement, se déforme ou déclenche rapidement la protection."
+        ]
+      },
+      "b": {
+        "title": "Le chargeur ou la tondeuse est à suspecter",
+        "points": [
+          "Aucune batterie compatible ne charge correctement sur le même chargeur.",
+          "La batterie fonctionne sur un autre appareil de la même gamme.",
+          "Les contacts, le port de charge ou les voyants présentent un défaut visible ou incohérent."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "lame-traction-et-qualite-de-coupe",
+      "text": "Lame, traction et qualité de coupe: ce que vous pouvez entretenir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une tondeuse qui arrache les brins au lieu de les sectionner possède souvent une lame émoussée. Démontez-la seulement après avoir neutralisé l’énergie, en repérant son sens de montage. Nettoyez-la, recherchez les fissures, les impacts profonds et les déformations. Une lame légèrement émoussée peut être affûtée de façon régulière, puis équilibrée; une lame tordue, fendue ou très creusée doit être remplacée. Une lame déséquilibrée provoque des vibrations qui peuvent endommager l’axe du moteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas lame émoussée et tonte difficile: de l’herbe haute, humide ou trop dense surcharge n’importe quelle machine. Relevez la hauteur de coupe, avancez moins vite et effectuez deux passages croisés si nécessaire. Gardez le dessous du carter propre: l’herbe collée perturbe l’éjection et le ramassage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une tondeuse autotractée, l’absence de traction peut venir d’un câble détendu, d’une courroie usée ou sortie de sa gorge, ou d’une roue motrice encrassée. Un réglage léger du câble est parfois prévu par une molette; ne le tendez pas au hasard, car une traction qui reste engagée est dangereuse. Pour accéder à la transmission, consultez l’éclaté des pièces: les ressorts et carters de courroie sont faciles à remonter incorrectement."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vibrations fortes: stop immédiat",
+      "html": "<p>Cessez de tondre dès qu’une vibration nouvelle apparaît après un choc contre une pierre ou une racine. Vérifiez lame, vis de lame et adaptateur. Continuer peut voiler l’arbre moteur, une réparation généralement plus coûteuse.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "entretien-preventif-et-budget",
+      "text": "Prévenir les pannes: entretien utile et budget à prévoir"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien régulier est la réparation la moins chère. Après chaque tonte, retirez les résidus d’herbe du carter, videz le bac et vérifiez visuellement la lame et le câble. Sur un modèle thermique, contrôlez régulièrement le niveau d’huile, sans dépasser le repère. En fin de saison, un nettoyage complet, un filtre vérifié, une bougie contrôlée et une lame entretenue font une vraie différence au printemps suivant."
+    },
+    {
+      "type": "table",
+      "caption": "Budget et niveau de difficulté des interventions courantes",
+      "headers": [
+        "Intervention",
+        "Budget souvent constaté",
+        "Niveau conseillé"
+      ],
+      "rows": [
+        [
+          "Nettoyage du carter et des aérations",
+          "Quelques euros de matériel",
+          "Débutant, alimentation neutralisée"
+        ],
+        [
+          "Bougie ou filtre à air thermique",
+          "Souvent moins de quelques dizaines d’euros",
+          "Débutant soigneux avec la bonne référence"
+        ],
+        [
+          "Lame neuve ou affûtage en atelier",
+          "En général de quelques dizaines d’euros",
+          "Affûtage prudent ou pose en respectant le sens"
+        ],
+        [
+          "Courroie de traction",
+          "Souvent quelques dizaines d’euros hors main-d’œuvre",
+          "Intermédiaire, notice ou éclaté recommandé"
+        ],
+        [
+          "Batterie de rechange",
+          "Souvent de 80 à 250 € selon le système",
+          "Simple si référence strictement compatible"
+        ],
+        [
+          "Carburateur, moteur ou carte électronique",
+          "Coût très variable",
+          "Réparateur recommandé"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’hivernage, stockez la machine au sec. Une batterie se conserve de préférence hors de la tondeuse, à l’abri du gel et de la chaleur, avec un niveau de charge conforme à la notice. Pour une thermique, la stratégie dépend du constructeur: certains recommandent de vider le circuit, d’autres l’usage d’un stabilisant pour un stockage limité. Dans tous les cas, évitez de laisser plusieurs mois un fond d’essence non stabilisée dans le carburateur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reparer-faire-reparer-ou-remplacer",
+      "text": "Réparer soi-même, passer par un atelier ou remplacer: comment décider"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix ne dépend pas seulement du montant de la facture. Une tondeuse de qualité, dont le carter, le moteur et les pièces détachées sont encore disponibles, mérite souvent une réparation d’entretien. À l’inverse, un arbre moteur voilé, une fissure structurelle du carter, un moteur qui manque de compression ou une électronique introuvable peuvent rendre l’opération peu pertinente. Demandez un devis lorsque l’origine de la panne est incertaine: il doit distinguer diagnostic, pièces et main-d’œuvre."
+    },
+    {
+      "type": "compare",
+      "title": "Quelle solution choisir?",
+      "a": {
+        "title": "Réparation par vos soins",
+        "points": [
+          "Adaptée au nettoyage, à la bougie, au filtre, à la lame et aux vérifications de base.",
+          "Économique si vous avez la notice, les outils appropriés et une pièce identifiée.",
+          "À éviter pendant la garantie si l’intervention risque de l’annuler, et pour les organes électriques internes ou moteur."
+        ]
+      },
+      "b": {
+        "title": "Atelier ou remplacement",
+        "points": [
+          "Préférez l’atelier pour une vibration, une fuite, un carburateur complexe, une transmission ou une carte électronique.",
+          "Envisagez le remplacement si la sécurité est compromise ou si plusieurs pièces majeures sont défaillantes.",
+          "Comparez le devis au prix d’un modèle équivalent, mais aussi à la disponibilité des pièces et à l’usage restant prévu."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de commander",
+      "html": "<p>Une référence exacte vaut mieux qu’une pièce « universelle ». Relevez modèle, numéro de série, dimensions de lame et type de fixation; pour une batterie, vérifiez aussi la tension, la capacité et la compatibilité de la plateforme.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-d-action-pour-remettre-votre-tondeuse-en-service",
+      "text": "Votre plan d’action pour remettre la tondeuse en service"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez aujourd’hui par noter le symptôme, relever la référence de la machine et neutraliser son alimentation. Nettoyez ensuite le carter, contrôlez la lame et les sécurités, puis passez aux éléments adaptés à votre motorisation: carburant, huile, filtre et bougie sur une thermique; câble, chargeur, batterie et contacts sur un modèle électrique. Commandez uniquement la pièce dont la défaillance est probable et identifiable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si la tondeuse vibre, fuit, fume durablement, fait disjoncter l’installation ou refuse toujours de démarrer après ces vérifications simples, ne forcez pas. Un réparateur disposant des références du modèle et de votre liste de symptômes gagnera du temps, et vous éviterez de transformer une petite panne d’entretien en avarie plus coûteuse."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi ma tondeuse thermique démarre-t-elle puis s’arrête-elle au bout de quelques secondes?",
+      "a": "<p>Les causes les plus fréquentes sont un carburant ancien, un filtre à air bouché ou un carburateur partiellement encrassé. Commencez par remplacer le carburant si son âge est incertain, vérifiez la bougie et le filtre, puis nettoyez les aérations. Si le problème persiste, un contrôle du carburateur par un atelier est préférable.</p>"
+    },
+    {
+      "q": "Peut-on affûter soi-même la lame d’une tondeuse?",
+      "a": "<p>Oui, si la lame est seulement émoussée et qu’elle ne présente ni fissure ni déformation. Retirez la batterie, débranchez la machine ou le capuchon de bougie, repérez le sens de montage, puis utilisez l’outil adapté. L’affûtage doit rester régulier et la lame doit être équilibrée. Au moindre doute ou après un choc important, remplacez-la ou confiez-la à un professionnel.</p>"
+    },
+    {
+      "q": "Ma tondeuse sur batterie se coupe dans l’herbe haute: la batterie est-elle forcément morte?",
+      "a": "<p>Non. L’herbe haute ou humide peut demander trop d’effort et déclencher la protection de la batterie ou du moteur. Nettoyez le carter, relevez la hauteur de coupe et tondez plus lentement. Si la coupure survient aussi à vide ou avec une herbe courte, testez une autre batterie compatible et vérifiez le chargeur.</p>"
+    },
+    {
+      "q": "Quel est le prix d’une réparation de tondeuse chez un professionnel?",
+      "a": "<p>Il varie fortement selon la région, le type de machine, la disponibilité des pièces et le temps de recherche de panne. Un entretien courant ou le remplacement d’un consommable peut rester dans une enveloppe de quelques dizaines d’euros, tandis qu’une batterie, une transmission, un carburateur ou un moteur font rapidement monter le devis. Demandez un chiffrage écrit incluant diagnostic, pièces et main-d’œuvre avant l’intervention.</p>"
+    },
+    {
+      "q": "Comment nettoyer le dessous d’une tondeuse sans l’abîmer?",
+      "a": "<p>Neutralisez d’abord toute source d’énergie. Retirez l’herbe sèche avec une brosse ou un grattoir non métallique, sans diriger d’eau vers le moteur, les prises, les roulements ou les connecteurs. Sur une thermique, respectez le côté de basculement indiqué dans la notice. Laissez sécher complètement avant de remettre la machine en route.</p>"
+    },
+    {
+      "q": "Faut-il réparer une tondeuse qui vibre après avoir heurté une pierre?",
+      "a": "<p>Il faut avant tout arrêter de l’utiliser. Une pierre peut avoir déformé la lame, desserré sa fixation ou, plus gravement, endommagé l’adaptateur ou l’axe moteur. Une lame neuve peut résoudre le problème si l’axe tourne parfaitement droit; si les vibrations demeurent, faites examiner la tondeuse par un professionnel.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

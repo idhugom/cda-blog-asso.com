@@ -1,0 +1,336 @@
+{
+  "id": 494,
+  "slug": "comment-determiner-la-dimension-de-votre-pc-etape-par-etape",
+  "title": "Comment déterminer la dimension de votre pc: étape par étape",
+  "metaTitle": "Dimension d’un PC: comment la déterminer pas à pas",
+  "metaDescription": "Mesurez largeur, profondeur, hauteur et écran de votre PC: méthode facile pas à pas, repères utiles et erreurs à éviter avant achat, transport ou rangement.",
+  "dek": "La « dimension d’un PC » peut désigner son encombrement extérieur, la taille de son écran ou l’espace disponible pour des composants. Voici comment obtenir la bonne mesure selon votre besoin, sans confondre centimètres, pouces et caractéristiques techniques.",
+  "category": "tech-objets",
+  "tags": [
+    "ordinateur",
+    "PC portable",
+    "tour PC",
+    "écran",
+    "mesures"
+  ],
+  "keyTakeaways": [
+    "Mesurez toujours le point le plus large, le plus haut et le plus profond de l’appareil.",
+    "La taille en pouces d’un écran correspond à sa diagonale, pas à la largeur du PC.",
+    "Les dimensions extérieures d’un boîtier ne suffisent pas à choisir une carte graphique ou une carte mère.",
+    "La référence exacte du modèle permet de vérifier vos mesures dans la fiche technique constructeur.",
+    "Pour un sac, un meuble ou un carton, prévoyez une marge en plus des dimensions relevées."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Avant de choisir une housse, d’installer une tour dans un meuble ou de remplacer un composant, connaître la dimension de votre PC évite bien des mauvaises surprises. La méthode dépend toutefois de ce que vous cherchez: l’encombrement de l’appareil, la diagonale de l’écran ou les dimensions internes du boîtier. Suivez ces étapes pour relever des mesures exploitables et les interpréter correctement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-dimension-veut-dire",
+      "text": "Commencez par définir la dimension dont vous avez besoin"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « dimension » est trompeur, car il recouvre plusieurs réalités. Pour faire entrer un ordinateur dans un emplacement, il faut sa <strong>largeur, sa profondeur et sa hauteur</strong> extérieures. Pour acheter une housse, vous aurez aussi besoin de son épaisseur et, parfois, de la diagonale de l’écran. Pour changer une carte graphique, ajouter un disque ou remplacer la carte mère d’une tour, les mesures utiles sont celles de l’<strong>intérieur du boîtier</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, les fiches techniques indiquent généralement les dimensions sous la forme <strong>L × P × H</strong>, soit largeur × profondeur × hauteur. Mais certains fabricants écrivent W × D × H, pour width × depth × height. Vérifiez toujours l’ordre annoncé: « longueur » peut notamment être employé à la place de largeur ou de profondeur selon le vendeur."
+    },
+    {
+      "type": "table",
+      "caption": "La mesure à relever selon votre projet",
+      "headers": [
+        "Votre besoin",
+        "Mesures indispensables",
+        "À ne pas confondre avec"
+      ],
+      "rows": [
+        [
+          "Installer le PC dans un meuble",
+          "Largeur, profondeur, hauteur extérieures et dégagement pour l’air",
+          "La diagonale de l’écran ou le volume du disque dur"
+        ],
+        [
+          "Choisir une housse ou un sac",
+          "Largeur, profondeur, épaisseur du PC fermé et diagonale",
+          "Les dimensions extérieures affichées pour le sac"
+        ],
+        [
+          "Acheter un écran",
+          "Diagonale, largeur du pied, profondeur avec pied",
+          "La résolution, qui ne renseigne pas sur la taille physique"
+        ],
+        [
+          "Mettre à niveau une tour",
+          "Format de carte mère, longueur de carte graphique, hauteur de ventirad",
+          "Les seules dimensions externes du boîtier"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Notez d’abord <strong>pourquoi</strong> vous cherchez la dimension. Une mesure exacte peut être inutile si elle ne répond pas à la bonne contrainte: un écran de 15,6 pouces n’indique pas, à lui seul, qu’un ordinateur entrera dans une pochette.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-modele-exact",
+      "text": "Identifiez le modèle exact avant de sortir le mètre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une mesure manuelle est la méthode la plus sûre pour votre exemplaire, notamment s’il possède des patins, une poignée ou un support ajouté. Mais la référence exacte de l’appareil apporte une seconde vérification utile. Sur un PC portable, cherchez l’étiquette sous le châssis: elle comporte souvent une marque, une gamme et un numéro de modèle. Sur une tour du commerce, cette information peut se trouver à l’arrière, sur le côté ou sur la facture."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous Windows, ouvrez <strong>Paramètres &gt; Système &gt; Informations système</strong> ou lancez l’outil « Informations système ». Ces écrans aident à retrouver le fabricant et le modèle, mais ne donnent pas toujours les dimensions physiques. Sur un ordinateur assemblé, relevez plutôt la référence du <strong>boîtier</strong>: les composants visibles dans Windows ne disent pas quelle taille de châssis vous possédez."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Recherchez la référence complète sur le site d’assistance de la marque, de préférence dans le manuel PDF ou la fiche technique.",
+        "Vérifiez que la variante est la bonne: un même nom commercial peut exister avec plusieurs tailles d’écran ou de châssis.",
+        "Comparez les valeurs trouvées avec votre relevé réel, surtout si votre appareil est ancien ou équipé d’accessoires.",
+        "Gardez le numéro de série pour le support du fabricant, mais évitez de le publier sur un forum ou une annonce."
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Mesure directe ou fiche constructeur: quelle méthode privilégier?",
+      "a": {
+        "title": "Mesurer votre appareil",
+        "points": [
+          "Indispensable pour connaître l’encombrement réel avec patins, poignées ou pied.",
+          "Idéal pour vérifier un meuble, une housse, un carton ou un espace de transport.",
+          "Demande de préciser vous-même si les câbles et accessoires sont inclus."
+        ]
+      },
+      "b": {
+        "title": "Consulter la fiche technique",
+        "points": [
+          "Pratique pour confirmer les dimensions d’origine et la diagonale officielle.",
+          "Utile pour connaître les formats internes et les compatibilités d’une tour.",
+          "Peut omettre un support, une poignée ou une modification ajoutée après l’achat."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mesurer-encombrement-exterieur",
+      "text": "Mesurez l’encombrement extérieur, étape par étape"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un mètre ruban rigide ou une règle assez longue suffit. Un modèle souple peut fausser une mesure de profondeur, surtout sur une tour. Comptez généralement quelques euros pour un mètre simple: un télémètre laser n’apporte aucun avantage pour cette tâche. Travaillez sur une surface plane, appareil éteint et câbles débranchés, afin de pouvoir le positionner correctement."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Placez l’appareil dans sa position normale",
+          "html": "Un portable doit être <strong>fermé</strong> et posé à plat. Une tour doit être debout comme elle le sera sur ou sous le bureau. Ne mesurez pas une tour couchée si elle sera utilisée verticalement."
+        },
+        {
+          "title": "Relevez la largeur",
+          "html": "Mesurez de l’extrémité gauche à l’extrémité droite, au point le plus large. Incluez les poignées fixes, les renflements du châssis ou les patins qui dépassent."
+        },
+        {
+          "title": "Relevez la profondeur",
+          "html": "Mesurez de l’avant vers l’arrière. Pour une tour, notez d’une part la profondeur du boîtier seul et, d’autre part, l’espace réellement occupé avec les connecteurs et câbles si elle est placée près d’un mur."
+        },
+        {
+          "title": "Relevez la hauteur ou l’épaisseur",
+          "html": "Sur une tour, partez du sol jusqu’au sommet, pieds et poignée compris. Sur un portable fermé, mesurez l’épaisseur à l’endroit le plus épais, souvent vers l’arrière ou près de la charnière."
+        },
+        {
+          "title": "Notez les résultats dans la même unité",
+          "html": "Écrivez par exemple <strong>32,4 × 22,0 × 45,5 cm</strong>, puis précisez l’ordre: largeur × profondeur × hauteur. Le millimètre est utile pour une niche serrée; le demi-centimètre suffit souvent pour un sac."
+        },
+        {
+          "title": "Ajoutez le contexte",
+          "html": "Indiquez « PC fermé », « sans câbles », « avec pied » ou « avec poignée ». Cette courte précision rendra votre note utile plusieurs mois plus tard."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne bloquez pas les aérations",
+      "html": "<p>Un PC ne doit pas être ajusté au millimètre dans un caisson fermé. Les grilles d’aération, souvent situées à l’arrière, sur le dessous ou sur le dessus, ont besoin d’un dégagement conforme aux recommandations du fabricant. Prévoyez aussi un passage réaliste pour les câbles.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3 mesures",
+          "label": "largeur, profondeur et hauteur pour définir l’encombrement extérieur"
+        },
+        {
+          "value": "2,54 cm",
+          "label": "correspondent à un pouce de diagonale d’écran"
+        },
+        {
+          "value": "13 à 16 pouces",
+          "label": "est une plage courante pour les PC portables grand public"
+        },
+        {
+          "value": "10 à 20 cm",
+          "label": "peuvent suffire pour le côté d’un mini-PC, selon son format"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "determiner-taille-ecran",
+      "text": "Déterminez la taille de l’écran en pouces sans vous tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "La taille d’un écran se mesure sur sa <strong>diagonale visible</strong>, d’un coin de la zone d’affichage à l’autre coin opposé. Mesurez la dalle allumée ou son contour intérieur; n’incluez pas la bordure en plastique, la webcam ni le cadre du capot. Convertissez ensuite les centimètres en pouces en divisant par 2,54. À l’inverse, multipliez les pouces par 2,54 pour obtenir la diagonale en centimètres."
+    },
+    {
+      "type": "paragraph",
+      "html": "Par exemple, un écran annoncé à 15,6 pouces possède une diagonale d’environ 39,6 cm. Cela ne veut pas dire que le portable mesure 39,6 cm de large: la largeur dépend du format de l’écran, souvent 16:9, et des bordures du châssis. Deux portables de même diagonale peuvent donc avoir des dimensions externes différentes."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Définition et taille: deux données distinctes",
+      "html": "<p>Full HD, 4K, 1 920 × 1 080 pixels ou 2 560 × 1 600 pixels désignent la <strong>résolution</strong>. Ces valeurs n’indiquent ni la largeur en centimètres ni la diagonale. Elles ne remplacent jamais une mesure pour choisir une housse ou un emplacement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "interpretrer-selon-projet",
+      "text": "Interprétez vos mesures selon votre projet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un meuble, la contrainte la plus souvent oubliée est la profondeur réelle: une tour de 45 cm, avec des câbles rigides à l’arrière, peut exiger bien davantage d’espace. Mesurez aussi l’ouverture du meuble, pas seulement l’espace intérieur. Pour un PC portable, vérifiez la largeur, la profondeur et l’épaisseur intérieures de la housse; les mentions « 15 pouces » ou « 16 pouces » sont des repères commerciaux, pas une garantie d’ajustement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour expédier ou déménager un ordinateur, ajoutez de la protection sur chaque face. La taille du carton doit permettre d’entourer l’appareil de calage sans le comprimer. Retirez les accessoires lourds et mobiles, conservez le chargeur séparément et, pour une tour contenant une grande carte graphique ou un imposant refroidisseur, renseignez-vous sur les précautions de transport adaptées."
+    },
+    {
+      "type": "table",
+      "caption": "Repères d’encombrement pour situer votre appareil",
+      "headers": [
+        "Type d’appareil",
+        "Ordre de grandeur extérieur",
+        "Usage et vigilance"
+      ],
+      "rows": [
+        [
+          "Mini-PC",
+          "Souvent de 10 à 20 cm sur un côté",
+          "Très compact, mais adaptateur secteur et câbles à prévoir"
+        ],
+        [
+          "Portable 13 à 14 pouces",
+          "Environ 30 à 33 cm de large selon les bordures",
+          "Facile à transporter, mais vérifiez l’épaisseur pour une housse fine"
+        ],
+        [
+          "Portable 15 à 16 pouces",
+          "Souvent autour de 34 à 37 cm de large",
+          "Format polyvalent; la housse doit être choisie sur mesures internes"
+        ],
+        [
+          "Tour moyenne",
+          "Souvent autour de 40 à 50 cm de profondeur ou de hauteur",
+          "Mesurez l’espace des câbles, la ventilation et l’ouverture du meuble"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-dimensions-internes",
+      "text": "Pour une mise à niveau, vérifiez les dimensions internes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre objectif est d’améliorer une tour, ne commandez pas un composant à partir de la taille extérieure du boîtier. Les fabricants indiquent généralement la longueur maximale de carte graphique, la hauteur maximale du ventirad et les formats de cartes mères acceptés, tels que ATX, micro-ATX ou Mini-ITX. Ces limites peuvent changer si des ventilateurs, un radiateur de refroidissement liquide ou une cage de disques occupent déjà de la place."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ouvrez le panneau latéral après avoir éteint et débranché le PC. Mesurez le trajet disponible pour la carte graphique depuis ses connecteurs arrière jusqu’au premier obstacle, puis mesurez la distance entre le processeur et le panneau latéral pour le refroidisseur. Vérifiez aussi l’alimentation électrique, les connecteurs nécessaires et la circulation de l’air: une pièce qui entre physiquement n’est pas forcément compatible."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conservez une marge",
+      "html": "<p>Pour un composant interne, quelques millimètres d’écart peuvent empêcher le montage. Comparez la mesure réelle à la <strong>dimension maximale officiellement annoncée</strong> par le boîtier et laissez une marge pour les câbles, surtout avec une carte graphique longue.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-erreurs-courantes",
+      "text": "Évitez les erreurs qui rendent une mesure inutilisable"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Confondre la diagonale de l’écran avec la largeur du PC ou de son capot.",
+        "Mesurer un portable ouvert alors qu’il doit entrer fermé dans un sac.",
+        "Oublier le pied d’un écran, les patins d’une tour, une poignée ou un support VESA.",
+        "Ne pas distinguer le boîtier seul de l’espace occupé par les prises et les câbles.",
+        "Acheter une housse d’après l’étiquette en pouces sans vérifier ses dimensions internes.",
+        "Déduire l’espace disponible dans une tour à partir de sa hauteur extérieure."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-action",
+      "text": "Faites votre relevé utile dès maintenant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez cinq minutes pour noter la référence de votre appareil et relever ses trois dimensions extérieures. Ajoutez la diagonale visible si vous possédez un portable ou si vous achetez un accessoire pour l’écran. Enfin, comparez ces chiffres non pas à une appellation vague, mais aux dimensions <strong>intérieures</strong> du sac, du meuble ou du carton envisagé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous préparez une mise à niveau, faites une seconde fiche distincte avec les limites internes du boîtier et la référence des composants existants. Vous aurez ainsi un relevé clair, réutilisable pour un achat, un déménagement, une vente d’occasion ou une demande auprès du support technique."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment connaître la taille de mon PC portable sans le mesurer?",
+      "a": "<p>Relevez la référence exacte sous le châssis, puis consultez la fiche technique ou le manuel du fabricant. Vous y trouverez souvent les dimensions et la diagonale officielle. Cette méthode reste à compléter par une mesure si votre PC possède une coque, des patins particuliers ou un accessoire ajouté.</p>"
+    },
+    {
+      "q": "Un PC portable de 15,6 pouces mesure combien de centimètres?",
+      "a": "<p>15,6 pouces correspondent à une diagonale d’écran d’environ 39,6 cm. La largeur du portable complet varie toutefois selon le format de l’écran, l’épaisseur des bordures et le châssis; elle se situe souvent autour de quelques dizaines de centimètres et doit être mesurée pour choisir une housse.</p>"
+    },
+    {
+      "q": "Faut-il inclure les câbles dans les dimensions d’une tour PC?",
+      "a": "<p>Pour décrire le boîtier, indiquez les dimensions sans câbles. Pour installer la tour dans un meuble ou contre un mur, mesurez en plus l’espace occupé par les prises, les câbles et leur courbure. C’est cette seconde valeur qui compte pour éviter de plier les connecteurs ou de gêner la ventilation.</p>"
+    },
+    {
+      "q": "Comment savoir si une carte graphique rentrera dans mon boîtier?",
+      "a": "<p>Cherchez d’abord la longueur maximale de carte graphique acceptée par le modèle de boîtier. Puis mesurez l’espace intérieur réel depuis l’arrière des emplacements PCIe jusqu’au premier obstacle, en tenant compte des ventilateurs, radiateurs et câbles. Comparez cette valeur à la longueur officielle de la carte choisie et gardez une marge.</p>"
+    },
+    {
+      "q": "Les dimensions affichées pour une housse d’ordinateur sont-elles fiables?",
+      "a": "<p>Elles sont utiles seulement si vous regardez les dimensions intérieures du compartiment principal. La mention 13, 14 ou 15 pouces est indicative: deux ordinateurs de même diagonale peuvent avoir des largeurs et des épaisseurs différentes. Comparez toujours largeur, profondeur et épaisseur de votre PC fermé avec celles de la housse.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "id": 1330,
+  "slug": "zeendoc-offre-t-il-une-api-pour-les-developpeurs",
+  "title": "Zeendoc offre-t-il une API pour les développeurs ?",
+  "metaTitle": "API Zeendoc: intégrations, accès et guide développeur",
+  "metaDescription": "API Zeendoc: découvrez les possibilités d’intégration, les limites d’accès, les cas d’usage, la sécurité et la méthode pour préparer votre projet.",
+  "dek": "Zeendoc peut s’intégrer au système d’information d’une entreprise via des interfaces dédiées aux développeurs. Mais avant de lancer un projet, il faut distinguer une API réellement adaptée à votre besoin d’un simple connecteur, vérifier les droits d’accès et cadrer la sécurité des documents.",
+  "category": "business-pro",
+  "tags": [
+    "Zeendoc",
+    "API",
+    "GED",
+    "dématérialisation",
+    "développement",
+    "intégration"
+  ],
+  "keyTakeaways": [
+    "Zeendoc propose des possibilités d’intégration par API, avec un accès à faire confirmer selon votre offre et votre configuration.",
+    "Une API ne se limite pas à déposer des PDF: l’indexation, les métadonnées, la recherche et les droits sont déterminants.",
+    "Un connecteur standard est souvent préférable pour un besoin courant; l’API devient utile dès que le flux est spécifique.",
+    "La sécurité, la traçabilité et la gestion des erreurs doivent être prévues avant le premier échange de documents.",
+    "Commencez par un pilote sur un flux métier mesurable, avec peu de types documentaires et des critères de recette clairs."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Oui, <strong>Zeendoc offre des possibilités d’intégration par API pour les développeurs</strong>, afin de relier sa gestion électronique de documents aux logiciels métiers d’une organisation. L’enjeu ne consiste toutefois pas seulement à savoir si une API existe: vous devez vérifier ce qu’elle expose dans votre environnement, les droits inclus dans votre contrat et sa capacité à couvrir votre flux précis, du dépôt d’un document à sa recherche sécurisée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reponse-courte-api-zeendoc",
+      "text": "Oui, mais l’accès à l’API Zeendoc doit être cadré"
+    },
+    {
+      "type": "paragraph",
+      "html": "Zeendoc est une solution de GED, c’est-à-dire de gestion électronique de documents. Son rôle est de centraliser, classer, indexer, rechercher et diffuser des documents professionnels: factures, contrats, dossiers clients, courriers, pièces RH ou justificatifs. Pour éviter de demander aux équipes de déposer manuellement chaque fichier, une API peut faire dialoguer Zeendoc avec un ERP, un CRM, un logiciel comptable, une application métier ou un portail client."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les faits, l’API permet généralement de construire des échanges automatisés autour des documents et de leurs informations associées. Selon les fonctionnalités activées, un développeur peut notamment envoyer un fichier, lui rattacher des métadonnées, le classer dans un dossier logique, déclencher une recherche, récupérer un document ou synchroniser certains statuts. La disponibilité exacte des opérations, des formats acceptés, des volumes et des méthodes d’authentification doit être confirmée auprès de Zeendoc ou de votre intégrateur."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "API ouverte ne signifie pas accès anonyme",
+      "html": "<p>Une API dite « ouverte » désigne souvent une interface exploitable par des applications tierces et documentée. Elle reste normalement protégée: clés d’accès, comptes techniques, autorisations et restrictions d’usage sont indispensables dès lors que des documents d’entreprise circulent.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-l-api-peut-apporter",
+      "text": "Ce qu’une API peut concrètement apporter à votre entreprise"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’intérêt principal est de supprimer les doubles saisies et les ruptures entre outils. Au lieu d’exporter une facture depuis le logiciel de gestion, de la renommer puis de la déposer dans la GED, votre application peut transmettre le PDF et les données utiles en une seule opération. Le document devient plus vite disponible, mieux classé et plus facile à retrouver."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Archivage automatique:</strong> dépôt des factures clients ou fournisseurs générées par un ERP, avec numéro, date, montant, fournisseur ou client en index.",
+        "<strong>Dossier client unifié:</strong> affichage des pièces Zeendoc depuis une fiche CRM, sans obliger le conseiller à rechercher manuellement le dossier.",
+        "<strong>Collecte depuis le terrain:</strong> envoi de photos, bons d’intervention, devis signés ou pièces justificatives depuis une application mobile métier.",
+        "<strong>Traitement documentaire:</strong> alimentation d’un outil de validation, de comptabilité ou de suivi des litiges à partir des documents et de leurs attributs.",
+        "<strong>Portail interne ou externe:</strong> mise à disposition contrôlée de documents à des salariés, partenaires ou clients, lorsque les droits et le cadre contractuel le permettent."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 flux",
+          "label": "à automatiser en premier pour limiter le risque lors d’un pilote"
+        },
+        {
+          "value": "3 à 5 champs",
+          "label": "d’index réellement indispensables à définir avant le développement"
+        },
+        {
+          "value": "Quelques semaines",
+          "label": "ordre de grandeur pour un pilote simple, après accès et cadrage"
+        },
+        {
+          "value": "2 à 3 cas d’erreur",
+          "label": "au minimum à tester: doublon, document illisible et accès refusé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "api-connecteur-import",
+      "text": "API, connecteur ou import: choisissez le bon niveau d’intégration"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une API n’est pas automatiquement la meilleure réponse. Si votre besoin correspond à un logiciel courant et à un flux déjà pris en charge, un connecteur standard peut être plus rapide à mettre en œuvre et moins coûteux à maintenir. À l’inverse, une API devient pertinente lorsqu’il faut relier une application maison, appliquer des règles métier particulières ou orchestrer plusieurs systèmes."
+    },
+    {
+      "type": "compare",
+      "title": "Connecteur standard ou développement via API?",
+      "a": {
+        "title": "Connecteur ou intégration prête à l’emploi",
+        "points": [
+          "À privilégier pour un outil courant et un scénario peu spécifique.",
+          "Déploiement souvent plus rapide, avec moins de code à maintenir.",
+          "Paramétrage limité aux règles prévues par l’éditeur ou l’intégrateur.",
+          "Dépendance aux évolutions et aux limites fonctionnelles du connecteur."
+        ]
+      },
+      "b": {
+        "title": "API et développement sur mesure",
+        "points": [
+          "Adaptée aux logiciels métiers, aux applications internes et aux flux complexes.",
+          "Liberté de choisir les règles de classement, les contrôles et le parcours utilisateur.",
+          "Nécessite des compétences de développement, des tests et une maintenance durable.",
+          "Demande un cadrage précis des droits, de la sécurité et de la reprise sur erreur."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Quel mode d’échange choisir selon votre besoin documentaire?",
+      "headers": [
+        "Besoin",
+        "Solution souvent adaptée",
+        "Avantage principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Déposer ponctuellement quelques lots de PDF",
+          "Import ou dépôt supervisé",
+          "Simple à lancer",
+          "Classement et contrôles parfois manuels"
+        ],
+        [
+          "Relier un logiciel standard à la GED",
+          "Connecteur existant",
+          "Mise en œuvre plus courte",
+          "Vérifier les champs et règles réellement pris en charge"
+        ],
+        [
+          "Envoyer des documents depuis une application métier interne",
+          "API",
+          "Flux sur mesure et automatisé",
+          "Prévoir développement, sécurité et maintenance"
+        ],
+        [
+          "Synchroniser plusieurs applications avec des règles complexes",
+          "API avec middleware ou intégrateur",
+          "Meilleure orchestration des échanges",
+          "Projet plus long, gouvernance indispensable"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe",
+      "html": "<p>Demandez d’abord si un connecteur couvre 80 % de votre besoin. Développer une API pour contourner une simple option de paramétrage est rarement un bon investissement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "fonctions-a-verifier",
+      "text": "Les fonctions à vérifier avant de promettre une intégration"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « API » masque des réalités très différentes. Une interface qui accepte l’envoi d’un fichier ne suffit pas forcément pour automatiser un processus documentaire complet. Préparez une liste de questions fonctionnelles et techniques avant de consulter la documentation ou de solliciter une démonstration."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Dépôt:</strong> quels types de fichiers peuvent être transmis, avec quelles limites de taille, quels traitements et quelles réponses en cas d’échec?",
+        "<strong>Indexation:</strong> peut-on fournir les métadonnées attendues, comme le numéro de facture, le client, la date, le service, le type de document ou une référence de dossier?",
+        "<strong>Classement:</strong> l’application peut-elle sélectionner une arborescence, une corbeille, un espace ou une règle de classement adaptée?",
+        "<strong>Recherche et restitution:</strong> peut-on rechercher par critères métier, récupérer un lien ou télécharger le bon document de manière contrôlée?",
+        "<strong>Mise à jour:</strong> les métadonnées et le statut d’un document peuvent-ils évoluer sans créer de doublon?",
+        "<strong>Événements:</strong> existe-t-il un moyen d’être averti qu’un document est disponible, validé, refusé ou modifié, plutôt que d’interroger sans cesse la plateforme?",
+        "<strong>Traçabilité:</strong> les identifiants, journaux et retours techniques permettent-ils de comprendre qui a envoyé quoi, quand et avec quel résultat?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez également la version de l’interface, les modalités d’accès à la documentation, l’existence d’un environnement de test et la politique d’évolution. Un changement d’API peut affecter votre application: il faut savoir comment vous serez informé, combien de temps une version reste utilisable et qui assure le support en cas d’incident."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "securite-rgpd-droits",
+      "text": "Sécurité, droits d’accès et RGPD: les sujets à traiter dès le départ"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une GED contient fréquemment des données sensibles: coordonnées bancaires, contrats, informations salariales, éléments de santé selon le secteur, pièces d’identité ou données commerciales. Le développement doit donc respecter le principe du moindre privilège: le compte technique utilisé par l’application ne doit voir et modifier que les documents strictement nécessaires à son rôle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez de placer un identifiant ou un secret d’API dans le code source, une feuille de calcul ou une configuration accessible à tous. Utilisez un coffre à secrets ou, à défaut, des variables d’environnement protégées. Chiffrez les échanges, limitez les accès réseau quand c’est possible et prévoyez une rotation des identifiants, notamment lors du départ d’un prestataire."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente: confondre accès applicatif et accès humain",
+      "html": "<p>Un salarié n’a pas besoin des mêmes droits qu’un programme. Créez un compte technique dédié, documentez son périmètre et journalisez son usage. Un compte administrateur partagé pour une intégration est un risque de sécurité et de traçabilité.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté RGPD, cartographiez les données envoyées: nature des documents, personnes concernées, finalité, durée de conservation et destinataires. Vérifiez aussi les règles internes de suppression, d’archivage et de confidentialité. Une API facilite la circulation de l’information; elle ne dispense pas de respecter les règles de conservation ni de minimiser les données transmises."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-pilote-api",
+      "text": "Méthode: préparer un premier projet API Zeendoc sans se disperser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur projet d’intégration est rarement le plus ambitieux au départ. Choisissez un flux répétitif, source d’erreurs ou de temps perdu, mais facile à mesurer. Par exemple: archiver les factures fournisseurs reçues dans l’outil comptable avec leur référence et leur date. Ce scénario produit un bénéfice clair sans toucher immédiatement à toutes les applications de l’entreprise."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Décrire le flux actuel",
+          "html": "Listez l’application source, la personne qui intervient, le document produit, les informations saisies, le moment du dépôt et les erreurs récurrentes. Un schéma simple suffit pour faire apparaître les ressaisies inutiles."
+        },
+        {
+          "title": "Définir le résultat attendu",
+          "html": "Formulez une règle vérifiable: « chaque facture validée est déposée avec son fournisseur, son numéro, sa date et son montant ». Limitez le pilote à un type documentaire et à quelques champs obligatoires."
+        },
+        {
+          "title": "Faire valider la faisabilité",
+          "html": "Confrontez votre besoin à la documentation et à l’équipe Zeendoc ou à votre intégrateur. Vérifiez l’authentification, les opérations disponibles, les limites éventuelles, les droits et l’accès à un environnement d’essai."
+        },
+        {
+          "title": "Construire une intégration tolérante aux incidents",
+          "html": "Conservez l’identifiant de l’échange, contrôlez le retour reçu et empêchez les doublons. Préparez une file de reprise ou une alerte pour les documents rejetés, plutôt qu’un échec silencieux."
+        },
+        {
+          "title": "Recetter avec les métiers",
+          "html": "Testez des cas normaux et anormaux: fichier vide, référence absente, document déjà envoyé, droit insuffisant et recherche par un utilisateur final. Validez que le document est réellement trouvable au bon endroit."
+        },
+        {
+          "title": "Mesurer puis étendre",
+          "html": "Suivez le temps économisé, le nombre de documents mal classés et les rejets. Une fois le flux stabilisé, ajoutez un second type de document ou une nouvelle application, sans modifier simultanément tout le système."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-maintenance",
+      "text": "Budget, délai et maintenance: ce qu’il faut anticiper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût ne se résume pas au code. Il peut inclure l’activation ou les droits liés à l’interface, l’accompagnement de l’éditeur ou d’un intégrateur, l’analyse du flux, le développement, les tests, la mise en production et le support. Pour une automatisation simple entre deux outils, comptez souvent quelques jours à quelques semaines de travail selon la maturité des systèmes et la qualité des données. Un flux multi-applications avec règles métier, validation et reprise sur erreur peut devenir un projet de plusieurs semaines, voire davantage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez un chiffrage séparant clairement le paramétrage, le développement, la recette, la formation et la maintenance. Cette distinction évite de comparer un devis incomplet à une prestation réellement opérationnelle. Prévoyez aussi un responsable métier: sans personne pour arbitrer les champs d’indexation, les règles de classement et les exceptions, l’intégration risque de fonctionner techniquement tout en restant peu utile au quotidien."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Une bonne intégration ne se juge pas au nombre d’appels API. Elle se juge à la capacité des équipes à retrouver immédiatement le bon document, avec les bons droits, sans ressaisie ni intervention manuelle.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prochaine-etape",
+      "text": "Votre prochaine étape: obtenir une réponse exploitable, pas seulement un “oui”"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous envisagez une intégration Zeendoc, envoyez un brief d’une page à votre interlocuteur technique ou commercial. Indiquez le logiciel source, le volume approximatif, les types de documents, les métadonnées souhaitées, les utilisateurs concernés, les droits nécessaires et le résultat attendu. Demandez ensuite une confirmation écrite des fonctions API disponibles dans votre offre, des prérequis, de l’authentification, de l’environnement de test et des modalités de support."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lancez enfin un pilote limité, avec une mesure simple: taux de documents correctement classés, temps de traitement ou nombre de ressaisies évitées. Cette approche vous donnera une base concrète pour décider s’il faut étendre l’API à d’autres flux, choisir un connecteur existant ou revoir votre modèle documentaire avant d’automatiser davantage."
+    }
+  ],
+  "faq": [
+    {
+      "q": "L’API Zeendoc est-elle accessible à tous les clients?",
+      "a": "<p>Pas nécessairement dans les mêmes conditions. La disponibilité peut dépendre de l’offre souscrite, des modules activés, de la configuration de votre instance et de l’accompagnement prévu. Avant de concevoir votre application, demandez si l’accès API est inclus, s’il doit être activé, quels droits sont requis et si la documentation est disponible pour votre équipe ou votre prestataire.</p>"
+    },
+    {
+      "q": "Peut-on envoyer automatiquement des factures dans Zeendoc?",
+      "a": "<p>C’est un cas d’usage typique d’une intégration. L’application source peut transmettre le fichier et les informations permettant de le classer, par exemple le fournisseur, le numéro de facture, la date ou le montant. Il faut toutefois vérifier les formats acceptés, les champs d’index disponibles, la règle de classement et le comportement à adopter lorsqu’une facture est incomplète ou déjà présente.</p>"
+    },
+    {
+      "q": "Faut-il être développeur pour utiliser l’API Zeendoc?",
+      "a": "<p>Oui, une API s’adresse d’abord à une équipe technique ou à un intégrateur capable de gérer l’authentification, les appels, les erreurs, les tests et la maintenance. En revanche, les équipes métier doivent participer au projet: elles définissent les documents concernés, les champs de recherche, les règles de classement et les cas particuliers. Sans cette collaboration, le code peut être correct mais le flux inadapté.</p>"
+    },
+    {
+      "q": "Quelle différence entre l’API Zeendoc et un connecteur?",
+      "a": "<p>Un connecteur est une intégration déjà construite pour relier deux outils selon un scénario prévu. Il se paramètre généralement plus vite, mais offre moins de liberté. Une API fournit les briques techniques pour construire votre propre échange: elle convient mieux à une application spécifique ou à des règles métier particulières, au prix d’un effort de développement et de maintenance supérieur.</p>"
+    },
+    {
+      "q": "Comment sécuriser une intégration entre mon logiciel et Zeendoc?",
+      "a": "<p>Créez un compte technique dédié avec des droits limités, stockez les secrets hors du code, chiffrez les échanges et journalisez les opérations. Définissez aussi une procédure de révocation des accès, notamment si un prestataire change. Enfin, testez les accès refusés, les doublons et les erreurs réseau: une intégration sécurisée doit pouvoir échouer proprement sans exposer de documents ni perdre leur trace.</p>"
+    },
+    {
+      "q": "Combien coûte une intégration API avec Zeendoc?",
+      "a": "<p>Le montant varie selon les droits ou options nécessaires, le niveau d’accompagnement, le nombre d’applications reliées et la complexité du flux. Une automatisation simple peut représenter un travail limité si les données sont propres et le scénario standard. Un projet impliquant plusieurs outils, des règles de validation, des droits fins et une reprise d’erreur robuste demandera un budget plus important. Comparez des devis détaillant séparément accès, paramétrage, développement, tests et maintenance.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "id": 2011,
+  "slug": "comment-choisir-entre-un-traitement-preventif-et-curatif",
+  "title": "Comment choisir entre un traitement préventif et curatif ?",
+  "metaTitle": "Traitement préventif ou curatif: lequel choisir?",
+  "metaDescription": "Traitement préventif ou curatif de charpente: signes, coûts, méthodes et conseils pour protéger durablement votre maison contre les insectes du bois.",
+  "dek": "Une charpente ne se traite pas par réflexe: le bon choix dépend de l’état réel du bois, du type d’attaque et de l’humidité du bâtiment. Voici comment décider sans engager des travaux inutiles ni laisser un problème s’aggraver.",
+  "category": "maison-immobilier",
+  "tags": [
+    "charpente",
+    "traitement du bois",
+    "insectes xylophages",
+    "termites",
+    "humidité",
+    "rénovation"
+  ],
+  "keyTakeaways": [
+    "Un traitement préventif protège un bois sain; il ne stoppe pas une infestation active.",
+    "Des trous seuls ne prouvent pas que les insectes sont encore présents: la vermoulure fraîche est plus parlante.",
+    "Avant tout traitement, il faut identifier l’insecte ou le champignon et supprimer la cause d’humidité.",
+    "Le curatif coûte généralement plus cher, car il associe diagnostic, préparation du bois, traitement et parfois réparation.",
+    "Face à des termites, à du bois fragilisé ou à une mérule suspectée, faites intervenir un professionnel sans attendre."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une charpente saine ne justifie pas forcément un traitement lourd, tandis qu’une attaque active ne se règle pas par une simple pulvérisation. Entre prévention et traitement curatif, la décision doit reposer sur des indices concrets: état du bois, présence d’insectes, humidité et accessibilité de la structure. Ce guide vous aide à choisir une réponse proportionnée, sûre et durable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-la-difference",
+      "text": "Traitement préventif et curatif: deux objectifs très différents"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>traitement préventif</strong> vise à limiter le risque d’attaque sur un bois qui est sain, sec et encore mécaniquement solide. Il est surtout pertinent sur une charpente neuve, après une rénovation importante, après le remplacement de pièces de bois ou dans une maison exposée à un risque identifié. Selon le support et le produit retenu, il peut être appliqué au pinceau, par pulvérisation contrôlée ou par un procédé industriel sur les bois neufs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>traitement curatif</strong> répond à une infestation en cours ou à une dégradation déjà constatée. Son rôle n’est pas uniquement d’éliminer les insectes: il faut aussi évaluer la résistance des pièces de charpente, retirer les parties trop altérées, traiter les zones atteintes et corriger la cause qui a favorisé le problème. Une fuite de toiture, une ventilation insuffisante ou un bois en contact durable avec l’humidité peuvent faire échouer un traitement pourtant bien appliqué."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "<p>Le choix ne se fait pas entre un traitement « léger » et un traitement « puissant ». Il se fait entre une protection adaptée à un bois sain et une intervention ciblée sur une dégradation réellement diagnostiquée.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-letat-du-bois",
+      "text": "Commencez par diagnostiquer l’état réel de la charpente"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de signer un devis ou d’acheter un produit, inspectez la charpente dans de bonnes conditions: lampe puissante, accès sécurisé aux combles et, si possible, photographies datées. Regardez les pannes, chevrons, solives, extrémités de poutres encastrées dans les murs et zones sous les points sensibles de la couverture. Ce sont les endroits où l’eau, la condensation et les attaques passent le plus facilement inaperçues."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "reconnaitre-les-signes-dalerte",
+      "text": "Les indices qui doivent vous alerter"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>De la vermoulure fraîche</strong>: une poudre ou de petits granulés clairs sous les pièces de bois peuvent signaler une activité récente d’insectes à larves xylophages.",
+        "<strong>Des trous de sortie nombreux</strong>: leur taille et leur forme donnent des indices, mais un trou ancien peut rester visible pendant des décennies.",
+        "<strong>Un bois friable, creusé ou qui sonne creux</strong> au sondage: la section porteuse peut être réduite sans que la dégradation soit évidente en surface.",
+        "<strong>Des cordonnets terreux ou galeries</strong>: ces signes peuvent évoquer des termites et demandent une réaction rapide.",
+        "<strong>Des traces d’eau, une odeur de moisi, un bois brun qui se fissure en petits cubes</strong>: l’humidité et les champignons doivent être traités à la source.",
+        "<strong>Une déformation de toiture ou une fissuration inhabituelle</strong>: elle peut révéler un problème structurel qui dépasse le seul traitement insecticide."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente: traiter sur la seule vue de trous",
+      "html": "<p>Des trous ne prouvent pas, à eux seuls, que l’infestation est active. Cherchez plutôt de la vermoulure récente, des galeries qui progressent, des insectes observés ou un bois qui s’affaiblit. À l’inverse, l’absence de trous visibles n’exclut pas les termites ou une dégradation interne.</p>"
+    },
+    {
+      "type": "table",
+      "caption": "Lecture rapide des situations les plus courantes dans une charpente",
+      "headers": [
+        "Situation observée",
+        "Ce qu’elle peut indiquer",
+        "Réponse à privilégier",
+        "Priorité"
+      ],
+      "rows": [
+        [
+          "Bois sec, sain, sans poussière ni déformation",
+          "Pas d’attaque visible",
+          "Prévention ciblée ou simple surveillance selon le contexte",
+          "Modérée"
+        ],
+        [
+          "Trous anciens, sans poussière fraîche",
+          "Attaque ancienne ou inactive, à confirmer",
+          "Contrôle approfondi avant tout traitement",
+          "Modérée"
+        ],
+        [
+          "Poussière fraîche, galeries ou bois qui se fragilise",
+          "Insectes xylophages possiblement actifs",
+          "Diagnostic puis traitement curatif",
+          "Élevée"
+        ],
+        [
+          "Cordonnets terreux, bois attaqué sans trous apparents",
+          "Termites possibles",
+          "Expertise et dispositif adapté sans délai",
+          "Très élevée"
+        ],
+        [
+          "Bois humide, mou, brun ou odeur persistante de moisi",
+          "Champignon et désordre d’humidité",
+          "Réparer la cause de l’eau avant le traitement du bois",
+          "Élevée"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-strategie",
+      "text": "Choisir la bonne stratégie selon votre situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une prévention est cohérente lorsque le bois est accessible, en bon état et que le risque est crédible: charpente ancienne jamais contrôlée, remplacement de pièces lors d’une réfection de toiture, présence avérée d’insectes dans une dépendance voisine ou environnement très humide désormais assaini. Elle l’est beaucoup moins si elle sert seulement à rassurer sans inspection préalable. Dans certains combles secs et bien ventilés, une surveillance régulière peut être plus pertinente qu’une application systématique de biocide."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le curatif devient nécessaire dès qu’une activité est probable ou qu’une dégradation compromet la durée de vie du bois. Plus vous intervenez tôt, plus le chantier peut rester localisé. Attendre pour « voir si cela bouge » est risqué si de la vermoulure réapparaît, si le bois se creuse ou si des termites sont suspectés: une perte de matière invisible peut réduire la capacité porteuse d’une pièce essentielle."
+    },
+    {
+      "type": "compare",
+      "title": "Préventif ou curatif: ce qui change concrètement",
+      "a": {
+        "title": "Traitement préventif",
+        "points": [
+          "S’adresse à un bois sain, sec et structurellement fiable.",
+          "Cherche à réduire un risque futur, notamment après travaux ou sur bois neufs.",
+          "Intervention généralement plus simple, sans bûchage ni remplacement de bois.",
+          "N’élimine pas une colonie ou des larves déjà installées dans le cœur du matériau."
+        ]
+      },
+      "b": {
+        "title": "Traitement curatif",
+        "points": [
+          "S’impose en cas d’activité d’insectes, de champignon ou de bois altéré.",
+          "Commence par une identification et un contrôle de l’étendue des dégâts.",
+          "Peut nécessiter sondage, décapage, injection, pulvérisation et renforcement.",
+          "Doit impérativement être accompagné d’une correction des infiltrations ou de l’humidité."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Termites: un cas à part",
+      "html": "<p>Le traitement des termites ne se résume pas au traitement d’une poutre. Il peut inclure des dispositifs autour du bâti, des appâts ou des barrières selon la construction et l’infestation. En France, leur présence dans un immeuble bâti doit être signalée en mairie; vérifiez aussi les règles locales et les obligations applicables lors d’une vente.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-se-deroulent-les-traitements",
+      "text": "Méthodes de traitement: ce que recouvrent vraiment les devis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une charpente existante, un préventif consiste souvent en une préparation légère du support suivie d’une application de produit de préservation compatible avec le bois et son usage. La qualité de cette préparation compte: un bois couvert de poussière, d’un ancien revêtement ou d’humidité absorbera mal le produit. Le traitement de surface protège surtout les couches accessibles; il ne transforme pas une charpente fragilisée en bois sain."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un curatif sérieux contre les insectes comprend généralement plusieurs opérations: examen et sondage du bois, retrait des parties vermoulues non porteuses, brossage ou dépoussiérage, perçages et injection dans les grosses sections lorsque cela est justifié, puis traitement de surface. Les pièces trop attaquées peuvent devoir être consolidées ou remplacées. Un devis clair doit distinguer ces postes plutôt que de promettre un résultat avec une unique application vague."
+    },
+    {
+      "type": "paragraph",
+      "html": "En présence de champignons, la priorité est différente: réparer une tuile, une noue, une gouttière ou une fuite, améliorer la ventilation et assécher les matériaux. Traiter chimiquement du bois qui reste humide ne résout pas le désordre. Si une mérule est soupçonnée, évitez de déplacer des éléments contaminés ou de percer sans précaution: faites confirmer le diagnostic et demandez un protocole adapté à l’ensemble de la zone atteinte."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "À demander avant d’accepter une intervention",
+      "html": "<p>Exigez que le devis indique les zones traitées, la méthode prévue, les préparations du bois, les réparations exclues, les contraintes d’accès, le produit employé et les modalités de contrôle ultérieur. Une garantie commerciale n’a de valeur que si son périmètre est écrit noir sur blanc.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-et-facteurs-de-prix",
+      "text": "Budget: comparer les prix sans comparer l’incomparable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix dépend moins de la surface habitable que du volume de bois réellement accessible, de la hauteur sous toiture, de la présence d’un plancher, de l’état des pièces et de la nécessité de réparer. Pour une charpente accessible et sans désordre majeur, comptez souvent quelques dizaines d’euros par mètre carré traité pour une intervention préventive réalisée par un professionnel. Un traitement curatif est généralement sensiblement plus coûteux, car il demande davantage de main-d’œuvre et de préparation."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "15 à 40 €",
+          "label": "ordre de grandeur souvent rencontré par m² traité pour une prévention professionnelle sur bois accessible"
+        },
+        {
+          "value": "40 à 100 €",
+          "label": "ordre de grandeur courant par m² traité pour un curatif, hors réparations structurelles et accès complexes"
+        },
+        {
+          "value": "1 à 3 jours",
+          "label": "durée possible d’un chantier standard sur une petite ou moyenne charpente accessible, selon le protocole"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces fourchettes restent indicatives: une charpente difficile d’accès, une infestation étendue, un échafaudage, l’enlèvement d’isolant ou le remplacement de poutres peuvent faire grimper fortement la facture. Demandez au moins deux devis établis après visite. Méfiez-vous d’un prix au forfait annoncé par téléphone, d’un diagnostic expédié ou d’une offre très basse qui ne précise ni les zones ni la méthode."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "faire-soi-meme-ou-appeler-un-professionnel",
+      "text": "Peut-on traiter soi-même sa charpente?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez assurer la surveillance, nettoyer prudemment les zones accessibles, repérer les infiltrations et appliquer un produit de prévention sur une petite pièce de bois non structurelle, à condition de respecter strictement l’étiquette et les équipements de protection indiqués. Portez au minimum les protections prévues par le fabricant, aérez largement, protégez les surfaces et ne pulvérisez pas au hasard dans un espace de vie ou près d’une arrivée d’air."
+    },
+    {
+      "type": "paragraph",
+      "html": "En revanche, laissez à un professionnel le diagnostic d’une charpente porteuse, les injections, les traitements en hauteur, les termites, les champignons étendus et toute situation où le bois paraît affaibli. Cherchez une entreprise assurée, habituée à ce type de travaux, et demandez si elle dispose d’une qualification ou d’une certification sectorielle reconnue, telle que CTB-A+ lorsqu’elle est pertinente. Cela ne dispense pas de vérifier le contenu du devis, mais constitue un repère utile."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-decision-en-cinq-etapes",
+      "text": "La méthode en cinq étapes pour décider sans vous tromper"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "1. Documentez les indices",
+          "html": "Prenez des photos des trous, poussières, taches d’humidité et déformations. Placez, si besoin, une feuille propre sous une zone suspecte pendant quelques jours pour repérer l’apparition de vermoulure."
+        },
+        {
+          "title": "2. Contrôlez l’humidité",
+          "html": "Vérifiez toiture, solins, gouttières, ventilation des combles et éventuelles remontées d’eau. Toute source d’humidité doit être traitée avant ou en même temps que le bois."
+        },
+        {
+          "title": "3. Faites qualifier le risque",
+          "html": "Pour un doute sur des insectes, des termites, un champignon ou une poutre porteuse, demandez un diagnostic sur place. Faites expliquer les indices observés, pas seulement la solution vendue."
+        },
+        {
+          "title": "4. Choisissez une réponse proportionnée",
+          "html": "Bois sain: prévention ciblée ou surveillance. Activité confirmée: curatif adapté à l’agent identifié. Bois endommagé: ajoutez la réparation ou le renforcement nécessaires."
+        },
+        {
+          "title": "5. Planifiez le suivi",
+          "html": "Conservez photos, devis, factures et notices. Réinspectez les zones concernées, surtout après une saison humide, une réparation de toiture ou l’apparition de nouvelles poussières."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-a-laction",
+      "text": "Passer à l’action: la décision la plus rentable est souvent le bon diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre charpente est sèche, stable et sans signe d’activité, ne vous précipitez pas vers un curatif: une inspection sérieuse, une bonne ventilation et une prévention ciblée peuvent suffire. Si vous constatez de la vermoulure fraîche, des galeries, du bois affaibli ou une humidité persistante, faites évaluer rapidement l’étendue du problème. Votre priorité n’est pas d’appliquer le produit le plus fort, mais de supprimer la cause, de sauvegarder la résistance du bois et de choisir un traitement vérifiable."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Votre prochaine action",
+      "html": "<p>Inspectez vos combles, photographiez les zones douteuses et demandez un devis détaillé après visite si un signe d’activité apparaît. Cette démarche simple évite autant le surtraitement que l’attente coûteuse.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il traiter préventivement une charpente ancienne sans infestation visible?",
+      "a": "<p>Pas systématiquement. Une charpente ancienne, sèche, stable et bien ventilée peut parfois relever d’une simple surveillance régulière. Un préventif devient plus pertinent après le remplacement de bois, dans un secteur où le risque est établi ou lorsque l’inspection révèle des fragilités limitées sans activité en cours. Faites d’abord vérifier que les trous ou traces observés ne correspondent pas à une attaque active.</p>"
+    },
+    {
+      "q": "Les petits trous dans les poutres prouvent-ils que les insectes sont encore là?",
+      "a": "<p>Non. Les trous sont souvent les sorties laissées par des insectes arrivés au terme de leur cycle, et ils peuvent être très anciens. La présence de vermoulure fraîche sous le bois, l’apparition de nouveaux trous, des galeries récentes ou un affaiblissement progressif sont des indices plus préoccupants. En cas de doute, un examen sur place permet d’éviter un traitement inutile ou insuffisant.</p>"
+    },
+    {
+      "q": "Quel est le prix d’un traitement curatif de charpente?",
+      "a": "<p>Sur une charpente accessible, un curatif se chiffre souvent à quelques dizaines d’euros par mètre carré traité et peut dépasser cette base lorsque l’infestation est étendue, que l’accès est compliqué ou que des pièces doivent être consolidées ou remplacées. Comparez des devis détaillés: le prix doit préciser la préparation du bois, les injections éventuelles, le traitement de surface, les zones incluses et les travaux de réparation exclus ou prévus.</p>"
+    },
+    {
+      "q": "Peut-on utiliser le même produit pour les insectes xylophages et les termites?",
+      "a": "<p>Il ne faut pas le présumer. Les insectes à larves xylophages, comme certaines vrillettes ou le capricorne, attaquent le bois selon des modes différents des termites. Ces derniers peuvent nécessiter une stratégie à l’échelle du bâtiment et de ses abords. Utilisez uniquement un produit prévu pour l’usage concerné et, pour les termites, privilégiez un professionnel capable d’identifier l’espèce et de proposer un dispositif global.</p>"
+    },
+    {
+      "q": "Faut-il réparer une fuite avant de traiter le bois?",
+      "a": "<p>Oui, c’est indispensable. Une infiltration, une condensation importante ou une ventilation défaillante entretient les conditions favorables aux champignons et fragilise le bois. Un traitement appliqué avant la réparation de la cause risque d’être inefficace à long terme. Commencez par mettre le bâtiment hors d’eau, assécher la zone et contrôler l’état des pièces de charpente.</p>"
+    },
+    {
+      "q": "Un traitement de charpente est-il obligatoire lors de la vente d’une maison?",
+      "a": "<p>Il n’existe pas d’obligation générale de traiter toute charpente avant une vente. En revanche, un état relatif à la présence de termites peut être exigé dans les zones délimitées par arrêté préfectoral. Si des termites sont constatés, des démarches de déclaration en mairie s’appliquent également. Consultez les informations de votre commune et, si besoin, un diagnostiqueur ou un professionnel du traitement du bois.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

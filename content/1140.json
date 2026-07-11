@@ -1,0 +1,386 @@
+{
+  "id": 1140,
+  "slug": "comment-devenir-data-analyst-quelles-competences-sont-necessaires",
+  "title": "Comment devenir data analyst : quelles compétences sont nécessaires ?",
+  "metaTitle": "Devenir data analyst: compétences et parcours",
+  "metaDescription": "Apprenez à devenir data analyst: compétences SQL, Excel et visualisation, formations, portfolio, salaire et plan d’action pour débuter sereinement.",
+  "dek": "Le métier de data analyst ne consiste pas seulement à manipuler des chiffres: il s’agit de transformer des données souvent imparfaites en décisions compréhensibles. Voici les compétences à acquérir, les parcours réalistes et une méthode concrète pour vous lancer.",
+  "category": "business-pro",
+  "tags": [
+    "data analyst",
+    "reconversion",
+    "SQL",
+    "Excel",
+    "emploi",
+    "formation"
+  ],
+  "keyTakeaways": [
+    "SQL, un tableur et la visualisation de données forment le socle le plus utile pour débuter.",
+    "Comprendre le besoin métier compte autant que savoir utiliser un outil.",
+    "Un portfolio de quelques projets clairs vaut mieux qu’une longue liste de certificats.",
+    "Python est un atout progressif, pas toujours un prérequis pour un premier poste.",
+    "La pratique régulière sur des données réelles est le meilleur accélérateur."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous aimez comprendre ce que racontent les chiffres, repérer une anomalie ou expliquer pourquoi un résultat évolue? Le data analyst donne du sens aux données pour aider une entreprise, une association ou une administration à décider. Bonne nouvelle: le métier est accessible par plusieurs voies, à condition d’acquérir les bonnes bases techniques et de prouver votre capacité à résoudre des problèmes concrets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-metier-de-data-analyst",
+      "text": "Comprendre ce que fait réellement un data analyst"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le data analyst collecte, nettoie, croise et interprète des données afin de répondre à une question précise. Par exemple: quels produits se vendent le mieux, pourquoi des clients résilient-ils, quelle campagne apporte le plus de contacts, ou quels délais de traitement s’allongent? Son livrable peut être un tableau de bord, une analyse ponctuelle, une recommandation écrite ou une alerte sur une anomalie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au quotidien, le travail commence rarement par des graphiques élégants. Il faut d’abord vérifier la qualité des données, comprendre leur origine, définir un indicateur fiable et échanger avec les équipes concernées. Un bon analyste ne se contente donc pas de dire que « le chiffre baisse »: il précise <strong>quoi</strong> baisse, sur quelle période, par rapport à quel point de comparaison, avec quelles limites et quelles pistes d’action."
+    },
+    {
+      "type": "compare",
+      "title": "Data analyst et data scientist: deux rôles proches, mais distincts",
+      "a": {
+        "title": "Data analyst",
+        "points": [
+          "Répond à des questions métier à partir de données existantes.",
+          "Travaille souvent avec SQL, Excel ou Google Sheets et un outil de datavisualisation.",
+          "Produit des indicateurs, analyses, tableaux de bord et recommandations.",
+          "Vise une interprétation claire et directement actionnable."
+        ]
+      },
+      "b": {
+        "title": "Data scientist",
+        "points": [
+          "Conçoit plus souvent des modèles prédictifs ou de machine learning.",
+          "Mobilise davantage de programmation, statistiques avancées et expérimentation.",
+          "Peut traiter des problématiques de prédiction, de classification ou d’automatisation.",
+          "N’est pas forcément l’étape obligatoire après un poste d’analyst."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le cœur du métier",
+      "html": "<p>Le data analyst est un <strong>traducteur entre les données et les décisions</strong>. La maîtrise d’un logiciel ne suffit pas si vous ne savez pas formuler une question utile et expliquer une conclusion sans jargon.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "competences-techniques-indispensables",
+      "text": "Les compétences techniques indispensables à acquérir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de tout apprendre simultanément. Pour un premier poste, mieux vaut maîtriser un socle limité mais opérationnel que survoler dix technologies. Les attentes varient selon le secteur et l’entreprise, mais les compétences ci-dessous reviennent très fréquemment dans les offres."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux outils et savoir-faire d’un data analyst débutant",
+      "headers": [
+        "Compétence",
+        "Ce qu’il faut savoir faire",
+        "Priorité au démarrage"
+      ],
+      "rows": [
+        [
+          "<strong>Tableur</strong>: Excel ou Google Sheets",
+          "Nettoyer un fichier, utiliser des formules, filtres, tableaux croisés dynamiques, recherches et graphiques simples.",
+          "Indispensable"
+        ],
+        [
+          "<strong>SQL</strong>",
+          "Extraire et joindre des données, filtrer, agréger, grouper, traiter les valeurs manquantes et contrôler un résultat.",
+          "Indispensable"
+        ],
+        [
+          "<strong>Datavisualisation</strong>: Power BI, Tableau, Looker Studio…",
+          "Construire un tableau de bord lisible, choisir un graphique pertinent et documenter les indicateurs.",
+          "Indispensable"
+        ],
+        [
+          "<strong>Statistiques descriptives</strong>",
+          "Lire moyenne, médiane, dispersion, taux d’évolution, échantillon et corrélation avec prudence.",
+          "Indispensable"
+        ],
+        [
+          "<strong>Python ou R</strong>",
+          "Automatiser un nettoyage, analyser un volume plus important et produire une analyse reproductible.",
+          "Atout fort"
+        ],
+        [
+          "<strong>Modélisation et données</strong>",
+          "Comprendre tables, clés, doublons, relations, granularité et historique des données.",
+          "Très utile"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>SQL mérite une attention particulière.</strong> C’est le langage qui permet d’interroger de nombreuses bases de données. Commencez par SELECT, WHERE, ORDER BY, GROUP BY et les fonctions d’agrégation, puis apprenez les jointures. La difficulté n’est pas seulement la syntaxe: une jointure mal pensée peut dupliquer des lignes et fausser tous les résultats. Prenez donc l’habitude de compter les lignes et de contrôler des cas concrets avant de publier un chiffre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la visualisation, ne cherchez pas à faire spectaculaire. Un bon tableau de bord répond rapidement à une question, affiche les unités et périodes, évite les graphiques décoratifs et permet de comparer ce qui est comparable. Une courbe convient à une évolution dans le temps; des barres sont souvent plus lisibles pour comparer des catégories; un tableau détaillé reste parfois le meilleur choix pour l’opérationnel."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Confondre corrélation et causalité. Si deux évolutions se produisent en même temps, cela ne prouve pas que l’une cause l’autre. Signalez les hypothèses, cherchez les facteurs possibles et évitez les conclusions trop rapides.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "competences-metier-et-humaines",
+      "text": "Les compétences métier et humaines qui font la différence"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les recruteurs recherchent des personnes capables de relier une analyse à une réalité opérationnelle. Dans le commerce, vous pourrez suivre le chiffre d’affaires, le panier moyen ou la fidélité. En ressources humaines, il peut s’agir de délais de recrutement ou de mobilité. Dans une association, l’analyse peut éclairer la fréquentation, les dons ou l’impact d’une action. Les outils changent; la logique de questionnement reste."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Curiosité structurée:</strong> demander d’où vient un chiffre, comment il est calculé et ce qui peut le biaiser.",
+        "<strong>Rigueur:</strong> nommer clairement les fichiers, documenter les calculs, tester les résultats et conserver une trace du raisonnement.",
+        "<strong>Communication:</strong> présenter une conclusion adaptée à une personne non technique, sans noyer l’essentiel sous les détails.",
+        "<strong>Esprit critique:</strong> identifier les données manquantes, les définitions floues et les comparaisons trompeuses.",
+        "<strong>Connaissance d’un domaine:</strong> comprendre les enjeux d’un secteur permet de poser de meilleures questions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous devrez aussi respecter le cadre de confidentialité. Les données clients, salariales, médicales ou de navigation ne se manipulent pas comme un simple jeu de données. Un analyste doit limiter l’accès aux informations nécessaires, éviter les exports inutiles, anonymiser lorsque c’est possible et connaître les règles internes liées au RGPD. Cette vigilance est particulièrement appréciée dans les secteurs sensibles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-formation-et-parcours",
+      "text": "Quelle formation choisir pour devenir data analyst?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une voie unique. Des diplômés en statistiques, informatique, économie, marketing, sciences sociales ou gestion deviennent data analysts. Une reconversion est également possible, notamment si vous avez déjà une expérience métier: un ancien commercial comprend les données de vente; une personne issue de la logistique connaît les contraintes de stock et de délais; un profil RH sait interpréter les indicateurs de recrutement avec prudence."
+    },
+    {
+      "type": "compare",
+      "title": "Études longues ou formation courte: comment choisir?",
+      "a": {
+        "title": "Diplôme ou cursus académique",
+        "points": [
+          "Convient si vous démarrez vos études ou visez une base solide en statistiques et informatique.",
+          "Apporte un cadre, du temps de pratique et parfois un réseau d’anciens ou des stages.",
+          "Demande généralement un investissement de temps plus long.",
+          "La qualité du projet et des stages reste déterminante à l’embauche."
+        ]
+      },
+      "b": {
+        "title": "Formation intensive ou autodidaxie guidée",
+        "points": [
+          "Convient à une reconversion ciblée ou à une montée en compétences rapide.",
+          "Exige une forte régularité et un portfolio pour rendre le niveau visible.",
+          "Permet d’avancer à votre rythme avec des cours en ligne et des exercices pratiques.",
+          "La promesse d’emploi ne doit jamais remplacer la vérification du programme et de l’accompagnement."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3 outils",
+          "label": "à viser d’abord: un tableur, SQL et un outil de visualisation"
+        },
+        {
+          "value": "3 à 5 projets",
+          "label": "suffisent souvent à constituer un portfolio débutant cohérent"
+        },
+        {
+          "value": "4 à 8 mois",
+          "label": "d’apprentissage régulier peuvent créer une première base, selon votre disponibilité et votre niveau initial"
+        },
+        {
+          "value": "Quelques milliers d’euros",
+          "label": "peuvent être demandés par certaines formations intensives; comparez toujours programme, financement et accompagnement"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les ressources gratuites ou peu coûteuses sont nombreuses pour apprendre les fondamentaux. Une formation encadrée peut toutefois être utile si vous avez besoin d’un rythme, de retours sur vos projets et d’une préparation aux entretiens. Avant de vous inscrire, examinez le détail des modules, le nombre d’heures réellement consacrées à SQL et aux projets, l’accès à des mentors, les modalités d’évaluation et les conditions de financement. Méfiez-vous des programmes qui promettent un poste garanti en quelques semaines."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Python est souvent demandé dans les environnements les plus techniques, mais de nombreux postes junior utilisent surtout SQL, Excel et Power BI ou Tableau. Ne reportez pas vos candidatures uniquement parce que vous ne maîtrisez pas encore Python.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "construire-un-portfolio-convaincant",
+      "text": "Construire un portfolio qui prouve vos compétences"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un portfolio répond à une inquiétude simple du recruteur: « cette personne sait-elle mener une analyse de bout en bout? » Il doit montrer votre raisonnement, pas seulement une capture d’écran d’un tableau de bord. Utilisez des jeux de données ouverts, des données fictives clairement annoncées ou des projets personnels anonymisés. N’utilisez jamais les données confidentielles de votre employeur sans autorisation explicite."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisissez une question précise",
+          "html": "Préférez « quels facteurs sont associés aux retards de livraison? » à « analyser les livraisons ». Une question ciblée donne une direction à tout le travail."
+        },
+        {
+          "title": "Documentez les données",
+          "html": "Indiquez la source, la période, les colonnes importantes, les limites connues et les éventuels traitements réalisés."
+        },
+        {
+          "title": "Nettoyez et contrôlez",
+          "html": "Repérez doublons, valeurs manquantes, formats incohérents et valeurs aberrantes. Expliquez les décisions prises au lieu de les masquer."
+        },
+        {
+          "title": "Analysez avec les bons outils",
+          "html": "Montrez quelques requêtes SQL, calculs de tableur ou étapes de code utiles. L’objectif est de rendre votre démarche vérifiable, pas de tout exposer."
+        },
+        {
+          "title": "Concluez pour un décideur",
+          "html": "Terminez par trois enseignements, leurs limites et une ou deux actions envisageables. Une recommandation doit rester proportionnée aux preuves disponibles."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Un portfolio équilibré peut comprendre une analyse de ventes, une étude de fréquentation ou de mobilité, et un tableau de bord de suivi d’indicateurs. Publiez vos travaux sur un espace simple à consulter: dépôt de code si vous utilisez Python ou SQL, lien vers un tableau de bord accessible, ou document bien structuré. Soignez les titres, le contexte et les conclusions: un recruteur doit comprendre le projet en quelques minutes."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil portfolio",
+      "html": "<p>Pour chaque projet, ajoutez une courte section « <strong>ce que je ferais ensuite</strong> ». Cela prouve que vous savez distinguer une première analyse utile d’une vérité définitive.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "postuler-et-reussir-les-entretiens",
+      "text": "Trouver un premier poste et préparer les entretiens"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les intitulés ne sont pas uniformes. Cherchez aussi « analyste data », « analyste décisionnel », « BI analyst », « business analyst » lorsque la dimension données est explicite, « analyste reporting » ou « chargé d’études ». Lisez les missions avant de postuler: certaines offres d’analyste sont très orientées pilotage et tableur, d’autres demandent de programmer ou de travailler avec des outils cloud."
+    },
+    {
+      "type": "paragraph",
+      "html": "Adaptez votre CV à chaque candidature. Placez clairement les outils que vous savez utiliser, mais associez-les à une réalisation: « création d’un tableau de bord de suivi mensuel », « analyse de cohortes clients avec SQL », « automatisation d’un nettoyage de fichier ». Un lien vers deux ou trois projets choisis est plus crédible qu’une rubrique remplie de logos d’outils."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>En entretien métier:</strong> entraînez-vous à expliquer un projet avec le contexte, la question, les données, la méthode, le résultat et les limites.",
+        "<strong>Lors d’un test SQL:</strong> lisez attentivement le schéma des tables, écrivez progressivement et contrôlez le nombre de lignes retournées.",
+        "<strong>Face à une étude de cas:</strong> clarifiez d’abord l’objectif, les indicateurs et le périmètre avant de proposer une analyse.",
+        "<strong>Pour une question technique inconnue:</strong> décrivez votre méthode de recherche et de vérification plutôt que d’improviser une réponse incertaine."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La rémunération dépend fortement de la ville, du secteur, du niveau de responsabilité et de la rareté des outils demandés. Pour un poste junior en France, les écarts peuvent être importants entre une petite structure et une grande entreprise, ou entre les régions et l’Île-de-France. Regardez les offres comparables près de chez vous, interrogez votre réseau et évaluez aussi l’accompagnement, la qualité des données, les possibilités de progression et le télétravail: ce sont des critères décisifs pour apprendre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-les-erreurs-debutant",
+      "text": "Les erreurs à éviter lorsque vous débutez"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à apprendre des outils sans projet ni question métier. Vous retiendrez mieux SQL ou Power BI en répondant à un problème concret. La deuxième est de présenter des graphiques sans expliquer les définitions: un « client actif », un « chiffre d’affaires » ou un « taux de conversion » peuvent recouvrir des réalités différentes selon l’organisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de surcharger vos tableaux de bord. Dix graphiques ne valent pas mieux que trois indicateurs lisibles. Enfin, ne cachez pas les limites: données incomplètes, changement de méthode de collecte, période trop courte ou faible effectif. Savoir dire « nous ne pouvons pas conclure à ce stade » est une preuve de professionnalisme, pas une faiblesse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-pour-debuter",
+      "text": "Votre plan d’action concret pour démarrer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour avancer sans vous disperser, fixez-vous un objectif simple: être capable, dans quelques mois, d’extraire des données avec SQL, de les vérifier, de produire un tableau de bord lisible et de défendre vos conclusions. Bloquez des créneaux réguliers, même courts, et alternez apprentissage ciblé et réalisation de projets. La régularité compte davantage qu’une session intensive isolée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Évaluez votre point de départ",
+          "html": "Listez ce que vous maîtrisez déjà: tableur, logique métier, statistiques, programmation ou présentation. Cela évite de recommencer inutilement à zéro."
+        },
+        {
+          "title": "Travaillez le socle pendant quelques semaines",
+          "html": "Concentrez-vous sur tableur, SQL et statistiques descriptives. Faites de petits exercices jusqu’à savoir contrôler vos résultats."
+        },
+        {
+          "title": "Ajoutez un outil de visualisation",
+          "html": "Créez un premier tableau de bord autour d’un jeu de données simple et rédigez les définitions de vos indicateurs."
+        },
+        {
+          "title": "Terminez des projets complets",
+          "html": "Réalisez trois à cinq études courtes, documentées et différentes. Cherchez du retour auprès de professionnels, de pairs ou de mentors."
+        },
+        {
+          "title": "Candidaturez avant de vous sentir prêt à 100 %",
+          "html": "Ciblez stages, alternances, postes juniors et opportunités internes. Les retours d’entretien vous indiqueront les compétences à renforcer."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Devenir data analyst ne signifie pas devenir expert de tous les logiciels. Votre priorité est de produire une analyse <strong>fiable, compréhensible et utile</strong>, puis d’en apporter la preuve par des projets concrets.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il être fort en maths pour devenir data analyst?",
+      "a": "<p>Vous n’avez pas nécessairement besoin d’un niveau avancé en mathématiques pour débuter. Il faut surtout être à l’aise avec les pourcentages, moyennes, médianes, évolutions, proportions et la lecture critique de graphiques. Des notions de probabilités et de statistiques deviennent utiles à mesure que les analyses se complexifient. La rigueur dans l’interprétation compte davantage que le calcul mental.</p>"
+    },
+    {
+      "q": "Peut-on devenir data analyst sans diplôme informatique?",
+      "a": "<p>Oui. Des profils issus du commerce, du marketing, de la finance, des sciences humaines, de la logistique ou des ressources humaines accèdent à ce métier. Vous devrez toutefois démontrer votre maîtrise pratique du socle attendu, en particulier SQL, tableur, visualisation et raisonnement analytique. Un portfolio, des projets réalisés pendant une formation et une expérience métier peuvent compenser l’absence de diplôme informatique.</p>"
+    },
+    {
+      "q": "Quel langage apprendre en premier entre SQL et Python?",
+      "a": "<p>Commencez généralement par <strong>SQL</strong>. C’est l’outil le plus directement utile pour interroger des bases de données et il est fréquemment demandé dans les postes d’analyste. Apprenez ensuite Python si vous visez l’automatisation, l’analyse de fichiers volumineux, des traitements répétitifs ou des environnements plus techniques. Un bon niveau de SQL est souvent plus rentable au début qu’un niveau très superficiel dans plusieurs langages.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour se reconvertir en data analyst?",
+      "a": "<p>La durée dépend de votre disponibilité, de vos acquis et de l’intensité de la formation. Avec un travail régulier, quelques mois peuvent suffire à bâtir les fondamentaux et un portfolio débutant. Une reconversion solide demande souvent plus de temps, notamment pour pratiquer, comprendre les enjeux métier et préparer les entretiens. Ne mesurez pas uniquement le temps de cours: les projets personnels et les corrections d’erreurs sont une part essentielle de l’apprentissage.</p>"
+    },
+    {
+      "q": "Quels projets mettre dans un portfolio de data analyst?",
+      "a": "<p>Choisissez des projets qui montrent des compétences complémentaires: une extraction et analyse SQL, un nettoyage de données dans un tableur ou en Python, et un tableau de bord orienté décision. Par exemple, vous pouvez analyser les ventes d’une boutique fictive, la fréquentation d’un service public ou les retards de transport à partir de données ouvertes. Pour chaque projet, expliquez la question posée, la source, les traitements, les résultats, les limites et les recommandations.</p>"
+    },
+    {
+      "q": "Quel outil de visualisation choisir entre Power BI, Tableau et Looker Studio?",
+      "a": "<p>Choisissez d’abord celui qui est le plus présent dans les offres que vous ciblez. <strong>Power BI</strong> est souvent utilisé dans les organisations équipées de l’écosystème Microsoft; <strong>Tableau</strong> est apprécié pour ses possibilités de visualisation; <strong>Looker Studio</strong> peut être pratique pour des rapports connectés à certains outils web. Les principes de lisibilité, de calcul d’indicateurs et de conception d’un tableau de bord se transfèrent largement d’un outil à l’autre.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "id": 891,
+  "slug": "peut-on-avoir-un-double-nom-de-famille-en-france",
+  "title": "Peut-on avoir un double nom de famille en France ?",
+  "metaTitle": "Double nom de famille en France: règles et démarches",
+  "metaDescription": "Double nom de famille en France: règles à la naissance, choix parental, nom d’usage du conjoint et changement de nom à l’âge adulte, en pratique.",
+  "dek": "Porter les noms de ses deux parents est possible en France, mais ce n’est ni automatique ni librement modifiable sur simple demande. À la naissance, à l’âge adulte ou après un mariage, les règles et les démarches ne sont pas les mêmes.",
+  "category": "famille-education",
+  "tags": [
+    "nom de famille",
+    "état civil",
+    "filiation",
+    "mariage",
+    "démarches administratives"
+  ],
+  "keyTakeaways": [
+    "Un enfant peut recevoir le nom du père, celui de la mère ou un nom formé des deux.",
+    "Le choix du nom du premier enfant commun s’impose en principe aux suivants.",
+    "Le nom d’usage du conjoint ne change pas votre nom de famille à l’état civil.",
+    "Un adulte peut, une fois dans sa vie, choisir le nom de son père, de sa mère ou les deux par une procédure simplifiée.",
+    "L’acte de naissance reste la référence pour vérifier l’orthographe exacte de votre nom."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Oui, il est possible d’avoir un double nom de famille en France. Mais cette expression recouvre des situations très différentes: le nom transmis à un enfant, le nom que vous utilisez après un mariage ou encore un changement officiel à l’âge adulte. Comprendre cette distinction vous évitera de déposer la mauvaise demande, ou de croire qu’un nom couramment employé a automatiquement une valeur juridique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "double-nom-de-famille-definition",
+      "text": "Double nom: de quoi parle-t-on exactement?"
+    },
+    {
+      "type": "paragraph",
+      "html": "En droit français, le terme important est le <strong>nom de famille</strong>: c’est celui qui figure sur l’acte de naissance et qui suit une personne dans ses documents d’identité. Il peut être constitué du nom d’un seul parent ou de deux noms accolés, dans l’ordre retenu lors de sa transmission. C’est ce dernier cas que l’on appelle couramment un double nom de famille."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut surtout le distinguer du <strong>nom d’usage</strong>. Une personne mariée peut utiliser le nom de son époux ou de son épouse, seul ou ajouté au sien, dans sa vie quotidienne et sur certains documents. Son nom inscrit à l’état civil ne change pas pour autant. Cette différence a des conséquences concrètes pour une succession, un diplôme, un contrat, une demande de titre d’identité ou la transmission du nom à un enfant."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales situations dans lesquelles un double nom peut apparaître",
+      "headers": [
+        "Situation",
+        "Effet sur le nom légal",
+        "Démarche ou règle principale"
+      ],
+      "rows": [
+        [
+          "Choix à la naissance d’un enfant",
+          "Oui, le double nom devient son nom de famille",
+          "Déclaration conjointe des parents lors de l’établissement de la filiation"
+        ],
+        [
+          "Mariage et nom du conjoint",
+          "Non, il s’agit d’un nom d’usage",
+          "Utilisation facultative, souvent sur présentation d’un justificatif de mariage"
+        ],
+        [
+          "Choix d’un adulte entre les noms de ses parents",
+          "Oui, après enregistrement à l’état civil",
+          "Procédure simplifiée possible une fois dans la vie, sous conditions"
+        ],
+        [
+          "Changement pour un autre motif",
+          "Oui, si la demande est acceptée",
+          "Il faut démontrer un intérêt légitime dans une procédure distincte"
+        ],
+        [
+          "Adoption",
+          "Selon le type d’adoption et la décision applicable",
+          "Règles particulières liées à la filiation adoptive"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point décisif",
+      "html": "<p>Un nom utilisé au travail, à l’école ou sur les réseaux sociaux ne devient pas un nom de famille parce qu’il est largement employé. Seule une modification inscrite à l’état civil produit cet effet.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-nom-enfant-naissance",
+      "text": "À la naissance: les parents peuvent-ils choisir deux noms?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la filiation est établie à l’égard des deux parents au moment de la naissance, ceux-ci peuvent choisir, par déclaration conjointe, de transmettre à leur enfant le nom du père, le nom de la mère ou les deux noms accolés dans l’ordre qu’ils souhaitent. Le mariage des parents ne donne pas davantage de droits sur ce point: les mêmes grandes possibilités existent pour des parents mariés, pacsés ou non mariés, dès lors que la filiation est établie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix doit être fait avec soin. En principe, chaque parent ne peut transmettre qu’un seul nom. Si l’un d’eux porte lui-même un nom comportant plusieurs éléments, il ne peut pas nécessairement les transmettre tous à son enfant. La situation doit être appréciée à partir de son propre acte de naissance: un nom composé ancien et un double nom issu d’une transmission récente ne répondent pas toujours aux mêmes règles."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Nom du père:</strong> l’enfant porte uniquement le nom transmis par son père.",
+        "<strong>Nom de la mère:</strong> l’enfant porte uniquement le nom transmis par sa mère.",
+        "<strong>Double nom:</strong> l’enfant porte un nom de chaque parent, dans l’ordre choisi par eux.",
+        "<strong>Un choix durable:</strong> le nom retenu pour le premier enfant commun vaut, en principe, pour les enfants suivants du même couple."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 nom",
+          "label": "pouvant en principe être transmis par chacun des parents"
+        },
+        {
+          "value": "2 parents",
+          "label": "dont les noms peuvent être accolés pour former le nom de l’enfant"
+        },
+        {
+          "value": "13 ans",
+          "label": "âge à partir duquel l’accord personnel de l’enfant est requis dans plusieurs démarches touchant à son nom"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Avant la déclaration de naissance",
+      "html": "<p>Mettez-vous d’accord sur le nom avant le rendez-vous à la mairie. Comparez les orthographes exactes figurant sur vos actes de naissance, notamment les traits d’union, particules et éventuels éléments multiples.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "absence-accord-reconnaissance-tardive",
+      "text": "Que se passe-t-il en l’absence d’accord ou en cas de reconnaissance tardive?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si les deux filiations sont établies simultanément mais qu’aucune déclaration conjointe de choix de nom n’est faite, l’enfant porte en principe le nom du père. Toutefois, un désaccord peut être signalé selon les formes prévues auprès de l’officier de l’état civil: dans ce cas, le nom de l’enfant est alors composé des noms des deux parents placés par ordre alphabétique, dans la limite d’un nom pour chacun."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre cas fréquent: la mère est désignée dès la naissance, puis le père reconnaît l’enfant plus tard. L’enfant porte alors d’abord le nom du parent à l’égard duquel la filiation a été établie en premier. Les parents peuvent ensuite, pendant la minorité de l’enfant, effectuer une déclaration conjointe pour choisir le nom du père, celui de la mère ou leurs deux noms. À partir de 13 ans, l’accord écrit de l’enfant est indispensable."
+    },
+    {
+      "type": "compare",
+      "title": "Double nom choisi ou double nom imposé par le désaccord: ce qui change",
+      "a": {
+        "title": "Parents d’accord",
+        "points": [
+          "Ils choisissent le nom du père, de la mère ou les deux noms.",
+          "Ils choisissent aussi l’ordre des deux noms.",
+          "La déclaration conjointe doit accompagner les formalités d’état civil."
+        ]
+      },
+      "b": {
+        "title": "Désaccord signalé",
+        "points": [
+          "L’enfant reçoit les noms des deux parents.",
+          "L’ordre alphabétique s’applique, et non la préférence de l’un des parents.",
+          "Il est préférable de se renseigner très tôt auprès de la mairie sur le calendrier et les justificatifs."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne supposez pas qu’un parent peut ajouter son nom seul après une séparation ou une reconnaissance tardive. Le nom de l’enfant relève de règles d’état civil précises et l’accord de l’autre parent, ou une décision adaptée, peut être nécessaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adulte-changer-nom-parents",
+      "text": "Un adulte peut-il ajouter le nom de sa mère ou de son père?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oui. Un majeur peut recourir à une procédure simplifiée pour choisir de porter le nom de son père, celui de sa mère ou leurs deux noms accolés dans l’ordre souhaité. Cette possibilité est particulièrement utile pour une personne qui ne porte que le nom d’un parent et souhaite faire apparaître l’autre dans son identité officielle. Il ne s’agit pas d’un simple nom d’usage: lorsque la démarche aboutit, le changement est inscrit à l’état civil."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette voie est encadrée. Elle est réservée au choix entre les noms liés à votre filiation et ne permet pas d’inventer un nouveau nom, de reprendre librement le nom d’un grand-parent ou d’ajouter le nom d’un beau-parent. Elle ne peut être utilisée qu’<strong>une fois dans la vie</strong>. La demande se fait auprès de l’officier de l’état civil compétent, généralement à la mairie de votre lieu de résidence ou de naissance, avec les pièces demandées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la déclaration, un délai de réflexion est prévu avant la confirmation personnelle de votre choix. Une fois le changement enregistré, il faut demander de nouveaux titres et prévenir les organismes concernés. Pour une personne mineure, pour un nom qui ne provient pas directement d’un parent ou pour une situation familiale complexe, la procédure simplifiée ne suffit pas toujours: un changement de nom pour intérêt légitime peut alors devoir être étudié."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Délai à anticiper",
+      "html": "<p>La confirmation de la déclaration de changement de nom ne peut pas intervenir immédiatement: un délai minimal d’un mois est prévu. Ajoutez ensuite le temps nécessaire au renouvellement de vos papiers et à la mise à jour de vos dossiers.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mariage-nom-usage-conjoint",
+      "text": "Après un mariage: le double nom est-il officiel?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mariage ne modifie pas votre nom de famille. Chaque époux conserve celui qu’il portait avant l’union. En revanche, chacun peut utiliser le nom de l’autre comme nom d’usage: par substitution, en l’employant seul dans la vie courante, ou par adjonction, en l’ajoutant à son propre nom. Cette faculté concerne autant les femmes que les hommes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un nom d’usage peut apparaître sur certains documents administratifs, notamment si vous le demandez et fournissez le justificatif requis. Mais votre acte de naissance, votre état civil, votre signature sur certains actes juridiques et la transmission de votre nom aux enfants restent régis par votre nom de famille. En cas de divorce, l’usage du nom de l’ex-conjoint cesse en principe, sauf accord de celui-ci ou autorisation du juge en raison d’un intérêt particulier."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vous pouvez faire figurer votre nom d’usage sur certains titres, mais il ne remplace pas votre nom de famille.",
+        "Vous ne transmettez pas automatiquement votre nom d’usage à vos enfants.",
+        "Une banque, un employeur ou une école peut demander un justificatif pour faire apparaître ce nom dans ses dossiers.",
+        "Le choix d’un nom d’usage ne nécessite pas de changement d’acte de naissance."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "noms-composes-adoption-orthographe",
+      "text": "Noms composés, adoption et orthographe: les cas qui demandent de la vigilance"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un nom comportant deux éléments n’est pas automatiquement un double nom au sens de la transmission contemporaine. Certains noms composés sont portés comme un ensemble indivisible depuis plusieurs générations; d’autres résultent de l’accolement des noms de deux parents. Cette nuance peut déterminer ce qu’un parent est autorisé à transmettre à son enfant. Ne vous fiez donc pas seulement à la façon dont le nom est écrit sur une carte de visite ou dans une base informatique."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’adoption obéit également à ses propres mécanismes. Dans l’adoption simple, le nom de l’adoptant peut être ajouté ou se substituer au nom d’origine selon la décision applicable. Dans l’adoption plénière, la nouvelle filiation entraîne des règles de nom proches de celles de la filiation habituelle. Si plusieurs parents, un nom composé ou une adoption sont en jeu, demandez un examen précis de votre dossier à la mairie ou à un professionnel du droit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, les séparateurs peuvent prêter à confusion. Des logiciels affichent parfois différemment les espaces ou traits d’union, surtout pour les noms à plusieurs éléments. La référence n’est ni la présentation d’un billet de train ni celle d’un formulaire en ligne: c’est la copie intégrale ou l’extrait de votre <strong>acte de naissance</strong>. En cas d’erreur sur un titre, réclamez une correction plutôt que d’adopter vous-même une autre orthographe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "consequences-documents-vie-quotidienne",
+      "text": "Quels documents mettre à jour après un changement légal?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un changement officiel de nom ne met pas instantanément à jour tous vos dossiers. Dès que vous disposez des justificatifs d’état civil, renouvelez vos documents d’identité et alignez progressivement vos comptes et contrats. Cela limite les difficultés lors d’un voyage, d’un achat immobilier, d’un examen, d’une succession ou d’un contrôle d’identité."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>À traiter en priorité:</strong> carte nationale d’identité, passeport, permis de conduire, carte Vitale et dossier de sécurité sociale.",
+        "<strong>À prévenir ensuite:</strong> banque, assurance, employeur, établissement scolaire ou universitaire, mutuelle, caisse de retraite et fournisseurs.",
+        "<strong>À conserver:</strong> la décision ou les actes établissant le changement, utiles pour relier vos anciens diplômes, contrats et relevés à votre nouvelle identité.",
+        "<strong>Pour les voyages:</strong> vérifiez que le nom du billet correspond exactement à celui du titre utilisé pour voyager."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne modifiez pas vos formulaires vous-même",
+      "html": "<p>Ajouter un second nom dans un espace libre d’un compte client ne constitue pas un changement d’identité. Cela peut au contraire créer des écarts entre vos contrats, vos moyens de paiement et vos pièces officielles.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-bonne-demarche",
+      "text": "Choisir la bonne démarche, dès maintenant"
+    },
+    {
+      "type": "paragraph",
+      "html": "La bonne question n’est pas seulement « puis-je avoir deux noms? », mais <strong>dans quel cadre voulez-vous les porter?</strong> Pour un enfant à naître, l’anticipation entre parents est essentielle. Pour un adulte, il faut distinguer le choix du nom de ses parents, qui peut relever de la procédure simplifiée, d’une demande plus atypique nécessitant un intérêt légitime. Pour un conjoint marié, le nom d’usage est souvent la solution suffisante si l’objectif est uniquement pratique ou professionnel."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Vérifiez votre situation d’état civil",
+          "html": "Demandez ou consultez une copie de votre acte de naissance. Relevez l’orthographe complète du nom et la façon dont votre filiation est établie."
+        },
+        {
+          "title": "Définissez votre objectif réel",
+          "html": "Souhaitez-vous transmettre un nom à un enfant, utiliser le nom de votre conjoint ou modifier durablement votre identité légale? Ces trois objectifs ne suivent pas la même procédure."
+        },
+        {
+          "title": "Préparez les justificatifs avant le rendez-vous",
+          "html": "Réunissez les actes de naissance utiles, une pièce d’identité et, selon le cas, les justificatifs de mariage, de filiation ou de domicile demandés par la mairie."
+        },
+        {
+          "title": "Faites confirmer le bon circuit",
+          "html": "Contactez l’officier de l’état civil compétent avant de déposer le dossier, surtout en présence d’une reconnaissance tardive, d’une adoption, d’un désaccord parental ou d’un nom à plusieurs éléments."
+        },
+        {
+          "title": "Mettez vos titres à jour après l’enregistrement",
+          "html": "Une fois le changement légal acté, renouvelez vos documents prioritaires et conservez les preuves du lien entre votre ancienne et votre nouvelle identité."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant toute démarche",
+      "html": "<p>Le double nom est un droit possible, mais son obtention dépend de votre situation: naissance, filiation ultérieure, mariage ou changement de nom. L’acte de naissance et la mairie compétente sont vos deux premiers repères.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on donner un double nom à son enfant si les parents ne sont pas mariés?",
+      "a": "<p>Oui. Le mariage n’est pas une condition pour choisir un double nom. L’élément déterminant est l’établissement de la filiation à l’égard des deux parents. Si elle est établie au moment de la naissance, les parents peuvent faire une déclaration conjointe pour choisir le nom du père, de la mère ou les deux noms accolés.</p>"
+    },
+    {
+      "q": "Peut-on choisir l’ordre des deux noms de famille de son enfant?",
+      "a": "<p>Oui, lorsque les parents sont d’accord et effectuent une déclaration conjointe, ils choisissent l’ordre des noms. En revanche, si un désaccord est signalé dans les formes prévues, les deux noms sont attribués dans l’ordre alphabétique. Ce détail doit être réglé avant l’enregistrement de l’acte de naissance.</p>"
+    },
+    {
+      "q": "Puis-je ajouter le nom de ma mère à mon nom de famille à 30 ans?",
+      "a": "<p>Oui, un majeur peut en principe choisir de porter le nom de sa mère, celui de son père ou les deux noms accolés, à condition qu’ils correspondent à sa filiation. Cette procédure simplifiée de changement de nom est utilisable une seule fois dans la vie et comporte un délai de confirmation après la déclaration.</p>"
+    },
+    {
+      "q": "Le nom de mon mari ou de ma femme devient-il automatiquement mon deuxième nom?",
+      "a": "<p>Non. Le mariage vous donne la possibilité d’utiliser le nom de votre conjoint comme nom d’usage, seul ou associé au vôtre, mais votre nom de famille à l’état civil demeure inchangé. Vous pouvez demander à faire apparaître ce nom d’usage sur certains documents, sans qu’il devienne votre nom légal.</p>"
+    },
+    {
+      "q": "Un enfant de 13 ans doit-il être d’accord pour changer de nom?",
+      "a": "<p>Oui, dans les démarches concernant le nom d’un mineur où la loi prévoit une modification, l’accord personnel de l’enfant âgé de plus de 13 ans est requis. Cet accord ne se remplace pas par le seul consentement des parents: il doit être recueilli dans le dossier.</p>"
+    },
+    {
+      "q": "Peut-on donner quatre noms à un enfant si les deux parents ont déjà un double nom?",
+      "a": "<p>En règle générale, non. La transmission est limitée à un nom par parent. Lorsqu’un parent porte lui-même un nom comportant plusieurs éléments, il doit souvent choisir celui qu’il transmettra. Toutefois, la qualification exacte d’un nom composé ou d’un nom issu d’une double transmission dépend des actes d’état civil: faites vérifier votre situation par la mairie avant la déclaration de naissance.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

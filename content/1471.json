@@ -1,0 +1,357 @@
+{
+  "id": 1471,
+  "slug": "quand-greffer-un-figuier-guide-pratique",
+  "title": "Quand greffer un figuier : guide pratique",
+  "metaTitle": "Quand greffer un figuier: période et méthode",
+  "metaDescription": "Découvrez quand greffer un figuier selon votre climat, quelle technique choisir et les gestes clés pour favoriser une reprise durable.",
+  "dek": "La greffe permet de changer de variété, de rajeunir un figuier ou de réunir plusieurs figues sur un même arbre. Son succès dépend surtout du calendrier, de l’état de la sève et d’une mise en œuvre très propre.",
+  "category": "nature-animaux",
+  "tags": [
+    "figuier",
+    "greffage",
+    "jardinage",
+    "arbres fruitiers",
+    "greffon"
+  ],
+  "keyTakeaways": [
+    "Greffez surtout au printemps, au redémarrage de la végétation et hors période de gel.",
+    "Prélevez les greffons en hiver sur du bois sain d’un an, avant le débourrement.",
+    "La greffe en fente convient bien pour changer une variété; l’écussonnage se pratique plutôt en été.",
+    "Un bon contact des cambiums, une ligature étanche et un suivi des rejets font la différence.",
+    "Pour multiplier simplement un figuier, le bouturage est souvent plus facile que le greffage."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Greffer un figuier n’est pas indispensable pour obtenir un arbre fruitier: il se bouture même très facilement. En revanche, c’est une solution intéressante pour changer une variété décevante, conserver un figuier ancien ou créer un arbre portant plusieurs variétés. Le bon moment dépend de la technique choisie, mais le principe reste le même: intervenir lorsque l’arbre peut cicatriser, sans l’exposer au gel ni à une forte sécheresse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-greffer-un-figuier",
+      "text": "Pourquoi greffer un figuier plutôt que le bouturer?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le figuier commun, <em>Ficus carica</em>, se multiplie généralement très bien par bouture ligneuse. Si votre objectif est seulement d’obtenir un nouveau plant identique à un figuier apprécié, cette méthode est plus simple, moins technique et souvent plus économique. La greffe répond à un autre besoin: elle associe les racines et le tronc d’un arbre installé, appelé <strong>porte-greffe</strong>, à un fragment de la variété désirée, le <strong>greffon</strong>."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Changer de variété</strong> sur un figuier déjà bien enraciné, par exemple pour remplacer une variété tardive par une variété mieux adaptée à votre région.",
+        "<strong>Conserver une variété rare ou familiale</strong> à partir de rameaux prélevés sur un arbre vieillissant.",
+        "<strong>Rajeunir la partie aérienne</strong> d’un sujet vigoureux dont les branches ont souffert du froid, d’une taille trop sévère ou d’un accident.",
+        "<strong>Obtenir plusieurs variétés sur un même arbre</strong>, à condition de rester raisonnable afin de ne pas déséquilibrer sa charpente.",
+        "<strong>Profiter d’un système racinaire déjà établi</strong>, souvent plus rapide à alimenter les nouvelles branches qu’un jeune plant."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Un figuier greffé ne devient pas automatiquement plus résistant au froid, aux maladies ou à la sécheresse. Ces qualités dépendent largement du porte-greffe, du sol, de l’exposition et de la variété choisie. Pour un jardin familial, choisissez d’abord une variété adaptée à votre climat.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "meilleure-periode-pour-greffer",
+      "text": "La meilleure période: le printemps, au redémarrage de la sève"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la plupart des greffes de figuier, la fenêtre la plus sûre se situe <strong>de la fin de l’hiver au début du printemps</strong>, quand les fortes gelées sont passées et que les bourgeons du porte-greffe commencent à gonfler. À ce stade, la sève remonte, les tissus cicatrisent activement et l’écorce devient plus facile à travailler. Selon votre région et l’année, cela peut correspondre à février-mars sur le littoral méditerranéen, à mars-avril dans beaucoup de régions tempérées, et parfois à avril dans les zones d’altitude ou les jardins très froids."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne vous fiez donc pas uniquement au calendrier. Observez votre arbre: les bourgeons doivent sortir de leur repos sans que les jeunes feuilles soient déjà très développées. Choisissez une journée sèche, douce, sans vent fort, idéalement avec quelques jours sans gel annoncé. Le porte-greffe doit être en bonne santé et suffisamment vigoureux; un arbre affaibli par une transplantation récente, un manque d’eau ou une maladie récupérera mal."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "2 à 4 semaines",
+          "label": "fenêtre printanière souvent favorable, selon le climat local et l’avancée des bourgeons"
+        },
+        {
+          "value": "10 à 15 cm",
+          "label": "longueur pratique d’un greffon portant généralement 2 ou 3 bourgeons"
+        },
+        {
+          "value": "3 à 8 semaines",
+          "label": "délai habituel pour juger le départ des bourgeons et la prise initiale"
+        },
+        {
+          "value": "1 à 3 cm",
+          "label": "diamètre confortable pour une greffe anglaise sur jeune rameau ou jeune plant"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au faux bon moment",
+      "html": "<p>Ne greffez pas juste avant une gelée annoncée, pendant un épisode pluvieux durable ou au cœur d’une vague de chaleur. Le froid peut détruire les tissus en cours de soudure; l’humidité favorise les contaminations; la chaleur dessèche rapidement le greffon.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calendrier-selon-technique",
+      "text": "Quel calendrier selon la technique de greffe?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une seule date de greffage, car chaque technique exploite un état physiologique différent de l’arbre. Les greffes de rameaux se font principalement au printemps avec des greffons encore dormants. Les greffes par bourgeon, elles, se tentent plutôt l’été, lorsque l’écorce se soulève facilement et que la croissance est active mais moins explosive."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de calendrier pour greffer un figuier",
+      "headers": [
+        "Technique",
+        "Période la plus adaptée",
+        "Pour quel usage?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Greffe en fente",
+          "Fin d’hiver à début de printemps, hors gel",
+          "Changer une variété sur une branche ou un tronc déjà formé",
+          "Ne pas fendre un bois trop gros ou fragilisé"
+        ],
+        [
+          "Greffe anglaise simple ou compliquée",
+          "Fin d’hiver-début de printemps",
+          "Jeunes plants et rameaux de diamètres proches",
+          "L’alignement précis des cambiums est indispensable"
+        ],
+        [
+          "Greffe sous écorce",
+          "Printemps, lorsque l’écorce se décolle sans forcer",
+          "Recéper un arbre installé et y introduire une nouvelle variété",
+          "Réservée aux porte-greffes bien vigoureux"
+        ],
+        [
+          "Écussonnage ou chip-budding",
+          "Fin d’été, selon la vigueur et le climat",
+          "Introduire une variété sur un jeune rameau",
+          "Le bourgeon peut rester dormant jusqu’au printemps suivant"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Printemps ou fin d’été: quelle option choisir?",
+      "a": {
+        "title": "Greffer au printemps",
+        "points": [
+          "Le choix le plus accessible pour une greffe en fente, anglaise ou sous écorce.",
+          "La reprise est visible assez vite grâce au débourrement du greffon.",
+          "Adapté pour transformer un figuier adulte ou greffer un jeune porte-greffe.",
+          "Exige une protection attentive contre les dernières gelées."
+        ]
+      },
+      "b": {
+        "title": "Greffer en fin d’été",
+        "points": [
+          "Convient surtout aux greffes par bourgeon sur rameaux jeunes et sains.",
+          "Le bourgeon peut souder avant l’hiver puis démarrer au printemps suivant.",
+          "Évite parfois les aléas des gelées tardives, mais demande un arbre encore bien en sève.",
+          "À éviter en cas de sécheresse durable ou dans les régions où l’automne arrive vite."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-porte-greffe-et-greffon",
+      "text": "Choisir un porte-greffe et un greffon compatibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "La compatibilité est la première condition de réussite. Pour un figuier destiné au jardin, greffez de préférence un <strong>figuier commun sur un autre figuier commun</strong>. Un semis de figuier, un rejet vigoureux ou un arbre en place peut servir de porte-greffe s’il est sain et adapté à votre sol. N’essayez pas de greffer un figuier sur un mûrier, un olivier, une vigne ou un autre arbre fruitier: malgré certaines idées reçues, ces végétaux ne sont pas compatibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le greffon doit venir d’un rameau de l’année précédente: brun, bien aoûté, sans blessure, sans chancres, sans cochenilles ni traces de dépérissement. Prélevez-le idéalement pendant le repos végétatif, avant l’ouverture des bourgeons. Coupez des segments droits portant deux ou trois yeux, étiquetez chaque variété sans attendre, puis gardez-les au frais jusqu’au jour de la greffe. Enveloppez-les dans un papier à peine humide et placez-les dans un sachet non hermétique au réfrigérateur, à l’écart des fruits très mûrs. Vérifiez régulièrement qu’ils ne moisissent pas et qu’ils ne se dessèchent pas."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil de provenance",
+      "html": "<p>Prenez vos greffons sur un arbre identifié, productif et manifestement sain. Évitez les échanges de rameaux d’origine inconnue: le greffage peut diffuser des viroses ou des ravageurs invisibles au moment du prélèvement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "technique-simple-greffe-en-fente",
+      "text": "La greffe en fente: une méthode simple pour changer de variété"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un figuier déjà installé, la greffe en fente est l’une des techniques les plus accessibles. Elle convient quand le porte-greffe est plus large que le greffon, par exemple après avoir raccourci une branche charpentière. L’objectif n’est pas de faire coïncider tout le diamètre des deux morceaux: il faut surtout mettre en contact, au moins d’un côté, les fines zones génératrices situées juste sous l’écorce, appelées cambiums."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez un matériel propre et tranchant",
+          "html": "Munissez-vous d’un sécateur, d’un greffoir ou couteau très affûté, d’un outil pour fendre, de lien de greffage et éventuellement de mastic. Nettoyez puis désinfectez les lames avant l’opération et entre deux arbres."
+        },
+        {
+          "title": "Rabattez le porte-greffe",
+          "html": "Choisissez une branche saine et vigoureuse. Faites une coupe nette, plane, sans écraser le bois. Sur un arbre adulte, ne transformez pas toute la charpente en une seule fois: gardez des branches nourricières pour éviter un choc trop brutal."
+        },
+        {
+          "title": "Réalisez une fente mesurée",
+          "html": "Fendez le centre de la coupe sur quelques centimètres seulement. N’ouvrez pas excessivement le bois: une fente trop profonde fragilise la branche et cicatrise moins bien."
+        },
+        {
+          "title": "Taillez le greffon en coin",
+          "html": "Préparez sa base en double biseau, avec deux faces nettes et assez longues. Gardez deux ou trois bourgeons au-dessus de la zone taillée. Ne touchez pas les surfaces fraîches avec les doigts."
+        },
+        {
+          "title": "Positionnez les cambiums",
+          "html": "Insérez un ou deux greffons dans la fente. Décalez-les légèrement vers le bord si leurs diamètres diffèrent, afin que le cambium du greffon coïncide avec celui du porte-greffe sur au moins un côté."
+        },
+        {
+          "title": "Ligaturez et protégez",
+          "html": "Refermez fermement avec un lien adapté, puis protégez les plaies exposées si nécessaire avec un mastic horticole compatible. Le but est d’empêcher le dessèchement tout en maintenant les pièces immobiles."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le geste décisif",
+      "html": "<p>La réussite ne tient pas à la quantité de mastic ni à la force de la ligature: elle repose d’abord sur une coupe nette et sur le contact stable des cambiums. Si le greffon bouge au vent, la soudure peut échouer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "soins-apres-greffage",
+      "text": "Après la greffe: les soins qui favorisent la reprise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les premières semaines, surveillez votre greffe sans la manipuler sans cesse. Un greffon qui reste souple et dont les bourgeons gonflent est un signe encourageant. À l’inverse, un rameau brun, sec et ratatiné a peu de chances de repartir. La soudure demande de l’énergie: arrosez modérément en cas de sol très sec, sans détremper la terre, et évitez tout apport excessif d’engrais azoté qui pousserait le porte-greffe à produire des rejets vigoureux."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Supprimez régulièrement les pousses qui apparaissent <strong>sous le point de greffe</strong>: elles détournent la sève au profit du porte-greffe.",
+        "Conservez d’abord une ou deux pousses bien placées sur chaque greffon, puis sélectionnez la plus solide pour former la future branche.",
+        "Protégez les jeunes pousses du vent avec un tuteur si elles sont longues et tendres.",
+        "Contrôlez le lien après la reprise: desserrez-le ou retirez-le avant qu’il n’étrangle l’écorce en grossissant.",
+        "Protégez la greffe d’un retour de froid avec un voile temporaire, sans enfermer durablement les tissus dans l’humidité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "erreurs-frequentes",
+      "text": "Les erreurs fréquentes qui font échouer une greffe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un échec n’est pas forcément lié à votre dextérité. Le figuier produit un latex blanc au niveau des plaies, et ses tissus peuvent sécher vite si l’air est chaud. Cela rend la rapidité, la propreté et la protection des coupes particulièrement importantes. Réessayez à la saison suivante plutôt que de multiplier les interventions sur le même arbre au hasard."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Prélever un greffon déjà en feuilles:</strong> il perd beaucoup d’eau et reprend difficilement. Préférez un bois dormant pour les greffes de printemps.",
+        "<strong>Utiliser un greffon ou un porte-greffe malade:</strong> le greffage ne corrige pas un problème sanitaire et peut le propager.",
+        "<strong>Oublier l’alignement des cambiums:</strong> deux morceaux de bois qui se touchent ne suffisent pas à créer une soudure vivante.",
+        "<strong>Greffer trop tôt:</strong> le gel peut compromettre la reprise, même si la pose semblait parfaite.",
+        "<strong>Tout rabattre sur un arbre ancien:</strong> un recépage brutal épuise parfois le figuier et génère une masse de rejets difficiles à gérer.",
+        "<strong>Laisser le lien trop longtemps:</strong> il peut marquer ou étrangler la future branche."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "materiel-budget-et-plan-action",
+      "text": "Matériel, budget et plan d’action pour vous lancer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin d’un équipement coûteux. Un sécateur entretenu, un greffoir bien affûté, un lien souple et un produit de désinfection suffisent pour débuter. Comptez souvent une dizaine à quelques dizaines d’euros pour un petit kit si vous n’avez aucun outil; un greffoir de bonne qualité et des liens de greffage réutilisables ou biodégradables peuvent faire monter légèrement le budget. Le mastic est utile sur les grosses coupes exposées, mais il ne remplace jamais une greffe bien ajustée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Cet hiver",
+          "html": "Repérez la variété que vous souhaitez conserver et prélevez des rameaux sains d’un an avant le débourrement. Étiquetez-les et conservez-les au frais."
+        },
+        {
+          "title": "À la fin des gelées",
+          "html": "Examinez le porte-greffe: il doit être sain, vigoureux et commencer à se réveiller. Préparez votre matériel à l’avance pour travailler vite."
+        },
+        {
+          "title": "Au bon créneau printanier",
+          "html": "Choisissez une greffe en fente si vous transformez une branche installée, ou une greffe anglaise si les diamètres sont proches sur un jeune plant."
+        },
+        {
+          "title": "Pendant les deux mois suivants",
+          "html": "Surveillez l’humidité du sol, retirez les rejets sous la greffe, tuteurez les pousses fragiles et vérifiez la ligature."
+        },
+        {
+          "title": "L’hiver suivant",
+          "html": "Taillez avec modération pour sélectionner une charpente équilibrée. Ne cherchez pas une production abondante immédiate: privilégiez d’abord la formation d’une branche solide."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-au-bon-moment",
+      "text": "À retenir: observez votre figuier avant de sortir le greffoir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour greffer un figuier avec de bonnes chances de réussite, visez le début du printemps, après le risque de fortes gelées et au moment où le porte-greffe redémarre. Préparez des greffons dormants, choisissez une technique adaptée au diamètre du bois et soignez surtout l’ajustement des cambiums. Si vous hésitez, entraînez-vous d’abord sur de jeunes rameaux ou réalisez une seule greffe sur une branche secondaire: vous préserverez l’arbre tout en acquérant le geste."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Votre décision en une phrase",
+      "html": "<p>Vous voulez simplement reproduire un figuier? Bouturez-le en hiver. Vous voulez remplacer ou ajouter une variété sur un arbre existant? Préparez vos greffons en hiver et greffez au redémarrage printanier.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on greffer un figuier en mars?",
+      "a": "<p>Oui, mars est souvent un très bon mois dans de nombreuses régions françaises, à condition que les fortes gelées soient terminées et que le porte-greffe commence à sortir de son repos. En climat doux, la fenêtre peut commencer plus tôt; dans les zones froides, attendez plutôt avril. Observez les bourgeons et la météo locale plutôt que de suivre une date fixe.</p>"
+    },
+    {
+      "q": "Peut-on greffer un figuier en été?",
+      "a": "<p>Oui, mais plutôt avec une technique par bourgeon, comme l’écussonnage ou le chip-budding, sur un arbre encore en croissance et bien arrosé si nécessaire. Évitez les périodes de canicule ou de sécheresse. Une greffe réalisée en fin d’été peut cicatriser avant l’hiver, tandis que le bourgeon greffé ne se développera parfois qu’au printemps suivant.</p>"
+    },
+    {
+      "q": "Quel porte-greffe utiliser pour un figuier?",
+      "a": "<p>Le choix le plus fiable est un autre figuier commun, <em>Ficus carica</em>, sain et bien adapté à votre terrain. Il peut s’agir d’un semis, d’un jeune plant ou d’un figuier déjà en place que vous souhaitez transformer. Les greffes sur des espèces éloignées, comme le mûrier ou l’olivier, ne sont pas des solutions viables.</p>"
+    },
+    {
+      "q": "Quand prélever les greffons de figuier?",
+      "a": "<p>Pour une greffe de printemps, prélevez-les généralement en plein repos végétatif, entre le début de l’hiver et la fin de l’hiver selon votre région, avant le gonflement des bourgeons. Choisissez des rameaux sains d’un an, étiquetez-les et gardez-les au frais dans un papier légèrement humide, sans excès d’eau.</p>"
+    },
+    {
+      "q": "Pourquoi ma greffe de figuier ne repart-elle pas?",
+      "a": "<p>Les causes les plus courantes sont un greffon desséché ou déjà réveillé, un mauvais contact entre les cambiums, une greffe faite trop tôt avant un coup de gel, une ligature insuffisante ou des rejets du porte-greffe laissés en concurrence. Un arbre affaibli, un outil mal désinfecté ou des coupes écrasées peuvent aussi compromettre la soudure.</p>"
+    },
+    {
+      "q": "Au bout de combien de temps un figuier greffé donne-t-il des figues?",
+      "a": "<p>La reprise des bourgeons peut être visible en quelques semaines, mais la mise à fruit dépend de la vigueur de l’arbre, de la variété, du climat et de la taille. Sur un porte-greffe bien établi, une branche greffée peut évoluer assez vite, mais il est préférable de privilégier sa formation la première année. Une production plus régulière s’installe lorsque la nouvelle charpente est suffisamment solide.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

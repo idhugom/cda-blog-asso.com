@@ -1,0 +1,333 @@
+{
+  "id": 1712,
+  "slug": "comment-creer-un-groupe-electrogene-etape-par-etape",
+  "title": "Comment créer un groupe électrogène étape par étape",
+  "metaTitle": "Créer un groupe électrogène: le guide étape par étape",
+  "metaDescription": "Créer un groupe électrogène en sécurité: choix du moteur et de l’alternateur, assemblage, protections, essais et raccordement sécurisé de votre logement.",
+  "dek": "Assembler un groupe électrogène est possible à partir de composants compatibles, mais ce projet mêle mécanique, carburant et électricité à risque. Voici comment le dimensionner, l’assembler avec méthode et, surtout, l’utiliser sans mettre en danger votre logement ni les personnes.",
+  "category": "tech-objets",
+  "tags": [
+    "groupe électrogène",
+    "électricité",
+    "bricolage",
+    "autonomie",
+    "sécurité électrique"
+  ],
+  "keyTakeaways": [
+    "Un groupe maison fiable se conçoit autour d’un moteur et d’un alternateur parfaitement compatibles.",
+    "Calculez la puissance de démarrage des appareils, pas seulement leur consommation indiquée.",
+    "N’alimentez jamais une maison en branchant le groupe sur une prise murale.",
+    "Le montage mécanique, les protections électriques et les essais sous charge doivent être traités séparément.",
+    "Un groupe prêt à l’emploi est souvent plus économique et plus sûr pour un besoin occasionnel."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Construire son propre groupe électrogène peut répondre à un besoin d’autonomie, de secours ou d’alimentation sur un terrain isolé. Le projet ne consiste pas à relier deux pièces au hasard: il faut associer un moteur thermique, un alternateur, une régulation et des protections adaptées. Ce guide vous aide à décider si l’assemblage est pertinent, puis à avancer étape par étape sans improviser sur les points dangereux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-vous-allez-construire",
+      "text": "Comprendre ce que vous allez construire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un groupe électrogène transforme l’énergie mécanique d’un moteur en électricité grâce à un alternateur. Dans sa forme la plus courante, un moteur essence ou diesel entraîne une tête d’alternateur à vitesse stabilisée; un régulateur de tension, souvent appelé AVR, aide ensuite à maintenir une sortie utilisable pour les appareils."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le projet réaliste pour un bricoleur expérimenté n’est pas de fabriquer un alternateur à partir de bobinages artisanaux. Il s’agit plutôt d’<strong>assembler des composants conçus pour fonctionner ensemble</strong>: moteur, alternateur, accouplement, châssis, tableau de sortie et organes de sécurité. Le résultat doit être stable mécaniquement, protégé électriquement et exploitable dehors sans risque d’intoxication."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas autonomie et raccordement au réseau",
+      "html": "<p>Un groupe peut alimenter des appareils via des rallonges adaptées, ou un tableau dédié équipé d’un inverseur de source. Il ne doit jamais être raccordé à une prise murale pour alimenter toute la maison: ce branchement peut renvoyer du courant vers le réseau, électrocuter des intervenants et détruire l’installation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "dimensionner-la-puissance-avant-tout-achat",
+      "text": "Dimensionner la puissance avant tout achat"
+    },
+    {
+      "type": "paragraph",
+      "html": "La puissance est le premier critère de choix. Relevez les puissances en watts des appareils qui fonctionneront réellement en même temps: éclairage, réfrigérateur, pompe, ordinateur, chauffage d’appoint ou outillage. Additionnez-les, puis tenez compte des appels de courant au démarrage. Un réfrigérateur, une pompe, un compresseur ou certains outils électriques peuvent demander bien davantage pendant quelques secondes que leur puissance de fonctionnement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les groupes sont souvent exprimés en kVA, alors que les appareils affichent des watts. La correspondance dépend notamment du type de charge et de son facteur de puissance. Pour éviter un choix trop juste, raisonnez à partir des caractéristiques du fabricant du groupe et des équipements à brancher. Prévoyez une réserve: un groupe continuellement à son maximum chauffe, consomme davantage et fournit une tension moins régulière."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~20 à 30 %",
+          "label": "de marge de puissance à prévoir en général au-dessus de la charge simultanée prévue"
+        },
+        {
+          "value": "2 à 5 fois",
+          "label": "la puissance nominale: ordre de grandeur fréquent de l’appel de démarrage de certains moteurs électriques"
+        },
+        {
+          "value": "1 500 ou 3 000 tr/min",
+          "label": "vitesses courantes d’un alternateur destiné à produire du 50 Hz, selon son nombre de pôles"
+        },
+        {
+          "value": "230 V",
+          "label": "tension monophasée recherchée pour la plupart des usages domestiques courants en France"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour choisir la puissance d’un groupe",
+      "headers": [
+        "Besoin envisagé",
+        "Exemples de charges",
+        "Puissance de groupe souvent envisagée",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Secours très limité",
+          "Éclairage, box internet, ordinateur, petit réfrigérateur",
+          "Environ 1,5 à 3 kVA",
+          "Vérifiez l’appel de démarrage du réfrigérateur"
+        ],
+        [
+          "Atelier ou chantier léger",
+          "Outillage portatif, éclairage, aspirateur de chantier",
+          "Environ 3 à 6 kVA",
+          "Évitez de démarrer plusieurs moteurs ensemble"
+        ],
+        [
+          "Pompe ou gros outil",
+          "Pompe, compresseur, bétonnière, machine motorisée",
+          "Environ 5 à 10 kVA ou davantage",
+          "Le courant de démarrage et le monophasé ou triphasé sont déterminants"
+        ],
+        [
+          "Secours de circuits domestiques",
+          "Circuits essentiels sélectionnés au tableau",
+          "À calculer cas par cas",
+          "Un inverseur de source et l’avis d’un électricien sont indispensables"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Faites une liste de secours réaliste",
+      "html": "<p>En cas de panne, n’essayez pas forcément de faire fonctionner toute la maison. Priorisez froid alimentaire, éclairage, communications, circulation d’eau si nécessaire et quelques prises utiles. Écartez les appareils très énergivores comme les radiateurs, plaques, four ou chauffe-eau.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-des-composants-compatibles",
+      "text": "Choisir des composants compatibles et sûrs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le moteur et l’alternateur forment un couple. Le régime nominal du moteur doit correspondre à celui exigé par l’alternateur pour fournir du 50 Hz. Vérifiez aussi la puissance mécanique disponible, le type d’arbre, son diamètre, le système de clavette ou de cône, le sens de rotation et le mode de fixation. Un moteur trop faible ou un accouplement approximatif produit une fréquence instable, des vibrations et une usure rapide."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Moteur thermique régulé</strong>: choisissez une puissance continue suffisante, pas seulement une puissance maximale annoncée.",
+        "<strong>Tête d’alternateur</strong>: monophasée 230 V ou triphasée selon le besoin, avec régime et puissance compatibles.",
+        "<strong>Accouplement et châssis</strong>: cloche d’accouplement ou coupleur flexible adapté, bâti rigide, silentblocs et carter de protection.",
+        "<strong>Tableau de sortie</strong>: disjoncteur correctement calibré, prises appropriées, arrêt d’urgence si prévu et protections recommandées par le constructeur.",
+        "<strong>Gestion moteur</strong>: réservoir, robinet de carburant, échappement, refroidissement, sécurité de niveau d’huile et commande d’arrêt.",
+        "<strong>Mesure et câblage</strong>: câbles de section adaptée, gaines, presse-étoupes, boîtiers fermés et instruments de contrôle fiables."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "La régulation compte autant que la puissance",
+      "html": "<p>Pour des ordinateurs, chargeurs, appareils électroniques ou équipements sensibles, recherchez une tension et une fréquence stables. Un groupe à onduleur, dit inverter, ou une solution du commerce correctement régulée est souvent préférable à un assemblage basique.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "assembler-le-groupe-etape-par-etape",
+      "text": "Assembler le groupe étape par étape"
+    },
+    {
+      "type": "paragraph",
+      "html": "Travaillez sur un établi stable, dans un espace ventilé, sans carburant ouvert à proximité. Consultez les notices des composants avant de commencer: les cotes de montage et les schémas du fabricant priment sur toute méthode générique. Si vous ne maîtrisez pas le câblage d’un tableau 230 V, confiez cette partie à un électricien qualifié."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Validez le couple moteur-alternateur",
+          "html": "Comparez les fiches techniques: régime nominal, puissance continue, arbre de sortie, fixations et sens de rotation. Achetez idéalement un ensemble moteur-tête d’alternateur prévu pour être assemblé, plutôt que des pièces d’origines incertaines."
+        },
+        {
+          "title": "Préparez un châssis rigide",
+          "html": "Installez le moteur et l’alternateur sur une base métallique stable, avec des silentblocs adaptés. Le châssis doit supporter le poids, empêcher le basculement et laisser passer l’air autour du moteur sans exposer les parties chaudes."
+        },
+        {
+          "title": "Alignez et protégez la transmission",
+          "html": "Montez l’accouplement selon les préconisations des fabricants. L’alignement axial et angulaire est essentiel: un mauvais centrage fatigue roulements et arbres. Couvrez impérativement tout accouplement, courroie ou pièce tournante avec un carter robuste avant toute mise en route."
+        },
+        {
+          "title": "Installez carburant, échappement et refroidissement",
+          "html": "Fixez le réservoir, les durites prévues pour le carburant et le silencieux sans risque de frottement ni de fuite. Gardez une distance suffisante entre l’échappement, les câbles et les éléments sensibles à la chaleur. Ne modifiez pas l’échappement au point de gêner le refroidissement du moteur."
+        },
+        {
+          "title": "Faites réaliser ou vérifiez le tableau électrique",
+          "html": "Utilisez un boîtier fermé et des composants dimensionnés pour l’intensité du groupe. Suivez exclusivement le schéma de la tête d’alternateur et des protections choisies. Les raccordements, le neutre, la terre et la compatibilité d’un différentiel ne se déterminent pas à l’intuition."
+        },
+        {
+          "title": "Contrôlez avant le premier démarrage",
+          "html": "Vérifiez le serrage mécanique, le niveau d’huile, l’absence de fuite, l’état des câbles, la fermeture des capots et la liberté de rotation. Aucune pièce électrique sous tension ou tournante ne doit rester accessible."
+        },
+        {
+          "title": "Effectuez des essais progressifs",
+          "html": "Démarrez d’abord sans appareil raccordé, à l’extérieur. Contrôlez tension et fréquence avec des instruments adaptés, puis ajoutez des charges simples par paliers. Arrêtez immédiatement en cas de vibration anormale, d’odeur de brûlé, de fumée, de chute de régime ou de disjonction répétée."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "utiliser-le-groupe-sans-danger",
+      "text": "Utiliser le groupe sans danger, surtout près d’un logement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le monoxyde de carbone issu des gaz d’échappement est invisible et potentiellement mortel. Faites toujours fonctionner un groupe thermique à l’extérieur, loin des portes, fenêtres, grilles d’aération et espaces occupés. Un garage ouvert, une cave, un abri fermé ou une véranda ne sont pas des lieux sûrs. Protégez l’appareil de la pluie sans l’enfermer: la ventilation du moteur et l’évacuation des gaz doivent rester libres."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour raccorder des appareils, utilisez des rallonges prévues pour l’extérieur, déroulées et adaptées à l’intensité. Gardez prises et connecteurs au sec. Coupez le moteur, laissez-le refroidir et éloignez toute flamme avant de faire le plein. Le carburant se stocke dans un contenant homologué, hors de portée des enfants et conformément aux consignes locales."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour alimenter des circuits du logement, il faut un <strong>inverseur de source</strong> qui isole physiquement le réseau public du groupe avant toute alimentation de secours. Un simple disjoncteur ne remplit pas ce rôle. La mise à la terre, le schéma de liaison du neutre et les protections différentielles dépendent de l’appareil et de l’installation: faites étudier ce raccordement par un professionnel."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur à bannir",
+      "html": "<p>N’utilisez jamais un câble à deux fiches mâles pour alimenter une prise de la maison. Les broches peuvent être sous tension, les protections peuvent être contournées et le courant peut repartir vers le réseau extérieur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "tester-entretenir-et-diagnostiquer",
+      "text": "Tester, entretenir et diagnostiquer votre montage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un groupe qui démarre n’est pas forcément un groupe fiable. Après les essais progressifs, observez la stabilité du régime, de la tension et de la fréquence lorsque vous ajoutez une charge. Vérifiez l’absence de desserrage, de fuite de carburant ou d’échauffement inhabituel. Si le groupe ne tient pas la charge, cherchez d’abord une surcharge, un régime moteur insuffisant, un mauvais réglage de régulation ou un défaut d’alignement, plutôt que de forcer son utilisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien suit d’abord le manuel du moteur: contrôle d’huile avant usage, remplacement de l’huile et des filtres aux échéances prévues, nettoyage du filtre à air, inspection des durites et des fixations. Le carburant vieillissant est une cause fréquente de panne; ne laissez pas un réservoir rempli pendant de longues périodes sans suivre les recommandations de stockage du fabricant."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Préparez la panne avant qu’elle arrive",
+      "html": "<p>Faites un essai périodique avec une charge modérée, dans les mêmes conditions de sécurité que lors d’une vraie coupure. Vous saurez ainsi si la batterie de démarrage, le carburant, les rallonges et les protections sont opérationnels.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-et-alternatives-au-fait-maison",
+      "text": "Budget: le fait maison est-il vraiment avantageux?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un petit montage de quelques kilovoltampères, comptez souvent plusieurs centaines d’euros rien que pour le moteur et la tête d’alternateur. Ajoutez le châssis, l’accouplement, les silentblocs, le boîtier électrique, les prises, les protections, le câblage, l’échappement et les outils manquants. Un ensemble sérieux peut ainsi atteindre environ 600 à 2 000 euros, parfois davantage selon la puissance et la qualité des composants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un groupe prêt à l’emploi de puissance comparable peut coûter moins cher qu’un assemblage, tout en offrant une garantie, un niveau sonore connu et des protections intégrées. L’assemblage garde du sens si vous avez déjà le moteur, des compétences mécaniques solides, un besoin très spécifique ou une volonté d’apprendre. Pour alimenter ponctuellement des appareils électroniques, une station d’énergie sur batterie peut aussi être plus silencieuse et utilisable en intérieur, mais elle n’offre pas la même autonomie qu’un groupe alimenté en carburant."
+    },
+    {
+      "type": "compare",
+      "title": "Assembler son groupe ou acheter un modèle prêt à l’emploi?",
+      "a": {
+        "title": "Assemblage sur mesure",
+        "points": [
+          "Permet d’adapter le châssis, le moteur et les sorties à un besoin précis.",
+          "Demande des compétences en mécanique et en électricité, ainsi que du temps d’essai.",
+          "La conformité, le bruit et la qualité finale dépendent entièrement de vos choix.",
+          "L’économie n’est pas garantie une fois tous les composants et protections achetés."
+        ]
+      },
+      "b": {
+        "title": "Groupe prêt à l’emploi",
+        "points": [
+          "Offre un appareil testé, une notice et généralement une garantie.",
+          "Simplifie le choix des protections, de la régulation et de l’insonorisation.",
+          "Reste à dimensionner correctement et à raccorder selon les règles de sécurité.",
+          "Convient mieux à un usage de secours occasionnel ou à un premier équipement."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-daction-avant-de-commencer",
+      "text": "Votre plan d’action avant de commencer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute commande, écrivez précisément votre scénario d’usage: appareils à alimenter, durée souhaitée, lieu d’utilisation, niveau sonore acceptable et mode de raccordement. Calculez ensuite la puissance avec une marge, puis choisissez un ensemble moteur-alternateur documenté et compatible. Ne validez le montage que si vous pouvez protéger les pièces en mouvement, exploiter le groupe dehors et faire contrôler la partie électrique."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Listez les appareils prioritaires et leurs puissances de démarrage.",
+        "Choisissez une puissance continue avec une marge réaliste.",
+        "Achetez des composants compatibles, documentés et adaptés au 50 Hz.",
+        "Prévoyez un tableau protégé et faites vérifier son câblage.",
+        "Si la maison doit être alimentée, faites installer un inverseur de source par un électricien."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur groupe électrogène n’est pas le plus puissant: c’est celui qui alimente les usages nécessaires, avec une tension stable, des protections adaptées et un raccordement qui ne met jamais le réseau public en danger.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on fabriquer un groupe électrogène avec un moteur de tondeuse?",
+      "a": "<p>C’est techniquement envisageable uniquement si le moteur dispose d’une puissance continue suffisante, d’une régulation de régime fiable et d’un arbre compatible avec l’alternateur choisi. Un moteur de tondeuse est souvent conçu pour un autre usage et peut être inadapté à une production électrique stable. Vérifiez impérativement les caractéristiques mécaniques et le régime avant tout montage.</p>"
+    },
+    {
+      "q": "Quelle puissance de groupe électrogène faut-il pour faire fonctionner un réfrigérateur?",
+      "a": "<p>Un réfrigérateur seul consomme généralement peu en régime établi, mais son compresseur peut demander un fort appel au démarrage. Un petit groupe peut suffire si vous n’ajoutez que de l’éclairage ou une box, mais le choix dépend de l’étiquette de l’appareil et des autres équipements utilisés en même temps. Prévoyez une marge plutôt que de retenir la seule puissance affichée sur le réfrigérateur.</p>"
+    },
+    {
+      "q": "Comment alimenter une maison avec un groupe électrogène sans danger?",
+      "a": "<p>La solution sûre consiste à alimenter un tableau de secours ou certains circuits sélectionnés à travers un inverseur de source adapté. Cet équipement empêche toute connexion simultanée entre le groupe et le réseau public. Son installation, ainsi que les questions de terre, de neutre et de protection différentielle, doivent être étudiées par un électricien qualifié.</p>"
+    },
+    {
+      "q": "Faut-il relier un groupe électrogène à la terre?",
+      "a": "<p>Cela dépend de la conception du groupe, de son tableau de sorties et du type de raccordement envisagé. Un groupe utilisé seul avec des appareils branchés par rallonge ne se traite pas forcément comme une alimentation fixe de maison. Suivez la notice du fabricant de l’alternateur ou du groupe et demandez conseil à un professionnel pour tout raccordement à une installation électrique.</p>"
+    },
+    {
+      "q": "Pourquoi mon groupe électrogène fait-il varier la tension quand je branche un outil?",
+      "a": "<p>Une baisse ponctuelle peut venir de l’appel de démarrage de l’outil, mais une variation forte ou durable révèle souvent une surcharge, un moteur qui ne tient pas son régime, une régulation défaillante ou un alternateur mal adapté. Débranchez l’appareil, contrôlez la charge totale et le régime moteur, puis n’utilisez plus le groupe si vous observez une odeur anormale, de la fumée ou des disjonctions répétées.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

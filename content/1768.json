@@ -1,0 +1,332 @@
+{
+  "id": 1768,
+  "slug": "preparer-et-conserver-des-tomates-provencales-congelees",
+  "title": "Préparer et conserver des tomates provençales congelées",
+  "metaTitle": "Tomates provençales congelées: préparation et conservation",
+  "metaDescription": "Préparez des tomates provençales à congeler sans les détremper: choix des fruits, cuisson, emballage, durée et conseils de cuisson directe au four.",
+  "dek": "La congélation permet de garder le parfum des tomates à la provençale bien après l’été, à condition de maîtriser leur humidité. Du choix des tomates à la remise au four, voici la méthode pour obtenir un accompagnement savoureux plutôt qu’une préparation aqueuse.",
+  "category": "nature-animaux",
+  "tags": [
+    "tomates",
+    "congélation",
+    "cuisine provençale",
+    "conservation",
+    "cuisine d'été"
+  ],
+  "keyTakeaways": [
+    "Choisissez des tomates fermes et charnues: elles rendent moins d’eau à la cuisson.",
+    "Une courte précuisson avant congélation offre la texture la plus fiable.",
+    "Congelez les portions à plat, bien froides et protégées de l’air.",
+    "Pour éviter qu’elles ne baignent dans leur jus, enfournez-les encore congelées.",
+    "Visez trois mois de conservation pour profiter d’une saveur et d’une texture optimales."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Des tomates provençales congelées peuvent retrouver sur votre table le goût de l’été, même en plein hiver. Le point délicat n’est pas tant de les congeler que de limiter l’eau rendue par le fruit, afin de préserver une chair fondante, une garniture parfumée et un joli gratiné."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-qui-se-congele",
+      "text": "Ce que la congélation change dans une tomate provençale"
+    },
+    {
+      "type": "paragraph",
+      "html": "La tomate est composée en grande partie d’eau. Au congélateur, cette eau forme des cristaux qui fragilisent les cellules de la chair. À la décongélation, ou lors d’une cuisson trop douce, le jus s’échappe davantage: une tomate fraîche et ferme peut alors devenir molle. Ce phénomène est normal; il ne rend pas votre plat impropre, mais impose d’adapter la recette. Pour des tomates provençales, le meilleur levier consiste à évaporer une partie de l’eau avant la congélation, par une précuisson au four, puis à les cuire directement encore gelées."
+    },
+    {
+      "type": "paragraph",
+      "html": "La recette traditionnelle associe généralement tomates coupées, ail, persil, herbes, huile d’olive et parfois chapelure. Elle supporte très bien le congélateur si la garniture reste légère et si vous ne noyez pas les tomates sous l’huile. La chapelure aide même à absorber une petite partie du jus, à condition de ne pas en mettre excessivement."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "-18 °C",
+          "label": "température à viser dans un congélateur domestique pour une bonne conservation"
+        },
+        {
+          "value": "3 mois",
+          "label": "repère prudent pour garder une texture et des arômes très satisfaisants"
+        },
+        {
+          "value": "2 à 3 cm",
+          "label": "épaisseur maximale pratique pour une portion congelée rapidement à plat"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>La congélation conserve très bien le goût des tomates provençales, mais pas exactement le croquant d’une tomate fraîche. Cherchez une texture confite et fondante, plutôt qu’une tenue parfaitement ferme.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-les-bonnes-tomates",
+      "text": "Choisir des tomates adaptées avant de cuisiner"
+    },
+    {
+      "type": "paragraph",
+      "html": "Réservez les fruits très mûrs et très juteux aux sauces, aux soupes ou au coulis. Pour des tomates provençales à congeler, choisissez des tomates mûres mais fermes, lourdes en main, sans partie molle ni fente. Les tomates rondes à chair dense et les variétés allongées de type olivette sont souvent plus simples à travailler que les très grosses tomates à la chair délicate. Elles doivent avoir une peau saine: une zone abîmée accélère l’altération et ne disparaît pas avec le froid."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>À privilégier:</strong> des tomates de taille régulière, charnues, bien rouges et encore toniques.",
+        "<strong>À écarter:</strong> les fruits farineux, très mous, fendillés, ou dont le pédoncule présente de la moisissure.",
+        "<strong>Pour une cuisson homogène:</strong> préparez ensemble des moitiés de dimensions proches.",
+        "<strong>Après lavage:</strong> séchez soigneusement les tomates, car l’eau ajoutée en surface finira dans le plat."
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Quelle méthode choisir pour congeler vos tomates à la provençale?",
+      "headers": [
+        "Méthode",
+        "Résultat après cuisson",
+        "Avantages",
+        "Limites"
+      ],
+      "rows": [
+        [
+          "Tomates garnies et crues",
+          "Plus de jus, chair très fondante",
+          "Préparation rapide, parfum frais",
+          "Risque élevé de garniture humide et de texture molle"
+        ],
+        [
+          "Tomates précuites puis congelées",
+          "Texture plus concentrée, gratin plus net",
+          "Méthode la plus régulière pour un plat prêt d’avance",
+          "Demande une première cuisson et un refroidissement"
+        ],
+        [
+          "Tomates entièrement cuites puis congelées",
+          "Très fondantes, proches d’un confit",
+          "Idéal pour réchauffer vite une petite portion",
+          "La cuisson finale doit être courte pour ne pas les dessécher"
+        ],
+        [
+          "Tomates en coulis ou concassées",
+          "Sans tenue de quartier",
+          "Parfait pour sauces, pizzas et mijotés",
+          "Ce ne sont plus des tomates provençales à servir entières"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "crues-ou-precuites",
+      "text": "Faut-il les congeler crues ou précuites?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les deux options fonctionnent, mais elles ne répondent pas au même besoin. Si vous voulez constituer quelques réserves rapides avec un surplus de récolte, vous pouvez assembler les tomates crues. Si vous attendez un accompagnement présentable et peu aqueux pour un repas sans préparation, préférez la précuisson. Elle concentre la tomate, fixe mieux la garniture et réduit fortement le temps de cuisson le jour J."
+    },
+    {
+      "type": "compare",
+      "title": "La bonne option selon votre usage",
+      "a": {
+        "title": "Congeler les tomates crues garnies",
+        "points": [
+          "À choisir si vous manquez de temps ou souhaitez les cuisiner comme un plat très fondant.",
+          "Évidez légèrement les loges les plus liquides et salez peu avant congélation.",
+          "Cuisez-les directement sorties du congélateur dans un plat large."
+        ]
+      },
+      "b": {
+        "title": "Congeler les tomates précuites",
+        "points": [
+          "À choisir pour un résultat plus proche d’une tomate provençale faite minute.",
+          "Faites-les rôtir jusqu’à ce qu’elles commencent à se rider, sans les dessécher.",
+          "Réchauffez-les ensuite assez vivement pour retrouver une surface dorée."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pourquoi retirer un peu de pulpe?",
+      "html": "<p>Vous n’avez pas besoin de vider totalement les tomates. Retirer seulement le jus libre et les graines très aqueuses au centre suffit souvent à préserver la chair et à éviter une sauce involontaire au fond du plat.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-la-recette",
+      "text": "Préparer une garniture qui résiste au froid"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour environ huit demi-tomates moyennes, prévoyez une ou deux gousses d’ail selon leur force, une belle poignée de persil ou un mélange persil-basilic, deux à quatre cuillères à soupe de chapelure, de l’huile d’olive, du poivre et très peu de sel. Hachez finement les herbes et l’ail, puis mélangez-les à la chapelure. La garniture doit être juste humide grâce à l’huile, jamais pâteuse. Une fine couche déposée dans chaque tomate est plus efficace qu’un gros dôme: elle dore mieux et reste en place après congélation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez remplacer une partie de la chapelure par de la poudre d’amande, du pain rassis mixé ou des miettes de biscotte. Évitez en revanche les fromages frais, la crème et les préparations très humides si votre objectif est une longue conservation. Un peu de parmesan ou de pecorino râpé peut convenir, mais il sale déjà la préparation: ajustez l’assaisonnement avec prudence."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur qui rend les tomates détrempées",
+      "html": "<p>Ne salez pas généreusement les demi-tomates longtemps à l’avance. Le sel fait sortir leur eau. Salez légèrement la garniture, ou ajoutez une petite pincée juste avant d’enfourner le jour où vous les servez.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-pas-a-pas",
+      "text": "La méthode pas à pas pour les congeler"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode suivante privilégie la précuisson, la plus rassurante si vous préparez plusieurs repas à l’avance. Travaillez avec des ustensiles propres et ne laissez pas les tomates cuites attendre des heures sur le plan de travail: le refroidissement doit être assez rapide avant le passage au congélateur."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Laver, sécher et couper",
+          "html": "Lavez les tomates sous l’eau courante, séchez-les entièrement, retirez le pédoncule puis coupez-les en deux dans l’épaisseur. Évidez délicatement le surplus de graines et de jus à l’aide d’une cuillère."
+        },
+        {
+          "title": "Assaisonner sans excès",
+          "html": "Disposez les moitiés face coupée vers le haut dans un plat. Ajoutez un filet d’huile d’olive, poivrez et répartissez la garniture ail-herbes-chapelure. Gardez la main légère sur le sel."
+        },
+        {
+          "title": "Précuire",
+          "html": "Enfournez autour de 180 à 190 °C jusqu’à ce que la chair commence à s’assouplir et que la surface blondisse. Selon la taille des tomates et votre four, comptez souvent une vingtaine à une trentaine de minutes. Elles doivent rester manipulables."
+        },
+        {
+          "title": "Refroidir complètement",
+          "html": "Sortez les tomates du plat et posez-les en une seule couche sur une grille ou une plaque propre. Dès qu’elles ne dégagent plus de vapeur, mettez-les au réfrigérateur si vous ne les emballez pas tout de suite. Ne les enfournez jamais encore brûlantes dans le congélateur."
+        },
+        {
+          "title": "Précongeler à plat",
+          "html": "Posez les demi-tomates froides sur une plaque recouverte d’un support antiadhésif, sans qu’elles se touchent. Placez la plaque au congélateur quelques heures, le temps qu’elles deviennent fermes."
+        },
+        {
+          "title": "Emballer et étiqueter",
+          "html": "Transférez-les dans des sachets de congélation épais ou des boîtes hermétiques. Chassez autant d’air que possible, notez la date, le nombre de portions et la mention <strong>précuites</strong> ou <strong>crues</strong>."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon format de portion",
+      "html": "<p>Congelez deux à quatre demi-tomates par sachet pour un accompagnement, ou une par une pour les lunchs et les petites assiettes. Vous ne serez pas obligé de décongeler une quantité inutile.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "emballage-et-duree",
+      "text": "Emballage, rangement et durée de conservation"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’air est l’ennemi de la qualité au congélateur: il dessèche les aliments et favorise les zones blanchâtres, souvent appelées brûlures de congélation. Un sachet épais fermé au plus près des tomates est donc très pratique. Pour les préparations fragiles, commencez par la précongélation sur plaque; elles ne se colleront pas entre elles ni ne s’écraseront dans le sachet. Les boîtes hermétiques conviennent aussi, à condition de ne pas laisser trop d’espace vide."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Étiquetez tout:</strong> date, quantité, état cru ou précuit, et éventuellement niveau de sel ou présence de fromage.",
+        "<strong>Rangez à l’abri de la porte:</strong> le fond ou un tiroir subit en général moins de variations de température.",
+        "<strong>Ne surchargez pas le congélateur d’un coup:</strong> répartissez les préparations pour qu’elles prennent froid rapidement.",
+        "<strong>Consommez en priorité les plus anciennes:</strong> la durée annoncée est une indication de qualité, pas une invitation à oublier le sachet."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "À une température stable d’environ -18 °C, essayez de les consommer dans les trois mois pour garder une bonne couleur, un parfum net et une garniture agréable. Elles peuvent souvent rester plus longtemps si elles sont parfaitement emballées et si la chaîne du froid n’a pas été rompue, mais elles perdront progressivement en qualité. Si l’emballage est déchiré, si les tomates sont couvertes de gros cristaux ou si elles ont décongelé puis regelé, mieux vaut ne pas les garder pour une occasion où vous attendez un beau résultat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cuire-sans-decongeler",
+      "text": "Cuire les tomates provençales congelées sans les détremper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne les faites pas décongeler sur le plan de travail, et évitez aussi une décongélation complète au réfrigérateur si vous souhaitez préserver leur forme: elles rendraient leur eau avant même de cuire. Préchauffez le four autour de 190 à 200 °C. Disposez les tomates encore gelées, garniture vers le haut, dans un plat suffisamment large pour qu’elles ne se chevauchent pas. Un fond très légèrement huilé suffit; n’ajoutez pas d’eau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des tomates précuites, prévoyez généralement vingt à trente minutes, en surveillant la coloration. Pour des tomates congelées crues, la cuisson demandera plutôt quarante à cinquante-cinq minutes selon leur taille. Si elles rendent beaucoup de jus, ne les couvrez pas: la vapeur doit s’échapper. Vous pouvez aussi retirer délicatement l’excédent de liquide à mi-cuisson, puis terminer quelques minutes sous une chaleur plus vive pour sécher la surface. Servez dès que la chair est chaude à cœur, fondante et que la garniture est bien dorée."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À ne pas faire",
+      "html": "<p>Ne réchauffez pas une portion déjà cuite plusieurs fois et ne recongelez pas des tomates qui ont décongelé à température ambiante. Prélevez seulement la quantité nécessaire et gardez le reste au froid.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "idees-pour-les-servir",
+      "text": "Adapter vos portions et les servir toute l’année"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces tomates sont bien plus qu’un simple accompagnement de grillades. Servez-les avec du poisson rôti, des œufs, une polenta crémeuse, du riz, des haricots blancs ou une tranche de pain de campagne. Elles peuvent aussi garnir une tarte salée: faites-les d’abord rôtir encore quelques minutes pour évaporer leur jus, puis ajoutez-les à une pâte précuite. Pour un repas express, associez deux demi-tomates à une céréale et à une source de protéines; la portion déjà préparée vous évite de repartir de zéro."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-de-conservation",
+      "text": "Votre plan d’action pour réussir la prochaine tournée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand vous avez beaucoup de tomates, ne cherchez pas à tout cuisiner le même jour. Triez d’abord: les plus fermes iront en tomates provençales à congeler, les plus mûres en sauce, les abîmées en préparation à utiliser immédiatement. Préparez une première fournée test avec quatre demi-tomates. Vous pourrez ajuster la quantité de chapelure, d’ail et le temps de précuisson selon la variété et votre four avant de remplir le congélateur."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Choisissez des tomates charnues et préparez une garniture plutôt sèche.",
+        "Précuisez-les légèrement pour concentrer les saveurs et limiter le jus.",
+        "Refroidissez, précongelez à plat, puis emballez en petites portions datées.",
+        "Cuisez-les directement congelées dans un four chaud, sans eau ajoutée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le geste décisif",
+      "html": "<p>Si vous ne deviez retenir qu’une habitude, ce serait celle-ci: faites évaporer un peu d’eau avant de congeler. C’est ce qui transforme une simple réserve de tomates en véritable plat provençal prêt à servir.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on congeler des tomates provençales déjà cuites?",
+      "a": "<p>Oui, c’est même la solution la plus pratique pour un repas rapide. Laissez-les refroidir complètement, précongelez-les si possible sur une plaque, puis emballez-les hermétiquement. Au moment du service, réchauffez-les au four encore congelées, à température assez vive, jusqu’à ce qu’elles soient chaudes à cœur et dorées.</p>"
+    },
+    {
+      "q": "Faut-il enlever les graines avant de congeler les tomates provençales?",
+      "a": "<p>Ce n’est pas obligatoire, mais c’est vivement conseillé pour les tomates très juteuses. Retirez surtout le liquide libre et les graines du centre, sans creuser toute la chair. Vous conserverez ainsi une tomate plus généreuse tout en limitant l’eau rendue pendant la cuisson.</p>"
+    },
+    {
+      "q": "Combien de temps garder des tomates provençales au congélateur?",
+      "a": "<p>Pour une qualité optimale, visez environ trois mois dans un congélateur stable autour de -18 °C. Bien protégées de l’air, elles peuvent parfois se conserver davantage, mais leur texture, leur couleur et le parfum des herbes diminueront peu à peu. Datez les sachets et utilisez les plus anciens en premier.</p>"
+    },
+    {
+      "q": "Pourquoi mes tomates provençales congelées rendent-elles autant d’eau?",
+      "a": "<p>La congélation fragilise naturellement la chair gorgée d’eau. Le problème est accentué par des tomates trop mûres, une garniture trop humide, un salage anticipé ou une décongélation avant cuisson. Choisissez des fruits fermes, ôtez un peu de pulpe liquide, précuisez-les et enfournez-les sans décongélation dans un plat non couvert.</p>"
+    },
+    {
+      "q": "Peut-on congeler des tomates provençales avec de la mozzarella ou du fromage?",
+      "a": "<p>Vous le pouvez, mais ce n’est pas l’option la plus régulière. La mozzarella rend de l’eau et peut devenir caoutchouteuse après congélation. Préférez une petite quantité de fromage râpé sec dans la chapelure, ou ajoutez la mozzarella fraîche seulement en fin de cuisson, au moment de servir.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "id": 1839,
+  "slug": "comment-prendre-soin-de-la-batterie-dun-ordinateur-portable",
+  "title": "Comment prendre soin de la batterie d’un ordinateur portable ?",
+  "metaTitle": "Batterie d’ordinateur portable: bien l’entretenir",
+  "metaDescription": "Batterie d’ordinateur portable: adoptez les bons gestes pour gagner en autonomie, limiter l’usure et reconnaître les signes de remplacement au bon moment.",
+  "dek": "La batterie d’un ordinateur portable est une pièce d’usure, mais sa durée de vie dépend largement de vos habitudes. Chaleur, niveau de charge, usage sur secteur et stockage: voici les gestes qui font réellement la différence.",
+  "category": "tech-objets",
+  "tags": [
+    "batterie ordinateur",
+    "autonomie",
+    "ordinateur portable",
+    "charge",
+    "entretien informatique"
+  ],
+  "keyTakeaways": [
+    "La chaleur est l’un des principaux ennemis d’une batterie lithium-ion.",
+    "Évitez les décharges complètes répétées et les longues périodes à 0 %.",
+    "Si votre ordinateur reste souvent branché, activez une limite de charge à 60 ou 80 % quand elle existe.",
+    "Pour un stockage prolongé, laissez la batterie autour de 40 à 60 % dans un endroit frais et sec.",
+    "Une batterie gonflée, anormalement chaude ou très instable doit être remplacée sans tarder."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "L’autonomie qui diminue avec les mois n’est pas toujours le signe d’un ordinateur en fin de course: la batterie vieillit naturellement, mais certaines habitudes accélèrent nettement cette usure. En limitant la chaleur, les décharges extrêmes et les périodes prolongées à pleine charge, vous pouvez préserver plus longtemps son efficacité et éviter des remplacements prématurés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-usure-batterie-lithium-ion",
+      "text": "Comprendre ce qui use réellement une batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "La grande majorité des ordinateurs portables récents utilisent une batterie <strong>lithium-ion</strong> ou lithium-polymère. Elle ne se comporte pas comme les anciennes batteries nickel: elle n’a pas besoin d’être régulièrement vidée à zéro pour éviter un prétendu « effet mémoire ». Au contraire, les décharges très profondes et répétées lui sont défavorables."
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux phénomènes se cumulent. Le premier est le <strong>vieillissement cyclique</strong>: chaque utilisation consomme une petite part de la capacité disponible. Un cycle correspond, en simplifiant, à l’équivalent de 100 % de batterie utilisée au total; cela peut être deux usages de 50 % et non forcément une seule décharge complète. Le second est le <strong>vieillissement calendaire</strong>: même peu utilisée, une batterie perd progressivement en capacité, surtout lorsqu’elle reste chaude ou chargée à 100 %."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "20–80 %",
+          "label": "plage de charge confortable pour un usage quotidien, lorsque votre autonomie le permet"
+        },
+        {
+          "value": "40–60 %",
+          "label": "niveau généralement conseillé avant un stockage de plusieurs semaines"
+        },
+        {
+          "value": "0–35 °C",
+          "label": "ordre de grandeur de température ambiante favorable à l’usage et à la charge"
+        },
+        {
+          "value": "Quelques centaines",
+          "label": "de cycles complets avant une baisse de capacité sensible, selon le modèle et les conditions"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Une batterie qui passe de 100 % à 50 % puis est rechargée n’a pas subi « un demi-cycle » au sens d’une panne: c’est l’énergie totale délivrée au fil du temps qui compte. Inutile donc de surveiller chaque pourcentage de façon anxieuse.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-chaleur",
+      "text": "Faire de la chaleur votre priorité"
+    },
+    {
+      "type": "paragraph",
+      "html": "S’il ne fallait retenir qu’un facteur, ce serait celui-ci: <strong>la chaleur accélère l’usure chimique de la batterie</strong>. Un ordinateur qui chauffe pendant un jeu, un montage vidéo, une visioconférence ou une recharge rapide n’est pas forcément défectueux. En revanche, une température élevée durablement n’est pas souhaitable, surtout si l’appareil est simultanément branché et chargé au maximum."
+    },
+    {
+      "type": "paragraph",
+      "html": "Posez le portable sur une surface rigide et dégagée: bureau, table, support ventilé si votre usage est intensif. Un canapé, un lit, un coussin ou vos genoux peuvent obstruer les entrées d’air situées sous le châssis. Dépoussiérez régulièrement les grilles avec précaution, sans souffler violemment dans les ventilateurs. Si l’ordinateur devient brûlant de manière inhabituelle, vérifiez aussi qu’aucune application ne monopolise le processeur en arrière-plan."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ne laissez pas un portable dans une voiture en plein soleil, même éteint.",
+        "Évitez de le recharger sous une couverture ou dans un sac fermé.",
+        "Débranchez les accessoires très énergivores inutiles lorsque vous travaillez sur batterie.",
+        "Après une tâche très exigeante, laissez l’ordinateur refroidir avant de le ranger dans sa housse."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Un support de refroidissement peut améliorer le confort dans certains cas, mais il ne compense pas une grille bouchée ou un ordinateur posé sur un textile. Commencez toujours par assurer une bonne circulation d’air.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "bien-recharger",
+      "text": "Recharger sans tomber dans les mythes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez recharger votre ordinateur avant qu’il soit presque vide: les petites recharges ne sont pas nocives pour une batterie lithium-ion. Dans l’idéal, branchez-le lorsqu’il reste encore une marge, par exemple autour de 20 à 30 %, plutôt que d’attendre l’extinction. Évitez surtout de laisser l’appareil atteindre 0 % fréquemment ou de le conserver déchargé pendant plusieurs jours."
+    },
+    {
+      "type": "paragraph",
+      "html": "Atteindre 100 % de temps en temps est parfaitement normal, notamment avant un déplacement. Ce n’est pas un chiffre interdit; c’est le <strong>maintien prolongé</strong> à 100 %, surtout dans un environnement chaud, qui peut accélérer l’usure. Si vous avez besoin de toute l’autonomie pour une journée, chargez à fond sans culpabiliser. Préserver une batterie ne doit pas vous empêcher d’utiliser votre ordinateur."
+    },
+    {
+      "type": "table",
+      "caption": "Les habitudes de charge: ce qu’elles changent réellement",
+      "headers": [
+        "Habitude",
+        "Effet probable",
+        "Meilleure pratique"
+      ],
+      "rows": [
+        [
+          "Attendre régulièrement 0 %",
+          "Risque de décharge profonde et d’arrêts brutaux",
+          "Rechargez avant les derniers pourcents quand c’est possible"
+        ],
+        [
+          "Recharger par petites périodes",
+          "Pas de problème particulier",
+          "Branchez selon vos besoins, sans chercher des cycles parfaits"
+        ],
+        [
+          "Rester à 100 % pendant des semaines",
+          "Usure calendaire potentiellement plus rapide",
+          "Utilisez un plafond de charge si le fabricant le propose"
+        ],
+        [
+          "Laisser le chargeur branché après 100 %",
+          "Souvent géré par l’ordinateur, mais la charge pleine demeure élevée",
+          "Sans plafond de charge, débranchez à l’occasion si l’autonomie suffit"
+        ],
+        [
+          "Employer un chargeur inadapté ou douteux",
+          "Charge instable, lente ou risque de surchauffe",
+          "Privilégiez le chargeur d’origine ou un modèle USB-C certifié et compatible"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe",
+      "html": "<p>Pour un chargeur USB-C de remplacement, vérifiez la puissance demandée par votre ordinateur, le profil de charge compatible et la qualité du câble. Un câble USB-C peut limiter la puissance même si le bloc secteur est suffisant.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ordinateur-branche-ou-nomade",
+      "text": "Adapter vos réglages à votre façon de travailler"
+    },
+    {
+      "type": "paragraph",
+      "html": "La stratégie la plus pertinente dépend de votre usage. Certains fabricants intègrent dans leur application de gestion ou dans le BIOS/UEFI une fonction appelée, selon les marques, « conservation de la batterie », « limite de charge » ou « charge intelligente ». Elle arrête généralement la charge autour de 60 ou 80 %. C’est particulièrement utile si l’ordinateur vit la plupart du temps sur un bureau, relié au secteur."
+    },
+    {
+      "type": "compare",
+      "title": "Quel réglage choisir selon votre quotidien?",
+      "a": {
+        "title": "Ordinateur surtout utilisé sur secteur",
+        "points": [
+          "Activez une limite à 60 ou 80 % si votre modèle le permet.",
+          "Gardez le chargeur branché pour les tâches lourdes, mais surveillez la ventilation.",
+          "Repassez temporairement à 100 % avant un déplacement nécessitant une longue autonomie."
+        ]
+      },
+      "b": {
+        "title": "Ordinateur souvent utilisé en mobilité",
+        "points": [
+          "Chargez à 100 % avant une journée loin d’une prise si nécessaire.",
+          "Évitez de tomber régulièrement sous 10 à 20 %.",
+          "Réduisez la luminosité, les applications ouvertes et les périphériques pour ménager l’autonomie."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne cherchez pas une option qui n’existe pas sur votre machine: tous les ordinateurs n’offrent pas un seuil de charge réglable. Dans ce cas, les bonnes pratiques de température et de stockage restent les leviers les plus utiles. Les systèmes récents peuvent également apprendre vos habitudes et différer la dernière partie de la charge; laissez les mises à jour du système, du firmware et de l’outil constructeur s’installer lorsque leur provenance est fiable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "economiser-autonomie",
+      "text": "Réduire la consommation pour moins solliciter la batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Préserver la batterie ne consiste pas uniquement à la charger correctement: une autonomie plus longue réduit aussi le nombre de cycles accumulés. Dans les paramètres d’alimentation de Windows, macOS ou Linux, choisissez un mode équilibré ou économie d’énergie pour les tâches courantes. Réservez le mode performances aux jeux, à la création et aux logiciels réellement exigeants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les gains les plus concrets viennent souvent de la luminosité de l’écran, de la fréquence de rafraîchissement sur les modèles compatibles, des logiciels lancés au démarrage et des navigateurs chargés d’onglets. Une vidéoconférence, un écran externe, le Wi-Fi instable ou une application de synchronisation peuvent aussi expliquer une chute d’autonomie. Avant d’accuser la batterie, consultez le rapport de consommation proposé par votre système ou l’outil du fabricant."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Baissez légèrement la luminosité plutôt que de travailler systématiquement au maximum.",
+        "Fermez les logiciels lourds inutilisés, notamment les lanceurs de jeux et applications de montage.",
+        "Désactivez Bluetooth, rétroéclairage du clavier ou GPS seulement lorsqu’ils ne servent pas.",
+        "Évitez les réglages d’économie extrêmes si vous avez besoin de fluidité: le bon compromis dépend de votre activité."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Une batterie en bon état peut tout de même se vider vite si l’ordinateur consomme trop. Distinguez toujours une perte de capacité durable d’une consommation ponctuellement élevée.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "stocker-et-transporter",
+      "text": "Stocker et transporter l’ordinateur correctement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’utilisez pas votre ordinateur pendant plusieurs semaines, par exemple entre deux semestres ou durant un long voyage? Ne le rangez ni complètement chargé ni complètement vide. Visez approximativement 40 à 60 %, éteignez-le réellement plutôt que de le laisser en veille, puis conservez-le dans un endroit sec, tempéré et à l’abri du soleil."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez le niveau de charge",
+          "html": "Chargez ou utilisez l’ordinateur pour vous situer approximativement entre 40 et 60 %. Une précision au pourcent près n’est pas nécessaire."
+        },
+        {
+          "title": "Éteignez complètement l’appareil",
+          "html": "Évitez une veille prolongée: elle consomme lentement la batterie et peut conduire à une décharge excessive."
+        },
+        {
+          "title": "Choisissez un lieu adapté",
+          "html": "Rangez-le à l’intérieur, au frais et au sec, loin d’un radiateur, d’une cave humide ou d’un coffre de voiture."
+        },
+        {
+          "title": "Contrôlez lors d’un long arrêt",
+          "html": "Après un ou deux mois, vérifiez le niveau de charge. Rechargez modérément s’il est tombé trop bas, sans le laisser longtemps à 100 %."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le transport quotidien, utilisez une housse qui protège des chocs sans enfermer un ordinateur encore chaud. N’exposez pas inutilement l’appareil aux températures extrêmes. Après un passage au froid, laissez-le revenir tranquillement à température ambiante avant de le mettre en charge, afin de limiter les effets de condensation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-et-remplacer",
+      "text": "Savoir quand diagnostiquer ou remplacer la batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une autonomie réduite n’impose pas automatiquement un remplacement. Commencez par vérifier l’état de santé de la batterie: les systèmes et les outils constructeurs indiquent souvent sa capacité maximale estimée, son nombre de cycles ou un message de maintenance. Comparez cette capacité à celle d’origine indiquée dans les informations techniques de votre modèle, sans prendre ces estimations pour une mesure de laboratoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un remplacement devient raisonnable quand l’autonomie ne couvre plus vos besoins malgré des réglages adaptés, quand l’ordinateur s’éteint à un pourcentage encore élevé, ou quand le système signale une réparation recommandée. Comptez souvent autour de <strong>40 à 120 euros</strong> pour une batterie vendue seule selon la référence, et plutôt <strong>100 à 250 euros ou davantage</strong> pour une pièce et une intervention professionnelle sur un modèle à batterie interne. Demandez un devis: l’accessibilité, la disponibilité de la pièce et la marque font fortement varier le prix."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Arrêtez d’utiliser l’appareil en cas de gonflement",
+      "html": "<p>Un boîtier qui se déforme, un pavé tactile qui se soulève, une batterie gonflée, une odeur inhabituelle ou une chaleur anormale ne relèvent pas d’un simple problème d’autonomie. Éteignez l’ordinateur, débranchez-le, ne percez jamais la batterie et faites-la prendre en charge par un réparateur ou un point de collecte adapté.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les batteries sans marque dont la compatibilité, la protection électronique et la traçabilité sont floues. Une pièce d’origine ou provenant d’un fournisseur reconnu coûte parfois plus cher, mais réduit les incertitudes. Si vous remplacez vous-même une batterie interne, suivez précisément le guide correspondant à la référence exacte de votre ordinateur et ne travaillez jamais sur un appareil sous tension."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-batterie",
+      "text": "Votre plan d’action simple dès aujourd’hui"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par trois vérifications concrètes: regardez si votre ordinateur propose une limite de charge, assurez-vous que ses aérations sont dégagées et consultez le rapport d’état de la batterie. Ensuite, adaptez votre routine à votre vie réelle: 80 % est pertinent pour un poste sédentaire, 100 % l’est avant une longue journée nomade. Cette souplesse vaut mieux qu’une règle rigide difficile à tenir."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Cette semaine, évitez les décharges jusqu’à extinction et les recharges sur une surface molle.",
+        "Si vous travaillez surtout au bureau, activez un plafond à 60 ou 80 % lorsqu’il est disponible.",
+        "Avant un stockage prolongé, laissez environ la moitié de charge et éteignez totalement l’ordinateur.",
+        "En cas d’autonomie incohérente, contrôlez d’abord les applications énergivores avant d’acheter une batterie.",
+        "En présence de gonflement ou de surchauffe anormale, privilégiez immédiatement la sécurité et le remplacement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, ne confondez pas entretien et miracle: aucune manipulation ne rendra sa capacité d’origine à une batterie chimiquement usée. Les bons gestes servent à ralentir le vieillissement, à maintenir une autonomie prévisible et à choisir le bon moment pour faire réparer votre ordinateur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il débrancher son ordinateur portable une fois la batterie à 100 %?",
+      "a": "<p>Pas obligatoirement. Les ordinateurs récents arrêtent généralement la charge active lorsque la batterie est pleine et utilisent alors le secteur. Toutefois, rester à 100 % durant de très longues périodes, surtout dans la chaleur, peut favoriser l’usure à long terme. Si votre ordinateur est presque toujours branché, une limite de charge à 60 ou 80 % est préférable lorsqu’elle est disponible. Sans cette fonction, débrancher de temps en temps est possible, mais la ventilation et la température restent prioritaires.</p>"
+    },
+    {
+      "q": "Faut-il laisser la batterie descendre à 0 % avant de la recharger?",
+      "a": "<p>Non. Cette pratique vient surtout des anciennes technologies de batteries et n’est pas adaptée aux batteries lithium-ion actuelles. Une décharge complète occasionnelle n’est pas dramatique, mais la répéter peut fatiguer la batterie et provoquer des arrêts imprévus. Rechargez idéalement avant d’atteindre les tout derniers pourcents. Si l’indicateur semble très imprécis, un cycle complet exceptionnel peut parfois aider le système à réestimer le niveau de charge, sans restaurer pour autant la capacité perdue.</p>"
+    },
+    {
+      "q": "Est-ce mauvais de laisser un ordinateur portable branché toute la nuit?",
+      "a": "<p>Une recharge de nuit occasionnelle ne pose généralement pas de problème: la gestion de charge coupe normalement l’alimentation de la batterie une fois le maximum atteint. Le point à surveiller est plutôt l’accumulation de nuits et journées à 100 % dans une pièce chaude ou avec un ordinateur mal ventilé. Si vous rechargez souvent la nuit et que votre modèle le permet, activez la charge optimisée ou une limite de charge. Évitez aussi de le charger sur un lit, un canapé ou dans une housse fermée.</p>"
+    },
+    {
+      "q": "Comment vérifier l’état de santé de la batterie sur un ordinateur portable?",
+      "a": "<p>Cherchez d’abord l’application du fabricant, souvent préinstallée: elle peut afficher la capacité estimée, les cycles et les options de préservation. Windows propose aussi un rapport de batterie généré par commande, tandis que macOS affiche l’état de santé et le nombre de cycles dans les informations système. Ces données sont des estimations utiles pour suivre une tendance. Une baisse d’autonomie peut également provenir d’un écran très lumineux, d’un navigateur gourmand, d’un logiciel en arrière-plan ou d’un réglage de performances.</p>"
+    },
+    {
+      "q": "Peut-on remplacer soi-même la batterie d’un ordinateur portable?",
+      "a": "<p>Oui, sur certains modèles, surtout lorsque la batterie est accessible par une trappe ou après retrait du panneau inférieur. Mais de nombreux ordinateurs fins utilisent des batteries collées, des vis spécifiques ou des nappes fragiles. Vérifiez la référence exacte de la pièce, consultez un guide de démontage fiable et débranchez toute alimentation avant d’intervenir. Si la batterie est gonflée, ne tentez pas de la manipuler ou de la percer: confiez l’appareil à un professionnel.</p>"
+    },
+    {
+      "q": "Une batterie gonflée peut-elle encore être utilisée?",
+      "a": "<p>Non, il faut cesser d’utiliser l’ordinateur dès que vous constatez un gonflement, une déformation du châssis ou un pavé tactile soulevé. Une batterie endommagée présente un risque de fuite, de surchauffe et, plus rarement, d’incendie. Éteignez l’appareil, débranchez le chargeur, ne l’écrasez pas et ne le placez pas avec les déchets ménagers. Faites remplacer la batterie et apportez l’ancienne à une filière de collecte ou à un réparateur.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

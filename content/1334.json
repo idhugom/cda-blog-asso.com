@@ -1,0 +1,321 @@
+{
+  "id": 1334,
+  "slug": "que-faire-si-mon-iphone-ne-se-connecte-pas-au-wi-fi",
+  "title": "Que faire si mon iPhone ne se connecte pas au Wi-Fi ?",
+  "metaTitle": "iPhone ne se connecte pas au Wi-Fi: que faire?",
+  "metaDescription": "iPhone sans Wi-Fi: vérifiez le réseau, corrigez les réglages, oubliez la connexion et résolvez la panne de box ou de téléphone avec notre méthode.",
+  "dek": "Un iPhone qui refuse le Wi-Fi n’est pas forcément en panne: le problème peut venir du téléphone, de la box, du mot de passe ou du réseau lui-même. Suivez les vérifications dans le bon ordre pour retrouver une connexion stable sans effacer inutilement vos données.",
+  "category": "tech-objets",
+  "tags": [
+    "iPhone",
+    "Wi-Fi",
+    "box internet",
+    "dépannage",
+    "iOS"
+  ],
+  "keyTakeaways": [
+    "Commencez par déterminer si seul votre iPhone est concerné ou si toute la maison a perdu Internet.",
+    "Oublier le réseau Wi-Fi puis le rejoindre à nouveau résout de nombreux conflits de connexion.",
+    "Un réseau connecté sans Internet renvoie souvent vers la box, le fournisseur d’accès ou un portail de connexion.",
+    "La réinitialisation des réglages réseau est efficace, mais elle efface les mots de passe Wi-Fi enregistrés.",
+    "Testez un autre réseau avant de conclure à une panne matérielle de l’iPhone."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Votre iPhone affiche un Wi-Fi grisé, refuse un mot de passe pourtant correct ou se connecte sans ouvrir aucune page? Avant de penser à une panne coûteuse, isolez la cause: un simple réglage, une box bloquée, un réseau public mal authentifié ou un souci logiciel peuvent produire des symptômes très proches. Voici une méthode progressive, du contrôle le plus rapide à la solution plus radicale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-le-symptome-avant-dagir",
+      "text": "Identifier le symptôme avant d’agir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme « ne se connecte pas » recouvre plusieurs situations. Regardez précisément ce qui se passe dans <strong>Réglages &gt; Wi-Fi</strong>. Si le nom de votre réseau n’apparaît pas, l’iPhone ne détecte pas le signal ou le routeur ne le diffuse plus. S’il apparaît mais qu’une roue tourne longtemps, le téléphone n’arrive pas à s’y associer. Si une coche s’affiche à côté du réseau mais que les sites ne chargent pas, la liaison Wi-Fi existe: c’est l’accès à Internet qui fait défaut."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce diagnostic évite une erreur fréquente: réinitialiser immédiatement l’iPhone alors que la box a simplement perdu sa connexion Internet. Testez d’abord le même réseau avec un autre appareil, par exemple un ordinateur, une tablette ou le téléphone d’un proche. Essayez aussi votre iPhone sur un autre Wi-Fi fiable, chez un voisin ou via un partage de connexion autorisé. Ces deux essais indiquent rapidement de quel côté chercher."
+    },
+    {
+      "type": "table",
+      "caption": "Les symptômes les plus courants et leur cause probable",
+      "headers": [
+        "Ce que vous constatez",
+        "Cause la plus probable",
+        "Premier geste utile"
+      ],
+      "rows": [
+        [
+          "Le réseau Wi-Fi n’apparaît pas",
+          "Wi-Fi désactivé, iPhone trop loin, box ou borne arrêtée",
+          "Activez le Wi-Fi, rapprochez-vous de la box et vérifiez ses voyants"
+        ],
+        [
+          "« Mot de passe incorrect »",
+          "Erreur de saisie, ancien mot de passe mémorisé ou mot de passe modifié",
+          "Oubliez le réseau et saisissez le code lentement"
+        ],
+        [
+          "Le réseau est coché mais Internet ne marche pas",
+          "Panne de box, incident opérateur, DNS ou portail captif",
+          "Testez un autre appareil et ouvrez une page web simple"
+        ],
+        [
+          "Un seul iPhone ne se connecte pas",
+          "Réglage iOS, VPN, profil réseau ou conflit d’adresse",
+          "Redémarrez, oubliez le réseau, puis essayez un autre Wi-Fi"
+        ],
+        [
+          "Tous les appareils sont déconnectés",
+          "Box bloquée, coupure de ligne ou panne locale",
+          "Redémarrez la box et vérifiez l’état de votre accès"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le test qui fait gagner du temps",
+      "html": "<p>Si plusieurs appareils n’ont plus Internet sur le même Wi-Fi, votre iPhone est rarement en cause. Si votre iPhone échoue sur plusieurs réseaux alors que les autres appareils y accèdent, concentrez-vous sur ses réglages.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "faire-les-verifications-les-plus-simples",
+      "text": "Faire les vérifications les plus simples"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par ouvrir le <strong>Centre de contrôle</strong> ou <strong>Réglages &gt; Wi-Fi</strong> et vérifiez que le Wi-Fi est activé. Ne confondez pas le symbole Wi-Fi avec les données mobiles: l’icône en forme d’ondes indique le réseau sans fil, tandis que 4G, 5G ou LTE désignent le réseau mobile. Pour un diagnostic fiable, désactivez temporairement les données cellulaires: vous verrez immédiatement si le Wi-Fi donne réellement accès au Web."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Rapprochez-vous de la box ou de la borne:</strong> murs épais, étages, appareils métalliques et distance peuvent dégrader fortement le signal.",
+        "<strong>Activez puis désactivez le mode Avion:</strong> attendez quelques secondes entre les deux actions afin de relancer les radios de l’iPhone.",
+        "<strong>Redémarrez l’iPhone:</strong> éteignez-le complètement, attendez une dizaine de secondes, puis rallumez-le.",
+        "<strong>Vérifiez la box:</strong> elle doit être alimentée et ses voyants habituels doivent être allumés; un voyant rouge ou clignotant anormal mérite d’être vérifié dans la notice ou l’application de l’opérateur.",
+        "<strong>Écartez une coupure générale:</strong> si l’ensemble du foyer est touché, consultez l’espace client ou l’assistance de votre fournisseur d’accès depuis les données mobiles."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "10 à 30 s",
+          "label": "d’attente utile avant de rallumer un iPhone ou une box"
+        },
+        {
+          "value": "2 appareils",
+          "label": "à tester au minimum pour distinguer un souci de réseau d’un souci d’iPhone"
+        },
+        {
+          "value": "50 à 200 €",
+          "label": "ordre de grandeur habituel pour remplacer soi-même un routeur Wi-Fi domestique"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Évitez les redémarrages en boucle",
+      "html": "<p>Ne débranchez pas et ne rebranchez pas la box dix fois de suite. Un seul redémarrage complet, avec un court délai, est plus utile. Si la synchronisation ne revient pas ensuite, cherchez une panne de ligne ou contactez l’opérateur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "oublier-le-reseau-et-se-reconnecter-proprement",
+      "text": "Oublier le réseau et se reconnecter proprement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’un réseau est visible mais refuse la connexion, le mot de passe ou les paramètres mémorisés par l’iPhone peuvent être devenus incohérents. Cela arrive après un changement de mot de passe de box, un remplacement de routeur ou une modification des réglages Wi-Fi. La solution la plus sûre consiste à supprimer uniquement cette connexion enregistrée, puis à repartir de zéro."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Ouvrez la liste des réseaux",
+          "html": "Allez dans <strong>Réglages &gt; Wi-Fi</strong>, puis touchez le bouton d’information situé à côté du nom du réseau concerné."
+        },
+        {
+          "title": "Supprimez la connexion mémorisée",
+          "html": "Choisissez <strong>Oublier ce réseau</strong>, puis confirmez. Cette action n’efface ni vos photos ni vos applications: elle retire seulement ce Wi-Fi et ses paramètres de l’iPhone."
+        },
+        {
+          "title": "Rejoignez à nouveau le réseau",
+          "html": "Touchez le nom du réseau dans la liste, puis entrez son mot de passe. Respectez majuscules, minuscules, chiffres et caractères spéciaux."
+        },
+        {
+          "title": "Vérifiez l’accès réel à Internet",
+          "html": "Une fois la coche affichée, ouvrez un navigateur et chargez un site. Si la page ne s’ouvre pas, passez au contrôle de la box ou du portail de connexion."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Retrouver le bon mot de passe",
+      "html": "<p>Le mot de passe Wi-Fi d’origine figure souvent sous ou derrière la box, sauf s’il a été personnalisé. Il ne s’agit pas nécessairement du mot de passe de votre espace client. Sur un autre appareil Apple déjà connecté, le partage de mot de passe peut aussi être proposé à proximité.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "savoir-si-le-probleme-vient-de-liphone-ou-de-la-box",
+      "text": "Savoir si le problème vient de l’iPhone ou de la box"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une connexion Wi-Fi se joue entre deux équipements. L’iPhone demande à rejoindre le réseau; le routeur l’accepte, lui attribue une adresse locale et le relie à Internet. Un problème de box peut donc donner l’impression que le téléphone est défaillant. À l’inverse, un iPhone qui échoue sur tous les réseaux mérite un examen plus poussé."
+    },
+    {
+      "type": "compare",
+      "title": "Comparer les indices: iPhone ou réseau domestique?",
+      "a": {
+        "title": "Le problème semble venir de l’iPhone",
+        "points": [
+          "Les autres appareils naviguent normalement sur le même Wi-Fi.",
+          "Votre iPhone échoue aussi sur un autre réseau connu comme fonctionnel.",
+          "Le Wi-Fi est grisé, ne s’active pas ou se coupe sans cesse malgré un redémarrage.",
+          "Un VPN, un profil professionnel ou une mise à jour récente coïncident avec le problème."
+        ]
+      },
+      "b": {
+        "title": "Le problème semble venir de la box ou de la ligne",
+        "points": [
+          "Plusieurs appareils ne se connectent plus ou n’ont plus Internet.",
+          "Le Wi-Fi est introuvable dans toute la maison ou la box présente un voyant inhabituel.",
+          "La connexion revient près de la box mais disparaît dans certaines pièces seulement.",
+          "Votre iPhone fonctionne sans difficulté sur d’autres réseaux Wi-Fi."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un logement, essayez si possible les deux bandes proposées par la box: 2,4 GHz et 5 GHz. La bande 2,4 GHz porte généralement plus loin et traverse mieux les obstacles, mais elle est souvent plus encombrée. La bande 5 GHz est souvent plus rapide à courte distance, mais sa portée peut être moindre. Sur certaines box, les deux bandes portent le même nom et le choix est automatique; ce n’est pas un défaut."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un signal fort ne garantit pas Internet",
+      "html": "<p>Trois barres Wi-Fi indiquent seulement une bonne liaison entre l’iPhone et la borne. Elles ne prouvent pas que la box est reliée à Internet. Testez toujours une page web ou une application qui nécessite une connexion.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gerer-les-reseaux-publics-professionnels-et-les-vpn",
+      "text": "Gérer les réseaux publics, professionnels et les VPN"
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’hôtel, dans un train, un café ou une résidence, la connexion exige souvent un <strong>portail captif</strong>: une page d’acceptation des conditions, parfois avec un code de chambre ou un numéro de billet. L’iPhone peut afficher une notification, mais ce n’est pas systématique. Après vous être connecté au réseau, ouvrez Safari et essayez une page Web ordinaire: le portail devrait s’afficher. Tant que cette étape n’est pas validée, le réseau peut sembler connecté tout en bloquant Internet."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les réseaux d’entreprise, d’école ou de santé peuvent demander un identifiant, un certificat ou un profil de configuration. N’installez jamais un profil reçu par message ou proposé par une page suspecte. Demandez plutôt les instructions au service informatique ou à l’accueil. Si vous utilisez un VPN, désactivez-le momentanément dans ses réglages ou son application pour faire un test: un serveur VPN indisponible ou une configuration ancienne peut empêcher la navigation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur certains réseaux filtrés, l’option d’adresse Wi-Fi privée peut également créer un refus d’accès, notamment quand l’administrateur a autorisé votre appareil à partir de son ancienne adresse. Dans les détails du réseau, vous pouvez désactiver temporairement l’option correspondante, vous reconnecter et tester. Ne le faites que sur un réseau de confiance: l’adresse privée améliore votre confidentialité sur les réseaux publics."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-aux-reglages-avances-sans-effacer-ses-donnees",
+      "text": "Passer aux réglages avancés sans effacer ses données"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le redémarrage et l’oubli du réseau n’ont rien changé, vérifiez d’abord les mises à jour d’iOS dans <strong>Réglages &gt; Général &gt; Mise à jour logicielle</strong>. Installez-les de préférence avec une batterie suffisante et une sauvegarde récente. Une version système corrigée peut résoudre un bug de connexion, surtout si le souci est apparu après une mise à jour ou après l’installation d’une application de sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Examinez aussi les profils installés dans les réglages généraux, en particulier si l’iPhone appartient à une entreprise ou a été configuré par une école. Un profil de gestion, un DNS filtrant ou un VPN peuvent modifier le trafic réseau. Ne supprimez pas un profil professionnel sans l’accord de votre employeur: vous pourriez perdre l’accès à des outils de travail ou à une messagerie sécurisée."
+    },
+    {
+      "type": "paragraph",
+      "html": "En dernier recours logiciel, utilisez <strong>Réinitialiser les réglages réseau</strong>, accessible selon votre version d’iOS depuis <strong>Réglages &gt; Général &gt; Transférer ou réinitialiser l’iPhone &gt; Réinitialiser</strong>. L’intitulé peut légèrement varier. Cette opération ne supprime pas vos photos, messages ni applications, mais elle efface les réseaux Wi-Fi enregistrés, leurs mots de passe, ainsi que certaines préférences réseau et VPN. Préparez donc les codes Wi-Fi utiles avant de la lancer."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas les réinitialisations",
+      "html": "<p><strong>Réinitialiser les réglages réseau</strong> ne remet pas l’iPhone entièrement à zéro. En revanche, une commande d’effacement complet supprime le contenu du téléphone: ne la choisissez pas pour un simple problème de Wi-Fi.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-la-box-et-ameliorer-la-couverture",
+      "text": "Vérifier la box et améliorer la couverture à la maison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la panne concerne le logement, placez la box aussi dégagée et centrale que possible, idéalement en hauteur, loin d’un meuble fermé, d’un aquarium, d’un micro-ondes ou d’une masse métallique. Un répéteur Wi-Fi peut aider dans une pièce éloignée, mais il ne crée pas de débit: il doit lui-même recevoir un signal correct. Pour une grande surface ou des murs très épais, un système Wi-Fi maillé est souvent plus cohérent qu’un unique répéteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si la box diffuse un réseau visible mais que la connexion tombe régulièrement, connectez-vous à son interface ou utilisez l’application de votre opérateur pour rechercher une mise à jour, modifier le canal automatique ou redémarrer le Wi-Fi. Ces réglages demandent un peu de prudence: notez le nom du réseau et le mot de passe actuels avant toute modification. Si la box est ancienne, en surchauffe ou instable avec tous les appareils, un échange par l’opérateur peut être plus pertinent que des manipulations interminables."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-contacter-lassistance-ou-faire-reparer-liphone",
+      "text": "Quand contacter l’assistance ou faire réparer l’iPhone"
+    },
+    {
+      "type": "paragraph",
+      "html": "Contactez votre fournisseur d’accès si aucun appareil ne retrouve Internet après un redémarrage complet de la box, si un voyant de ligne reste anormal ou si une panne est signalée dans votre secteur. Gardez sous la main l’heure d’apparition du problème, l’état des voyants et les tests déjà réalisés: l’échange avec l’assistance sera plus rapide."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sollicitez l’assistance Apple ou un réparateur qualifié si le Wi-Fi de l’iPhone reste grisé, ne détecte aucun réseau même juste à côté d’une box fonctionnelle, ou cesse de fonctionner après une chute, un contact avec un liquide ou une réparation. Faites une sauvegarde avant un rendez-vous. Une intervention matérielle n’est justifiée qu’après avoir testé un autre Wi-Fi, redémarré le téléphone et, si nécessaire, réinitialisé les réglages réseau."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "le-plan-daction-a-suivre-maintenant",
+      "text": "Le plan d’action à suivre maintenant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour retrouver votre connexion sans vous éparpiller, procédez toujours dans le même ordre: vérifiez que le Wi-Fi est activé, testez un second appareil sur votre box, redémarrez l’iPhone et la box, oubliez puis rejoignez le réseau, et essayez un autre Wi-Fi avec l’iPhone. Si le problème persiste uniquement sur le téléphone, désactivez provisoirement VPN ou profils non indispensables, mettez iOS à jour, puis réinitialisez les réglages réseau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette progression protège vos données et évite d’appeler un réparateur pour une panne de ligne, ou l’opérateur pour un simple mot de passe erroné. Notez enfin le symptôme exact et le résultat de chaque test: c’est la manière la plus rapide d’obtenir une solution pertinente si vous devez demander de l’aide."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon iPhone est-il connecté au Wi-Fi mais n’a-t-il pas Internet?",
+      "a": "<p>La coche à côté du réseau signifie que l’iPhone communique avec la box ou la borne, pas que cette borne accède à Internet. Testez un autre appareil sur le même réseau, redémarrez la box, puis ouvrez Safari pour voir si un portail captif doit être validé. Si tous les appareils sont touchés, le souci vient probablement de la box, de la ligne ou du fournisseur d’accès.</p>"
+    },
+    {
+      "q": "Que faire si mon iPhone dit que le mot de passe Wi-Fi est incorrect alors qu’il est bon?",
+      "a": "<p>Supprimez la connexion enregistrée avec <strong>Oublier ce réseau</strong>, puis reconnectez-vous en saisissant à nouveau le mot de passe. Vérifiez les majuscules, les chiffres et les caractères spéciaux. Si le code a récemment été changé dans la box, les appareils ayant mémorisé l’ancien mot de passe peuvent continuer à échouer jusqu’à cette étape.</p>"
+    },
+    {
+      "q": "La réinitialisation des réglages réseau efface-t-elle les photos et les applications?",
+      "a": "<p>Non. Elle ne supprime pas vos photos, messages, applications ou comptes personnels. En revanche, elle efface les réseaux Wi-Fi mémorisés et leurs mots de passe, ainsi que certaines préférences liées aux réseaux, dont des réglages VPN. Notez vos identifiants Wi-Fi avant de l’utiliser.</p>"
+    },
+    {
+      "q": "Pourquoi le Wi-Fi de mon iPhone est-il grisé et impossible à activer?",
+      "a": "<p>Commencez par redémarrer complètement l’iPhone et installez la dernière version d’iOS disponible. Si le bouton reste grisé ou si aucun réseau n’est détecté malgré ces actions, surtout après une chute ou un contact avec un liquide, une défaillance matérielle est possible. Une sauvegarde puis un diagnostic auprès de l’assistance Apple ou d’un réparateur qualifié sont alors recommandés.</p>"
+    },
+    {
+      "q": "Comment se connecter au Wi-Fi d’un hôtel ou d’un train avec un iPhone?",
+      "a": "<p>Choisissez le réseau indiqué par l’établissement, attendez que l’iPhone s’y associe, puis ouvrez Safari. Une page d’identification ou d’acceptation des conditions doit normalement apparaître. Si elle ne s’affiche pas, désactivez temporairement un VPN, oubliez le réseau et recommencez. Ne saisissez jamais vos informations personnelles sur une page dont le nom de réseau ou l’adresse paraît suspect.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

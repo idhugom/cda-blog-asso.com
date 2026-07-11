@@ -1,0 +1,341 @@
+{
+  "id": 2057,
+  "slug": "kanban-devoirs-hebdo",
+  "title": "Adapter la méthode Kanban aux devoirs maison hebdomadaires",
+  "metaTitle": "Kanban pour les devoirs maison: méthode hebdomadaire",
+  "metaDescription": "Kanban et devoirs maison: créez un tableau hebdomadaire simple pour prioriser, avancer sans stress et rendre vos travaux à temps, semaine après semaine.",
+  "dek": "Un tableau Kanban transforme une liste de devoirs confuse en parcours visuel et réaliste. Bien adapté au rythme scolaire, il aide l’élève à savoir quoi faire maintenant, sans faire du suivi des devoirs un devoir supplémentaire.",
+  "category": "famille-education",
+  "tags": [
+    "kanban",
+    "devoirs maison",
+    "organisation scolaire",
+    "méthodes de travail",
+    "collège lycée"
+  ],
+  "keyTakeaways": [
+    "Un Kanban scolaire se limite souvent à trois ou quatre colonnes très lisibles.",
+    "Chaque carte doit décrire une action concrète, une matière et une échéance.",
+    "La colonne « En cours » doit rester courte pour éviter de commencer partout sans finir.",
+    "Le tableau se prépare en début de semaine et se regarde quelques minutes chaque jour.",
+    "Le bon outil est celui que l’élève utilisera réellement: papier, tableau blanc ou application."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Entre les exercices à finir, les leçons à apprendre, les exposés à préparer et les consignes parfois données plusieurs jours à l’avance, les devoirs maison peuvent vite devenir difficiles à piloter. La méthode Kanban apporte une réponse très simple: rendre le travail visible, le faire avancer étape par étape et limiter ce qui est commencé en même temps. Elle ne remplace ni l’agenda ni les apprentissages, mais elle donne un cadre concret pour organiser une semaine scolaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-kanban-pour-les-devoirs",
+      "text": "Comprendre le Kanban appliqué aux devoirs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Kanban est une méthode d’organisation visuelle. Son principe est de représenter chaque tâche par une carte, puis de déplacer cette carte d’une colonne à l’autre à mesure que le travail avance. À l’école, une carte peut correspondre à « faire les exercices 12 à 16 de maths », « relire la leçon sur les volcans » ou « chercher deux sources pour l’exposé d’histoire »."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’intérêt n’est pas esthétique: l’élève voit immédiatement ce qui attend, ce qu’il est réellement en train de faire et ce qui est terminé. Cette vision évite deux écueils fréquents: oublier une tâche cachée dans une page d’agenda et se sentir débordé par une liste où devoirs courts, révisions et projets longs sont mélangés."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Kanban ne veut pas dire planning minute par minute",
+      "html": "<p>Le tableau répond à la question « quel travail faire ensuite? ». L’agenda ou l’emploi du temps répond plutôt à « quand puis-je le faire? ». Les deux outils se complètent très bien.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "creer-un-tableau-simple-et-lisible",
+      "text": "Créer un tableau simple, lisible et adapté à l’âge"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des devoirs hebdomadaires, mieux vaut commencer avec peu de colonnes. Un tableau trop détaillé devient vite pénible à mettre à jour; l’élève cesse alors de s’en servir. La version la plus efficace est souvent constituée de trois colonnes: « À faire », « En cours » et « Terminé ». Une quatrième colonne « À vérifier » peut être utile lorsqu’un adulte doit relire une rédaction, qu’un document doit être imprimé ou qu’un matériel doit être préparé."
+    },
+    {
+      "type": "table",
+      "caption": "Les colonnes utiles dans un Kanban scolaire hebdomadaire",
+      "headers": [
+        "Colonne",
+        "Ce qu’elle contient",
+        "Règle pratique"
+      ],
+      "rows": [
+        [
+          "À faire",
+          "Tous les devoirs et révisions de la semaine, y compris les échéances lointaines.",
+          "Une carte par action identifiable, pas une carte vague intitulée « maths »."
+        ],
+        [
+          "En cours",
+          "Les tâches déjà commencées et prévues pendant la séance de travail actuelle.",
+          "N’y placer que 1 ou 2 cartes à la fois."
+        ],
+        [
+          "À vérifier",
+          "Les travaux finis mais à relire, faire signer, imprimer ou compléter.",
+          "Utile surtout pour les productions écrites et les documents à rendre."
+        ],
+        [
+          "Terminé",
+          "Les tâches réellement achevées.",
+          "Conserver les cartes jusqu’au bilan de fin de semaine, puis les retirer."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un support papier, tracez les colonnes sur une feuille A3, un tableau blanc ou une porte de placard avec des notes repositionnables. Les couleurs peuvent distinguer les matières, à condition de garder un code facile: par exemple bleu pour les sciences, jaune pour les langues et vert pour les lettres. Sur un outil numérique, une liste par colonne suffit; évitez les automatisations compliquées au départ."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "3 à 4",
+          "label": "colonnes suffisent généralement pour un tableau de devoirs"
+        },
+        {
+          "value": "1 à 2",
+          "label": "cartes maximum dans « En cours » pour préserver la concentration"
+        },
+        {
+          "value": "10 à 15 min",
+          "label": "pour préparer le tableau en début de semaine"
+        },
+        {
+          "value": "3 à 5 min",
+          "label": "pour le mettre à jour après une séance de travail"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ecrire-des-cartes-qui-font-avancer",
+      "text": "Écrire des cartes qui font vraiment avancer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité des cartes détermine l’utilité du tableau. « Français » ou « contrôle de SVT » ne sont pas des tâches: ce sont des matières ou des événements. Une bonne carte décrit un résultat concret, suffisamment petit pour pouvoir être déplacé vers « Terminé » après un temps de travail raisonnable."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>À éviter:</strong> « Réviser le brevet », « Faire l’exposé », « Anglais ».",
+        "<strong>Préférez:</strong> « Faire une fiche sur la Première Guerre mondiale », « Chercher trois images libres d’usage pour l’exposé », « Apprendre les 15 mots de la leçon 4 ».",
+        "<strong>Pour un gros travail:</strong> découpez-le en étapes: comprendre la consigne, chercher les informations, construire un plan, rédiger, relire, préparer le support.",
+        "<strong>Ajoutez si besoin:</strong> la date de rendu, le matériel nécessaire et une estimation très approximative du temps à prévoir."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La règle du prochain geste",
+      "html": "<p>Si une carte semble intimidante ou reste plusieurs jours bloquée, reformulez-la en demandant: « Quel est le tout premier geste réalisable? » Par exemple, « rédiger l’introduction de l’exposé » est plus facile à démarrer que « faire l’exposé ».</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les élèves du primaire, une carte peut comporter un dessin ou un pictogramme, avec très peu de texte. Au collège et au lycée, inscrire l’échéance dans un coin est utile, mais n’encombrez pas chaque carte de détails. L’objectif est de pouvoir comprendre le tableau en quelques secondes, même en fin de journée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prioriser-sans-faire-que-l-urgent",
+      "text": "Prioriser sans ne faire que l’urgent"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un tableau Kanban montre les tâches, mais il ne choisit pas seul leur ordre. En début de semaine, examinez avec l’élève les dates de rendu, la durée probable et le niveau de difficulté. Une interrogation vendredi mérite d’être préparée avant jeudi soir; un exposé à rendre dans deux semaines doit avancer un peu chaque semaine plutôt que monopoliser une soirée à la veille de l’échéance."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons de choisir la prochaine carte",
+      "a": {
+        "title": "Commencer par le plus urgent",
+        "points": [
+          "Adapté aux devoirs à rendre le lendemain ou aux contrôles imminents.",
+          "Rassure lorsqu’une échéance est proche.",
+          "Risque: laisser de côté les projets longs jusqu’au dernier moment."
+        ]
+      },
+      "b": {
+        "title": "Commencer par le plus important",
+        "points": [
+          "Adapté aux gros travaux, aux notions difficiles et aux révisions progressives.",
+          "Réduit la charge de dernière minute.",
+          "Risque: oublier une petite tâche urgente si l’agenda n’est pas consulté."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure pratique consiste à combiner les deux. Choisissez d’abord les tâches ayant une échéance proche, puis réservez une petite avancée pour un travail important mais plus lointain. Si l’élève hésite, posez trois questions: « Pour quand est-ce? », « Combien de temps cela prendra-t-il? » et « Que se passe-t-il si ce n’est pas fait aujourd’hui? »."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur du tableau saturé",
+      "html": "<p>Mettre vingt cartes dans « En cours » donne l’impression d’être actif, mais entretient surtout la dispersion. On déplace une nouvelle carte vers cette colonne seulement lorsqu’une place se libère ou lorsqu’une tâche est réellement mise en pause.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "installer-une-routine-hebdomadaire",
+      "text": "Installer une routine hebdomadaire qui tient dans la durée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Kanban fonctionne grâce à une routine courte, pas grâce à une surveillance constante. Le moment le plus utile est souvent le retour à la maison après les cours, ou le dimanche en fin de journée pour préparer la semaine. L’adulte peut accompagner les premières semaines, surtout pour aider à comprendre les consignes et à découper les gros travaux, puis laisser progressivement l’élève prendre la main."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Recenser les consignes",
+          "html": "Relevez les devoirs dans l’agenda, l’espace numérique de l’établissement et les feuilles distribuées. Vérifiez les dates de rendu et les contrôles annoncés."
+        },
+        {
+          "title": "Transformer les consignes en cartes",
+          "html": "Écrivez une action précise par carte. Découpez tout travail qui demanderait plusieurs séances ou plus d’une heure de concentration."
+        },
+        {
+          "title": "Choisir les priorités du jour",
+          "html": "Déplacez seulement une ou deux cartes dans « En cours ». Associez-les à un créneau réaliste, par exemple après le goûter ou avant le dîner."
+        },
+        {
+          "title": "Faire puis déplacer",
+          "html": "Quand une tâche est finie selon le niveau de qualité attendu, placez-la dans « Terminé » ou dans « À vérifier » si une relecture reste nécessaire."
+        },
+        {
+          "title": "Faire un mini-bilan",
+          "html": "Chaque soir, regardez ce qui bloque et ce qui doit être fait le lendemain. En fin de semaine, retirez les cartes terminées et préparez la suivante."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une carte non terminée n’est pas un échec. Il faut en comprendre la cause: estimation trop optimiste, consigne mal comprise, matériel manquant, tâche trop large ou fatigue. Selon le cas, la carte est découpée, reportée avec une nouvelle échéance ou transformée en une demande d’aide précise à adresser au professeur, à un camarade ou à un parent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-papier-ou-numerique",
+      "text": "Choisir entre tableau papier et outil numérique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de support universellement meilleur. Le tableau papier rend les déplacements concrets et reste visible dans un lieu de travail; il convient bien aux enfants et aux familles qui veulent limiter les écrans. Le numérique est intéressant pour les adolescents déjà équipés, qui travaillent sur ordinateur ou doivent consulter les consignes sur l’espace numérique de l’établissement."
+    },
+    {
+      "type": "table",
+      "caption": "Quel support choisir pour les devoirs?",
+      "headers": [
+        "Support",
+        "Atouts",
+        "Limites",
+        "Budget indicatif"
+      ],
+      "rows": [
+        [
+          "Notes repositionnables et feuille ou tableau blanc",
+          "Très visuel, manipulation immédiate, aucun compte à créer.",
+          "Peut être oublié hors de la maison; demande un espace fixe.",
+          "Quelques euros pour les fournitures; davantage pour un tableau blanc."
+        ],
+        [
+          "Cahier ou feuille quadrillée",
+          "Très économique, facile à glisser dans le cartable.",
+          "Les tâches ne se déplacent pas vraiment; il faut barrer ou recopier.",
+          "Coût quasi nul à quelques euros."
+        ],
+        [
+          "Application de listes ou tableau numérique",
+          "Accessible sur plusieurs appareils, rappels possibles, pratique pour les projets.",
+          "Risque de notifications et de paramétrage excessif.",
+          "Souvent gratuit dans une version simple; certaines options peuvent être payantes."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon support est celui qui est regardé",
+      "html": "<p>Un tableau papier visible chaque jour sera plus efficace qu’une application très complète que l’élève n’ouvre jamais. Testez un support pendant deux ou trois semaines avant d’en changer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adapter-la-methode-aux-situations-reelles",
+      "text": "Adapter la méthode aux situations réelles de la famille"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les semaines ne se ressemblent pas. Une activité sportive, une garde alternée, un trajet long ou un rendez-vous médical réduisent les créneaux disponibles. Le tableau doit en tenir compte: il ne s’agit pas de remplir chaque soir, mais de repérer les deux ou trois moments où travailler est réaliste. Une semaine chargée appelle un tableau allégé, avec les priorités essentielles et les premières étapes des travaux plus longs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un enfant qui se décourage facilement, rendez les progrès visibles: conservez les cartes terminées jusqu’au dimanche, utilisez des cartes de taille identique et prévoyez des tâches courtes au début d’une séance. Pour un adolescent autonome, le tableau peut intégrer des révisions personnelles, des démarches administratives scolaires ou la préparation d’un oral. Dans tous les cas, évitez de transformer l’outil en moyen de contrôle permanent: il doit soutenir l’autonomie, pas nourrir les reproches."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Si l’élève oublie de regarder le tableau:</strong> placez-le près du lieu où il fait ses devoirs et associez sa consultation à une routine fixe.",
+        "<strong>Si les cartes s’accumulent:</strong> réduisez leur taille et reprenez les échéances avec l’agenda; une carte ancienne doit être clarifiée, pas simplement déplacée.",
+        "<strong>Si les parents font tout:</strong> laissez l’élève écrire et déplacer les cartes, même si le premier tableau n’est pas parfait.",
+        "<strong>Si une matière est évitée:</strong> créez une première carte très courte, puis prévoyez une aide ciblée au lieu de laisser la difficulté devenir invisible."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "demarrer-des-cette-semaine",
+      "text": "Démarrer cette semaine: le plan d’action le plus simple"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne cherchez pas à bâtir un système parfait. Prenez une feuille, tracez trois colonnes et inscrivez les devoirs des sept prochains jours sous forme d’actions concrètes. Choisissez ensuite les deux cartes à traiter au prochain créneau disponible. Après une semaine d’essai, gardez ce qui aide réellement et retirez ce qui alourdit la routine."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le signe que le Kanban est bien adapté n’est pas un tableau impeccablement rempli. C’est un élève qui sait expliquer ce qu’il lui reste à faire, qui commence plus facilement et qui repère assez tôt les travaux demandant de l’aide. Avec cette méthode, l’organisation devient un appui discret au travail scolaire plutôt qu’une source de pression supplémentaire."
+    }
+  ],
+  "faq": [
+    {
+      "q": "À partir de quel âge peut-on utiliser un tableau Kanban pour les devoirs?",
+      "a": "<p>Dès le primaire, un tableau très visuel peut être utile, à condition de limiter les cartes et d’utiliser des mots simples ou des pictogrammes. Un adulte aide alors à lire les consignes et à choisir la première tâche. Au collège, l’élève peut généralement gérer les déplacements de cartes et les échéances. Au lycée, le Kanban devient pertinent pour coordonner devoirs, révisions, travaux de groupe et préparation des examens.</p>"
+    },
+    {
+      "q": "Faut-il mettre les leçons à apprendre sur le tableau Kanban?",
+      "a": "<p>Oui, à condition de les formuler comme une action précise. Au lieu d’écrire « leçon de géographie », notez par exemple « apprendre les définitions de la leçon 3 », « réciter le plan du chapitre » ou « faire cinq questions de révision ». Une carte doit permettre de savoir clairement quand le travail est suffisamment avancé pour être considéré comme terminé.</p>"
+    },
+    {
+      "q": "Comment gérer un exposé ou un gros dossier avec Kanban?",
+      "a": "<p>Ne créez pas une carte unique intitulée « exposé ». Découpez le travail en étapes: lire la consigne, choisir le sujet, chercher des sources fiables, faire un plan, rédiger, préparer le support, s’entraîner à l’oral et relire. Répartissez ces cartes sur plusieurs jours ou semaines en tenant compte de la date de rendu. Cette découpe permet de commencer tôt sans consacrer toute une soirée au projet.</p>"
+    },
+    {
+      "q": "Le Kanban remplace-t-il l’agenda scolaire ou l’ENT?",
+      "a": "<p>Non. L’agenda et l’espace numérique de l’établissement restent les sources de référence pour les consignes et les dates. Le Kanban sert à transformer ces informations en travail réalisable et à visualiser son avancement. Une courte vérification de l’agenda ou de l’ENT au moment de préparer le tableau évite les oublis.</p>"
+    },
+    {
+      "q": "Que faire si mon enfant ne termine pas les cartes prévues?",
+      "a": "<p>Commencez par éviter les reproches et cherchez la raison concrète: tâche mal comprise, trop longue, interruption, difficulté dans la matière ou estimation irréaliste. Découpez la carte en une étape plus petite, reprogrammez-la avec une échéance claire et, si nécessaire, notez une carte « demander une explication ». Si les retards sont fréquents dans plusieurs matières, il peut être utile d’en parler avec l’enseignant ou le professeur principal.</p>"
+    },
+    {
+      "q": "Une application Kanban est-elle nécessaire pour un adolescent?",
+      "a": "<p>Pas du tout. Une feuille et des notes repositionnables suffisent souvent, surtout au début. Une application peut être pratique si l’adolescent travaille sur plusieurs lieux, utilise régulièrement un ordinateur ou apprécie les rappels. Mais elle ne doit pas ajouter de distractions, de notifications ou de temps de paramétrage. Le meilleur choix est celui que l’élève consulte naturellement chaque jour.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

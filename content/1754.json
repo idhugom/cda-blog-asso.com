@@ -1,0 +1,324 @@
+{
+  "id": 1754,
+  "slug": "quels-sont-les-principaux-types-de-moisissures-courants",
+  "title": "Quels sont les principaux types de moisissures courants ?",
+  "metaTitle": "Moisissures courantes: types, risques et solutions",
+  "metaDescription": "Cladosporium, Aspergillus, Penicillium: reconnaissez les moisissures courantes, leurs causes, leurs risques et les gestes pour les éliminer.",
+  "dek": "Noires, vertes, blanches ou orangées, les moisissures visibles ne se ressemblent pas toujours — et leur couleur ne suffit pas à les identifier. Voici les principaux types rencontrés dans l’habitat, les risques à connaître et la méthode pour traiter durablement la cause.",
+  "category": "maison-immobilier",
+  "tags": [
+    "moisissures",
+    "humidité",
+    "air intérieur",
+    "condensation",
+    "dégât des eaux"
+  ],
+  "keyTakeaways": [
+    "La couleur d’une tache ne permet pas d’identifier ni d’évaluer la dangerosité d’une moisissure.",
+    "Cladosporium, Penicillium, Aspergillus et Alternaria figurent parmi les moisissures souvent rencontrées dans les logements.",
+    "Nettoyer sans supprimer l’humidité, la fuite ou le défaut de ventilation ne résout jamais durablement le problème.",
+    "Une petite zone sur une surface lisse peut souvent être traitée avec précaution; un dégât étendu ou récurrent exige un diagnostic.",
+    "Les personnes allergiques, asthmatiques, immunodéprimées, les nourrissons et les personnes âgées doivent être particulièrement protégés."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une tache sombre au plafond, un duvet blanc sur un mur froid ou une odeur de renfermé signalent souvent la présence de moisissures. Savoir quels types sont fréquents aide à comprendre où chercher, mais l’essentiel reste d’identifier <strong>pourquoi l’humidité s’installe</strong>: sans cette étape, les taches reviendront."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-sont-les-moisissures",
+      "text": "Moisissure, champignon, mildiou: de quoi parle-t-on?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les moisissures sont des champignons microscopiques qui se développent en formant des filaments, puis des spores. Ces spores sont naturellement présentes dans l’air extérieur et peuvent entrer dans le logement par les fenêtres, les vêtements, les animaux ou les objets. Elles deviennent problématiques lorsqu’elles trouvent durablement trois conditions: de l’humidité, une température modérée et un support nourricier, par exemple du papier peint, du carton, du plâtre, du bois, de la poussière ou des textiles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage courant, on emploie parfois <em>mildiou</em> pour toute tache de moisissure. Ce n’est pas un bon outil de diagnostic: il existe de très nombreux genres et espèces, et une même moisissure peut changer d’aspect selon son support, son âge ou l’humidité. À l’inverse, une trace noire peut aussi être de la saleté, de la suie, une ancienne infiltration ou une colonie différente de celle imaginée."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le nom précis n’est pas le premier enjeu",
+      "html": "<p>Sans analyse en laboratoire, l’identification à l’œil nu reste incertaine. Pour agir efficacement, repérez surtout l’étendue des dégâts, le support atteint et la source d’humidité.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "principaux-types-de-moisissures-courants",
+      "text": "Les principaux types de moisissures courants dans un logement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les noms ci-dessous désignent des genres de champignons fréquemment retrouvés dans l’environnement intérieur. Ils donnent des repères utiles, mais ne constituent pas un diagnostic visuel. Les nuances de vert, gris, brun, blanc ou noir se chevauchent largement d’un type à l’autre."
+    },
+    {
+      "type": "table",
+      "caption": "Repères sur des moisissures fréquemment rencontrées dans l’habitat",
+      "headers": [
+        "Type souvent cité",
+        "Aspect possible",
+        "Supports et zones fréquents",
+        "Ce qu’il faut retenir"
+      ],
+      "rows": [
+        [
+          "<strong>Cladosporium</strong>",
+          "Olive, brun, gris foncé ou noir",
+          "Encadrements de fenêtres, bois, textiles, murs froids, salles d’eau",
+          "Très courant dedans comme dehors; sa couleur sombre ne signifie pas à elle seule qu’il est plus dangereux."
+        ],
+        [
+          "<strong>Penicillium</strong>",
+          "Vert bleuté, bleu gris ou blanc",
+          "Papier peint, isolants, tapis, aliments, matériaux touchés par l’eau",
+          "Se développe volontiers après une humidité prolongée ou un dégât des eaux mal séché."
+        ],
+        [
+          "<strong>Aspergillus</strong>",
+          "Vert, gris, jaune, brun ou noir selon les espèces",
+          "Poussières, matériaux humides, denrées, gaines ou zones peu ventilées",
+          "Genre très vaste; une vigilance renforcée s’impose pour les personnes très fragiles sur le plan immunitaire."
+        ],
+        [
+          "<strong>Alternaria</strong>",
+          "Brun foncé à noir, parfois velouté",
+          "Rebords de fenêtres, joints, plantes, salles de bains et zones humides",
+          "Souvent associé à l’air extérieur et connu pour son potentiel allergisant chez les personnes sensibles."
+        ],
+        [
+          "<strong>Stachybotrys</strong>",
+          "Vert très foncé à noir, parfois visqueux quand il est humide",
+          "Plâtre cartonné, cellulose, bois ou matériaux restés mouillés longtemps",
+          "Moins banal qu’on ne le laisse parfois croire; il traduit généralement un problème d’humidité important et durable."
+        ],
+        [
+          "<strong>Mucor ou Rhizopus</strong>",
+          "Blanc, gris, cotonneux, puis parfois plus sombre",
+          "Aliments, cartons, textiles et matériaux très humides",
+          "Un aspect duveteux peut signaler une colonisation active, surtout après un sinistre ou dans un local humide."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "La « moisissure noire » n’est pas un diagnostic",
+      "html": "<p>Associer toute trace noire à Stachybotrys est une erreur fréquente. Plusieurs moisissures peuvent être foncées, et la couleur ne renseigne ni sur l’espèce exacte ni sur le niveau réel d’exposition.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reconnaitre-une-moisissure-et-ses-limites",
+      "text": "Comment reconnaître une moisissure sans se tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une moisissure active forme souvent des points qui s’étendent, un voile poudreux ou velouté, voire une surface cotonneuse. Elle peut s’accompagner d’une odeur de cave, de terre humide ou de renfermé. Sur un mur, observez si la peinture cloque, si le papier se décolle, si le plâtre devient friable ou si la zone est froide au toucher: ces indices orientent davantage vers un excès d’humidité qu’une simple salissure."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne prélevez pas vous-même des échantillons en grattant une grande surface et ne vous fiez pas aux tests domestiques vendus comme des preuves absolues. Ils détectent souvent des spores banales, présentes presque partout, sans expliquer la cause du problème. Une analyse professionnelle peut être utile dans un contexte complexe, après un sinistre important, face à une atteinte cachée ou pour des personnes vulnérables, mais elle ne remplace pas l’inspection du bâti."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Trace stable et sèche:</strong> elle peut être ancienne, mais mérite une vérification de la cause initiale avant de repeindre.",
+        "<strong>Tache qui s’étend ou revient vite:</strong> suspectez une humidité toujours présente, même si la surface vient d’être nettoyée.",
+        "<strong>Mur mou, cloqué ou très humide:</strong> recherchez en priorité une fuite, une infiltration ou une remontée d’humidité.",
+        "<strong>Condensation autour des fenêtres et dans les angles:</strong> regardez la ventilation, le chauffage et les ponts thermiques."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "origines-humidite-condensation-infiltration",
+      "text": "D’où viennent les moisissures: condensation, fuite ou infiltration?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La moisissure est une conséquence, pas la cause. Dans une chambre, les points noirs derrière un meuble correspondent souvent à de la condensation sur une paroi froide et peu ventilée. Dans une salle de bains, l’humidité de douche non évacuée favorise les joints et plafonds tachés. À proximité d’une canalisation, sous une toiture ou au bas d’un mur, une fuite ou une infiltration est plus probable. Une réparation de surface ne suffit pas tant que l’eau continue d’arriver."
+    },
+    {
+      "type": "compare",
+      "title": "Condensation ou infiltration: les signes qui orientent le diagnostic",
+      "a": {
+        "title": "Condensation et air trop humide",
+        "points": [
+          "Taches dans les angles, derrière les meubles, autour des fenêtres ou sur les murs extérieurs froids.",
+          "Buée fréquente, linge qui sèche lentement, odeur au réveil ou après la douche.",
+          "Le problème varie avec la saison, l’occupation du logement et l’aération.",
+          "Réponses prioritaires: ventilation fonctionnelle, aération brève et efficace, chauffage cohérent, circulation de l’air."
+        ]
+      },
+      "b": {
+        "title": "Fuite, infiltration ou remontée d’humidité",
+        "points": [
+          "Auréoles localisées, plafond taché sous une toiture ou une salle d’eau, mur qui se dégrade.",
+          "Tache présente même dans une pièce peu occupée ou bien ventilée.",
+          "Aggravation après la pluie, un dégât des eaux ou l’utilisation d’un équipement sanitaire.",
+          "Réponses prioritaires: localiser et réparer l’entrée d’eau, sécher les matériaux et faire constater les dommages si nécessaire."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "40 à 60 %",
+          "label": "humidité relative souvent recherchée dans un logement chauffé, à adapter à la saison et aux usages"
+        },
+        {
+          "value": "24 à 48 h",
+          "label": "délai à viser pour commencer à sécher sérieusement des matériaux après un apport d’eau"
+        },
+        {
+          "value": "~1 m²",
+          "label": "repère prudent: au-delà d’une zone visible de cet ordre, un avis professionnel devient souvent pertinent"
+        },
+        {
+          "value": "10 à 30 €",
+          "label": "ordre de grandeur courant pour un hygromètre simple, utile pour objectiver l’humidité"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Mesurez avant d’acheter un déshumidificateur",
+      "html": "<p>Placez un hygromètre dans la pièce concernée pendant plusieurs jours, loin d’une douche, d’un radiateur et d’une fenêtre ouverte. Une valeur élevée persistante confirme un problème, mais ne dit pas à elle seule s’il s’agit d’une fuite ou d’un défaut de ventilation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "risques-sante-et-personnes-vulnerables",
+      "text": "Quels risques pour la santé et quand consulter?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un logement humide et moisi peut dégrader le confort respiratoire. Chez certaines personnes, l’exposition aux spores et aux particules peut favoriser une irritation des yeux, du nez ou de la gorge, une toux, une gêne respiratoire ou l’aggravation de manifestations allergiques et d’asthme. Les effets dépendent de la quantité de moisissures, de la durée d’exposition, de la ventilation et de la sensibilité individuelle: il serait donc trompeur de relier un symptôme à un type précis uniquement à partir d’une couleur de tache."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les nourrissons, les jeunes enfants, les personnes âgées, les personnes asthmatiques ou allergiques, ainsi que les personnes immunodéprimées doivent éviter de participer au nettoyage. En cas de gêne respiratoire persistante, d’asthme moins bien contrôlé ou de symptômes qui semblent liés au logement, consultez un professionnel de santé. Si les symptômes sont sévères ou soudains, ne retardez pas la prise en charge médicale."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le bon réflexe n’est pas de chercher la moisissure « la plus toxique », mais de réduire toute humidité persistante et toute exposition visible, surtout dans les pièces de vie et les chambres.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nettoyer-et-traiter-une-petite-zone",
+      "text": "Nettoyer une petite zone: la méthode sûre et les limites du bricolage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une petite tache isolée sur une surface non poreuse et en bon état — carrelage, verre, métal, plastique dur — peut souvent être nettoyée par un adulte en bonne santé. En revanche, les matériaux poreux ou abîmés, comme le papier peint, la moquette, le placoplâtre friable, un matelas, un isolant ou du bois fortement imprégné, sont difficiles à assainir en profondeur. Ils doivent fréquemment être déposés et remplacés une fois la cause de l’humidité supprimée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Écartez la source d’humidité",
+          "html": "Réparez une fuite, aérez après une douche, éloignez un meuble d’un mur froid ou remettez en état la ventilation. Ne commencez pas par repeindre."
+        },
+        {
+          "title": "Protégez-vous et aérez",
+          "html": "Portez au minimum des gants et des lunettes; un masque filtrant bien ajusté peut limiter l’inhalation de particules lors d’une petite intervention. Maintenez une aération vers l’extérieur sans disperser les poussières dans le reste du logement."
+        },
+        {
+          "title": "Nettoyez sans créer de poussière",
+          "html": "Humidifiez légèrement si nécessaire, puis frottez la surface lisse avec de l’eau et un détergent adapté. Essuyez ensuite soigneusement et séchez complètement. Évitez le brossage à sec."
+        },
+        {
+          "title": "Éliminez ou isolez les matériaux irrécupérables",
+          "html": "Emballez les petits matériaux poreux très atteints avant de les jeter. Ne secouez pas un textile ou un carton moisi à l’intérieur du logement."
+        },
+        {
+          "title": "Contrôlez pendant les semaines suivantes",
+          "html": "Surveillez l’odeur, le retour des taches et l’humidité mesurée. Une récidive rapide indique que la source n’est pas réellement traitée."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Produits ménagers: prudence",
+      "html": "<p>Ne mélangez jamais de l’eau de Javel avec un produit acide, du vinaigre ou de l’ammoniaque: des gaz dangereux peuvent se former. Sur les matériaux poreux, désinfecter ou blanchir la surface ne remplace ni le séchage ni le remplacement du support contaminé.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-faire-appel-a-un-professionnel",
+      "text": "Quand faut-il faire intervenir un professionnel?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites établir un diagnostic si la zone est étendue, si l’odeur est forte, si les moisissures réapparaissent malgré le nettoyage, si un plafond ou un mur se dégrade, ou si vous suspectez une atteinte cachée derrière une cloison, un doublage ou un meuble de cuisine. Après une inondation, un refoulement ou une fuite ancienne, l’enjeu est aussi de sécher les matériaux en profondeur: un simple chauffage d’appoint peut masquer le problème sans l’assainir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un logement loué, photographiez les traces, notez les dates et signalez rapidement le problème par écrit au propriétaire ou à l’agence. L’occupant doit utiliser normalement l’aération et les équipements de ventilation, mais un défaut du bâti, une infiltration, une fuite encastrée ou une ventilation défaillante ne se règle pas avec un produit anti-moisissure. En cas de dégât des eaux, prévenez également votre assureur dans les délais prévus par votre contrat et conservez les justificatifs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-pour-un-logement-sain",
+      "text": "Votre plan d’action pour empêcher le retour des moisissures"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par cartographier les taches et les odeurs pièce par pièce, puis comparez-les aux moments où la condensation apparaît ou aux épisodes de pluie et de fuite. Vérifiez que les bouches d’extraction ne sont pas obstruées, aérez largement quelques minutes après les activités humides, couvrez les casseroles, séchez le linge si possible dans un espace ventilé et gardez un espace de quelques centimètres entre les grands meubles et les murs extérieurs froids."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l’humidité reste élevée, ne vous contentez pas d’un absorbeur d’humidité: il peut dépanner un petit espace, mais ne résout pas une ventilation insuffisante ou une infiltration. Un déshumidificateur électrique coûte souvent de l’ordre d’une centaine d’euros à plusieurs centaines selon sa capacité, mais il doit être considéré comme un complément temporaire ou ciblé. La réparation d’une fuite, le réglage d’une ventilation ou le traitement d’un pont thermique restent les solutions durables."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test le plus utile",
+      "html": "<p>Après nettoyage et séchage, prenez une photo datée de la zone et relevez l’humidité pendant une à deux semaines. Si les traces ou l’odeur reviennent, passez du nettoyage au diagnostic: c’est le moment d’identifier précisément l’entrée d’eau ou le défaut de ventilation.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la moisissure la plus fréquente dans les maisons?",
+      "a": "<p>Parmi les genres souvent rencontrés dans les logements figurent <strong>Cladosporium</strong>, <strong>Penicillium</strong>, <strong>Aspergillus</strong> et <strong>Alternaria</strong>. Leur présence dépend surtout de l’humidité, des matériaux et de l’aération. Il n’est généralement pas possible de confirmer un type précis à partir d’une photo ou de la couleur seule.</p>"
+    },
+    {
+      "q": "Les moisissures noires sont-elles forcément dangereuses?",
+      "a": "<p>Non. Une tache noire peut correspondre à différents champignons, à de la saleté ou à une ancienne trace d’humidité. La couleur ne permet pas de conclure à une toxicité. En revanche, toute moisissure visible ou toute odeur de moisi persistante mérite d’être traitée, car elle révèle un environnement trop humide et peut gêner les personnes sensibles.</p>"
+    },
+    {
+      "q": "Est-il possible de dormir dans une chambre avec une petite tache de moisissure?",
+      "a": "<p>Une petite tache ne provoque pas automatiquement un danger immédiat, mais il ne faut pas la banaliser dans une chambre, où l’exposition est longue. Nettoyez-la si elle est limitée à une surface lisse, recherchez la cause et surveillez son retour. Pour un nourrisson, une personne asthmatique, allergique ou immunodéprimée, évitez si possible l’occupation prolongée de la pièce tant que le problème n’est pas réglé.</p>"
+    },
+    {
+      "q": "Le vinaigre blanc suffit-il à enlever les moisissures?",
+      "a": "<p>Un produit ménager peut aider à nettoyer une petite surface non poreuse, mais aucun produit ne résout une fuite, une condensation répétée ou un matériau poreux contaminé. L’enjeu est le séchage complet et la suppression de la source d’humidité. Ne mélangez jamais le vinaigre avec de l’eau de Javel ou d’autres produits chimiques.</p>"
+    },
+    {
+      "q": "Faut-il repeindre sur un mur moisi après nettoyage?",
+      "a": "<p>Pas immédiatement. Le mur doit d’abord être sec, stable et la cause de l’humidité doit être supprimée. Si la peinture cloque, si le plâtre est friable ou si la moisissure traverse le revêtement, il faut souvent retirer les parties dégradées et faire diagnostiquer le support. Repeindre trop tôt masque les traces sans empêcher leur retour.</p>"
+    },
+    {
+      "q": "Qui est responsable des moisissures dans une location?",
+      "a": "<p>La responsabilité dépend de l’origine. Le locataire doit assurer l’entretien courant et utiliser normalement les systèmes d’aération. Le propriétaire doit fournir un logement décent et prendre en charge les défauts de bâti, infiltrations, fuites structurelles ou équipements défaillants. Documentez la situation avec des photos datées, prévenez l’agence ou le propriétaire par écrit et demandez la recherche de cause plutôt qu’un simple nettoyage cosmétique.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": 948,
+  "slug": "comment-figer-une-cellule-dans-excel",
+  "title": "Comment figer une cellule dans Excel ?",
+  "metaTitle": "Comment figer une cellule dans Excel: méthode simple",
+  "metaDescription": "Apprenez à figer une cellule dans Excel: lignes, colonnes et zones visibles, sur Windows, Mac ou Web, avec les erreurs à éviter au défilement fluide.",
+  "dek": "Dans Excel, figer des volets permet de conserver vos repères à l’écran pendant le défilement d’un tableau. Voici la bonne méthode, y compris pour bloquer plusieurs lignes et colonnes à la fois.",
+  "category": "business-pro",
+  "tags": [
+    "Excel",
+    "tableur",
+    "bureautique",
+    "productivité",
+    "formules Excel"
+  ],
+  "keyTakeaways": [
+    "Excel ne fige pas une cellule isolée: il garde visibles les lignes situées au-dessus et les colonnes situées à gauche de la sélection.",
+    "Pour figer une zone précise, sélectionnez la cellule placée juste sous et juste à droite de cette zone.",
+    "Les commandes de ligne supérieure et de première colonne sont les plus rapides pour les tableaux simples.",
+    "Vous devez libérer les volets avant de modifier une zone déjà figée.",
+    "Figer les volets ne protège ni les données ni les formules du classeur."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Faire défiler un long tableau Excel sans perdre les intitulés de colonnes ni les repères de lignes est vite frustrant. La fonction <strong>Figer les volets</strong> résout ce problème: elle maintient une partie de la feuille visible pendant que vous parcourez le reste. Encore faut-il sélectionner la bonne cellule, car Excel ne fige pas une cellule isolée au sens strict."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-qu-excel-fige-reellement",
+      "text": "Comprendre ce qu’Excel fige réellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression figer une cellule est courante, mais elle peut prêter à confusion. Avec cette fonction, Excel ne transforme pas une cellule en élément flottant au milieu de l’écran. Il immobilise une <strong>zone située en haut à gauche</strong> de la feuille: les lignes au-dessus de votre cellule active et les colonnes à sa gauche restent affichées lorsque vous faites défiler le document."
+    },
+    {
+      "type": "paragraph",
+      "html": "Par exemple, si vous sélectionnez <strong>C4</strong> puis figez les volets, les colonnes A et B ainsi que les lignes 1 à 3 demeurent visibles. Vous pourrez ensuite descendre jusqu’à la ligne 2 000 ou aller vers la colonne Z sans perdre ces repères. C’est particulièrement utile pour un suivi de budget, un inventaire, un planning ou une liste de contacts."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle à mémoriser",
+      "html": "<p>Excel fige toujours ce qui se trouve <strong>au-dessus</strong> et <strong>à gauche</strong> de la cellule sélectionnée. La cellule sélectionnée elle-même ne reste pas fixe.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-commande-de-figement",
+      "text": "Choisir la bonne commande de figement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la version bureau d’Excel, ouvrez l’onglet <strong>Affichage</strong>, puis le menu <strong>Figer les volets</strong>, généralement placé dans le groupe consacré aux fenêtres. Trois commandes répondent à des besoins différents. Les intitulés peuvent varier légèrement selon votre version ou selon que l’interface est en français ou en anglais, mais le principe reste le même."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle commande utiliser selon votre tableau?",
+      "headers": [
+        "Commande Excel",
+        "Ce qui reste visible",
+        "Cas d’usage recommandé"
+      ],
+      "rows": [
+        [
+          "<strong>Figer la ligne supérieure</strong>",
+          "La ligne 1",
+          "Votre en-tête est entièrement placé sur la première ligne."
+        ],
+        [
+          "<strong>Figer la première colonne</strong>",
+          "La colonne A",
+          "Vos libellés ou noms sont dans la première colonne."
+        ],
+        [
+          "<strong>Figer les volets</strong>",
+          "Les lignes au-dessus et colonnes à gauche de la cellule active",
+          "Vous avez plusieurs lignes d’en-tête ou plusieurs colonnes de repères."
+        ],
+        [
+          "<strong>Libérer les volets</strong>",
+          "Plus aucune zone n’est immobilisée",
+          "Vous souhaitez changer de configuration ou revenir à un affichage normal."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Les commandes de ligne supérieure et de première colonne sont des raccourcis: elles ne tiennent pas compte de la cellule sélectionnée. Pour figer la ligne 2, 3 ou plusieurs colonnes, utilisez la commande générale <strong>Figer les volets</strong>.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ligne-superieure-colonne-ou-zone-personnalisee",
+      "text": "Ligne supérieure, colonne ou zone personnalisée: faites le bon choix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon réglage dépend de la structure de votre feuille. Un fichier avec un unique en-tête en haut demande rarement plus que le figement de la première ligne. À l’inverse, un tableau de gestion peut comporter un titre, une période, des filtres et deux lignes d’en-tête: il est alors préférable de figer toute cette zone, ainsi que les colonnes contenant les noms ou les références."
+    },
+    {
+      "type": "compare",
+      "title": "Commande rapide ou figement sur mesure?",
+      "a": {
+        "title": "Ligne supérieure ou première colonne",
+        "points": [
+          "À choisir pour un tableau simple et standardisé.",
+          "Mise en place immédiate, sans calculer de cellule de départ.",
+          "Limité à la ligne 1 ou à la colonne A."
+        ]
+      },
+      "b": {
+        "title": "Figer les volets",
+        "points": [
+          "À choisir dès que vos en-têtes occupent plusieurs lignes ou colonnes.",
+          "Permet de combiner repères horizontaux et verticaux.",
+          "Demande de sélectionner précisément la cellule située après la zone à conserver."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 ligne",
+          "label": "est figée avec la commande de ligne supérieure"
+        },
+        {
+          "value": "1 colonne",
+          "label": "est figée avec la commande de première colonne"
+        },
+        {
+          "value": "2 axes",
+          "label": "peuvent être immobilisés simultanément avec les volets"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "figer-plusieurs-lignes-et-colonnes-pas-a-pas",
+      "text": "Figer plusieurs lignes et colonnes: la méthode pas à pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode personnalisée est celle qui évite le plus d’erreurs. Avant de commencer, identifiez clairement la dernière ligne et la dernière colonne que vous voulez garder à l’écran. Si votre tableau comporte trois lignes d’en-tête et deux colonnes de libellés, vous chercherez donc la cellule située une ligne plus bas et une colonne plus loin: <strong>C4</strong>."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Repérez la zone à conserver",
+          "html": "Déterminez les lignes d’en-tête et les colonnes de référence indispensables à la lecture. Ne figez pas une zone trop grande: elle réduirait inutilement l’espace disponible pour les données."
+        },
+        {
+          "title": "Sélectionnez la cellule juste après cette zone",
+          "html": "Pour garder visibles les lignes 1 à 3 et les colonnes A à B, cliquez sur <strong>C4</strong>. Pour conserver seulement les deux premières lignes, cliquez sur n’importe quelle cellule de la ligne 3, par exemple A3."
+        },
+        {
+          "title": "Ouvrez le menu dans Affichage",
+          "html": "Dans le ruban, cliquez sur <strong>Affichage</strong>, puis sur <strong>Figer les volets</strong>. Dans le menu déroulant, choisissez l’option portant elle aussi le nom <strong>Figer les volets</strong>, et non le raccourci de ligne ou de colonne."
+        },
+        {
+          "title": "Contrôlez le résultat par défilement",
+          "html": "Faites défiler la feuille vers le bas puis vers la droite. Une séparation discrète apparaît généralement sous les lignes et à droite des colonnes immobilisées. Les intitulés choisis doivent rester à l’écran."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Exemple concret",
+      "html": "<p>Pour un tableau dont les lignes 1 et 2 contiennent les titres et dont les colonnes A à C contiennent le service, le nom et la référence, cliquez sur <strong>D3</strong>. Excel conservera les lignes 1 à 2 et les colonnes A à C.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "modifier-ou-retirer-des-volets-figes",
+      "text": "Modifier ou retirer des volets figés"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les volets figés, vous ne pouvez pas simplement cliquer ailleurs pour déplacer la limite. Il faut d’abord supprimer le réglage existant. Retournez dans <strong>Affichage</strong>, ouvrez <strong>Figer les volets</strong>, puis choisissez <strong>Libérer les volets</strong>. Reprenez ensuite la méthode avec la cellule correspondant à la nouvelle zone souhaitée."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vous avez figé trop de lignes: libérez les volets, puis cliquez sur une cellule plus haute avant de figer à nouveau.",
+        "Vos intitulés disparaissent malgré le réglage: vérifiez que la cellule de départ est bien située <strong>sous</strong> les lignes à garder.",
+        "La mauvaise colonne est fixe: rappelez-vous que seules les colonnes placées <strong>à gauche</strong> de la sélection sont concernées.",
+        "Vous ne voyez aucun effet: testez le réglage en faisant défiler la feuille; sur un tableau très court, le changement peut passer inaperçu."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne sélectionnez pas la dernière cellule que vous voulez figer. Si vous voulez conserver la ligne 3, sélectionnez une cellule de la <strong>ligne 4</strong>. Sinon, Excel ne conservera que les lignes situées au-dessus.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "excel-web-mac-mobile-et-classeurs-partages",
+      "text": "Excel sur le Web, Mac, mobile et dans un classeur partagé"
+    },
+    {
+      "type": "paragraph",
+      "html": "La logique de sélection est identique sur Excel pour Windows et pour Mac, même si l’emplacement exact du bouton ou son apparence varie selon l’édition installée. Sur Mac, recherchez également les commandes dans l’onglet <strong>Affichage</strong>. Si vous utilisez une interface en anglais, le chemin correspondant est généralement <strong>View</strong>, puis <strong>Freeze Panes</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Excel pour le Web propose habituellement les fonctions de base de figement, mais les possibilités et l’affichage peuvent évoluer. Si une commande manque ou si le résultat paraît incohérent, ouvrez le fichier dans l’application de bureau: c’est l’environnement le plus pratique pour paramétrer une zone complexe. Sur smartphone ou tablette, la lecture d’un tableau est possible, mais les options d’affichage sont souvent moins confortables à manipuler; préparez de préférence le figement sur ordinateur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un fichier partagé, le figement sert surtout au confort de visualisation. Il ne verrouille pas les cellules, n’empêche pas un collègue de modifier les données et ne sécurise pas le classeur. Chacun peut aussi avoir une expérience d’affichage différente selon sa version d’Excel, son niveau de zoom et l’appareil utilisé."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pour un tableau collaboratif",
+      "html": "<p>Soignez d’abord les en-têtes, les filtres et la largeur des colonnes. Le figement améliore la navigation, mais une structure de tableau claire reste le meilleur moyen d’éviter les erreurs de lecture.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ne-pas-confondre-figer-volets-bloquer-cellules",
+      "text": "Ne confondez pas figer les volets, bloquer des cellules et figer une formule"
+    },
+    {
+      "type": "paragraph",
+      "html": "Trois fonctions d’Excel portent parfois le mot figer ou verrouiller dans le langage courant, alors qu’elles répondent à des besoins très différents. <strong>Figer les volets</strong> garde une zone visible à l’écran. Cela ne modifie ni les données ni les calculs. Pour interdire la modification de certaines cellules, vous devez plutôt verrouiller les cellules concernées puis protéger la feuille, avec les précautions nécessaires si plusieurs personnes doivent la compléter."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une formule, figer une référence signifie autre chose encore: ajouter des signes dollar afin que la référence ne se décale pas lors d’une recopie. Par exemple, dans une formule contenant <strong>$B$2</strong>, la colonne B et la ligne 2 restent fixes. Une référence <strong>B$2</strong> garde seulement la ligne 2, tandis que <strong>$B2</strong> garde seulement la colonne B. Cette manipulation se fait dans la formule et n’a aucun effet sur le défilement de votre feuille."
+    },
+    {
+      "type": "table",
+      "caption": "Trois besoins, trois fonctions Excel",
+      "headers": [
+        "Votre objectif",
+        "Fonction à utiliser",
+        "Effet obtenu"
+      ],
+      "rows": [
+        [
+          "Toujours voir les en-têtes",
+          "<strong>Figer les volets</strong>",
+          "Améliore la lecture pendant le défilement."
+        ],
+        [
+          "Empêcher une modification",
+          "<strong>Verrouiller les cellules et protéger la feuille</strong>",
+          "Limite la saisie ou les changements selon les droits définis."
+        ],
+        [
+          "Conserver une référence dans une formule",
+          "<strong>Référence absolue avec $</strong>",
+          "Empêche le déplacement de la référence lors de la recopie."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adopter-le-bon-reflexe-avant-de-defiler",
+      "text": "Adoptez le bon réflexe avant de faire défiler votre tableau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de parcourir ou de transmettre un long classeur, prenez quelques secondes pour vérifier ses repères. Gardez visibles uniquement les éléments utiles à la compréhension immédiate: titres de colonnes, noms, dates, références ou catégories. Si les données commencent à la ligne 5 et que les libellés s’étendent sur les colonnes A et B, le choix de <strong>C5</strong> sera souvent le bon point de départ."
+    },
+    {
+      "type": "paragraph",
+      "html": "Testez ensuite le résultat en descendant et en allant vers la droite. Si l’en-tête reste lisible sans occuper un tiers de l’écran, votre configuration est efficace. En cas de doute, libérez les volets et recommencez: cette opération n’efface aucune donnée. Vous gagnerez du temps de lecture, limiterez les confusions entre lignes et rendrez votre fichier plus agréable pour tous ses utilisateurs."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant de cliquer",
+      "html": "<p>Identifiez la dernière ligne et la dernière colonne à garder visibles, puis sélectionnez la cellule placée immédiatement <strong>en dessous et à droite</strong>. Ouvrez enfin <strong>Affichage &gt; Figer les volets &gt; Figer les volets</strong>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment figer une seule ligne dans Excel?",
+      "a": "<p>Pour garder uniquement la première ligne visible, ouvrez <strong>Affichage</strong>, puis <strong>Figer les volets</strong> et choisissez <strong>Figer la ligne supérieure</strong>. Si vous voulez figer une autre ligne, par exemple la ligne 4, cliquez dans une cellule de la ligne 5 puis choisissez la commande générale <strong>Figer les volets</strong>. Les lignes 1 à 4 seront alors conservées ensemble: Excel ne sait pas isoler la ligne 4 sans garder celles qui la précèdent.</p>"
+    },
+    {
+      "q": "Comment figer la première colonne et la première ligne en même temps?",
+      "a": "<p>Ne choisissez pas successivement les commandes de première ligne et de première colonne: utilisez directement la commande générale. Cliquez sur <strong>B2</strong>, car elle se situe juste sous la ligne 1 et juste à droite de la colonne A. Allez ensuite dans <strong>Affichage &gt; Figer les volets &gt; Figer les volets</strong>. La ligne 1 et la colonne A resteront visibles simultanément.</p>"
+    },
+    {
+      "q": "Pourquoi l’option Figer les volets est-elle grisée dans Excel?",
+      "a": "<p>Cela peut arriver si vous êtes en cours de modification d’une cellule: validez ou annulez d’abord la saisie avec Entrée ou Échap. Certaines situations d’affichage, notamment lorsque vous consultez un classeur dans une version limitée d’Excel ou dans un environnement particulier, peuvent aussi restreindre la commande. Essayez de sélectionner une cellule ordinaire de la feuille, puis vérifiez la fonction dans l’application de bureau si nécessaire.</p>"
+    },
+    {
+      "q": "Comment enlever une ligne figée dans Excel?",
+      "a": "<p>Rendez-vous dans l’onglet <strong>Affichage</strong>, ouvrez le menu <strong>Figer les volets</strong>, puis cliquez sur <strong>Libérer les volets</strong>. Cette action retire toutes les zones figées en une fois. Elle ne supprime aucune ligne, aucune colonne et aucune donnée; elle modifie seulement votre affichage.</p>"
+    },
+    {
+      "q": "Peut-on figer une cellule précise au milieu d’une feuille Excel?",
+      "a": "<p>Non, pas avec la fonction de figement des volets. Excel immobilise toujours un bloc continu partant du coin supérieur gauche de la feuille. Vous pouvez donc garder visibles toutes les lignes au-dessus et toutes les colonnes à gauche d’une cellule de départ, mais pas épingler seule une cellule placée au milieu de la grille. Pour attirer l’attention sur une donnée importante, envisagez plutôt une mise en forme, un commentaire ou un tableau de synthèse placé en haut de la feuille.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

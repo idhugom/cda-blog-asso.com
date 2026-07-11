@@ -1,0 +1,333 @@
+{
+  "id": 1985,
+  "slug": "quels-sont-les-types-de-merules-les-plus-courants",
+  "title": "Quels sont les types de mérules les plus courants ?",
+  "metaTitle": "Types de mérules: les reconnaître dans une maison",
+  "metaDescription": "Mérule pleureuse, coniophore et faux amis: distinguez les champignons du bois, leurs signes d’alerte et les bons réflexes pour votre maison.",
+  "dek": "Sous le nom de mérule se cachent une espèce particulièrement redoutée et plusieurs champignons du bois qui lui ressemblent. Savoir les distinguer aide à réagir vite, sans tirer de conclusions hâtives ni choisir un traitement inadapté.",
+  "category": "maison-immobilier",
+  "tags": [
+    "mérule",
+    "humidité",
+    "champignon du bois",
+    "traitement maison",
+    "diagnostic immobilier"
+  ],
+  "keyTakeaways": [
+    "En habitation, la mérule pleureuse est l’espèce la plus préoccupante et la plus souvent visée par le terme mérule.",
+    "Un champignon visible ne permet pas, à lui seul, de confirmer l’espèce ni l’étendue des dégâts.",
+    "Supprimer la source d’humidité est indispensable: aucun traitement durable ne peut s’en passer.",
+    "Les coniophores et certaines porias abîment aussi le bois, mais leur comportement diffère de celui de la mérule pleureuse.",
+    "Face à un doute, documentez les signes et faites diagnostiquer avant de décaper, pulvériser ou refaire les finitions."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "La mérule fait peur à juste titre: ce champignon peut dégrader rapidement des planchers, charpentes, huisseries ou cloisons lorsque l’humidité s’installe. Mais dans le langage courant, on appelle parfois mérule tout champignon qui attaque le bois. Voici comment distinguer la véritable mérule des espèces proches, reconnaître les signaux utiles et organiser une réponse efficace dans votre logement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-le-mot-merule-designe-vraiment",
+      "text": "Ce que le mot mérule désigne vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "La mérule est un <strong>champignon lignivore</strong>, c’est-à-dire qu’il se nourrit des composants du bois. L’espèce la plus connue dans les bâtiments français est la <strong>mérule pleureuse</strong>, ou <em>Serpula lacrymans</em>. Elle provoque une pourriture brune: le bois fonce, se fissure en petits cubes et finit par perdre toute résistance mécanique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme est néanmoins employé de façon imprécise. Il peut désigner une autre espèce du même genre, un champignon de cave comme le coniophore, voire de simples moisissures. Or le diagnostic change la stratégie: certains champignons restent très dépendants d’un bois franchement mouillé, tandis que la mérule pleureuse peut coloniser des zones voisines en suivant des matériaux et des fissures, grâce à ses filaments conducteurs appelés <strong>cordons mycéliens</strong>."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le qualificatif <strong>pleureuse</strong> vient des gouttelettes parfois visibles sur son appareil reproducteur. Leur absence n’exclut absolument pas une mérule: ce signe n’apparaît que dans certaines phases de développement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "merule-pleureuse-principale-menace",
+      "text": "La mérule pleureuse: la principale menace dans l’habitat"
+    },
+    {
+      "type": "paragraph",
+      "html": "La mérule pleureuse est le type à connaître en priorité. Elle apprécie les bâtiments où le bois est durablement humide et peu ventilé: cave enterrée, plancher sur vide sanitaire, mur touché par une fuite lente, salle d’eau mal ventilée, toiture infiltrée ou logement resté fermé longtemps. Les constructions anciennes ne sont pas les seules concernées: un logement récent souffrant d’un désordre d’eau peut aussi être atteint."
+    },
+    {
+      "type": "paragraph",
+      "html": "Elle peut se présenter sous plusieurs aspects au fil de son cycle. Au début, vous pouvez voir un voile blanc, cotonneux, parfois épais. Puis apparaissent des cordons gris à brun foncé, comparables à de grosses racines ou à des lacets rigides. Le sporophore, la partie visible qui produit les spores, prend souvent la forme d’une plaque brun-roux à brun orangé, avec une bordure claire et ondulée. Le bois attaqué devient brun, sec en apparence, se crevasse en cubes et s’écrase facilement."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "≈ 20 %",
+          "label": "d’humidité du bois: au-delà, le risque de développement fongique devient sérieux selon le contexte"
+        },
+        {
+          "value": "18 à 22 °C",
+          "label": "plage de température souvent favorable à l’activité de la mérule en intérieur"
+        },
+        {
+          "value": "Quelques semaines",
+          "label": "peuvent suffire pour que des signes deviennent visibles si l’humidité et le confinement persistent"
+        },
+        {
+          "value": "1 fuite",
+          "label": "même lente et cachée, peut entretenir le désordre tant qu’elle n’est pas réparée"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au bois sec en surface",
+      "html": "<p>Un élément qui paraît sec au toucher peut être dégradé en profondeur ou alimenté par une humidité cachée dans un mur, un doublage ou un sol. Ne vous fiez pas à l’aspect d’une seule face du bois.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "autres-types-et-champignons-confondus",
+      "text": "Les autres types souvent confondus avec la mérule"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il existe d’autres champignons lignivores dans les bâtiments. Ils ne sont pas toujours des mérules au sens strict, mais leur présence mérite une réaction rapide: un bois très altéré par un coniophore n’est pas rassurant parce qu’il ne s’agit pas de mérule pleureuse. Pour le propriétaire, la première urgence reste la même: localiser l’eau, évaluer la structure et assainir."
+    },
+    {
+      "type": "table",
+      "caption": "Champignons du bois les plus souvent évoqués dans un logement: repères utiles, sans valeur de diagnostic",
+      "headers": [
+        "Type",
+        "Aspect souvent observé",
+        "Milieu typique",
+        "Niveau de vigilance"
+      ],
+      "rows": [
+        [
+          "Mérule pleureuse <em>Serpula lacrymans</em>",
+          "Voile blanc, cordons gris-brun, plaque brun-roux à liseré blanc",
+          "Bois humide et espaces confinés; peut gagner des zones proches",
+          "Très élevé: expertise rapide"
+        ],
+        [
+          "Mérule sauvage <em>Serpula himantioides</em>",
+          "Aspect proche de certaines mérules, identification délicate",
+          "Davantage liée au bois extérieur ou forestier; plus rare dans l’habitat",
+          "Élevé si elle est retrouvée dans une structure"
+        ],
+        [
+          "Coniophore des caves <em>Coniophora puteana</em>",
+          "Feutrage ou plaque brun olive à brun foncé, cordons sombres possibles",
+          "Caves, sous-sols, bois très humide ou mal ventilé",
+          "Élevé: pourriture brune et perte de résistance"
+        ],
+        [
+          "Poria ou fibroporia des caves",
+          "Mycélium blanc abondant, parfois nappes épaisses sur bois humide",
+          "Sous-planchers, caves, locaux durablement humides",
+          "Élevé: diagnostic nécessaire"
+        ],
+        [
+          "Moisissures superficielles",
+          "Dépôt ponctuel noir, vert, blanc ou gris, sans cordons caractéristiques",
+          "Condensation et surfaces mal ventilées",
+          "À traiter, mais pas assimilable d’emblée à une attaque structurale"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Mérule pleureuse ou coniophore: deux risques qui ne se gèrent pas à la légère",
+      "a": {
+        "title": "Mérule pleureuse",
+        "points": [
+          "Peut former des cordons capables de traverser ou de contourner certains supports non ligneux.",
+          "Peut persister et progresser depuis une zone cachée si l’humidité n’est pas éliminée.",
+          "Justifie généralement une inspection large des volumes voisins."
+        ]
+      },
+      "b": {
+        "title": "Coniophore des caves",
+        "points": [
+          "Très lié aux bois franchement humides, notamment dans les sous-sols.",
+          "Peut causer une pourriture brune importante et fragiliser les ouvrages.",
+          "Demande lui aussi un assèchement, le traitement des bois atteints et une recherche de cause."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "La mérule sauvage est moins fréquemment rencontrée dans les maisons. Son nom ne doit pas conduire à la banaliser si elle est identifiée sur une structure: toute attaque fongique active sur du bois porteur, un solivage ou une charpente appelle un avis compétent. La distinction précise entre espèces peut nécessiter l’examen d’un prélèvement, et parfois une analyse en laboratoire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "signes-qui-doivent-alerter",
+      "text": "Les signes qui doivent vraiment vous alerter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un seul indice ne suffit pas à nommer le champignon. En revanche, plusieurs indices concordants doivent vous faire agir. Inspectez avec prudence les plinthes, l’arrière des meubles plaqués contre un mur froid, les dessous d’escalier, les caves, les combles, les planchers souples qui s’affaissent et les zones touchées par un ancien dégât des eaux."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Un bois brun, fissuré en petits cubes, friable ou anormalement léger.",
+        "Des filaments blancs épais ou des cordons gris, noirs ou brunâtres qui courent sur un mur, une dalle ou une cloison.",
+        "Une plaque charnue brun-roux, souvent bordée de blanc, sur un bois ou derrière un doublage.",
+        "Une odeur persistante de cave, de sous-bois ou de moisi, associée à de l’humidité.",
+        "Des plinthes gondolées, un parquet qui se déforme, un plancher souple ou des menuiseries qui se dégradent sans raison apparente.",
+        "Une fuite, une infiltration, une remontée d’humidité ou une ventilation défaillante dans la même zone."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne grattez pas énergiquement le champignon et ne pulvérisez pas de Javel en pensant régler le problème. Cela peut dégrader les surfaces, disperser des particules et surtout masquer les indices utiles sans supprimer la cause ni l’attaque interne.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-la-merule-s-installe",
+      "text": "Pourquoi la mérule s’installe et comment limiter le risque"
+    },
+    {
+      "type": "paragraph",
+      "html": "La mérule n’apparaît pas par magie dans une maison saine et sèche. Ses spores circulent dans l’environnement, mais elles ont besoin de conditions favorables pour se développer: humidité prolongée, bois accessible, température douce et air peu renouvelé. La cause peut être évidente, comme une fuite de toiture, ou plus discrète, comme une canalisation suintante, un défaut d’étanchéité en façade, une gouttière mal raccordée, une remontée capillaire ou un vide sanitaire fermé."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’isolation elle-même n’est pas responsable, mais un doublage posé sur un mur humide ou une rénovation qui réduit fortement les échanges d’air peut cacher le désordre. Après un dégât des eaux, sécher seulement la pièce visible ne suffit pas toujours: l’eau peut être restée dans l’isolant, sous le parquet ou dans les abouts de solives."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Prévention utile",
+      "html": "<p>Surveillez les zones invisibles après une fuite ou une infiltration: sous évier, derrière les appareils, en cave, sous toiture et dans les vides techniques. Réparer tôt une entrée d’eau et ventiler durablement coûte presque toujours moins cher qu’une reprise de structure.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-faire-confirmer-le-diagnostic",
+      "text": "Comment faire confirmer le diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "La photographie peut aider à obtenir un premier avis, mais elle ne remplace pas une visite. Un professionnel habitué aux pathologies du bâtiment ou une entreprise spécialisée dans les champignons lignivores examinera les zones atteintes, recherchera l’origine de l’humidité et appréciera l’état des bois. Il peut être nécessaire d’ouvrir localement un habillage, de sonder les éléments ou de mesurer l’humidité. Une identification mycologique complète est particulièrement utile lorsque l’aspect est ambigu ou que des enjeux d’assurance, de vente ou de responsabilité existent."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Sécurisez la zone",
+          "html": "Évitez de charger un plancher qui s’affaisse ou de manipuler un élément de charpente douteux. En cas de risque structurel, limitez l’accès et demandez un avis sans délai."
+        },
+        {
+          "title": "Repérez et photographiez",
+          "html": "Prenez des vues larges et rapprochées, notez la date, la pièce, les odeurs, les fuites connues et les travaux récents. Ne détruisez pas les indices avant la visite."
+        },
+        {
+          "title": "Stoppez l’apport d’eau",
+          "html": "Faites réparer une fuite, une gouttière, une toiture ou une canalisation. Si l’origine est incertaine, demandez une recherche d’humidité plutôt que de supposer."
+        },
+        {
+          "title": "Faites chiffrer un diagnostic clair",
+          "html": "Demandez ce qui a été inspecté, les causes retenues, les bois à déposer ou à conserver, les zones à assécher et les garanties proposées. Comparez des prestations réellement comparables."
+        },
+        {
+          "title": "Prévenez les interlocuteurs utiles",
+          "html": "Informez votre assureur selon votre contrat, surtout après un dégât des eaux. En cas de vente, un doute sérieux sur une attaque fongique ne doit pas être passé sous silence."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "traiter-sans-se-tromper",
+      "text": "Traitement: ce qui doit être compris avant de signer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un traitement sérieux combine plusieurs actions: <strong>suppression de la cause d’humidité</strong>, dépose des matériaux contaminés ou trop dégradés, nettoyage des abords, traitement des maçonneries et des bois conservés lorsque cela est pertinent, remplacement des éléments structurels affaiblis, puis séchage et ventilation. La part la plus coûteuse n’est pas forcément le produit fongicide: l’accès aux zones cachées, la dépose d’un plancher, la reprise d’une solive ou l’assainissement d’un mur peuvent peser lourd dans le budget."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une investigation ou un diagnostic limité, comptez souvent quelques centaines d’euros, avec de fortes variations selon la surface, les déplacements et les sondages nécessaires. Une intervention très localisée peut se chiffrer en milliers d’euros. Si des planchers, doublages, charpentes, murs humides ou réseaux sont concernés, la facture peut atteindre plusieurs dizaines de milliers d’euros. Exigez un devis détaillé plutôt qu’un prix global intitulé traitement mérule."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "La cause précise de l’humidité et les travaux prévus pour l’éliminer.",
+        "Les zones investiguées et les matériaux à déposer, avec leurs quantités.",
+        "La méthode de traitement, les produits employés et leurs conditions d’application.",
+        "Les reprises de structure incluses ou non: solives, planchers, doublages, plinthes, isolation.",
+        "Le délai de séchage, les conditions de ventilation et la nature exacte de la garantie."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur traitement fongicide ne compense jamais une infiltration active, une fuite persistante ou un sous-sol continuellement saturé d’humidité. Le traitement durable commence toujours par l’eau.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-des-aujourd-hui",
+      "text": "Votre plan d’action si vous suspectez une mérule"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne cherchez pas à reconnaître seul chaque type de mérule à partir d’une couleur ou d’une photo en ligne. Servez-vous plutôt des indices pour évaluer l’urgence. Si vous observez des cordons, une pourriture cubique ou un fruiting body brun-roux dans une zone humide, faites venir rapidement un spécialiste. S’il ne s’agit que d’une moisissure superficielle liée à la condensation, le problème reste à corriger, mais l’intervention sera souvent plus simple après avoir rétabli ventilation et séchage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’acheter un logement ancien, ne négligez pas les odeurs de cave, les planchers déformés, les traces d’infiltration et les pièces condamnées. Un diagnostic ciblé peut être pertinent lorsqu’un doute existe, même si aucun champignon n’est visible. Dans les secteurs déclarés exposés par les autorités locales, renseignez-vous aussi sur les obligations applicables à la commune, notamment lors d’une vente ou après la découverte d’une infestation."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La décision la plus utile",
+      "html": "<p>Faites établir un constat avant les travaux cosmétiques. Repeindre, poser un nouveau parquet ou remettre un doublage sur une zone insuffisamment asséchée peut cacher le problème et rendre la réparation future plus complexe.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien existe-t-il de types de mérules dans une maison?",
+      "a": "<p>Dans le langage courant, on parle de plusieurs types, mais en habitat la <strong>mérule pleureuse</strong>, <em>Serpula lacrymans</em>, est celle qui concentre l’essentiel des inquiétudes. D’autres espèces, telles que la mérule sauvage, sont possibles mais moins courantes. Surtout, des champignons comme le coniophore ou certaines porias sont souvent appelés mérules par erreur alors qu’ils appartiennent à d’autres genres. Ils peuvent néanmoins détruire le bois et exigent eux aussi un diagnostic.</p>"
+    },
+    {
+      "q": "La mérule pleureuse peut-elle traverser un mur?",
+      "a": "<p>Elle ne se nourrit pas de la brique, de la pierre ou du béton. En revanche, ses cordons mycéliens peuvent cheminer à leur surface, dans des fissures, des joints ou derrière un doublage afin de rejoindre une source de bois et d’humidité. C’est pourquoi une infestation ne doit pas être traitée uniquement à l’endroit où le champignon est visible: il faut rechercher l’étendue de la zone humide et les bois voisins.</p>"
+    },
+    {
+      "q": "Comment savoir si c’est de la mérule ou une simple moisissure?",
+      "a": "<p>Une moisissure est souvent superficielle et forme un dépôt poudreux ou velouté, noir, vert, blanc ou gris. La mérule est associée à des signes plus structuraux: bois brun et fissuré en cubes, filaments blancs épais, cordons gris-brun et parfois plaque brun-roux à bord clair. Toutefois, l’apparence ne suffit pas pour confirmer une espèce. Si le bois est atteint, si l’odeur est forte ou si une fuite est présente, faites vérifier.</p>"
+    },
+    {
+      "q": "Peut-on éliminer une mérule avec de la Javel ou du vinaigre?",
+      "a": "<p>Non. Ces produits peuvent avoir un effet limité sur certains dépôts de surface, mais ils ne règlent ni l’humidité cachée, ni la colonisation interne du bois, ni la fragilisation des structures. Pour une suspicion de mérule, évitez les traitements improvisés: documentez les signes, stoppez l’arrivée d’eau et demandez un diagnostic. Le traitement adapté dépend de l’espèce, de l’étendue et de l’état des ouvrages.</p>"
+    },
+    {
+      "q": "L’assurance habitation rembourse-t-elle les dégâts causés par la mérule?",
+      "a": "<p>Cela dépend entièrement du contrat et de la cause du sinistre. Les dégâts liés à une fuite garantie peuvent être traités différemment d’une infestation progressive favorisée par un défaut d’entretien, une infiltration ancienne ou de l’humidité chronique. Déclarez rapidement un dégât des eaux, conservez photos, devis et rapports, puis demandez à votre assureur si les recherches de fuite, les travaux d’assèchement, le traitement fongique et les dommages au bâti sont couverts.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement faire un diagnostic mérule avant de vendre?",
+      "a": "<p>Il n’existe pas de diagnostic mérule national systématiquement requis dans toutes les ventes, contrairement à certains diagnostics immobiliers réglementés. En revanche, des obligations d’information peuvent s’appliquer dans les zones délimitées par arrêté préfectoral comme exposées à un risque de mérule. Au-delà de la règle locale, un vendeur qui connaît une infestation ou un désordre important a intérêt à le traiter et à informer clairement l’acquéreur. Vérifiez la situation de votre commune auprès de la préfecture, de la mairie ou d’un professionnel de l’immobilier.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "id": 226,
+  "slug": "creer-un-potager-en-carres-etapes-simples-pour-cultiver-vos-legumes-a-la-maison",
+  "title": "Créer un potager en carrés : étapes simples pour cultiver vos légumes à la maison",
+  "metaTitle": "Potager en carrés: créer et cultiver facilement",
+  "metaDescription": "Potager en carrés: emplacement, bac, terreau, plantations et entretien pour récolter des légumes facilement chez vous, même en petit espace, à la maison.",
+  "dek": "Le potager en carrés permet de cultiver beaucoup dans peu d’espace, avec un plan clair et des gestes accessibles. Voici comment fabriquer votre premier bac, le remplir, choisir vos légumes et les entretenir sans vous disperser.",
+  "category": "nature-animaux",
+  "tags": [
+    "potager en carrés",
+    "jardinage",
+    "légumes maison",
+    "potager urbain",
+    "permaculture"
+  ],
+  "keyTakeaways": [
+    "Un bac de 1,20 m sur 1,20 m est pratique: vous atteignez le centre sans marcher sur la terre.",
+    "Installez votre potager au soleil et gardez le fond ouvert sur le sol pour favoriser l’enracinement.",
+    "Dans une case de 30 cm, le nombre de plants dépend de leur taille adulte, pas de leur taille au semis.",
+    "Arrosez au pied, paillez le sol et récoltez souvent: ce sont les trois gestes les plus rentables.",
+    "Commencez avec quelques cultures faciles plutôt que de remplir le bac de légumes exigeants."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous rêvez de salades, radis et tomates cueillis devant chez vous, mais votre jardin est petit ou vous manquez de temps? Le <strong>potager en carrés</strong> organise les cultures dans un bac divisé en petites parcelles: vous savez quoi planter, où le planter et comment l’entretenir. Avec un premier carré bien conçu, vous pouvez apprendre rapidement sans retourner tout votre terrain."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-potager-en-carres",
+      "text": "Comprendre le principe du potager en carrés"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un potager en carrés est un bac de culture surélevé, généralement sans fond, compartimenté en cases de même taille. Le format le plus courant mesure environ 1,20 m de côté et se découpe en 16 cases de 30 cm sur 30 cm. Chaque case accueille une culture ou une petite quantité de plants, selon leur encombrement adulte."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’objectif n’est pas de faire pousser plus à tout prix: c’est de <strong>mieux utiliser la surface disponible</strong>. Vous ne piétinez jamais la terre, le sol reste meuble, le désherbage est limité et la rotation des cultures devient facile à visualiser. Cette méthode convient à un jardin, une cour, une terrasse solide ou un grand balcon, sous réserve de choisir un contenant adapté."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1,20 m",
+          "label": "de côté: une dimension confortable pour atteindre le centre du bac"
+        },
+        {
+          "value": "16 cases",
+          "label": "de 30 cm sur 30 cm dans le format classique"
+        },
+        {
+          "value": "20 à 30 cm",
+          "label": "de profondeur de terre conseillée pour la plupart des légumes courants"
+        },
+        {
+          "value": "10 min",
+          "label": "environ pour un contrôle régulier de l’arrosage, des ravageurs et des récoltes"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le quadrillage est un repère, pas une contrainte décorative. Vous pouvez utiliser de simples ficelles, des tasseaux fins ou ne marquer les cases qu’au moment des plantations.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-emplacement-et-format",
+      "text": "Choisir le bon emplacement et le bon format"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’acheter du bois ou du terreau, observez la lumière. La majorité des légumes-fruits, comme les tomates, poivrons, courgettes et haricots, demandent une exposition très ensoleillée. Visez idéalement autour de six heures de soleil direct par jour. Une zone recevant moins de soleil reste intéressante pour les laitues, épinards, roquette, radis ou certaines herbes aromatiques."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Privilégiez un endroit proche d’un point d’eau</strong>: traverser le jardin avec des arrosoirs pleins finit souvent par décourager.",
+        "<strong>Évitez le pied immédiat d’un grand arbre</strong>: ses racines et son ombre concurrencent fortement les légumes.",
+        "<strong>Laissez un passage d’au moins 50 à 60 cm</strong> autour du bac pour vous agenouiller, récolter et arroser confortablement.",
+        "<strong>Sur une terrasse ou un balcon</strong>, vérifiez la charge admissible: terre humide, bac et eau pèsent lourd."
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Bac ouvert sur le sol ou potager hors-sol: lequel choisir?",
+      "a": {
+        "title": "Bac sans fond, posé sur la terre",
+        "points": [
+          "Le meilleur choix dans un jardin: les racines peuvent descendre dans le sol.",
+          "Il demande moins de terreau à acheter si le sol existant est sain et cultivable.",
+          "Il faut d’abord retirer les vivaces très envahissantes et désherber proprement."
+        ]
+      },
+      "b": {
+        "title": "Bac fermé ou grand contenant",
+        "points": [
+          "Adapté à une cour minérale, une terrasse ou un balcon.",
+          "Il doit impérativement avoir des trous d’évacuation et une réserve de profondeur suffisante.",
+          "L’arrosage sera plus fréquent, car le volume de terre sèche vite."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne choisissez pas un coin seulement parce qu’il est libre. Un bac magnifique placé à l’ombre ou loin de l’eau produira peu et demandera davantage d’efforts qu’un carré plus modeste, bien exposé.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "construire-et-remplir-le-bac",
+      "text": "Construire le bac et préparer une terre fertile"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour débuter, un cadre en bois non traité de 1,20 m sur 1,20 m, haut de 20 à 30 cm, est un excellent compromis. Le mélèze, le douglas ou le châtaignier résistent naturellement assez bien à l’humidité. Évitez les traverses anciennes, les bois imprégnés dont vous ignorez la nature et tout matériau ayant pu être traité à la créosote."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget dépend beaucoup du matériau et de la quantité de substrat. Comptez souvent quelques dizaines d’euros pour un cadre fabriqué maison, davantage pour un kit prêt à monter. La terre représente une part importante de la dépense: un bac de ce format peut contenir plusieurs centaines de litres. Selon les produits choisis, un premier carré équipé revient fréquemment à un ordre de grandeur d’environ 100 à 250 euros, outils non compris."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Délimitez et nettoyez la zone",
+          "html": "Posez le cadre à blanc, retirez les herbes vivaces et les grosses pierres. Sur une pelouse, vous pouvez couvrir le sol avec du carton brun non imprimé, bien humidifié, après avoir enlevé adhésifs et agrafes."
+        },
+        {
+          "title": "Montez un cadre solide et accessible",
+          "html": "Assemblez les planches avec des vis adaptées à l’extérieur. Vérifiez l’équerrage, puis installez le bac à son emplacement définitif avant de le remplir."
+        },
+        {
+          "title": "Aérez la terre située dessous",
+          "html": "Si le bac est ouvert sur le sol, ameublissez les premiers centimètres à la fourche sans retourner les couches en profondeur. Les racines franchiront plus facilement la limite entre le bac et la terre d’origine."
+        },
+        {
+          "title": "Remplissez avec un mélange vivant et stable",
+          "html": "Utilisez une terre de jardin saine améliorée avec du compost mûr, ou un mélange spécial potager de bonne qualité. Le compost nourrit, mais il ne remplace pas durablement toute la terre: recherchez un substrat qui reste souple sans être uniquement composé de matières organiques."
+        },
+        {
+          "title": "Nivelez, arrosez et matérialisez les cases",
+          "html": "Arrosez une première fois pour tasser naturellement, complétez si le niveau baisse, puis posez les ficelles ou tasseaux de séparation. Votre bac est prêt à être planté."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil sol",
+      "html": "<p>Ne mettez pas une couche de graviers au fond d’un bac ouvert sur la terre: elle réduit inutilement la profondeur disponible. Dans un contenant fermé, les trous de drainage sont plus utiles qu’une épaisse couche de cailloux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "planifier-les-cultures-case-par-case",
+      "text": "Planifier les légumes case par case"
+    },
+    {
+      "type": "paragraph",
+      "html": "La règle simple est la suivante: plus un légume est volumineux, moins vous en installez dans une case. Une case de 30 cm accueille un gros plant, quatre plants espacés d’environ 15 cm, neuf plants espacés de 10 cm ou seize petits plants semés serrés. Ces repères restent à ajuster selon la variété: lisez toujours l’espacement indiqué sur le sachet de graines ou l’étiquette du plant."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de plantation pour une case de 30 cm sur 30 cm",
+      "headers": [
+        "Culture",
+        "Quantité par case",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Tomate cerise",
+          "1 plant",
+          "Installez un tuteur dès la plantation et placez-la au nord du bac pour ne pas ombrer les autres cases."
+        ],
+        [
+          "Laitue",
+          "4 plants",
+          "Échelonnez les plantations toutes les deux à trois semaines plutôt que de tout planter le même jour."
+        ],
+        [
+          "Radis",
+          "Jusqu’à 16",
+          "Semez peu profond, puis éclaircissez si les plants sont trop serrés."
+        ],
+        [
+          "Carotte courte",
+          "Jusqu’à 16",
+          "Gardez la terre fraîche jusqu’à la levée, souvent lente et irrégulière."
+        ],
+        [
+          "Haricot nain",
+          "9 plants",
+          "Semez quand le sol est suffisamment réchauffé et récoltez très régulièrement."
+        ],
+        [
+          "Blette",
+          "4 plants",
+          "Récoltez les feuilles extérieures au fur et à mesure pour prolonger la production."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un premier printemps, restez raisonnable: quatre cases de laitues et radis, deux de carottes, deux de haricots nains, une ou deux de blettes, une tomate cerise et quelques herbes constituent déjà un projet vivant. Les courgettes, potirons, pommes de terre et choux très développés peuvent monopoliser un petit carré: gardez-les pour un second bac ou faites-les courir hors du cadre."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur plan n’est pas celui qui remplit toutes les cases en avril: c’est celui qui laisse de la place aux semis successifs, aux remplacements après récolte et aux imprévus.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "semer-planter-au-bon-moment",
+      "text": "Semer ou planter au bon moment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calendrier dépend de votre région, de l’altitude et de la météo de l’année. Les radis, pois, laitues, épinards et fèves apprécient les périodes fraîches; tomates, basilic, haricots et courgettes ne doivent pas être installés tant que le risque de gel n’est pas écarté et que le sol reste froid. Utilisez les indications du sachet comme base, puis adaptez-les à votre exposition."
+    },
+    {
+      "type": "compare",
+      "title": "Semer directement ou acheter des jeunes plants?",
+      "a": {
+        "title": "Semis direct dans le carré",
+        "points": [
+          "Économique et très adapté aux radis, carottes, haricots, pois et mesclun.",
+          "Offre plus de choix de variétés et permet des récoltes échelonnées.",
+          "Demande une surveillance de l’humidité pendant la germination et parfois un éclaircissage."
+        ]
+      },
+      "b": {
+        "title": "Jeunes plants achetés ou préparés",
+        "points": [
+          "Plus rapide pour les tomates, poivrons, aubergines, laitues et basilic.",
+          "Pratique si vous commencez tard ou ne disposez pas d’un espace pour semer à l’intérieur.",
+          "Coûte davantage et impose de vérifier que les plants sont vigoureux, non desséchés et sans pucerons."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une récolte rapide, ne laissez pas une case vide. Une case de radis libérée au printemps peut recevoir une laitue, puis des épinards à l’automne. Notez simplement sur un carnet ou une photo de votre plan ce qui a poussé dans chaque case. L’année suivante, évitez de remettre exactement la même famille botanique au même endroit, surtout pour les tomates, choux et haricots."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "arroser-nourrir-et-pailler",
+      "text": "Arroser, nourrir et pailler sans compliquer l’entretien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un petit bac, le sol peut sécher vite, notamment en été et près d’un mur. Testez l’humidité avec un doigt: si la terre est sèche sur quelques centimètres, arrosez lentement au pied des plants, de préférence le matin. Un arrosage copieux mais espacé vaut généralement mieux que de petites aspersions quotidiennes qui n’humidifient que la surface."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le paillage simplifie réellement la vie du jardinier. Quand la terre est déjà réchauffée et les plants installés, étalez une couche légère de tontes séchées, de feuilles mortes broyées ou de paille propre, sans coller le paillage contre les tiges. Il limite l’évaporation, freine les herbes indésirables et nourrit progressivement le sol."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Ajoutez du compost mûr en surface entre deux cultures ou au début d’une nouvelle saison.",
+        "Surveillez davantage les légumes gourmands, notamment tomates et courgettes, sans multiplier les engrais.",
+        "Installez des tuteurs, filets ou rames avant que les plants ne deviennent encombrants.",
+        "Récoltez salades, haricots, blettes et aromatiques régulièrement: cela favorise souvent la poursuite de la production."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-les-problemes-courants",
+      "text": "Éviter les problèmes courants sans traiter à l’aveugle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les petits espaces ne sont pas à l’abri des limaces, pucerons, maladies ou carences, mais ils se surveillent facilement. Regardez le dessous des feuilles, les jeunes pousses et l’humidité du sol deux ou trois fois par semaine. Une intervention précoce est presque toujours plus efficace qu’un produit appliqué après coup."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Limaces:</strong> ramassage au crépuscule, abris à soulever le matin, jeunes plants protégés par une barrière physique adaptée.",
+        "<strong>Pucerons:</strong> retirez les pousses très colonisées, arrosez doucement les colonies localisées et favorisez la présence d’insectes auxiliaires avec des fleurs proches.",
+        "<strong>Feuilles jaunissantes:</strong> vérifiez d’abord l’excès d’eau, le manque de lumière ou le vieillissement naturel avant d’ajouter de l’engrais.",
+        "<strong>Maladies des tomates:</strong> espacez les plants, arrosez le sol plutôt que le feuillage et supprimez les feuilles visiblement très atteintes."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses bonnes idées",
+      "html": "<p>Mélanger beaucoup de plantes ne protège pas automatiquement des maladies. Dans un potager en carrés, la lumière, l’aération, la qualité du sol et l’observation comptent davantage que les associations présentées comme miraculeuses.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "demarrer-votre-premier-carre",
+      "text": "Passer à l’action: votre premier carré en une saison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne cherchez pas à devenir autonome en légumes dès la première année. Votre objectif est plus simple: apprendre comment le soleil traverse votre espace, à quelle vitesse la terre sèche et quelles cultures votre foyer consomme vraiment. Un seul bac bien entretenu donnera plus de satisfaction que plusieurs carrés délaissés au cœur de l’été."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Cette semaine",
+          "html": "Repérez l’endroit le plus ensoleillé, mesurez l’espace disponible et assurez-vous de l’accès à l’eau."
+        },
+        {
+          "title": "Avant la plantation",
+          "html": "Montez un bac de dimension accessible, remplissez-le avec une terre enrichie de compost et dessinez vos 16 cases."
+        },
+        {
+          "title": "Pour commencer",
+          "html": "Choisissez cinq ou six légumes que vous mangez réellement, en combinant semis faciles et quelques plants prêts à installer."
+        },
+        {
+          "title": "Pendant la saison",
+          "html": "Observez, arrosez au besoin, paillez et remplacez chaque culture récoltée par une nouvelle. Prenez des notes pour améliorer le plan l’année suivante."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Un potager en carrés devient vite un outil d’apprentissage très concret: vous visualisez les réussites, vous corrigez les erreurs sur une petite surface et vous gagnez en confiance saison après saison. Commencez petit, cultivez ce que vous aimez manger et ajoutez un second bac seulement lorsque le premier vous paraît facile à suivre."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle taille choisir pour un premier potager en carrés?",
+      "a": "<p>Un carré d’environ <strong>1,20 m sur 1,20 m</strong> est un format particulièrement pratique: vous pouvez atteindre le centre depuis les quatre côtés sans poser le pied sur la terre. Si l’espace est très limité, un bac de 60 à 80 cm de large reste plus facile à entretenir qu’un bac profond et inaccessible.</p>"
+    },
+    {
+      "q": "Peut-on installer un potager en carrés sur un balcon?",
+      "a": "<p>Oui, à condition d’utiliser un bac fermé, percé pour évacuer l’eau, et de vérifier la charge que peut supporter le balcon. Préférez des contenants moins hauts mais assez profonds pour les racines, un substrat léger conçu pour les cultures en bac et des légumes compacts: salades, radis, herbes, tomates cerises tuteurées ou haricots nains.</p>"
+    },
+    {
+      "q": "Quelle profondeur de terre faut-il pour un potager en carrés?",
+      "a": "<p>Pour la plupart des salades, radis, aromatiques et haricots, comptez au moins 20 cm de terre de qualité. Une profondeur de 25 à 30 cm offre plus de confort pour les carottes courtes, les tomates et les racines. Si le bac est ouvert sur le sol, les racines peuvent aussi poursuivre leur développement dans la terre située dessous.</p>"
+    },
+    {
+      "q": "Quels légumes sont les plus faciles à réussir en potager en carrés?",
+      "a": "<p>Les radis, laitues à couper, roquette, haricots nains, blettes, tomates cerises et herbes aromatiques sont de bons choix pour débuter. Les carottes sont également possibles, mais leur levée exige de garder le sol humide. Commencez par des légumes que vous cuisinez souvent: vous récolterez avec plus de plaisir et éviterez le gaspillage.</p>"
+    },
+    {
+      "q": "Combien peut produire un potager en carrés?",
+      "a": "<p>Il n’existe pas de rendement garanti, car la récolte dépend du soleil, de la durée de la saison, de la fertilité, de l’arrosage et des variétés. Un carré bien suivi peut toutefois fournir régulièrement des herbes, des salades, des radis et des légumes d’appoint pour un foyer. Pour augmenter la production, misez surtout sur les semis successifs et le remplacement rapide des cases libérées.</p>"
+    },
+    {
+      "q": "Faut-il traiter le bois d’un potager en carrés?",
+      "a": "<p>Ce n’est pas indispensable si vous choisissez une essence naturellement durable comme le douglas, le mélèze ou le châtaignier. Évitez surtout les bois anciens ou traités avec des produits inconnus, car ils seront en contact prolongé avec la terre de culture. Si vous souhaitez protéger l’extérieur du bac, choisissez un produit explicitement adapté à cet usage et évitez d’en appliquer sur les faces en contact avec le sol.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

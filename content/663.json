@@ -1,0 +1,323 @@
+{
+  "id": 663,
+  "slug": "quels-sont-les-elements-necessaires-pour-honorer-les-frais-de-notaire",
+  "title": "Quels sont les éléments nécessaires pour honorer les frais de notaire ?",
+  "metaTitle": "Frais de notaire: comment les payer sans surprise",
+  "metaDescription": "Frais de notaire: montants, paiement, justificatifs et financement à prévoir pour acheter un logement sans déséquilibrer votre budget immobilier global.",
+  "dek": "Les frais de notaire ne se résument pas à un pourcentage ajouté au prix du logement. Voici ce qu'ils couvrent, les fonds et justificatifs à réunir, et la méthode pour les intégrer sans faille à votre achat immobilier.",
+  "category": "maison-immobilier",
+  "tags": [
+    "frais de notaire",
+    "achat immobilier",
+    "budget immobilier",
+    "crédit immobilier",
+    "acte de vente"
+  ],
+  "keyTakeaways": [
+    "Prévoyez les frais de notaire en plus du prix affiché et, le cas échéant, des frais de crédit.",
+    "Dans l'ancien, ils représentent souvent autour de 7 à 8 % du prix; dans le neuf, plutôt 2 à 3 % selon le montage.",
+    "Les fonds doivent être disponibles avant l'acte, généralement par virement sur le compte de l'étude notariale.",
+    "Le notaire demande des justificatifs sur l'origine des sommes versées: anticipez-les dès le compromis.",
+    "Une estimation récente et un plan de financement intégrant tous les coûts évitent le blocage à quelques jours de la signature."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le prix d'un appartement ou d'une maison n'est jamais le seul montant à régler le jour de l'achat. Les frais couramment appelés « frais de notaire » doivent être financés, virés à temps et justifiés. En comprenant leur composition et en préparant vos fonds dès l'offre d'achat, vous sécurisez votre signature sans mettre votre budget en tension."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-recouvrent-les-frais-de-notaire",
+      "text": "Ce que recouvrent réellement les frais de notaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'expression <strong>frais de notaire</strong> est pratique, mais elle est un peu trompeuse: la plus grande partie de la somme ne rémunère pas directement le notaire. Il s'agit plus exactement des <strong>frais d'acquisition</strong>, versés par l'acquéreur lors de la signature de l'acte authentique. Ils servent à acquitter des taxes, rémunérer des formalités et couvrir la rémunération réglementée de l'étude."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous payez en général quatre familles de dépenses: les droits et taxes perçus pour les collectivités et l'État; les émoluments du notaire, dont le tarif est encadré; les débours, c'est-à-dire les avances faites pour obtenir des documents, états ou renseignements nécessaires; enfin, certaines contributions liées à la publication de la vente auprès du service de la publicité foncière. Le notaire collecte et répartit ces sommes: il n'en conserve qu'une fraction."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "~7 à 8 %",
+          "label": "du prix d'achat dans l'ancien, le plus souvent"
+        },
+        {
+          "value": "~2 à 3 %",
+          "label": "du prix dans de nombreux achats neufs"
+        },
+        {
+          "value": "~5 à 10 %",
+          "label": "du prix parfois demandé au compromis comme dépôt de garantie, distinct des frais"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le dépôt de garantie n'est pas un coût supplémentaire",
+      "html": "<p>La somme versée au compromis, lorsqu'elle est prévue, est placée sous séquestre et vient normalement en déduction du prix à payer à l'acte. Elle ne remplace pas les frais de notaire: votre plan de financement doit distinguer clairement les deux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "evaluer-le-montant-avant-de-signer",
+      "text": "Évaluer le montant: le bien, le prix et les conditions de vente comptent"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier critère est la nature du bien vendu: logement ancien, logement neuf, terrain à bâtir, vente par un professionnel ou par un particulier. Le prix inscrit dans l'acte sert de base, mais certains éléments peuvent modifier le calcul. Par exemple, les frais d'agence facturés séparément à l'acquéreur, lorsque le mandat et l'acte le prévoient clairement, n'ont pas forcément le même traitement qu'une commission incluse dans le prix de vente."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les taux de droits de mutation dépendent notamment du département et peuvent évoluer. Une simulation trouvée il y a plusieurs mois, ou construite avec un ancien barème, n'est donc pas une garantie. Demandez une estimation écrite à l'étude qui suivra la vente dès que vous connaissez le prix, le type de bien, la répartition des frais d'agence et votre calendrier de signature. Cette estimation reste provisionnelle, mais elle est bien plus fiable qu'un simple calcul de pourcentage."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales composantes des frais d'acquisition",
+      "headers": [
+        "Poste",
+        "À quoi il sert",
+        "Poids habituel",
+        "Ce qui le fait varier"
+      ],
+      "rows": [
+        [
+          "Droits et taxes",
+          "Financer les prélèvements dus à l'occasion de la vente",
+          "La part la plus importante dans l'ancien",
+          "Département, type de bien, régime de la vente"
+        ],
+        [
+          "Émoluments",
+          "Rémunérer les actes et formalités au tarif réglementé",
+          "Une part minoritaire du total",
+          "Prix du bien et actes nécessaires"
+        ],
+        [
+          "Débours",
+          "Rembourser les documents et démarches avancés par l'étude",
+          "Montant plus limité, mais réel",
+          "Dossier, urbanisme, copropriété, garanties"
+        ],
+        [
+          "Publicité foncière et contributions",
+          "Publier l'acte et sécuriser juridiquement la propriété",
+          "Intégrée à l'enveloppe globale",
+          "Nature et caractéristiques de l'opération"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La bonne enveloppe à demander",
+      "html": "<p>Demandez au notaire le montant à provisionner et à votre banque le coût complet du crédit. Ajoutez une petite marge de sécurité à votre budget personnel plutôt que d'arrondir les frais d'acquisition vers le bas.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ancien-ou-neuf-un-ecart-de-frais-important",
+      "text": "Ancien ou neuf: un écart de frais important, mais pas automatique"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'achat dans l'ancien entraîne habituellement des frais d'acquisition plus élevés parce que les droits et taxes y pèsent davantage. À titre d'ordre de grandeur, un bien ancien acheté 250 000 euros peut appeler une enveloppe de l'ordre de plusieurs dizaines de milliers d'euros, souvent proche de 7 à 8 % selon le lieu et le dossier. Cet écart justifie de ne jamais comparer deux logements uniquement sur leur prix d'annonce."
+    },
+    {
+      "type": "compare",
+      "title": "Pourquoi le budget diffère entre ancien et neuf",
+      "a": {
+        "title": "Achat dans l'ancien",
+        "points": [
+          "Frais d'acquisition souvent autour de 7 à 8 % du prix, selon la situation locale.",
+          "Droits et taxes généralement plus lourds.",
+          "Le prix affiché doit être complété par une enveloppe de frais significative."
+        ]
+      },
+      "b": {
+        "title": "Achat neuf",
+        "points": [
+          "Frais souvent de l'ordre de 2 à 3 % dans les opérations relevant du régime du neuf.",
+          "Le traitement fiscal de la vente diffère, notamment lorsque le vendeur est un professionnel.",
+          "Des frais annexes peuvent rester à prévoir: prêt, garantie, raccordements ou options du programme."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Attention: un logement récent n'est pas forcément un achat « neuf » au sens applicable à la vente. Une revente par un particulier, même peu après la construction, peut relever d'un régime différent. À l'inverse, un programme neuf peut comporter des frais spécifiques qui ne sont pas inclus dans les frais de notaire. Faites qualifier précisément l'opération par le notaire ou le promoteur avant de bâtir votre budget."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sommes-documents-et-justificatifs-a-prevoir",
+      "text": "Les éléments à réunir pour pouvoir payer sans blocage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour honorer les frais de notaire, il vous faut d'abord <strong>une somme disponible</strong>: épargne, produit de la vente d'un précédent logement, donation, héritage, apport versé par un proche selon un cadre clair, ou financement bancaire accepté. Le notaire doit savoir d'où vient l'argent. Cette vérification protège la transaction et répond aux obligations de lutte contre les circuits financiers illicites; ce n'est pas une simple formalité administrative."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Une estimation de l'étude notariale</strong> indiquant la provision à verser et les coordonnées de paiement à utiliser.",
+        "<strong>Un compte bancaire approvisionné</strong>, capable d'émettre le virement demandé dans les délais imposés par votre banque.",
+        "<strong>Les preuves d'origine des fonds</strong>: relevés d'épargne, acte de vente antérieur, attestation bancaire, acte de donation, document de succession ou justificatif équivalent.",
+        "<strong>Les documents de prêt</strong>, si une banque finance l'opération: offre signée, conditions levées et modalités de déblocage des fonds.",
+        "<strong>Une pièce d'identité et votre état civil à jour</strong>, nécessaires à l'acte, ainsi que tout document demandé pour votre situation familiale ou patrimoniale."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vos fonds proviennent de l'étranger, d'une vente très récente ou de plusieurs comptes, prévenez l'étude tôt. Les vérifications et les délais de transfert peuvent être plus longs. De même, une donation familiale doit être documentée: un simple virement sans explication peut retarder le dossier. Gardez les justificatifs dans un dossier numérique et transmettez-les de manière sécurisée, suivant les consignes du notaire."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vérifiez le RIB par un canal indépendant",
+      "html": "<p>Les tentatives de fraude au faux RIB ciblent les acheteurs immobiliers. Ne vous fiez pas à un changement de coordonnées reçu par simple courriel. Appelez l'étude sur un numéro que vous avez trouvé vous-même ou déjà utilisé pour confirmer les instructions de virement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-et-comment-payer-les-frais",
+      "text": "Quand et comment payer les frais de notaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les frais sont normalement réglés au moment de la signature de l'acte authentique, mais le notaire vous demande en pratique de virer les fonds <strong>avant le rendez-vous</strong>. L'étude doit constater que les sommes sont arrivées et pouvoir réunir le prix, les frais et les éventuels fonds du prêteur. Attendre le matin même, ou compter sur un transfert instantané non validé par votre banque, est une prise de risque inutile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le montant demandé est une provision calculée à partir des informations disponibles. Après la vente et les formalités, le notaire établit le décompte définitif. Si la provision était trop élevée, le trop-perçu vous est remboursé; si certains frais se révèlent supérieurs, un complément peut être demandé. Conservez donc une marge de trésorerie même après la signature."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le chèque ou les espèces ne sont pas la solution habituelle pour une acquisition immobilière. Le virement bancaire est la voie à privilégier et, pour les sommes importantes, la procédure attendue. Suivez exclusivement les consignes écrites de votre étude.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "integrer-les-frais-au-financement",
+      "text": "Intégrer les frais au crédit et à l'apport"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un plan d'achat, séparez toujours le <strong>prix du bien</strong>, les frais d'acquisition et les frais de financement. Les banques financent fréquemment une part du prix du logement, tandis qu'elles attendent de l'emprunteur qu'il couvre au moins les frais de notaire avec son apport. Certaines acceptent toutefois un financement plus large, parfois appelé financement à 110 %, mais cela dépend de votre situation, de votre taux d'endettement, de votre reste à vivre et de la politique de l'établissement."
+    },
+    {
+      "type": "paragraph",
+      "html": "N'oubliez pas les dépenses qui ne sont pas des frais de notaire: frais de dossier du prêt, coût de la garantie bancaire ou de l'hypothèque, assurance emprunteur, éventuels frais de courtage, déménagement, travaux, taxe foncière proratisée entre vendeur et acheteur lorsque l'acte le prévoit, et charges de copropriété. Elles peuvent absorber une part importante de votre apport disponible."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur de budget fréquente",
+      "html": "<p>Ne présentez pas à la banque un apport qui correspond seulement au dépôt de garantie. Cet argent est imputé sur le prix; il faut encore pouvoir régler les frais d'acquisition, les garanties du prêt et les premières dépenses d'installation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "methode-pour-preparer-votre-signature",
+      "text": "La méthode en six étapes pour préparer votre signature"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Fixez votre budget total, pas seulement votre prix cible",
+          "html": "Partez de votre épargne réellement mobilisable et de votre capacité d'emprunt. Réservez une ligne distincte pour les frais d'acquisition, puis une autre pour les frais de crédit et les travaux urgents."
+        },
+        {
+          "title": "Demandez une première estimation dès l'offre acceptée",
+          "html": "Transmettez le prix, l'adresse, la nature du bien, les frais d'agence et votre calendrier au notaire. Une estimation actualisée vous donnera une provision plus juste."
+        },
+        {
+          "title": "Faites valider le plan par la banque",
+          "html": "Indiquez explicitement le montant des frais à couvrir. Vérifiez ce qui est inclus dans le prêt, ce qui reste à votre charge et à quelle date les fonds seront débloqués."
+        },
+        {
+          "title": "Centralisez l'origine de votre apport",
+          "html": "Rassemblez les relevés, attestations et actes justificatifs. Si vous vendez un autre bien, communiquez les informations de cette vente et anticipez le décalage éventuel entre les deux signatures."
+        },
+        {
+          "title": "Contrôlez le décompte final",
+          "html": "Quelques jours ou semaines avant l'acte, relisez l'appel de fonds: prix restant dû, dépôt déjà versé, frais d'acquisition, montant du prêt et solde personnel doivent être cohérents."
+        },
+        {
+          "title": "Virez les fonds en avance et confirmez leur réception",
+          "html": "Respectez le délai fixé par l'étude et votre banque. Demandez confirmation que le virement est bien arrivé, sans communiquer vos données bancaires par un canal non sécurisé."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reduire-legalement-les-frais-sans-mauvaise-surprise",
+      "text": "Réduire légalement les frais: les pistes utiles et leurs limites"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n'existe pas de négociation libre sur les taxes: elles sont dues selon le régime applicable. En revanche, vous pouvez éviter de payer plus que nécessaire en faisant rédiger correctement l'opération. Si le logement est vendu avec des meubles réellement distincts — cuisine équipée non intégrée, électroménager, mobilier — leur valeur peut parfois être isolée du prix immobilier. Cette valorisation doit être réaliste, détaillée et justifiable, idéalement avec des factures ou un inventaire. Gonfler artificiellement cette somme est une mauvaise idée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La répartition des frais d'agence mérite aussi d'être lue attentivement avant de signer l'offre ou le compromis. Elle ne se modifie pas au dernier moment par une simple formule. Enfin, ne confondez pas réduction des frais d'acquisition et réduction du coût global: acheter plus loin, choisir un bien neuf ou emprunter davantage peut réduire un poste tout en augmentant d'autres dépenses. La bonne décision se prend sur le budget complet et sur la qualité du bien, pas sur un pourcentage isolé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-d-action-avant-l-acte",
+      "text": "Votre plan d'action avant l'acte de vente"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dès que votre projet devient concret, demandez deux chiffres: une estimation de frais à l'étude notariale et un coût global à votre banque ou courtier. Additionnez-les au prix réellement dû après déduction du dépôt de garantie. Vérifiez ensuite que votre apport couvre bien la part que le prêt ne financera pas, sans vider totalement votre épargne de précaution."
+    },
+    {
+      "type": "paragraph",
+      "html": "La semaine précédant l'acte, contrôlez les coordonnées bancaires de l'étude, le montant exact de l'appel de fonds, la date de valeur du virement et les pièces qui manquent encore. Cette vérification finale transforme les frais de notaire d'une dépense redoutée en une étape budgétée, documentée et maîtrisée."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on inclure les frais de notaire dans un prêt immobilier?",
+      "a": "<p>Oui, certaines banques peuvent financer tout ou partie des frais d'acquisition en plus du prix du bien. Elles examinent alors votre apport, votre niveau d'endettement, la valeur du logement et votre situation professionnelle. Ce montage n'est ni systématique ni forcément le moins coûteux, car vous empruntez davantage et payez des intérêts sur une somme plus importante. Demandez à la banque une simulation avec et sans financement des frais.</p>"
+    },
+    {
+      "q": "À quel moment le notaire demande-t-il le paiement des frais?",
+      "a": "<p>Le règlement est lié à la signature de l'acte authentique, mais l'étude vous demande habituellement d'effectuer le virement avant le rendez-vous. Le délai exact varie selon le dossier et votre banque. Attendez l'appel de fonds du notaire: il indiquera la provision à verser, la référence à rappeler et les coordonnées bancaires à vérifier avec vigilance.</p>"
+    },
+    {
+      "q": "Quels justificatifs faut-il fournir pour l'origine des fonds?",
+      "a": "<p>Cela dépend de votre situation. Pour une épargne, des relevés de compte ou une attestation bancaire peuvent être demandés. Pour le produit d'une revente, l'acte de vente ou le décompte du notaire est utile. Pour une donation ou une succession, il faut en principe les documents établissant l'origine et le transfert des sommes. Prévenez l'étude en amont si les fonds viennent de l'étranger ou de plusieurs personnes.</p>"
+    },
+    {
+      "q": "Les frais de notaire sont-ils remboursés si la vente n'aboutit pas?",
+      "a": "<p>Si la vente s'arrête avant l'acte authentique, les frais d'acquisition ne sont normalement pas dus puisque la mutation n'a pas lieu. En revanche, des frais déjà engagés peuvent exister selon le stade du dossier et les stipulations du compromis. Le sort du dépôt de garantie dépend, lui, notamment des conditions suspensives: par exemple, un refus de prêt conforme aux conditions prévues peut permettre sa restitution. Relisez le compromis avec le notaire.</p>"
+    },
+    {
+      "q": "Les frais de notaire sont-ils les mêmes pour un terrain à bâtir?",
+      "a": "<p>Non, le calcul dépend du statut du terrain, de son vendeur et du régime fiscal de la vente. Un terrain vendu par un particulier n'est pas traité comme une parcelle cédée dans le cadre d'une opération professionnelle. Il faut aussi prévoir, au-delà de l'acquisition, les coûts de viabilisation, de raccordement, de bornage éventuel, de construction et de financement. Demandez une estimation spécifique avant de déposer votre budget de construction.</p>"
+    },
+    {
+      "q": "Peut-on payer les frais de notaire en espèces ou par chèque?",
+      "a": "<p>Pour une acquisition immobilière, le virement bancaire est la solution à retenir et celle que l'étude vous indiquera généralement. Les règles de paiement des sommes importantes et les procédures des études limitent fortement le recours aux espèces ou au chèque. Ne prenez aucune initiative sans l'accord explicite du notaire: demandez les coordonnées, le délai et la référence de virement directement à l'étude.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

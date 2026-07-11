@@ -1,0 +1,350 @@
+{
+  "id": 1006,
+  "slug": "le-code-des-assurances-quels-sont-vos-droits-et-obligations",
+  "title": "Le code des assurances : quels sont vos droits et obligations ?",
+  "metaTitle": "Code des assurances: droits et obligations de l’assuré",
+  "metaDescription": "Code des assurances: droits, obligations, délais de sinistre, résiliation et recours: les règles à connaître pour protéger votre contrat au quotidien.",
+  "dek": "Le Code des assurances encadre la relation entre l’assuré et l’assureur, de la souscription au règlement d’un sinistre. Savoir ce qu’il protège — et ce qu’il vous impose — évite bien des refus de garantie et des démarches tardives.",
+  "category": "assurance-finance",
+  "tags": [
+    "code des assurances",
+    "droits de l’assuré",
+    "sinistre",
+    "résiliation",
+    "contrat d’assurance"
+  ],
+  "keyTakeaways": [
+    "Lisez les garanties, exclusions, plafonds et franchises avant de signer: la publicité ne fait pas le contrat.",
+    "Déclarez exactement le risque à l’assureur et signalez les changements qui l’aggravent.",
+    "En cas de sinistre, prévenez vite votre assureur et conservez toutes les preuves.",
+    "Une fausse déclaration peut réduire l’indemnité ou, si elle est intentionnelle, annuler le contrat.",
+    "Avant tout litige, adressez une réclamation écrite et utilisez la médiation de l’assurance si nécessaire."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Un contrat d’assurance n’est pas seulement une promesse d’indemnisation: c’est un accord encadré par des règles précises, avec des droits pour vous et des obligations à respecter. Le Code des assurances fixe une grande partie de ce cadre, mais la réponse à votre problème dépend aussi des garanties réellement souscrites. Voici comment lire ces règles, agir au bon moment et défendre efficacement vos intérêts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "a-quoi-sert-le-code-des-assurances",
+      "text": "À quoi sert réellement le Code des assurances?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Code des assurances rassemble les règles applicables à de nombreux contrats: auto, habitation, responsabilité civile, emprunteur, protection juridique, assurance vie ou encore prévoyance selon les cas. Il fixe notamment les informations que l’assureur doit vous remettre, les obligations de déclaration du risque, les délais en cas de sinistre, la prescription et les conditions de résiliation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne remplace toutefois pas votre contrat. La loi pose un socle et interdit certaines pratiques, tandis que les <strong>conditions particulières</strong> précisent votre situation: bien assuré, niveau de garantie, cotisation, plafond, franchise et bénéficiaires. Les <strong>conditions générales</strong>, elles, détaillent les événements garantis, les exclusions et les formalités à accomplir. En cas de doute, ce sont ces documents, lus avec les règles légales, qui permettent de savoir si une prise en charge est due."
+    },
+    {
+      "type": "table",
+      "caption": "Les textes à identifier avant de faire valoir un droit",
+      "headers": [
+        "Document ou règle",
+        "Ce qu’il vous apprend",
+        "Pourquoi c’est utile"
+      ],
+      "rows": [
+        [
+          "Conditions particulières",
+          "Vos biens, vos options, les montants, la date d’effet et la cotisation",
+          "Elles confirment ce que vous avez effectivement souscrit"
+        ],
+        [
+          "Conditions générales",
+          "Garanties, exclusions, franchises, déclarations et procédure de sinistre",
+          "Elles permettent de vérifier les limites invoquées par l’assureur"
+        ],
+        [
+          "Code des assurances",
+          "Règles impératives sur le contrat, les délais et les recours",
+          "Il peut écarter une clause contraire à la loi"
+        ],
+        [
+          "Code de la mutualité ou Code de la consommation",
+          "Règles complémentaires selon l’organisme et votre statut de consommateur",
+          "Tous les organismes d’assurance ne relèvent pas exactement du même code"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Une complémentaire santé proposée par une mutuelle relève souvent du Code de la mutualité, et non du seul Code des assurances. Les grands réflexes restent proches, mais vérifiez toujours le régime indiqué sur vos documents contractuels.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vos-droits-avant-la-signature",
+      "text": "Avant de souscrire: votre droit à une information compréhensible"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant l’adhésion, l’assureur, l’agent ou le courtier doit vous permettre de comprendre ce que vous achetez. Pour les assurances de dommages, un document standardisé d’information sur le produit d’assurance est fréquemment remis: il résume les garanties, les exclusions principales et les limites. Il ne dispense pas de lire le contrat, mais il facilite une première comparaison."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous avez le droit de connaître, avant votre engagement, le prix ou son mode de calcul, la durée du contrat, les garanties incluses et optionnelles, les franchises, les plafonds d’indemnisation, les délais de carence éventuels ainsi que les voies de réclamation. Les exclusions doivent être rédigées de manière suffisamment visible et précise. Une formule vague du type « tout comportement inapproprié » ne donne pas à l’assureur un blanc-seing pour refuser une garantie."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Demandez le <strong>montant maximal indemnisable</strong> par sinistre et par année, surtout pour le vol, les objets de valeur et la responsabilité civile.",
+        "Repérez la <strong>franchise</strong>, c’est-à-dire la somme qui restera à votre charge même si le sinistre est garanti.",
+        "Vérifiez les définitions: un dégât des eaux, un vol ou une panne ne sont pas couverts de façon identique d’un contrat à l’autre.",
+        "Contrôlez la date de prise d’effet: une garantie peut ne pas être acquise immédiatement.",
+        "Si vous passez par un intermédiaire, demandez son rôle, sa rémunération éventuelle et les coordonnées de l’assureur qui porte le risque."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne confondez pas une simulation, un devis et une attestation définitive. Tant que le contrat n’est pas formé et que sa date d’effet n’est pas atteinte, vous pouvez ne pas être couvert, même si vous avez commencé les démarches.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "garanties-exclusions-et-indemnisation",
+      "text": "Garanties, exclusions et franchises: ce que vous pouvez exiger"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre premier droit est de bénéficier de la garantie prévue lorsque le sinistre entre dans son champ. L’assureur ne peut pas opposer une exclusion cachée ou incompréhensible. En assurance de dommages, le Code des assurances encadre notamment les exclusions: elles doivent être formelles, limitées et portées clairement à votre connaissance. Les dommages causés intentionnellement par l’assuré ne sont, en principe, pas assurables."
+    },
+    {
+      "type": "paragraph",
+      "html": "Mais être garanti ne signifie pas nécessairement être remboursé intégralement. L’indemnité dépend de la preuve du dommage, de la valeur retenue par le contrat, de la vétusté, d’un plafond et de la franchise. Pour un appareil électroménager volé, par exemple, une formule peut indemniser sur la base de sa valeur d’usage; une option plus protectrice peut prévoir un remplacement à neuf pendant une période limitée. Comparez donc le <strong>niveau d’indemnisation</strong>, pas seulement la cotisation annuelle."
+    },
+    {
+      "type": "compare",
+      "title": "Deux façons de comparer une assurance au-delà du prix",
+      "a": {
+        "title": "Contrat à cotisation basse",
+        "points": [
+          "Franchise souvent plus élevée en cas de sinistre",
+          "Plafonds, garanties annexes ou valeur à neuf parfois plus limités",
+          "Peut convenir si vous pouvez absorber une dépense imprévue"
+        ]
+      },
+      "b": {
+        "title": "Contrat plus couvrant",
+        "points": [
+          "Franchise plus faible ou options d’indemnisation renforcées",
+          "Protection plus large pour les dommages coûteux ou fréquents",
+          "Pertinent si le bien est difficile à remplacer ou indispensable"
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un refus n’est pas valable parce qu’il est annoncé au téléphone. Demandez toujours une position écrite précisant la clause contractuelle et les éléments de fait sur lesquels l’assureur s’appuie.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vos-droits-en-cas-de-sinistre",
+      "text": "En cas de sinistre: indemnisation, expertise et preuve"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un accident, un incendie, un vol ou un dégât des eaux, vous pouvez déclarer le sinistre et demander l’application de vos garanties. L’assureur doit instruire le dossier loyalement, vous indiquer les pièces nécessaires et motiver sa décision. Il peut mandater un expert, notamment lorsque les dommages sont importants ou techniquement contestés. L’expert évalue; il ne décide pas seul de vos droits. Vous pouvez lui transmettre factures, photographies, devis, attestations et tout élément démontrant l’existence et la valeur des biens."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l’évaluation de l’expert de l’assureur vous paraît insuffisante, vous pouvez demander une contre-expertise à vos frais. Selon le contrat, une garantie de protection juridique peut financer ou accompagner cette démarche. En cas de désaccord persistant, une tierce expertise peut être organisée, ou le litige peut être porté devant un juge. Gardez à l’esprit que réparer ou jeter un bien avant le passage de l’expert peut rendre la preuve plus difficile, sauf mesure d’urgence nécessaire pour éviter l’aggravation des dégâts."
+    },
+    {
+      "type": "paragraph",
+      "html": "En responsabilité civile, la victime dispose en outre d’une action directe contre l’assureur de la personne responsable. Si vous êtes la victime d’un dommage causé par quelqu’un d’autre, ne vous contentez donc pas d’échanger avec le responsable: identifiez son assureur lorsque cela est possible et constituez un dossier précis sur votre préjudice."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Sécurisez et limitez les dommages",
+          "html": "Faites intervenir les secours si nécessaire, prenez les mesures urgentes raisonnables et conservez les justificatifs des dépenses engagées."
+        },
+        {
+          "title": "Documentez immédiatement",
+          "html": "Photographiez les lieux et les biens, notez les circonstances, recueillez les coordonnées des témoins et gardez factures, contrats, dépôt de plainte ou constat amiable."
+        },
+        {
+          "title": "Déclarez par un moyen traçable",
+          "html": "Utilisez l’espace client, le courrier recommandé si le dossier est sensible, ou tout canal qui vous donne une preuve de la date et du contenu de votre déclaration."
+        },
+        {
+          "title": "Demandez une réponse motivée",
+          "html": "En cas de refus ou d’offre insuffisante, réclamez la clause exacte invoquée et vérifiez qu’elle est applicable à votre situation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vos-obligations-envers-lassureur",
+      "text": "Vos obligations: déclarer le risque, payer et agir de bonne foi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Code des assurances impose d’abord de répondre exactement aux questions posées par l’assureur lors de la souscription. Ce n’est pas à vous de deviner toutes les informations qui pourraient l’intéresser, mais vous ne devez ni minimiser ni dissimuler ce qui vous est demandé: antécédents de sinistres, usage professionnel d’un véhicule, surface réelle du logement, dépendances, valeur d’objets ou conducteur habituel, par exemple."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous devez aussi déclarer, en cours de contrat, les circonstances nouvelles qui aggravent le risque ou rendent les réponses initiales inexactes. Transformer un garage en atelier, louer régulièrement un logement, installer une activité professionnelle à domicile ou laisser un jeune conducteur utiliser quotidiennement une voiture sont des changements à signaler. L’assureur peut alors maintenir le contrat avec une cotisation adaptée ou proposer une modification. Il peut également, dans certaines conditions, résilier."
+    },
+    {
+      "type": "paragraph",
+      "html": "La mauvaise foi coûte cher. Une fausse déclaration intentionnelle peut entraîner la nullité du contrat: les sinistres peuvent alors ne pas être couverts. Une omission non intentionnelle n’a pas automatiquement le même effet, mais elle peut conduire à une réduction proportionnelle de l’indemnité ou à une adaptation de la cotisation. La distinction dépend des circonstances et de ce que l’assureur peut démontrer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, vous devez payer la prime aux échéances prévues et respecter les mesures de prévention prévues au contrat lorsqu’elles conditionnent une garantie: fermeture d’un logement, alarme déclarée, entretien d’un équipement ou dispositif antivol, par exemple. Si une cotisation reste impayée, l’assureur ne peut pas supprimer la couverture sans formalité: après une mise en demeure, la garantie peut être suspendue à l’issue des délais légaux, puis le contrat résilié. N’ignorez donc jamais un courrier de relance."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "2 ans",
+          "label": "délai de prescription généralement applicable aux actions nées du contrat, avec des exceptions importantes"
+        },
+        {
+          "value": "5 jours ouvrés",
+          "label": "délai plancher habituel pour déclarer un sinistre, sauf cas particuliers prévus par la loi"
+        },
+        {
+          "value": "2 jours ouvrés",
+          "label": "délai plancher qui peut être prévu pour déclarer un vol"
+        },
+        {
+          "value": "30 jours",
+          "label": "délai de déclaration à compter de la publication de l’arrêté pour une catastrophe naturelle reconnue"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil pratique",
+      "html": "<p>Mettez à jour votre contrat dès qu’un usage change. Une déclaration écrite simple, envoyée avant le prochain sinistre, vaut beaucoup mieux qu’une explication a posteriori.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "delais-a-surveiller-et-resiliation",
+      "text": "Délais à surveiller: sinistre, prescription et résiliation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les délais commencent souvent à courir plus tôt qu’on ne le pense. Pour un sinistre, prévenez votre assureur dès que vous en avez connaissance, sans attendre d’avoir toutes les factures. Les délais précis figurent dans le contrat et varient selon l’événement. Pour un vol, une déclaration aux autorités est généralement indispensable. Pour une catastrophe naturelle, le délai spécifique dépend de la publication de l’arrêté de reconnaissance."
+    },
+    {
+      "type": "paragraph",
+      "html": "La prescription est le délai au-delà duquel une action peut ne plus être recevable. En assurance, il est le plus souvent de deux ans, mais le point de départ et les exceptions sont déterminants. Certaines actions liées à des dommages corporels subis par un tiers obéissent notamment à un délai plus long. Une expertise, une réclamation formelle ou certains courriers peuvent avoir des effets sur ce délai. En cas d’enjeu financier sérieux, ne misez pas sur une interprétation approximative: demandez un avis juridique rapidement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour résilier, vous disposez en principe d’une faculté à l’échéance annuelle, avec un préavis souvent fixé à deux mois. De nombreux contrats individuels peuvent aussi être résiliés à tout moment après leur première année, notamment en auto et en habitation. Pour l’assurance automobile obligatoire et souvent pour l’habitation, le nouvel assureur peut accomplir les formalités afin d’éviter toute période sans couverture. Les contrats d’assurance vie, collectifs ou professionnels répondent à des règles distinctes: vérifiez la notice et les conditions de résiliation applicables."
+    },
+    {
+      "type": "compare",
+      "title": "Résilier seul ou laisser le nouvel assureur s’en charger?",
+      "a": {
+        "title": "Vous résiliez vous-même",
+        "points": [
+          "Vous gardez la maîtrise de la date et du courrier envoyé",
+          "Vous devez vérifier qu’aucune obligation d’assurance ne crée une interruption de couverture",
+          "Adapté si vous cessez d’avoir besoin du bien assuré ou si vous ne changez pas immédiatement d’assureur"
+        ]
+      },
+      "b": {
+        "title": "Le nouvel assureur résilie pour vous",
+        "points": [
+          "La continuité de couverture est plus simple à organiser",
+          "La démarche est particulièrement utile pour l’auto et certains contrats habitation",
+          "Vérifiez néanmoins la date d’effet et les garanties du nouveau contrat avant toute bascule"
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "contester-une-decision-de-lassureur",
+      "text": "Refus d’indemnisation ou désaccord: quels recours?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un désaccord se règle souvent avec un dossier mieux étayé. Commencez par relire le contrat, puis écrivez au service gestionnaire en rappelant le numéro de sinistre, les faits, votre demande et les pièces jointes. Si la réponse ne vous satisfait pas, saisissez le service réclamations de l’assureur. Restez factuel: contestez une clause inapplicable, une expertise insuffisamment justifiée ou une pièce mal interprétée, plutôt que de vous limiter à exprimer votre mécontentement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après cette étape, vous pouvez généralement saisir gratuitement le médiateur compétent pour l’assurance, à condition d’avoir tenté une réclamation écrite et de respecter les modalités annoncées par l’organisme. La médiation donne un avis ou propose une solution, sans vous empêcher de saisir ensuite la justice si le litige persiste. Une association de consommateurs, votre protection juridique ou un avocat peuvent aussi vous aider à apprécier vos chances, surtout si une expertise, un préjudice corporel ou une somme importante sont en cause."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À ne pas faire",
+      "html": "<p>Ne laissez pas passer le délai de prescription en attendant une réponse informelle. Si le dossier bloque, adressez une réclamation écrite traçable et faites-vous conseiller avant l’expiration des délais.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verifier-son-contrat-des-aujourdhui",
+      "text": "Ce que vous pouvez faire dès aujourd’hui pour être mieux protégé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez trente minutes pour retrouver vos conditions particulières, vos conditions générales et votre dernier avis d’échéance. Vérifiez d’abord que les informations déclarées sont encore justes: adresse, usage du bien, occupants, conducteur principal, valeur des équipements et éventuelle activité professionnelle. Puis relevez, pour chaque garantie essentielle, le plafond, la franchise, les exclusions et le numéro à appeler en urgence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Conservez ces documents dans un espace accessible hors de votre domicile, avec des photographies récentes de vos biens et les factures importantes. En cas de sinistre majeur, cette organisation accélère la déclaration et rend la discussion avec l’expert beaucoup plus solide. Si votre contrat est ancien ou si votre situation a changé, demandez une comparaison à garanties équivalentes: la meilleure décision n’est pas toujours de payer moins, mais de savoir précisément quel risque vous choisissez de conserver à votre charge."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Plan d’action",
+      "html": "<p>Relisez vos garanties, corrigez toute information devenue inexacte, notez les délais de déclaration et archivez vos preuves. Ce sont les quatre gestes les plus efficaces pour faire jouer vos droits sans mauvaise surprise.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le délai pour déclarer un sinistre à son assurance?",
+      "a": "<p>Vous devez prévenir l’assureur dès que vous avez connaissance du sinistre et respecter le délai indiqué au contrat. Ce délai ne peut généralement pas être inférieur à cinq jours ouvrés; il peut être ramené à deux jours ouvrés pour un vol. Pour une catastrophe naturelle reconnue, la déclaration doit en principe être faite dans les trente jours suivant la publication de l’arrêté. N’attendez pas d’avoir réuni toutes les preuves: déclarez d’abord, puis complétez le dossier.</p>"
+    },
+    {
+      "q": "L’assureur peut-il refuser une indemnisation à cause d’une exclusion?",
+      "a": "<p>Oui, mais pas sur la base de n’importe quelle formule. L’exclusion doit être prévue dans votre contrat, être suffisamment précise et avoir été portée clairement à votre connaissance. Demandez une réponse écrite qui cite la clause exacte, puis vérifiez si les faits de votre dossier correspondent réellement à cette exclusion. Un plafond, une franchise ou une condition de garantie ne produisent pas les mêmes effets qu’une exclusion: il faut les distinguer.</p>"
+    },
+    {
+      "q": "Que risque-t-on si l’on a oublié de déclarer un changement de situation?",
+      "a": "<p>Tout dépend de l’importance du changement, des questions qui vous avaient été posées et de votre bonne foi. Une omission peut conduire l’assureur à adapter la cotisation ou à réduire l’indemnité selon le rapport entre la prime payée et celle qui aurait dû l’être. Si une fausse déclaration intentionnelle est établie, la nullité du contrat peut être demandée. Signalez donc sans attendre une aggravation de risque, même si vous pensez qu’elle est mineure.</p>"
+    },
+    {
+      "q": "Puis-je résilier mon assurance à n’importe quel moment?",
+      "a": "<p>Pour de nombreux contrats individuels, vous pouvez résilier à l’échéance annuelle en respectant le préavis prévu. Après un an, une résiliation à tout moment est possible pour plusieurs contrats courants, notamment l’assurance auto et l’assurance habitation. Les règles diffèrent toutefois selon le produit: assurance vie, contrat collectif via l’employeur, assurance professionnelle ou garantie liée à un crédit. Vérifiez les conditions particulières et la notice avant d’envoyer votre demande.</p>"
+    },
+    {
+      "q": "Comment contester l’expertise de mon assurance habitation ou auto?",
+      "a": "<p>Demandez d’abord le détail de l’évaluation et transmettez vos pièces contradictoires: factures, devis, photos, valeur de remplacement ou rapport technique. Si le désaccord demeure, vous pouvez recourir à un expert de votre choix, souvent appelé contre-expert, en vérifiant si votre protection juridique prend en charge tout ou partie des frais. Une tierce expertise ou une action en justice peuvent ensuite être envisagées. N’acceptez pas trop vite une proposition si vous ne disposez pas des éléments pour l’évaluer.</p>"
+    },
+    {
+      "q": "Quel est le délai de prescription d’un litige avec son assureur?",
+      "a": "<p>Le délai est généralement de deux ans pour les actions nées du contrat d’assurance, mais des exceptions existent, notamment pour certains dommages corporels et selon la nature exacte du litige. Le point de départ peut aussi être discuté: date du sinistre, date de sa découverte, demande de l’assureur ou information d’un tiers. Des actes comme une expertise ou certains courriers formels peuvent influer sur ce délai. En cas de refus d’indemnisation, n’attendez pas la dernière minute pour obtenir un conseil personnalisé.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

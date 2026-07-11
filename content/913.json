@@ -1,0 +1,344 @@
+{
+  "id": 913,
+  "slug": "comment-reussir-un-delicieux-gateau-aux-noix-avec-le-thermomix",
+  "title": "Comment réussir un délicieux gâteau aux noix avec le Thermomix ?",
+  "metaTitle": "Gâteau aux noix Thermomix: recette moelleuse et conseils",
+  "metaDescription": "Réalisez un gâteau aux noix Thermomix moelleux: ingrédients, vitesses, cuisson, variantes et conseils pour une texture fondante et une croûte réussie.",
+  "dek": "Un bon gâteau aux noix doit être parfumé, moelleux sans être lourd et suffisamment cuit pour se découper proprement. Avec le Thermomix, la régularité dépend surtout du broyage des noix, de l’ordre de mélange et d’une cuisson surveillée.",
+  "category": "loisirs-sport",
+  "tags": [
+    "Thermomix",
+    "gâteau aux noix",
+    "pâtisserie maison",
+    "recette facile",
+    "goûter"
+  ],
+  "keyTakeaways": [
+    "Mélangez des noix finement moulues et quelques éclats pour une texture plus intéressante.",
+    "Après l’ajout de la farine, mixez le moins longtemps possible afin de garder un gâteau tendre.",
+    "Un moule de 20 à 22 cm donne une épaisseur adaptée à une cuisson régulière.",
+    "Sortez le gâteau quand la lame ressort avec quelques miettes humides, jamais avec de la pâte liquide.",
+    "Laissez-le reposer avant de le démouler: il se raffermit et ses arômes de noix se développent."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le Thermomix simplifie le travail des noix et de la pâte, mais il ne remplace pas les deux gestes qui font la différence: ne pas surmixer la farine et maîtriser la cuisson. Voici une recette de base fiable, des réglages indicatifs et les ajustements utiles pour obtenir un gâteau aux noix généreux, à servir au goûter comme en dessert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reperes-gateau-aux-noix-thermomix",
+      "text": "Les repères d’un gâteau aux noix vraiment moelleux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le gâteau aux noix est un gâteau de voyage: sa richesse vient des cerneaux, qui apportent à la fois du goût, du gras naturel et une texture légèrement humide. Il ne doit donc pas être aussi aérien qu’un biscuit de Savoie. Le bon résultat est une mie souple, un parfum franc de noix et une croûte fine, dorée sans être sèche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec le Thermomix, le principal risque est de réduire les noix en pâte huileuse ou de travailler la farine trop longtemps. Broyez les cerneaux par impulsions brèves, puis arrêtez dès que vous obtenez une poudre avec quelques grains plus visibles. Une partie des noix peut aussi être réservée en éclats: elle donnera du relief à chaque part."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pourquoi laisser les ingrédients se tempérer?",
+      "html": "<p>Des œufs et un beurre sortis 30 minutes avant la préparation s’incorporent plus facilement. La pâte est plus homogène et le gâteau lève de façon plus régulière.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "200 g",
+          "label": "de cerneaux de noix dans la recette de base"
+        },
+        {
+          "value": "20 à 22 cm",
+          "label": "de diamètre conseillé pour un gâteau assez épais"
+        },
+        {
+          "value": "175 °C",
+          "label": "pour une cuisson traditionnelle généralement adaptée"
+        },
+        {
+          "value": "35 à 42 min",
+          "label": "de cuisson à surveiller selon le moule et le four"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ingredients-et-materiel",
+      "text": "Les ingrédients, le moule et les bons équilibres"
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule ci-dessous convient à un moule rond de 20 à 22 cm, soit environ 8 parts. Préférez des cerneaux de noix frais, sans odeur rance ni goût amer. Si votre sachet est ouvert depuis longtemps, goûtez-en un avant de commencer: aucune quantité de sucre ou de vanille ne corrigera des noix oxydées."
+    },
+    {
+      "type": "table",
+      "caption": "Recette de base du gâteau aux noix au Thermomix",
+      "headers": [
+        "Ingrédient ou matériel",
+        "Quantité et rôle"
+      ],
+      "rows": [
+        [
+          "Cerneaux de noix",
+          "200 g, dont 160 g à moudre et 40 g à garder en éclats"
+        ],
+        [
+          "Œufs",
+          "4, pour structurer et alléger la pâte"
+        ],
+        [
+          "Sucre en poudre",
+          "140 g; descendez vers 110 à 120 g pour un résultat moins sucré"
+        ],
+        [
+          "Beurre doux mou",
+          "120 g, pour le fondant et la saveur"
+        ],
+        [
+          "Farine de blé",
+          "150 g, idéalement tamisée si elle forme des paquets"
+        ],
+        [
+          "Levure chimique",
+          "1 sachet d’environ 11 g, pour une levée régulière"
+        ],
+        [
+          "Vanille et sel",
+          "1 cuillère à café de vanille et 1 pincée de sel, pour relever les noix"
+        ],
+        [
+          "Moule",
+          "Un moule métallique beurré et chemisé de papier cuisson"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le beurre peut être remplacé par 100 g de beurre et 20 g d’huile neutre si vous recherchez une mie qui reste souple un peu plus longtemps. Pour une version sans gluten, choisissez un mélange pâtissier prêt à l’emploi en remplacement poids pour poids de la farine; vérifiez que sa composition prévoit un liant, car une simple farine de riz donne souvent un gâteau friable."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux allergies",
+      "html": "<p>Les noix font partie des fruits à coque allergènes. Pour une personne allergique, ne vous contentez pas de retirer les morceaux visibles: évitez aussi toute contamination par le bol, la spatule, le moule ou le plan de travail.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recette-pas-a-pas",
+      "text": "La recette pas à pas avec le Thermomix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les vitesses ci-dessous sont des repères qui conviennent à la plupart des modèles. Adaptez légèrement la durée si vous utilisez une petite quantité de noix ou si vous constatez que votre appareil les réduit très vite. L’objectif est une pâte homogène, non surtravaillée."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Préparez le four et le moule",
+          "html": "Préchauffez le four à <strong>175 °C en chaleur traditionnelle</strong>, ou autour de 165 °C en chaleur tournante. Beurrez le moule puis posez un disque de papier cuisson au fond; une bande sur les côtés facilite aussi le démoulage."
+        },
+        {
+          "title": "Broyez les noix sans les transformer en purée",
+          "html": "Placez 160 g de cerneaux dans le bol et mixez environ 4 à 6 secondes à vitesse 6. Contrôlez la texture. Réservez cette poudre. Concassez grossièrement les 40 g restants au couteau ou par une très brève impulsion, puis réservez-les séparément."
+        },
+        {
+          "title": "Crémez beurre, sucre et vanille",
+          "html": "Sans forcément laver le bol, ajoutez le beurre mou, le sucre et la vanille. Mélangez environ 30 secondes à vitesse 4. Raclez les parois avec la spatule: ce geste évite qu’une partie du beurre reste mal incorporée."
+        },
+        {
+          "title": "Incorporez les œufs",
+          "html": "Ajoutez les quatre œufs et mélangez environ 35 à 40 secondes à vitesse 4. La préparation doit être lisse. Si le beurre était trop froid et que le mélange semble grumeleux, ce n’est pas rédhibitoire: la cuisson rééquilibrera la pâte."
+        },
+        {
+          "title": "Ajoutez les poudres brièvement",
+          "html": "Versez la farine, la levure, le sel et les 160 g de noix moulues. Mélangez 12 à 15 secondes à vitesse 4, puis terminez à la spatule si nécessaire. Incorporez enfin les éclats de noix réservés sans les broyer."
+        },
+        {
+          "title": "Cuisez puis laissez stabiliser",
+          "html": "Versez dans le moule, lissez juste la surface et enfournez sur une grille au milieu du four pendant 35 à 42 minutes. Laissez reposer 10 à 15 minutes dans le moule avant de démouler sur une grille."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour accentuer le goût de noix",
+      "html": "<p>Vous pouvez torréfier les cerneaux 7 à 9 minutes vers 160 °C avant de les mixer. Laissez-les refroidir complètement: des noix encore chaudes libèrent plus d’huile et risquent de former une pâte dans le bol.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "texture-noix-moulues-ou-eclats",
+      "text": "Noix moulues ou éclats: choisissez la texture qui vous plaît"
+    },
+    {
+      "type": "paragraph",
+      "html": "La taille des morceaux change plus le gâteau que l’on ne l’imagine. Une poudre très fine se fond dans la mie et donne une saveur régulière. Des éclats plus gros créent au contraire des touches croquantes, mais rendent une découpe nette un peu moins facile. Le mélange des deux est le choix le plus polyvalent."
+    },
+    {
+      "type": "compare",
+      "title": "Deux textures possibles pour votre gâteau",
+      "a": {
+        "title": "Toutes les noix finement moulues",
+        "points": [
+          "Mie très homogène, fondante et facile à trancher.",
+          "Bonne option pour un gâteau à garnir d’un glaçage ou à emporter.",
+          "Saveur diffuse, avec peu de croquant."
+        ]
+      },
+      "b": {
+        "title": "Noix moulues et éclats réservés",
+        "points": [
+          "Bouchées plus gourmandes et parfum plus contrasté.",
+          "Belle présentation à la coupe, surtout si quelques morceaux restent visibles.",
+          "Demande de couper avec un couteau bien affûté pour ne pas émietter les parts."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez de monter au-delà d’environ un tiers de gros morceaux dans la quantité totale de noix. Trop d’éclats alourdissent la pâte et peuvent la faire s’effriter. Si vous souhaitez décorer le dessus, gardez plutôt quelques demi-cerneaux et posez-les délicatement après avoir lissé la pâte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "maitriser-la-cuisson",
+      "text": "Maîtriser la cuisson sans assécher le gâteau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le temps affiché par une recette ne peut être qu’indicatif: un moule en silicone, en verre ou très épais ralentit la cuisson, tandis qu’un four ventilé colore plus vite la surface. Commencez à vérifier à partir de 35 minutes, sans ouvrir la porte trop tôt. Le gâteau doit être gonflé, légèrement doré et commencer à se détacher des bords."
+    },
+    {
+      "type": "paragraph",
+      "html": "Plantez une lame fine ou un pique au centre, là où la pâte est la plus épaisse. Elle doit ressortir avec quelques miettes humides, mais sans pâte brillante et collante. Une lame totalement sèche peut indiquer que le gâteau est déjà un peu trop cuit, surtout avec une pâte riche en noix."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le dessus brunit trop vite:</strong> posez une feuille d’aluminium sans serrer sur le moule pour la fin de cuisson.",
+        "<strong>Le centre reste liquide:</strong> prolongez par tranches de 4 à 5 minutes et vérifiez de nouveau; ne montez pas brutalement la température.",
+        "<strong>Le gâteau est compact:</strong> vérifiez la fraîcheur de la levure et réduisez le temps de mélange après l’ajout de la farine.",
+        "<strong>Le gâteau s’émiette:</strong> laissez-le refroidir davantage avant de le couper; une mie aux noix se raffermit en reposant."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le test le plus fiable",
+      "html": "<p>Ne jugez pas seulement à la couleur. Dans un gâteau aux noix, le contrôle au centre et le repos hors du four sont les deux meilleurs moyens de préserver le moelleux.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "variantes-gourmandes",
+      "text": "Trois variantes qui fonctionnent sans déséquilibrer la pâte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de modifier plusieurs éléments à la fois, réussissez une première fois la version de base. Vous saurez ensuite si une texture différente vient de la variante ou de la cuisson. Les noix se marient particulièrement bien avec les fruits légèrement acidulés, le café et le chocolat noir."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "version-poire-et-noix",
+      "text": "Poire et noix: plus fondant, mais cuisson plus longue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ajoutez une petite poire ferme, pelée et coupée en dés, soit environ 120 à 150 g. Mélangez les dés avec une cuillère de farine prélevée sur la quantité prévue afin de limiter leur chute au fond. La poire apporte de l’humidité: comptez souvent quelques minutes de cuisson supplémentaires et contrôlez soigneusement le centre."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "version-chocolat-noir",
+      "text": "Chocolat noir: une note intense sans alourdir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Incorporez 70 à 80 g de chocolat noir concassé avec les éclats de noix. Des pépites prêtes à l’emploi conviennent également. Avec un chocolat bien corsé, vous pouvez réduire le sucre de 10 à 20 g si vous préférez un dessert moins doux, sans modifier le reste de la recette."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "version-cafe-et-epices",
+      "text": "Café ou épices: à doser avec retenue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une cuillère à café rase de café soluble dissoute dans une cuillère d’eau chaude renforce la profondeur des noix. Une pincée de cannelle ou de cardamome peut aussi convenir. Gardez la main légère: les épices doivent soutenir le goût des cerneaux, pas le masquer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "service-conservation-et-congelation",
+      "text": "Service, conservation et congélation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Servez le gâteau tiède ou à température ambiante, seul, avec une compote de poires peu sucrée, une crème fouettée ou une boule de glace vanille. Un simple voile de sucre glace suffit souvent; un glaçage très sucré risque d’écraser le caractère légèrement amer et élégant des noix."
+    },
+    {
+      "type": "paragraph",
+      "html": "Conservez-le sous une cloche ou dans une boîte hermétique, à l’abri de la chaleur, pendant 2 à 3 jours en général. S’il contient une garniture à base de crème, conservez-le au réfrigérateur et sortez-le un peu avant le service. Pour le congeler, attendez le refroidissement complet, emballez des parts séparées et gardez-les jusqu’à environ 2 mois pour une qualité optimale."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le gâteau est souvent meilleur le lendemain",
+      "html": "<p>Après une nuit bien emballé, les arômes de noix se fondent dans la mie. Si sa surface a un peu ramolli, réchauffez une part quelques minutes à four doux plutôt qu’au micro-ondes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-pour-reussir",
+      "text": "Votre plan d’action pour le réussir dès la première fois"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par vérifier vos noix et votre levure, puis choisissez un moule de 20 à 22 cm plutôt qu’un moule trop large. Préparez tous les ingrédients avant d’allumer le Thermomix: vous éviterez de laisser une pâte attendre alors que la levure est déjà incorporée. Gardez 40 g de noix en éclats, mixez les poudres très brièvement et surveillez le gâteau dès 35 minutes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, notez le temps exact de cuisson qui convient à votre four et à votre moule. C’est la donnée la plus utile pour vos prochaines fournées. Une fois la base maîtrisée, ajoutez une poire, du chocolat noir ou une touche de café, mais un seul changement à la fois: vous conserverez la texture moelleuse qui fait tout l’intérêt de ce gâteau aux noix Thermomix."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il enlever la peau des noix pour un gâteau au Thermomix?",
+      "a": "<p>Non, ce n’est généralement pas nécessaire. La fine peau des cerneaux participe au goût typé des noix. Retirez seulement les morceaux très foncés, desséchés ou franchement amers. Si vous recherchez une saveur plus douce, choisissez des cerneaux très frais et évitez de les torréfier trop longtemps.</p>"
+    },
+    {
+      "q": "Pourquoi mon gâteau aux noix Thermomix est-il sec?",
+      "a": "<p>La cause la plus fréquente est une cuisson trop longue, car les noix absorbent une partie de l’humidité de la pâte. Vérifiez le gâteau dès 35 minutes et sortez-le lorsque le centre donne des miettes humides. Un moule trop petit peut aussi prolonger fortement la cuisson, tandis qu’un mixage excessif après la farine peut rendre la mie moins tendre.</p>"
+    },
+    {
+      "q": "Peut-on réduire le sucre dans un gâteau aux noix?",
+      "a": "<p>Oui. Passer de 140 g à environ 110 ou 120 g fonctionne habituellement bien, surtout si vous servez le gâteau avec une garniture sucrée. En dessous, la texture et la coloration peuvent changer davantage: le sucre ne sert pas uniquement au goût, il contribue aussi au moelleux. Ne réduisez pas simultanément le beurre ou les œufs lors du premier essai.</p>"
+    },
+    {
+      "q": "Comment faire un gâteau aux noix Thermomix sans gluten?",
+      "a": "<p>Remplacez la farine de blé par un mélange pâtissier sans gluten prévu pour les gâteaux, en conservant la même quantité, et vérifiez qu’il contient un liant adapté. La poudre de noix aide déjà à donner de la tenue, mais un mélange composé uniquement de farine de riz ou de maïs peut produire une mie trop friable. Contrôlez aussi la mention sans gluten sur la levure chimique.</p>"
+    },
+    {
+      "q": "Puis-je préparer la pâte à l’avance avant de la cuire?",
+      "a": "<p>Mieux vaut éviter. Dès que la levure chimique est mélangée à la pâte humide, son action commence. Pour une bonne levée, enfournez dans les minutes qui suivent le mélange final. Vous pouvez en revanche peser les ingrédients, chemiser le moule et broyer les noix quelques heures à l’avance, en les gardant dans une boîte hermétique.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

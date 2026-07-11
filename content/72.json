@@ -1,0 +1,327 @@
+{
+  "id": 72,
+  "slug": "simulation-de-pret-immobilier-comment-calculer-sa-capacite-demprunt",
+  "title": "Simulation de prêt immobilier : comment calculer sa capacité d’emprunt ?",
+  "metaTitle": "Simulation de prêt immobilier: calculez votre capacité",
+  "metaDescription": "Simulation de prêt immobilier: revenus, charges, apport, durée et taux d’endettement. Calculez votre capacité d’emprunt et votre budget d’achat réaliste.",
+  "dek": "Avant de visiter ou de faire une offre, estimez le montant que vous pouvez réellement emprunter. Revenus, crédits en cours, apport, durée et assurance: voici une méthode fiable pour bâtir votre budget immobilier.",
+  "category": "maison-immobilier",
+  "tags": [
+    "prêt immobilier",
+    "capacité d’emprunt",
+    "simulation crédit",
+    "taux d’endettement",
+    "apport personnel"
+  ],
+  "keyTakeaways": [
+    "La mensualité maximale dépend d’abord de vos revenus stables, de vos crédits en cours et du taux d’endettement.",
+    "Le seuil de 35 % inclut généralement l’assurance emprunteur: ne l’oubliez pas dans votre calcul.",
+    "Votre capacité d’emprunt n’est pas votre prix d’achat: il faut retirer les frais d’acquisition, de garantie et les travaux.",
+    "Allonger la durée augmente souvent le capital empruntable, mais aussi le coût total du crédit.",
+    "Une simulation sert à cadrer votre projet; seule une étude de financement ou un accord de principe confirme sa faisabilité."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Une simulation de prêt immobilier ne se résume pas à saisir un revenu et une durée dans un calculateur. Elle permet de savoir quelle mensualité votre foyer peut assumer, quel capital une banque pourrait vous prêter et, surtout, quel prix de bien vous pouvez viser sans fragiliser votre budget. En procédant dans le bon ordre, vous évitez les visites hors budget et les offres impossibles à financer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "a-quoi-sert-une-simulation-de-pret-immobilier",
+      "text": "À quoi sert réellement une simulation de prêt immobilier?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La capacité d’emprunt est le <strong>montant maximal de crédit</strong> qu’un établissement peut envisager de vous accorder au regard de votre situation. Elle résulte principalement de la mensualité supportable et de la durée du prêt. Une simulation sérieuse répond donc à trois questions distinctes: quelle mensualité pouvez-vous consacrer au crédit, quel capital cela représente-t-il et quel budget global d’achat en découle-t-il?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Elle constitue un repère indispensable, mais pas une promesse de prêt. La banque examinera aussi la stabilité professionnelle, la gestion des comptes, le reste à vivre, l’épargne disponible, l’état de santé du projet immobilier et la valeur du bien financé. Deux foyers ayant le même revenu peuvent ainsi recevoir des propositions différentes."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "35 %",
+          "label": "seuil de taux d’effort généralement utilisé dans le crédit immobilier, assurance comprise"
+        },
+        {
+          "value": "25 ans",
+          "label": "durée maximale habituelle d’un prêt immobilier, hors cas particuliers liés notamment à un différé"
+        },
+        {
+          "value": "~7 à 8 %",
+          "label": "ordre de grandeur des frais d’acquisition dans l’ancien, calculés sur le prix du bien"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Capacité d’emprunt et budget d’achat: deux notions différentes",
+      "html": "<p>Un prêt de 250 000 € ne vous permet pas nécessairement d’acheter un bien à 250 000 €. Les frais d’acquisition, la garantie, les frais de dossier et les éventuels travaux doivent aussi être financés. Votre apport sert souvent d’abord à couvrir une partie de ces dépenses.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "revenus-et-charges-a-integrer-dans-le-calcul",
+      "text": "Quels revenus et quelles charges intégrer dans le calcul?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une bonne simulation repose sur des montants réalistes et récurrents. Commencez par vos revenus mensuels nets et justifiables: salaires, revenus d’indépendant suffisamment réguliers, pensions, revenus fonciers retenus avec prudence par les banques, ou certaines prestations pérennes selon les établissements. Pour les revenus variables, primes, commissions, activité récente ou loyers, une moyenne sur plusieurs périodes est souvent plus pertinente qu’un excellent mois isolé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté charges, indiquez toutes les mensualités qui resteront dues après l’achat: crédit auto, prêt personnel, crédit renouvelable, pension alimentaire, prêt étudiant ou engagement de caution susceptible d’être retenu. Ne confondez pas une dépense courante et une dette: les courses, abonnements ou factures ne figurent pas toujours dans le taux d’endettement, mais elles comptent pour apprécier votre reste à vivre. Elles doivent donc rester présentes dans votre propre budget."
+    },
+    {
+      "type": "table",
+      "caption": "Les informations utiles pour une simulation prudente",
+      "headers": [
+        "Élément",
+        "À retenir dans la simulation",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Salaires et revenus réguliers",
+          "Montant mensuel stable et documentable",
+          "Utilisez une base conservatrice si une part des revenus varie."
+        ],
+        [
+          "Revenus locatifs",
+          "Part seulement, selon l’approche de la banque",
+          "Ne comptez pas systématiquement 100 % du loyer espéré."
+        ],
+        [
+          "Crédits en cours",
+          "Toutes les mensualités restant à payer",
+          "Un petit crédit à la consommation peut réduire sensiblement la capacité."
+        ],
+        [
+          "Loyer actuel",
+          "Souvent non retenu s’il disparaît à l’achat",
+          "Ajoutez-le en cas de chevauchement, de conservation du logement ou d’investissement locatif."
+        ],
+        [
+          "Apport personnel",
+          "Épargne mobilisable sans vous vider",
+          "Conservez une réserve pour les imprévus et l’installation."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur classique: oublier les crédits modestes",
+      "html": "<p>Une mensualité de téléphone, un paiement fractionné ou un prêt auto peuvent sembler secondaires. Pourtant, ils diminuent directement la mensualité disponible pour l’immobilier tant qu’ils figurent dans votre endettement. Rembourser un petit crédit avant le dossier peut parfois améliorer votre profil, à condition de ne pas y engloutir l’apport nécessaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calculer-sa-mensualite-et-sa-capacite-demprunt",
+      "text": "Comment calculer votre mensualité maximale et votre capacité d’emprunt?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le cadre habituel du crédit immobilier en France, les banques s’appuient généralement sur un taux d’effort maximal de 35 %. Il comprend la future mensualité de crédit <strong>avec l’assurance emprunteur</strong>, ainsi que les échéances des autres prêts. C’est un plafond de référence, pas un droit automatique: une banque peut proposer moins si le reste à vivre est trop faible ou si le dossier présente une fragilité."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Additionnez vos revenus mensuels stables",
+          "html": "Pour un couple, additionnez les revenus retenus pour les deux emprunteurs. Prenez une moyenne prudente pour les revenus irréguliers plutôt que leur niveau exceptionnel."
+        },
+        {
+          "title": "Calculez le plafond de charges de crédit",
+          "html": "<strong>Revenus mensuels retenus × 35 % = charges de crédit maximales théoriques.</strong> Ce montant inclut vos prêts actuels et votre futur prêt immobilier assuré."
+        },
+        {
+          "title": "Déduisez les mensualités déjà engagées",
+          "html": "<strong>Charges maximales théoriques − crédits existants = mensualité immobilière maximale.</strong> Si vous avez 250 € de crédit auto, cette somme doit être retirée."
+        },
+        {
+          "title": "Transformez la mensualité en capital",
+          "html": "Testez cette mensualité avec une durée, un taux nominal et le coût de l’assurance. Plus le taux et l’assurance sont élevés, moins le capital obtenu est important à mensualité égale."
+        },
+        {
+          "title": "Vérifiez votre budget de vie",
+          "html": "Retirez du revenu ce que vous paierez réellement chaque mois: future mensualité, énergie, impôts, copropriété, transport, enfants et épargne. Une capacité bancaire ne doit pas devenir un budget inconfortable."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Exemple simple: un couple dispose de 4 500 € de revenus mensuels retenus et n’a aucun autre crédit. Son plafond théorique de charges de crédit est de 1 575 € par mois. Avec une durée de 25 ans, le capital correspondant peut varier fortement selon les conditions du moment, notamment le taux et l’assurance: il peut se situer, à titre purement indicatif, dans une large zone autour de 260 000 à 300 000 €. Avec 250 € de crédit auto, la mensualité immobilière tombe à 1 325 €, ce qui réduit le capital possible."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La formule à retenir",
+      "html": "<p><strong>Mensualité immobilière maximale = (revenus mensuels retenus × 35 %) − mensualités des crédits existants.</strong> Ensuite seulement, un simulateur convertit cette mensualité en montant empruntable selon la durée, le taux et l’assurance.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-du-montant-emprunte-au-prix-du-bien",
+      "text": "Du montant empruntable au prix réel du bien: le calcul souvent oublié"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le plan de financement doit intégrer toutes les dépenses liées à l’achat. Dans l’ancien, les frais d’acquisition représentent fréquemment un ordre de grandeur de 7 à 8 % du prix. Dans le neuf, ils sont en général sensiblement plus faibles, souvent autour de 2 à 3 %, mais d’autres coûts peuvent s’ajouter. Prévoyez aussi la garantie du prêt, les frais de dossier, le coût éventuel d’un courtier, les diagnostics ou travaux non financés, ainsi que le déménagement et l’équipement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule pratique est la suivante: <strong>prix du bien envisageable = montant du prêt + apport − frais annexes.</strong> Si votre capacité est de 250 000 € et votre apport de 30 000 €, vous ne devez pas automatiquement chercher à 280 000 €. Si les frais d’acquisition et de garantie absorbent une part importante de l’apport, le prix cible sera plus bas."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Pour un achat dans l’ancien, faites une première estimation des frais d’acquisition avant de fixer votre plafond de recherche.",
+        "Gardez une enveloppe distincte pour les travaux urgents, même si vous comptez les réaliser vous-même.",
+        "N’engagez pas toute votre épargne dans l’apport: une réserve de sécurité vous protège après la signature.",
+        "Dans une copropriété, renseignez-vous sur les travaux votés ou envisagés, qui ne figurent pas dans le prix affiché."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "duree-taux-assurance-et-apport-les-leviers",
+      "text": "Durée, taux, assurance et apport: les leviers qui changent votre simulation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La durée de remboursement est le principal levier de mensualité. À capital identique, étaler le prêt réduit chaque échéance, ce qui peut aider à rester sous le seuil d’endettement. En contrepartie, vous payez des intérêts plus longtemps et le coût total augmente. À l’inverse, un prêt plus court coûte généralement moins cher mais exige une mensualité plus élevée et réduit parfois votre capacité d’achat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le taux nominal ne suffit pas pour comparer deux propositions. Regardez le <strong>TAEG</strong>, qui permet d’apprécier le coût global annuel du financement en intégrant les principaux frais obligatoires. Vérifiez aussi le montant et les garanties de l’assurance emprunteur: son poids peut être conséquent, surtout selon l’âge, la santé, le métier ou les activités pratiquées. Vous pouvez, sous conditions, choisir une assurance externe offrant un niveau de garantie équivalent à celui demandé par la banque."
+    },
+    {
+      "type": "compare",
+      "title": "Pour améliorer la faisabilité: allonger la durée ou augmenter l’apport?",
+      "a": {
+        "title": "Allonger la durée",
+        "points": [
+          "Augmente souvent le capital accessible à mensualité identique.",
+          "Préserve davantage votre épargne au départ.",
+          "Alourdit généralement le coût total des intérêts et de l’assurance.",
+          "Reste limité par la durée maximale que la banque peut accorder."
+        ]
+      },
+      "b": {
+        "title": "Augmenter l’apport",
+        "points": [
+          "Réduit le montant à emprunter et donc le coût du crédit.",
+          "Rassure souvent la banque, surtout pour financer les frais d’acquisition.",
+          "Peut améliorer les conditions proposées sans nécessairement réduire la durée.",
+          "Ne doit pas vous laisser sans épargne de précaution après l’achat."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Testez plusieurs scénarios",
+      "html": "<p>Faites au moins trois simulations: une version confortable, une version cible et une version haute. Variez la durée et l’apport, mais conservez le même niveau d’exigence sur votre reste à vivre. Le meilleur prêt n’est pas toujours celui qui finance le prix le plus élevé.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adapter-la-simulation-a-son-profil",
+      "text": "Comment adapter la simulation à votre profil d’emprunteur?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un salarié en CDI hors période d’essai présente généralement un dossier plus simple à lire qu’un profil aux revenus récents ou variables. Cela ne signifie pas que les indépendants, intérimaires, professions libérales, CDD récurrents ou investisseurs locatifs ne peuvent pas emprunter. Ils doivent simplement documenter davantage la continuité de leurs revenus, leur activité et leur capacité à absorber les variations."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un investissement locatif, la banque peut retenir une partie seulement du loyer attendu et prendre en compte les charges, la vacance éventuelle ou les autres crédits immobiliers. Pour un achat en couple, le prêt est généralement étudié sur les ressources et engagements des deux coemprunteurs. En cas de séparation de patrimoines, d’apport inégal ou de projet d’achat seul, faites clarifier très tôt la répartition de propriété et les conséquences juridiques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, un refus ne veut pas forcément dire que le projet est impossible. Il peut révéler une durée mal calibrée, un taux d’endettement temporairement gonflé par un crédit court, un apport insuffisant pour les frais, ou un dossier à mieux présenter. L’objectif est d’identifier le point bloquant plutôt que de multiplier les demandes sans stratégie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-les-erreurs-et-comparer-les-offres",
+      "text": "Éviter les erreurs de simulation et comparer les offres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une simulation en ligne est utile pour préparer votre projet, à condition de renseigner des données complètes. Évitez d’entrer un taux d’intérêt ancien, de négliger l’assurance ou de gonfler vos revenus avec des primes incertaines. N’oubliez pas non plus qu’une offre d’achat comporte souvent une condition suspensive d’obtention de prêt: votre plan de financement doit donc être suffisamment réaliste avant de vous engager."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Comparez le montant de la mensualité, mais aussi le coût total, le TAEG, la durée et le coût de l’assurance.",
+        "Demandez si une modulation d’échéances, un remboursement anticipé ou un transfert de prêt sont prévus, et à quelles conditions.",
+        "Contrôlez le montant de la garantie et les frais annexes: une apparente petite différence de taux ne raconte pas tout.",
+        "Évitez de souscrire de nouveaux crédits ou de multiplier les découverts pendant l’étude du dossier.",
+        "Préparez vos justificatifs de revenus, d’épargne et de charges avant le rendez-vous bancaire ou le courtier."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas accord de principe et offre de prêt",
+      "html": "<p>Un accord de principe ou une première simulation indique qu’un financement paraît envisageable. L’engagement formel intervient bien plus tard, après l’analyse complète du dossier, du bien, des garanties et de l’assurance. Gardez cette différence en tête lorsque vous négociez un achat.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-daction-avant-de-chercher",
+      "text": "Votre plan d’action avant de commencer les visites"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par calculer une mensualité que vous pouvez supporter durablement, même si elle est inférieure au plafond théorique de 35 %. Déduisez vos crédits en cours, puis réalisez plusieurs simulations avec des durées et des hypothèses de taux actuelles. Ajoutez votre apport, retirez les frais d’achat et fixez un prix de recherche raisonnable, inférieur à votre maximum absolu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois ce cadre posé, préparez votre dossier et sollicitez une ou plusieurs banques, ou un courtier si cela correspond à votre situation. Comparez les propositions sur leur coût global et leurs garanties, pas uniquement sur la mensualité affichée. Cette méthode vous permet d’aborder les visites, l’offre d’achat et la négociation avec un budget crédible, sans sacrifier votre équilibre financier après l’emménagement."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant toute offre",
+      "html": "<p>Fixez trois plafonds: votre mensualité confortable, votre montant de crédit prudent et votre prix de bien frais inclus. C’est ce dernier chiffre, et non la capacité d’emprunt brute, qui doit guider votre recherche.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel salaire faut-il pour emprunter 200 000 €?",
+      "a": "<p>Il n’existe pas de salaire unique, car le résultat dépend de la durée, du taux, de l’assurance et de vos autres crédits. La bonne méthode consiste à estimer la mensualité du prêt de 200 000 € avec les conditions envisagées, puis à vérifier qu’elle reste, avec l’assurance et vos éventuelles autres échéances, sous environ 35 % de vos revenus mensuels retenus. Un prêt sur 25 ans demande généralement une mensualité plus basse qu’un prêt sur 20 ans, mais son coût total est supérieur.</p>"
+    },
+    {
+      "q": "L’apport personnel augmente-t-il vraiment la capacité d’emprunt?",
+      "a": "<p>Oui, mais de deux façons différentes. Il augmente d’abord votre budget global puisqu’il complète le prêt. Il peut aussi renforcer votre dossier, notamment lorsqu’il couvre les frais d’acquisition et prouve votre capacité d’épargne. En revanche, l’apport ne doit pas vous conduire à utiliser toute votre épargne: la banque comme votre budget quotidien apprécieront qu’une réserve reste disponible après l’achat.</p>"
+    },
+    {
+      "q": "Peut-on emprunter sans apport pour acheter un logement?",
+      "a": "<p>C’est parfois possible, mais souvent plus exigeant. Un financement couvrant le prix et les frais d’achat suppose un dossier solide: revenus stables, comptes bien tenus, reste à vivre cohérent et projet crédible. Dans la pratique, disposer au moins de quoi absorber les frais annexes facilite fréquemment l’accord et peut améliorer les conditions du prêt. Comparez les propositions, car les politiques d’acceptation varient selon les établissements.</p>"
+    },
+    {
+      "q": "Le loyer actuel est-il pris en compte dans le taux d’endettement?",
+      "a": "<p>Si vous achetez votre résidence principale et quittez votre location, le loyer n’a généralement pas vocation à rester dans les charges après l’opération. Il faut toutefois le signaler si une période de double logement est prévue, si vous conservez le logement loué, ou si l’achat porte sur un bien destiné à la location. Dans ces cas, la banque examinera plus précisément le cumul des charges et des revenus locatifs.</p>"
+    },
+    {
+      "q": "Pourquoi ma capacité d’emprunt diffère-t-elle selon les simulateurs?",
+      "a": "<p>Les simulateurs n’utilisent pas toujours les mêmes hypothèses de taux, d’assurance, de revenus retenus, de durée ou de frais. Certains affichent un capital hors assurance, d’autres l’intègrent dans la mensualité. Utilisez-les pour comparer des scénarios, mais vérifiez systématiquement les paramètres affichés. Pour une estimation proche de la réalité, renseignez un taux et une assurance adaptés à votre profil, puis faites confirmer le résultat par un professionnel du crédit.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

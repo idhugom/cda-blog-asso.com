@@ -1,0 +1,315 @@
+{
+  "id": 1758,
+  "slug": "comment-mesurer-la-consommation-denergie-a-partir-dun-panneau-electrique",
+  "title": "Comment mesurer la consommation d’énergie à partir d’un panneau électrique?",
+  "metaTitle": "Mesurer la consommation d’énergie au tableau électrique",
+  "metaDescription": "Mesurez la consommation d’énergie depuis votre tableau électrique: outils, relevés, sécurité et calculs pour agir sur vos dépenses d’électricité réelles.",
+  "dek": "Un relevé au tableau électrique permet de voir ce que votre logement consomme réellement, au total ou circuit par circuit. Encore faut-il choisir le bon outil, ne pas confondre puissance et énergie, et intervenir sans prendre de risque.",
+  "category": "maison-immobilier",
+  "tags": [
+    "tableau électrique",
+    "consommation électrique",
+    "économies d’énergie",
+    "compteur d’énergie",
+    "Linky"
+  ],
+  "keyTakeaways": [
+    "Un compteur d’énergie en kWh mesure une consommation; une pince seule mesure d’abord un courant instantané.",
+    "Le compteur communicant donne le total du logement, tandis qu’un sous-compteur révèle la consommation d’un circuit précis.",
+    "La différence entre deux index en kWh est le relevé le plus fiable pour une période donnée.",
+    "N’ouvrez jamais un tableau sous tension pour poser une pince ou câbler un module si vous n’êtes pas qualifié.",
+    "Mesurez plusieurs jours représentatifs avant de décider d’un changement ou d’un investissement."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Votre facture indique un total, mais elle ne dit pas forcément si le chauffage, le chauffe-eau, les veilles ou la recharge d’un véhicule expliquent ce montant. Mesurer depuis le tableau électrique permet de passer de l’impression à des données exploitables. Vous pourrez suivre le logement entier ou un circuit particulier, à condition d’utiliser un appareil adapté et de respecter strictement les règles de sécurité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-que-vous-mesurez",
+      "text": "Comprendre ce que vous mesurez: watts, ampères et kilowattheures"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans l’usage courant, un « panneau électrique » désigne le <strong>tableau électrique</strong>: l’emplacement des disjoncteurs qui répartissent l’électricité entre les circuits du logement. L’indicateur utile pour comparer avec une facture est l’énergie consommée, exprimée en <strong>kilowattheures (kWh)</strong>. Un compteur d’énergie additionne cette énergie dans le temps. La puissance, exprimée en watts (W) ou kilowatts (kW), indique au contraire ce qui est appelé à un instant donné."
+    },
+    {
+      "type": "paragraph",
+      "html": "Exemple simple: un radiateur qui tire 2 000 W pendant une heure consomme environ 2 kWh. S’il chauffe réellement trois heures, cela représente environ 6 kWh. Mais un appareil régulé par thermostat ne fonctionne pas sans interruption: sa puissance inscrite sur l’étiquette ne permet donc pas, à elle seule, de connaître sa consommation quotidienne. C’est pourquoi un relevé d’index sur une durée réelle est plus parlant."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "tension nominale habituelle d’une installation résidentielle monophasée en France"
+        },
+        {
+          "value": "1 kWh",
+          "label": "énergie correspondant à un appareil de 1 000 W utilisé pendant une heure"
+        },
+        {
+          "value": "15 à 40 €",
+          "label": "ordre de grandeur souvent constaté pour un wattmètre à brancher sur une prise"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Ne pas confondre consommation et production",
+      "html": "<p>Un panneau photovoltaïque produit de l’électricité; le tableau électrique répartit celle que votre logement reçoit ou autoconsomme. Avec du solaire, suivez séparément l’énergie achetée au réseau, l’énergie produite et, si votre équipement le permet, l’énergie injectée: elles ne répondent pas à la même question.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-methode-de-mesure",
+      "text": "Choisir la bonne méthode selon la question à résoudre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par formuler votre besoin. Voulez-vous vérifier la consommation globale entre deux factures, identifier un appareil branché sur une prise, ou comprendre un gros poste comme le chauffage électrique? Il n’existe pas un outil universel: le niveau de détail, le budget et la sécurité nécessaire changent fortement selon le cas."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales solutions pour mesurer l’électricité d’un logement",
+      "headers": [
+        "Solution",
+        "Ce qu’elle mesure",
+        "Usage pertinent",
+        "Limite et budget indicatif"
+      ],
+      "rows": [
+        [
+          "Compteur communicant et espace client",
+          "Le total du logement sur une période",
+          "Suivre une dérive globale ou comparer les mois",
+          "Ne sépare pas les circuits; consultation généralement sans achat de matériel"
+        ],
+        [
+          "Wattmètre sur prise",
+          "Les kWh et souvent la puissance d’un appareil branché",
+          "Lave-linge, réfrigérateur, box, sèche-linge ou petit chauffage mobile",
+          "Uniquement les appareils sur prise; comptez souvent 15 à 40 €"
+        ],
+        [
+          "Sous-compteur modulaire sur rail DIN",
+          "Les kWh d’un circuit dédié",
+          "Chauffe-eau, chauffage, borne de recharge, atelier ou dépendance",
+          "Pose et câblage à confier en pratique à un professionnel; matériel souvent de quelques dizaines à plus de 100 €"
+        ],
+        [
+          "Moniteur avec pinces ampèremétriques",
+          "La puissance et, selon le modèle, une estimation ou un suivi en kWh",
+          "Visualiser l’appel du logement entier ou de plusieurs départs",
+          "Pose dans ou près du tableau, précision dépendante du paramétrage; comptez souvent de l’ordre de 100 à 300 € pour les solutions connectées"
+        ],
+        [
+          "Analyseur de réseau professionnel",
+          "Tension, puissance active, facteur de puissance, harmoniques et historique détaillé",
+          "Diagnostic d’un bâtiment complexe ou d’un usage professionnel",
+          "Surdimensionné pour la plupart des foyers; location ou intervention spécialisée"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Mesurer le logement entier ou un circuit particulier?",
+      "a": {
+        "title": "Suivi global au compteur",
+        "points": [
+          "Simple pour surveiller l’évolution de la facture et le talon de consommation nocturne.",
+          "Utile si vous ignorez d’abord si le problème est général ou ponctuel.",
+          "Ne permet pas d’attribuer précisément les kWh à un équipement."
+        ]
+      },
+      "b": {
+        "title": "Suivi par circuit au tableau",
+        "points": [
+          "Isole un poste: chauffe-eau, chauffage, prises de l’atelier ou borne de recharge.",
+          "Permet de tester l’effet d’un réglage ou d’un remplacement d’équipement.",
+          "Demande un tableau bien repéré, un matériel compatible et souvent une pose professionnelle."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "securiser-lintervention-au-tableau",
+      "text": "Sécuriser toute intervention au tableau électrique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tableau contient des parties qui peuvent rester sous tension, y compris lorsque certains disjoncteurs sont abaissés. Retirer le capot, déplacer un conducteur ou raccorder un compteur modulaire n’est pas une opération comparable au branchement d’un wattmètre sur une prise. Un sous-compteur DIN doit être correctement dimensionné, protégé et câblé selon l’installation; faites appel à un électricien si vous n’avez pas les compétences requises."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Lisez la notice du matériel et vérifiez sa compatibilité avec le monophasé ou le triphasé de votre installation.",
+        "N’installez jamais un module sur un rail DIN sans couper l’alimentation selon une procédure adaptée et sans vérifier l’absence de tension.",
+        "Ne passez pas une pince ampèremétrique autour d’un câble complet contenant phase et neutre: les courants peuvent se compenser et la mesure devenir inutilisable.",
+        "Ne forcez jamais l’accès à un conducteur derrière un plastron ou une protection du tableau.",
+        "Ne débranchez pas un circuit essentiel pour expérimenter: alarme, congélateur, équipement médical, réseau informatique ou chauffage hors période d’occupation."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "La pince n’est pas toujours un compteur",
+      "html": "<p>Une pince classique affiche des ampères à l’instant T. Pour en déduire des kWh, il faut enregistrer la mesure dans le temps et tenir compte de la tension ainsi que du comportement réel de la charge. Sur des appareils électroniques, la puissance active ne se déduit pas toujours correctement d’un simple relevé d’ampères. Préférez un vrai compteur d’énergie lorsque vous cherchez un bilan fiable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "relever-les-kwh-pas-a-pas",
+      "text": "Relever les kWh correctement, pas à pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode la plus robuste consiste à comparer deux index relevés sur le même compteur d’énergie. Elle fonctionne avec l’index global affiché par le compteur du logement comme avec un sous-compteur dédié. Plus la période est représentative de vos habitudes, plus le résultat est utile: une soirée ne suffit généralement pas pour évaluer un chauffe-eau ou un chauffage."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Définissez un objectif mesurable",
+          "html": "Par exemple: connaître le coût du chauffe-eau sur une semaine, vérifier le talon nocturne du logement ou mesurer la recharge d’un véhicule. Évitez l’objectif trop vague consistant à surveiller toute l’électricité sans savoir quelle décision vous souhaitez prendre."
+        },
+        {
+          "title": "Identifiez le bon point de mesure",
+          "html": "Pour le total, utilisez les index du compteur principal ou les données de consommation disponibles. Pour un appareil sur prise, branchez un wattmètre. Pour un circuit fixe, repérez son disjoncteur et faites installer un sous-compteur ou un moniteur adapté."
+        },
+        {
+          "title": "Notez un index initial et l’heure",
+          "html": "Consignez la date, l’heure, l’index en kWh, le circuit concerné et les conditions particulières: absences, vague de froid, invités, travaux ou recharge exceptionnelle. Une simple feuille de calcul suffit."
+        },
+        {
+          "title": "Laissez passer une période représentative",
+          "html": "Mesurez au moins 24 heures pour un aperçu, puis plutôt une semaine pour lisser les variations d’usage. Pour le chauffage, comparez des jours de météo comparable; pour un logement secondaire, observez séparément les jours occupés et inoccupés."
+        },
+        {
+          "title": "Relevez l’index final et calculez l’écart",
+          "html": "Soustrayez l’index initial de l’index final. Vous obtenez les kWh consommés pendant la période. Divisez ensuite par le nombre de jours si vous voulez comparer plusieurs périodes de longueurs différentes."
+        },
+        {
+          "title": "Testez une seule action à la fois",
+          "html": "Modifiez un réglage, puis répétez le relevé dans des conditions comparables. Vous pourrez ainsi attribuer un effet à la programmation du chauffe-eau, à la baisse d’une consigne ou à l’arrêt d’une veille, au lieu de tirer une conclusion hâtive."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un carnet de relevés vaut mieux qu’une capture isolée",
+      "html": "<p>Gardez les relevés avec les dates et les événements inhabituels. Après trois ou quatre périodes comparables, vous disposerez d’une base bien plus utile qu’un écran d’application regardé une seule fois.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "calculer-le-cout-et-interpreter-les-resultats",
+      "text": "Calculer le coût et interpréter les résultats sans erreur"
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule de base est simple: <strong>énergie consommée = index final − index initial</strong>. Si votre sous-compteur passe de 128,4 kWh à 146,9 kWh, le circuit a consommé 18,5 kWh. Pour estimer la part variable de son coût, multipliez ce résultat par le prix du kWh réellement applicable à votre contrat, en tenant compte, le cas échéant, des plages tarifaires. L’abonnement fixe de la facture ne disparaît pas parce qu’un appareil est moins utilisé: il doit être distingué de l’énergie consommée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec une puissance connue, l’estimation est: <strong>kWh = puissance en kW × durée en heures</strong>. Un appareil de 500 W utilisé quatre heures représente théoriquement 2 kWh. Cette méthode reste approximative si l’appareil s’arrête et redémarre, change de régime ou affiche une puissance maximale plutôt qu’une puissance constante. Pour un moteur, une pompe ou de l’électronique, privilégiez les kWh mesurés."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Une consommation nocturne stable, hors chauffage et chauffe-eau, peut signaler des veilles, un équipement réseau, une ventilation ou un appareil qui fonctionne en continu.",
+        "Un pic bref de puissance n’est pas forcément coûteux: c’est la durée cumulée qui fait les kWh.",
+        "Une hausse hivernale n’est pas automatiquement une anomalie si le chauffage est électrique; comparez-la aux températures et à l’occupation du logement.",
+        "Un circuit de prises mélange souvent plusieurs usages: un relevé précis réclame parfois de séparer les équipements les plus importants."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "isoler-les-postes-qui-comptent-vraiment",
+      "text": "Isoler les postes qui comptent vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne commencez pas forcément par le circuit le plus facile à instrumenter. Cherchez plutôt ce qui consomme longtemps ou à forte puissance: chauffage électrique, eau chaude, climatisation, pompe de piscine, sèche-linge, cuisson fréquente, déshumidificateur, atelier ou recharge de véhicule. Un wattmètre sur une box peut révéler une veille permanente, mais le suivi du chauffe-eau ou du chauffage aura souvent davantage de poids dans le bilan d’un logement tout électrique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour retrouver l’usage d’un disjoncteur mal étiqueté, procédez avec méthode et en présence d’une autre personne si possible: notez l’état des appareils, coupez un départ identifié, observez ce qui n’est plus alimenté, puis remettez-le en service. Ne réalisez pas ce repérage sur des appareils sensibles ou pendant un cycle en cours. Une fois les circuits repérés, étiquetez clairement le tableau; ce travail facilitera aussi toute intervention future."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le meilleur relevé est celui qui mène à une décision",
+      "html": "<p>Si le chauffe-eau représente une part élevée, vérifiez sa programmation, son réglage et les usages d’eau chaude. Si le talon de nuit est élevé, ciblez les appareils qui restent actifs. Si le chauffage domine, travaillez les consignes, les horaires et l’isolation avant d’acheter un nouveau système de suivi.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "cas-particuliers-triphase-solaire-et-maisons-connectees",
+      "text": "Cas particuliers: triphasé, solaire et maison connectée"
+    },
+    {
+      "type": "paragraph",
+      "html": "En installation triphasée, le suivi doit prendre en compte les trois phases. Un dispositif prévu pour le monophasé ne donnera pas un total correct s’il n’est posé que sur l’une d’elles. Choisissez un compteur ou un moniteur explicitement compatible triphasé, et demandez au professionnel de vérifier le sens des capteurs, le paramétrage et la cohérence avec le compteur principal."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec des panneaux photovoltaïques, la consommation du logement ne se résume pas aux kWh prélevés sur le réseau: une partie peut être alimentée directement par votre production. Pour piloter l’autoconsommation, un suivi pertinent distingue au minimum la production solaire, le soutirage au réseau et l’injection éventuelle. Un compteur positionné sur le mauvais câble peut donner l’impression que la maison ne consomme rien alors qu’elle consomme simplement sa propre production."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les moniteurs connectés proposent des graphiques séduisants, des alertes et parfois une reconnaissance automatique d’appareils. Considérez cette dernière comme une indication, non comme une preuve: plusieurs équipements peuvent avoir des signatures proches. Vérifiez toujours une hypothèse par un sous-compteur, un wattmètre ou un test de coupure soigneusement préparé. Consultez aussi les conditions de stockage de vos données si l’appareil envoie vos habitudes de consommation vers un service en ligne."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "passer-du-releve-aux-economies",
+      "text": "Passer du relevé aux économies: votre plan d’action"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour démarrer sans achat inutile, relevez pendant une semaine la consommation globale du logement, puis observez une nuit typique. Si le total ou le talon vous paraît cohérent, équipez seulement le poste qui pose question avec un wattmètre ou un sous-compteur. Si l’écart est important et inexpliqué, faites vérifier le tableau, les circuits et les équipements permanents par un électricien plutôt que de multiplier les capteurs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez ensuite une mesure concrète: programmer un appareil, supprimer une veille, ajuster une consigne, déplacer un usage vers une plage tarifaire réellement avantageuse ou entretenir un équipement. Relevez à nouveau sur une période comparable. Cette boucle simple — mesurer, agir, vérifier — transforme le tableau électrique en outil de décision, sans vous faire confondre gadget connecté et économie réelle."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je mesurer toute la consommation de ma maison avec le compteur Linky?",
+      "a": "<p>Oui, le compteur principal permet de suivre la consommation totale du logement sur une période, via ses index ou les données auxquelles votre contrat donne accès. En revanche, il ne dit pas directement quelle part revient au chauffe-eau, au chauffage ou aux prises. Pour cela, il faut un suivi complémentaire par appareil ou par circuit.</p>"
+    },
+    {
+      "q": "Quelle différence entre une pince ampèremétrique et un compteur d’énergie?",
+      "a": "<p>Une pince ampèremétrique mesure principalement l’intensité du courant en ampères à un instant précis. Certains systèmes associés à des pinces calculent ensuite une puissance et cumulent des kWh, mais leur fiabilité dépend de l’installation et du paramétrage. Un compteur d’énergie dédié est conçu pour enregistrer directement les kWh: c’est le choix le plus adapté à un suivi de coût.</p>"
+    },
+    {
+      "q": "Peut-on installer soi-même un sous-compteur dans un tableau électrique?",
+      "a": "<p>Cela dépend de vos compétences, de la configuration du tableau et du matériel, mais l’opération comporte un risque électrique réel. Un sous-compteur se câble sur un rail DIN et doit être correctement protégé et dimensionné. Si vous n’êtes pas formé aux travaux électriques, faites réaliser l’installation par un électricien; un wattmètre sur prise est une alternative sans ouverture du tableau pour les appareils compatibles.</p>"
+    },
+    {
+      "q": "Comment trouver l’appareil qui consomme trop la nuit?",
+      "a": "<p>Commencez par relever la consommation totale sur plusieurs nuits et vérifiez les programmations du chauffe-eau, du chauffage, de la pompe, de la ventilation et de la recharge éventuelle d’un véhicule. Mesurez ensuite les appareils sur prise avec un wattmètre et les gros circuits avec un sous-compteur. Ne coupez un circuit pour le repérer que si cela ne met pas en danger des équipements essentiels ni des denrées stockées.</p>"
+    },
+    {
+      "q": "Comment mesurer ma consommation si j’ai des panneaux solaires?",
+      "a": "<p>Suivez distinctement la production photovoltaïque, l’électricité achetée au réseau et l’électricité éventuellement injectée. La consommation réelle de la maison correspond à ce qu’elle utilise, qu’elle vienne du réseau ou de la production solaire locale. Un moniteur d’autoconsommation compatible avec votre installation, ou des compteurs placés par un professionnel aux bons points de mesure, évitent les interprétations erronées.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

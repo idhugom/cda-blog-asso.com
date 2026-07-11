@@ -1,0 +1,332 @@
+{
+  "id": 318,
+  "slug": "click-and-collect-mcdo-comment-profiter-du-service-pour-un-repas-rapide-et-facile",
+  "title": "Click and collect mcdo : comment profiter du service pour un repas rapide et facile",
+  "metaTitle": "Click and collect McDo: retrait rapide, mode d’emploi",
+  "metaDescription": "Click and collect McDo: commandez sur l’application, choisissez votre retrait, anticipez l’attente et récupérez un repas adapté à votre rythme du jour.",
+  "dek": "Le Click & Collect de McDonald’s permet de préparer votre commande avant d’arriver, puis de la retirer au comptoir, dans le restaurant ou au McDrive selon les établissements. Voici comment l’utiliser sans perdre de temps, sans vous tromper de mode de retrait et sans mauvaise surprise au moment de récupérer votre repas.",
+  "category": "culture-societe",
+  "tags": [
+    "McDo",
+    "click and collect",
+    "restauration rapide",
+    "commande mobile",
+    "McDrive"
+  ],
+  "keyTakeaways": [
+    "Vérifiez toujours le restaurant et le mode de retrait avant de remplir votre panier.",
+    "Ne validez pas trop tôt: la préparation et les délais varient fortement aux heures de pointe.",
+    "Relisez les produits, les sauces et les personnalisations avant le paiement.",
+    "Conservez l’écran de confirmation jusqu’à la remise complète de votre commande.",
+    "Le prix, les offres et les options disponibles peuvent différer d’un restaurant à l’autre."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Entre un trajet, une pause déjeuner courte et un repas à ramener à la maison, faire la queue n’est pas toujours une option. Le <strong>Click & Collect McDo</strong> vous permet de composer votre commande à l’avance et de choisir son retrait, à condition de bien maîtriser les quelques étapes qui font réellement gagner du temps. Disponibilité, préparation, paiement, promotions et vérification du sac: voici les bons réflexes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-click-and-collect-mcdo",
+      "text": "Ce que permet vraiment le Click & Collect McDo"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Click & Collect est un service de commande préparée à l’avance, généralement accessible depuis l’application officielle de McDonald’s. Vous sélectionnez un restaurant, ajoutez vos produits au panier, indiquez la manière dont vous souhaitez les récupérer, puis suivez les instructions affichées. L’objectif n’est pas de vous faire livrer: vous vous déplacez bien jusqu’au restaurant pour prendre votre repas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son intérêt principal est de <strong>réduire les décisions et les manipulations sur place</strong>. Votre panier est déjà constitué, vos éventuelles préférences sont renseignées et le restaurant sait quel type de retrait vous avez choisi. En revanche, Click & Collect ne signifie pas automatiquement « zéro attente ». Lors d’un gros afflux, au McDrive comme au comptoir, la préparation peut prendre du temps et certains produits peuvent manquer."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Click & Collect:</strong> vous commandez avant de venir et vous retirez vous-même.",
+        "<strong>Commande sur borne:</strong> vous choisissez sur place, ce qui peut être moins pratique si vous êtes pressé.",
+        "<strong>Livraison:</strong> le repas est apporté à une adresse, avec des délais et frais éventuels distincts.",
+        "<strong>McDrive:</strong> c’est un lieu de retrait possible dans certains parcours Click & Collect, pas un service identique à la livraison."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Tous les restaurants ne proposent pas nécessairement les mêmes parcours. Les créneaux, produits, promotions, options de retrait et modalités de paiement affichés dans l’application du restaurant choisi sont ceux qui comptent.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "avant-de-commander",
+      "text": "Avant de commander: trois vérifications qui évitent les déconvenues"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à remplir son panier avant d’avoir choisi le bon établissement. Si vous êtes en déplacement, vérifiez l’adresse, les horaires et le sens de votre trajet: deux restaurants proches peuvent proposer des services différents. Le plus simple est de sélectionner le restaurant <strong>avant</strong> les produits, puis de contrôler le mode de retrait réellement disponible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pensez aussi au contexte. À pied, avec une poussette, en fauteuil, avec plusieurs enfants ou avec une voiture chargée, le retrait le plus rapide n’est pas toujours le même. Le McDrive est pratique si vous êtes déjà en voiture; le comptoir ou la remise à table, lorsqu’elle est proposée, évitent parfois de rester dans une file de véhicules. Enfin, si vous cherchez une offre, lisez ses conditions avant d’ajouter les produits: elle peut être liée à un restaurant, à une plage horaire, à un compte ou à une composition précise."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux modes de retrait à comparer avant validation",
+      "headers": [
+        "Mode de retrait",
+        "Le plus adapté si…",
+        "Atout principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Comptoir ou zone de retrait",
+          "Vous êtes à pied ou entrez dans le restaurant",
+          "Vous pouvez vérifier le sac immédiatement",
+          "Une file ou une forte affluence peut ralentir la remise"
+        ],
+        [
+          "Sur place / à table",
+          "Vous prévoyez de manger dans le restaurant",
+          "Moins d’allers-retours après la commande",
+          "Cette option n’est pas proposée partout ni à tout moment"
+        ],
+        [
+          "McDrive",
+          "Vous êtes déjà en voiture et repartez rapidement",
+          "Retrait sans stationnement prolongé",
+          "L’affluence automobile peut être importante aux heures de pointe"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne vous fiez pas seulement au nom du restaurant. Contrôlez le mode de retrait affiché juste avant le paiement: un établissement avec McDrive ne propose pas forcément ce retrait pour chaque commande ou à chaque horaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "commander-pas-a-pas",
+      "text": "Commander pas à pas sans ralentir le retrait"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le parcours exact peut évoluer, mais la méthode reste la même: préparer votre commande sans la précipiter, puis n’activer ou ne confirmer l’arrivée que lorsque vous êtes réellement proche du restaurant. Suivez les indications de l’application plutôt que de supposer que la commande est déjà prête."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Choisissez le bon restaurant",
+          "html": "Activez la localisation si cela vous convient, ou recherchez l’établissement manuellement. Vérifiez son adresse, ses horaires et les modes de retrait proposés."
+        },
+        {
+          "title": "Sélectionnez le retrait avant de composer le menu",
+          "html": "Comptoir, sur place ou McDrive: ce choix peut conditionner les produits, les offres et les consignes de récupération visibles dans votre parcours."
+        },
+        {
+          "title": "Composez votre panier avec attention",
+          "html": "Ajoutez menus, boissons, accompagnements et sauces. Utilisez les options de personnalisation uniquement si elles sont proposées et vérifiez que chaque choix a bien été enregistré."
+        },
+        {
+          "title": "Relisez le récapitulatif et le prix final",
+          "html": "Contrôlez la quantité, les suppléments éventuels, le restaurant, l’horaire ou mode de retrait et les conditions d’une éventuelle promotion avant de payer selon les moyens proposés."
+        },
+        {
+          "title": "Suivez l’instruction d’arrivée",
+          "html": "Selon le parcours, il peut vous être demandé de signaler votre présence, de donner un numéro de commande ou de vous présenter à une zone précise. Gardez l’écran de confirmation ouvert."
+        },
+        {
+          "title": "Vérifiez avant de repartir",
+          "html": "Sans ouvrir tous les emballages, contrôlez le nombre de sacs, boissons, sauces et articles visibles. Signalez immédiatement un oubli au personnel, avec votre confirmation de commande."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-mode-retrait",
+      "text": "McDrive ou comptoir: quel retrait est le plus efficace?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix dépend moins de votre préférence que de votre situation au moment de commander. Si vous devez vous garer puis entrer, un retrait au comptoir peut être plus simple qu’une file McDrive chargée. À l’inverse, si vous êtes déjà sur la route avec des enfants ou des bagages, rester dans la voiture peut être plus confortable. Dans les deux cas, anticipez le temps de préparation: la vitesse dépend surtout de l’affluence et du contenu de la commande."
+    },
+    {
+      "type": "compare",
+      "title": "Choisir selon votre déplacement",
+      "a": {
+        "title": "Retrait au McDrive",
+        "points": [
+          "À privilégier si vous êtes en voiture et repartez immédiatement.",
+          "Pratique pour limiter les déplacements avec des enfants ou des courses.",
+          "Préparez le numéro ou l’écran de confirmation avant d’arriver à la borne."
+        ]
+      },
+      "b": {
+        "title": "Retrait au comptoir ou dans le restaurant",
+        "points": [
+          "À privilégier à pied, à vélo ou lorsque vous souhaitez contrôler le sac avant de partir.",
+          "Souvent plus souple si vous devez demander une précision au personnel.",
+          "Repérez la zone de retrait plutôt que de vous placer automatiquement dans la file de commande."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe qui fait gagner du temps",
+      "html": "<p>Si vous voyagez à plusieurs, une personne peut récupérer la commande pendant qu’une autre installe les enfants, range les affaires ou rejoint le véhicule. Désignez simplement à l’avance la personne qui garde le numéro de commande.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gagner-du-temps",
+      "text": "Réduire l’attente: le bon timing et les bons réflexes"
+    },
+    {
+      "type": "paragraph",
+      "html": "La commande mobile est particulièrement utile lorsque vous savez déjà ce que vous voulez. Elle devient moins efficace si vous hésitez longtemps sur chaque produit, si vous passez une grosse commande très personnalisée au dernier moment ou si vous arrivez pendant le coup de feu. Préparez votre panier quelques minutes avant de partir, mais évitez de lancer les dernières étapes trop tôt: vous ne voulez pas récupérer un repas qui a attendu inutilement."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "5 à 15 min",
+          "label": "marge prudente à envisager pour le retrait, selon l’affluence et le restaurant"
+        },
+        {
+          "value": "2 à 3 min",
+          "label": "temps utile pour relire calmement un panier avant sa validation"
+        },
+        {
+          "value": "Autour de 10 € et +",
+          "label": "ordre de grandeur fréquent pour un repas individuel, selon le menu, la ville et les options"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces ordres de grandeur ne sont pas des délais ni des tarifs garantis. Une pause déjeuner, un week-end pluvieux, une sortie de cinéma ou une commande familiale peuvent modifier nettement l’attente. Le meilleur indicateur reste ce que vous observez dans votre restaurant habituel: au bout de quelques passages, vous repérerez ses périodes les plus chargées."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Enregistrez vos choix habituels dans votre tête, mais vérifiez à chaque fois les produits réellement disponibles.",
+        "Évitez de multiplier les modifications si vous cherchez avant tout un retrait rapide.",
+        "Prévoyez les boissons et les sauces dès la commande: ce sont des oublis courants.",
+        "Pour une commande de groupe, notez les préférences de chacun avant d’ouvrir l’application.",
+        "Gardez une solution de repli si le restaurant est saturé: manger sur place, choisir un autre retrait ou décaler de quelques minutes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prix-menu-et-besoins",
+      "text": "Prix, promotions, composition: commander sans mauvaise surprise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le panier affiché dans l’application est votre repère: les tarifs peuvent varier selon l’établissement et évoluer dans le temps. Pour un repas individuel, comptez souvent autour d’une dizaine d’euros pour une formule simple, davantage avec des produits premium, des suppléments ou plusieurs accompagnements. Pour maîtriser le budget, comparez le prix du menu avec celui d’articles pris séparément, mais aussi la taille et le contenu réellement souhaités. Un dessert ou une boisson ajoutés par automatisme font vite monter le total."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les offres visibles dans l’application peuvent être intéressantes, mais elles ne remplacent pas la lecture des conditions. Vérifiez notamment le restaurant concerné, la période de validité, les produits inclus, l’éventuel minimum d’achat et la possibilité ou non de cumuler une autre réduction. Si votre commande est destinée à plusieurs personnes, attribuez chaque article à son destinataire avant de valider: cela simplifie autant la vérification que le partage au retour."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Allergies et régimes particuliers",
+      "html": "<p>Une option de retrait rapide ne doit pas vous faire négliger les informations produit. Consultez les allergènes et la composition disponibles pour l’article choisi. En cas d’allergie sévère, demandez des précisions au restaurant et ne présumez pas qu’une personnalisation suffit à éliminer tout risque de contact croisé.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "gerer-problemes",
+      "text": "Produit manquant, commande bloquée ou retard: que faire?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une difficulté est plus simple à résoudre quand vous gardez la confirmation de commande sous les yeux. Si un article est indisponible, si le mode de retrait disparaît ou si l’application semble bloquée, évitez de lancer immédiatement une deuxième commande: vous pourriez créer un doublon. Vérifiez d’abord le statut affiché, votre connexion et le restaurant sélectionné. Sur place, le personnel peut plus facilement retrouver votre dossier avec le numéro, le détail du panier et l’heure de commande."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Vous êtes en retard:</strong> consultez les consignes de la commande et présentez-vous au restaurant; la préparation et les possibilités de remise dépendent du statut en cours.",
+        "<strong>Un article manque dans le sac:</strong> revenez immédiatement au point de retrait avec la confirmation, sans attendre d’être loin du restaurant.",
+        "<strong>Le paiement ou la validation semble passer deux fois:</strong> ne recommandez pas; conservez les écrans utiles et demandez une vérification au personnel ou à l’assistance indiquée dans l’application.",
+        "<strong>Vous voulez modifier votre panier:</strong> faites-le avant validation. Une fois la commande engagée dans la préparation, la modification ou l’annulation peut devenir impossible."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le Click & Collect accélère surtout la phase de commande. Pour que le retrait soit réellement fluide, choisissez le bon établissement, arrivez au bon moment et contrôlez votre sac avant de repartir.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-checklist",
+      "text": "Votre checklist pour un prochain repas rapide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant votre prochaine commande, adoptez une routine très simple: ouvrez l’application lorsque vous connaissez votre trajet, choisissez le restaurant, regardez les retraits disponibles et composez un panier adapté au nombre de personnes. Relisez ensuite le total et les éléments essentiels, notamment les boissons, sauces, besoins alimentaires et promotions. À l’arrivée, suivez l’instruction affichée plutôt que de vous fier à vos habitudes d’un autre restaurant."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Avant de partir",
+          "html": "Restaurant, horaires, mode de retrait, panier et prix: vérifiez ces cinq points en moins de trois minutes."
+        },
+        {
+          "title": "À l’arrivée",
+          "html": "Préparez l’écran de confirmation et dirigez-vous directement vers le point de retrait indiqué."
+        },
+        {
+          "title": "Avant de repartir",
+          "html": "Comptez les sacs, boissons et accompagnements, puis signalez tout oubli sans attendre."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Utilisé avec cette méthode, le Click & Collect McDo devient un outil pratique pour les journées pressées: pas une promesse d’absence totale d’attente, mais une façon concrète de garder la main sur votre commande, votre budget et votre organisation."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le Click & Collect McDo est-il disponible dans tous les restaurants?",
+      "a": "<p>Non, les services proposés peuvent varier selon l’établissement, son équipement, ses horaires et le niveau d’activité. Avant de composer votre panier, sélectionnez le restaurant visé dans l’application et regardez les modes de retrait proposés à ce moment précis. Si le Click & Collect ou le McDrive n’apparaît pas, ne supposez pas qu’il sera disponible en arrivant.</p>"
+    },
+    {
+      "q": "Combien de temps à l’avance faut-il commander en Click & Collect chez McDo?",
+      "a": "<p>Il n’existe pas de délai idéal universel. Préparez votre panier peu avant votre trajet, puis suivez le moment de validation ou de signalement d’arrivée demandé par l’application. Commander beaucoup trop tôt risque de vous faire attendre ou de dégrader le confort de dégustation; commander à la dernière seconde ne supprime pas le temps de préparation, surtout lors des périodes chargées.</p>"
+    },
+    {
+      "q": "Peut-on modifier ou annuler une commande McDo après l’avoir validée?",
+      "a": "<p>Avant la validation finale, relisez et modifiez librement votre panier dans la limite des options proposées. Après l’engagement de la commande dans la préparation, les possibilités de modification ou d’annulation peuvent être limitées. Consultez le statut affiché et les instructions de l’application; si vous êtes déjà sur place, présentez rapidement votre numéro de commande au personnel plutôt que de créer une seconde commande.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre un Click & Collect au McDrive et un retrait au comptoir?",
+      "a": "<p>Dans les deux cas, vous préparez votre commande à l’avance, mais le circuit de remise change. Le McDrive convient lorsque vous restez en voiture et repartez aussitôt; le comptoir ou la zone de retrait est souvent plus adapté à pied et facilite la vérification immédiate du sac. Choisissez selon votre moyen de transport, la présence d’enfants, le stationnement et l’affluence que vous observez.</p>"
+    },
+    {
+      "q": "Peut-on payer en espèces ou utiliser une offre de fidélité avec le Click & Collect McDo?",
+      "a": "<p>Les moyens de paiement et avantages applicables sont ceux proposés dans votre parcours de commande, pour le restaurant et l’offre concernés. Si vous devez impérativement payer en espèces, vérifiez cette possibilité avant de valider: certains parcours de commande mobile demandent un règlement dématérialisé. Pour les offres ou avantages liés à un compte, lisez les conditions affichées, notamment les produits éligibles et les éventuelles exclusions.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

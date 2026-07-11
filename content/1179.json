@@ -1,0 +1,310 @@
+{
+  "id": 1179,
+  "slug": "que-propose-le-fournisseur-dacces-fai-free",
+  "title": "Que propose le fournisseur d’accès Fai Free ?",
+  "metaTitle": "FAI Free: offres Freebox, TV, mobile et services",
+  "metaDescription": "Free propose des Freebox fibre, internet, TV, téléphone et forfaits mobile. Découvrez les services, prix, équipements et critères pour choisir.",
+  "dek": "Free ne vend pas seulement un accès à internet: ses Freebox associent, selon la formule, fibre, Wi-Fi, télévision, téléphonie fixe et avantages mobiles. Voici ce qu’il faut réellement comparer avant de souscrire.",
+  "category": "tech-objets",
+  "tags": [
+    "Freebox",
+    "fibre",
+    "internet",
+    "télévision",
+    "forfait mobile"
+  ],
+  "keyTakeaways": [
+    "Free propose des offres internet fixes centrées sur les Freebox, principalement en fibre.",
+    "Le bon choix dépend surtout de votre éligibilité, de vos usages Wi-Fi et du nombre d'écrans.",
+    "Les débits annoncés sont théoriques: l'installation et vos équipements comptent autant que l'abonnement.",
+    "Les promotions, frais de résiliation et options TV doivent être vérifiés avant la souscription.",
+    "Une Freebox peut ouvrir droit à des avantages sur certains forfaits mobiles Free, sous conditions."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Derrière l’appellation <strong>FAI Free</strong>, il y a bien davantage qu’une simple connexion à internet. Le groupe commercialise des abonnements Freebox combinant, selon les cas, accès fibre, Wi-Fi, télévision, téléphone fixe, équipements multimédias et réductions possibles sur le mobile. Pour choisir utilement, ne vous arrêtez ni au prix d’appel ni au débit maximal: regardez ce qui est réellement inclus, chez vous et pour vos usages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "free-un-fournisseur-dacces-internet-mais-pas-seulement",
+      "text": "Free, un fournisseur d’accès à internet mais pas seulement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un fournisseur d’accès à internet, ou FAI, relie votre logement au réseau et vous fournit l’équipement nécessaire: la box, les identifiants de connexion et l’assistance. Chez Free, cette activité repose sur la marque <strong>Freebox</strong>. L’abonnement fixe peut réunir internet, le Wi-Fi domestique, la téléphonie fixe et un univers TV. Free commercialise aussi des forfaits mobiles; ceux-ci sont distincts d’une Freebox, même si leur association peut donner droit à un tarif ou à une enveloppe de data plus avantageuse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le catalogue évolue régulièrement: noms des box, bonus de lancement, plateformes de streaming incluses temporairement et équipements disponibles peuvent changer. Il est donc plus sûr de raisonner par <strong>niveau de service</strong> que de choisir un nom de modèle à l’aveugle. Une formule essentielle répond à un besoin de connexion simple, une formule intermédiaire cible les foyers connectés, tandis que les offres haut de gamme ajoutent généralement un Wi-Fi plus performant, de très hauts débits et davantage de services TV ou multimédias."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le mot <strong>Freebox</strong> peut désigner à la fois l’abonnement et le matériel fourni. Selon l’offre, vous recevez un serveur internet, un player TV, ou utilisez une application TV sur un appareil compatible.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "fibre-adsl-et-wi-fi-ce-que-vous-aurez-vraiment",
+      "text": "Fibre, ADSL et Wi-Fi: ce que vous aurez vraiment chez vous"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>fibre optique</strong> est aujourd’hui la technologie à privilégier dès lors que votre adresse y est éligible. Elle apporte généralement une connexion plus rapide et plus stable que l’ADSL ou le VDSL, particulièrement appréciable dans un foyer où plusieurs personnes regardent des vidéos, télétravaillent, jouent en ligne ou sauvegardent des fichiers. Free propose encore des accès sur cuivre dans certaines situations, mais l’ADSL/VDSL devient une solution transitoire à mesure que le réseau cuivre est progressivement retiré dans de nombreuses communes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Attention: un très haut débit annoncé ne garantit pas automatiquement une excellente expérience dans chaque pièce. Le débit affiché est un maximum théorique, obtenu dans des conditions précises. La qualité dépend aussi de votre câblage, de la distance entre la box et vos appareils, des murs, des interférences, de la carte Wi-Fi de votre ordinateur et du nombre d’équipements connectés. Pour un PC fixe, une console ou un téléviseur proche de la box, un câble Ethernet reste la solution la plus régulière."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 à plusieurs Gb/s",
+          "label": "ordre de grandeur des débits fibre descendants proposés selon la Freebox et l’adresse"
+        },
+        {
+          "value": "2 équipements",
+          "label": "souvent fournis au minimum: un serveur internet et, selon l’offre, un player TV"
+        },
+        {
+          "value": "Quelques dizaines d’euros",
+          "label": "ordre de grandeur habituel des frais de mise en service ou de résiliation à anticiper"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil réseau",
+      "html": "<p>Avant de payer pour un débit très élevé, vérifiez les ports Ethernet de votre ordinateur et de votre switch. Un équipement limité à 1 Gb/s ne pourra pas exploiter un débit supérieur sur une connexion filaire unique.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-gammes-freebox-et-leurs-differences",
+      "text": "Les gammes Freebox: quelle formule pour quel foyer?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les Freebox se distinguent moins par l’accès à internet lui-même que par les performances de la connexion locale, le Wi-Fi, l’équipement TV et les services associés. Les dénominations commerciales changent, mais le positionnement reste lisible: une offre accessible pour les besoins ordinaires, une box polyvalente pour les familles connectées, puis une formule premium destinée aux foyers exigeants. Voici les critères à rechercher plutôt que de comparer uniquement les logos et les promotions."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour choisir une offre Freebox selon l’usage",
+      "headers": [
+        "Niveau d’offre",
+        "À qui elle convient",
+        "Ce qu’il faut contrôler",
+        "Budget généralement attendu"
+      ],
+      "rows": [
+        [
+          "Essentielle ou série spéciale",
+          "Une à deux personnes, navigation, streaming occasionnel, télétravail léger",
+          "Débit montant, Wi-Fi fourni, présence ou non d’un player TV",
+          "Prix d’appel souvent contenu, parfois temporaire"
+        ],
+        [
+          "Intermédiaire et polyvalente",
+          "Famille, télétravail fréquent, plusieurs écrans et objets connectés",
+          "Portée Wi-Fi, répéteur éventuel, multi-TV, options de stockage",
+          "Milieu de gamme, avec éventuelle promotion de début d’abonnement"
+        ],
+        [
+          "Premium",
+          "Grand logement, usages intensifs, gros téléchargements, réseau domestique avancé",
+          "Débits réellement exploitables, ports rapides, services inclus et prix après promotion",
+          "Budget plus élevé, à justifier par vos équipements et vos usages"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une box haut de gamme n’est pas nécessairement le meilleur achat. Dans un petit appartement, avec deux smartphones, un téléviseur et un ordinateur, une formule simple correctement placée peut suffire largement. À l’inverse, une maison sur plusieurs niveaux peut nécessiter un répéteur Wi-Fi, un point d’accès supplémentaire ou une connexion filaire, quelle que soit la box choisie. Le matériel réseau et son emplacement comptent parfois davantage que l’écart entre deux débits marketing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "television-telephone-et-contenus-inclus",
+      "text": "Télévision, téléphone fixe et contenus: ce qui est inclus ou facturé en plus"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une grande partie des abonnements Freebox donne accès à la télévision par internet. Selon la formule retenue, vous pouvez disposer de chaînes en direct, de replay, d’un guide des programmes et d’applications sur le player ou sur des appareils compatibles. L’expérience peut être différente d’une offre à l’autre: certains abonnés reçoivent un décodeur dédié, d’autres privilégient l’application TV de Free sur leur téléviseur connecté, leur boîtier multimédia ou leur smartphone."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas <strong>chaînes incluses</strong> et <strong>bouquets payants</strong>. Les chaînes de base ne donnent pas forcément accès aux packs cinéma, sport, internationaux ou adultes. Des services de vidéo à la demande peuvent aussi être proposés en option. Certaines offres premium affichent parfois un abonnement à une plateforme de streaming inclus pendant une durée limitée ou sous une formule précise: vérifiez toujours la date de fin, le tarif ensuite appliqué et les modalités de résiliation de l’option."
+    },
+    {
+      "type": "paragraph",
+      "html": "La téléphonie fixe est également souvent comprise, avec des appels vers les fixes en France et parfois vers certaines destinations internationales. Les appels vers les mobiles, les numéros spéciaux, les services surtaxés ou certains pays peuvent rester exclus ou facturés. Si vous n’utilisez jamais de téléphone fixe, ce service ne doit pas être un critère décisif. En revanche, il peut être utile pour conserver un usage familial ou appeler régulièrement l’étranger à moindre coût, après lecture des destinations réellement comprises."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Un avantage TV ou streaming affiché à la souscription peut être temporaire. Notez la date à laquelle il devient payant et désactivez l’option à temps si vous ne souhaitez pas la conserver.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prix-engagement-et-frais-a-lire-avant-de-souscrire",
+      "text": "Prix, engagement et frais: ce qu’il faut lire avant de souscrire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Free met régulièrement en avant des prix de lancement. Ils peuvent être intéressants, mais le point déterminant est le <strong>prix mensuel après la période promotionnelle</strong>. Calculez le coût sur douze puis vingt-quatre mois, en ajoutant les options réellement souhaitées. Une offre affichée à bas prix peut devenir moins avantageuse qu’une formule un peu plus chère mais stable si vous prévoyez de rester longtemps."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les offres Freebox sont le plus souvent présentées sans engagement de durée, mais cela ne signifie pas que le départ est totalement gratuit. Il peut exister des frais de résiliation d’un montant de l’ordre de quelques dizaines d’euros, ainsi que des frais liés à des équipements non restitués, incomplets ou endommagés. Conservez l’emballage et les accessoires: alimentation, câbles, télécommande et éventuels répéteurs sont normalement à rendre selon les instructions du fournisseur."
+    },
+    {
+      "type": "compare",
+      "title": "Prix d'appel ou formule premium: le bon raisonnement",
+      "a": {
+        "title": "Offre au tarif le plus bas",
+        "points": [
+          "Pertinente si votre usage se limite à la navigation, au streaming courant et à un télétravail classique.",
+          "À comparer sur le prix après promotion, les frais de mise en service et l'équipement TV effectivement fourni.",
+          "Évitez de la choisir si votre logement souffre déjà d'une mauvaise couverture Wi-Fi sans prévoir de solution réseau."
+        ]
+      },
+      "b": {
+        "title": "Offre haut de gamme",
+        "points": [
+          "Utile si plusieurs personnes ont des usages simultanés intensifs ou si vous possédez des appareils réseau performants.",
+          "Peut apporter un meilleur Wi-Fi, des ports plus rapides et davantage de services, selon le modèle.",
+          "Elle coûte plus cher: n'y souscrivez pas uniquement pour un débit que vos appareils ne peuvent pas utiliser."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Comparez toujours le <strong>coût total sur la durée que vous prévoyez</strong>, et non le seul premier mois. Ajoutez les éventuels bouquets TV, répéteurs, second décodeur et frais de départ.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "freebox-et-forfaits-mobile-les-avantages-possibles",
+      "text": "Freebox et forfaits mobile: quels avantages possibles?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Free est aussi un opérateur mobile. Le rapprochement entre la box et les lignes mobiles du foyer constitue l’un de ses arguments: selon l’offre fixe détenue et le forfait mobile choisi, une réduction mensuelle ou des conditions data plus favorables peuvent être proposées. Les règles varient cependant selon les promotions en cours, le type de Freebox et le nombre de lignes rattachables. Ce n’est donc pas un avantage à supposer: il faut le vérifier dans les conditions de l’offre au moment de souscrire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette association est surtout intéressante si vous envisagez déjà de regrouper vos dépenses télécoms. Faites un calcul global: coût de la Freebox, prix de chaque forfait mobile, besoins de data en France et à l’étranger, ainsi que couverture réseau aux lieux où vous vivez et travaillez. Une remise ne compense pas une mauvaise couverture mobile dans votre domicile ou sur vos trajets habituels."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Testez la couverture mobile à votre adresse, mais aussi dans vos lieux de déplacement fréquents.",
+        "Vérifiez combien de lignes mobiles peuvent bénéficier de l’avantage et si celui-ci est pérenne.",
+        "Ne choisissez pas un forfait data surdimensionné uniquement parce qu’il est remisé.",
+        "Contrôlez les conditions d’usage à l’étranger si vous voyagez régulièrement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "souscription-installation-et-service-client",
+      "text": "Souscription, installation et service client: le parcours concret"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première étape est le test d’éligibilité à l’adresse exacte du logement. Il détermine si la fibre est disponible, quel réseau est mobilisé et quelles Freebox peuvent être commandées. Dans un logement déjà fibré, l’installation est généralement plus simple. Si aucune prise terminale optique n’est présente, un rendez-vous avec un technicien peut être nécessaire pour raccorder le logement et installer cette prise, sous réserve des autorisations utiles dans l’immeuble ou la maison."
+    },
+    {
+      "type": "paragraph",
+      "html": "Free propose une gestion en ligne depuis l’espace abonné, ainsi que des canaux d’assistance par téléphone et, selon les zones ou les situations, un accompagnement de proximité. La qualité de résolution dépend beaucoup de la nature de l’incident: panne de ligne, problème de Wi-Fi intérieur, matériel défectueux ou question de facturation ne suivent pas les mêmes circuits. Avant de contacter le support, redémarrez les équipements, notez les voyants ou messages d’erreur et testez, si possible, un appareil relié en Ethernet. Vous gagnerez du temps."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Vérifiez l’éligibilité de l’adresse",
+          "html": "Utilisez l’adresse complète, y compris le bâtiment ou l’étage si nécessaire. Distinguez bien fibre disponible, raccordement à prévoir et accès cuivre résiduel."
+        },
+        {
+          "title": "Listez vos usages réels",
+          "html": "Comptez les écrans simultanés, les personnes en télétravail, les consoles, les besoins de stockage et les zones où le Wi-Fi doit fonctionner."
+        },
+        {
+          "title": "Comparez le coût complet",
+          "html": "Relevez le tarif promotionnel, le prix ensuite, les frais de mise en service, les options TV et les éventuels équipements additionnels."
+        },
+        {
+          "title": "Préparez l’installation",
+          "html": "Choisissez un emplacement central et dégagé pour la box. Évitez un meuble fermé, le sol et la proximité immédiate d’appareils susceptibles de perturber le Wi-Fi."
+        },
+        {
+          "title": "Gardez les preuves et le matériel",
+          "html": "Conservez votre contrat, les conditions tarifaires, les échanges avec le support et tous les accessoires de la Freebox jusqu’à sa restitution."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-votre-offre-freebox-sans-vous-tromper",
+      "text": "Choisir votre offre Freebox sans vous tromper: la méthode finale"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un choix rationnel, commencez par l’adresse, puis par le logement, et seulement ensuite par le prix. Si la fibre est disponible, privilégiez une offre dont le niveau de Wi-Fi et les équipements correspondent à votre foyer. Un couple dans un appartement n’a généralement pas le même besoin qu’une famille dans une maison à étages ou qu’un utilisateur qui transfère quotidiennement des fichiers lourds. La télévision et les plateformes doivent être regardées comme des services annexes: utiles si vous les consommez réellement, superflus sinon."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, relisez le récapitulatif contractuel avant validation: durée et fin de la promotion, frais ponctuels, modalités de restitution, options activées, débit annoncé à votre adresse et date de rendez-vous éventuelle. Si vous changez de fournisseur, demandez le portage de votre numéro fixe avec votre relevé d’identité opérateur lorsque vous souhaitez le conserver. Vous éviterez une résiliation prématurée de votre ancienne ligne et une coupure inutile."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Votre décision en une minute",
+      "html": "<p>Choisissez une Freebox essentielle si votre foyer a des besoins simples, une formule polyvalente si plusieurs usages coexistent, et une offre premium seulement si votre réseau domestique, vos appareils et vos habitudes justifient réellement ses performances.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Free propose-t-il encore internet sans fibre?",
+      "a": "<p>Oui, un accès via le réseau cuivre peut encore être proposé à certaines adresses non raccordées à la fibre, selon l’éligibilité locale. Toutefois, l’ADSL et le VDSL sont progressivement appelés à disparaître avec la fermeture du réseau cuivre. Si la fibre est disponible chez vous, elle constitue généralement le choix le plus durable et le plus performant.</p>"
+    },
+    {
+      "q": "Une Freebox inclut-elle automatiquement Netflix, Canal+ ou Disney+?",
+      "a": "<p>Non. L’accès à la télévision et à certaines chaînes peut être inclus, mais les plateformes de streaming et les bouquets payants obéissent à des règles propres à chaque offre. Ils peuvent être facturés en supplément, inclus temporairement ou proposés avec une remise. Vérifiez précisément la durée de l’avantage, le prix appliqué ensuite et les modalités de désactivation.</p>"
+    },
+    {
+      "q": "Les offres Freebox sont-elles vraiment sans engagement?",
+      "a": "<p>Les offres Freebox sont généralement commercialisées sans durée minimale d’engagement, ce qui vous permet de résilier quand vous le souhaitez. Cela n’efface pas les frais de résiliation éventuels ni l’obligation de retourner l’intégralité du matériel prêté. Vérifiez aussi les conditions particulières d’une promotion ou d’un abonnement optionnel avant de souscrire.</p>"
+    },
+    {
+      "q": "Quelle Freebox choisir pour le télétravail et les jeux en ligne?",
+      "a": "<p>Pour le télétravail et le jeu en ligne, la fibre, une bonne stabilité du réseau local et une liaison Ethernet pour les appareils fixes sont souvent plus importantes que le débit maximal affiché. Une offre intermédiaire suffit habituellement à un foyer connecté. Choisissez une formule plus haut de gamme si plusieurs utilisateurs ont des besoins intensifs simultanés et si vos ordinateurs ou équipements réseau peuvent exploiter les débits proposés.</p>"
+    },
+    {
+      "q": "Puis-je conserver mon numéro de téléphone fixe en passant chez Free?",
+      "a": "<p>Oui, vous pouvez en principe demander la portabilité de votre numéro fixe. Il faut fournir le relevé d’identité opérateur, souvent appelé RIO, de votre ligne actuelle. Ne résiliez pas vous-même votre ancien abonnement avant d’avoir organisé la portabilité: le nouvel opérateur peut alors prendre en charge la procédure, selon votre situation et les conditions applicables.</p>"
+    },
+    {
+      "q": "Pourquoi mon Wi-Fi Freebox est-il lent alors que ma fibre est rapide?",
+      "a": "<p>La fibre mesure la qualité de l’arrivée internet jusqu’à votre box; le Wi-Fi concerne la liaison entre cette box et vos appareils. Des murs épais, une grande surface, des réseaux voisins, une box mal placée ou un appareil ancien peuvent dégrader le Wi-Fi. Testez d’abord le débit en Ethernet près de la box, repositionnez-la dans un endroit dégagé et envisagez un répéteur ou un point d’accès pour les zones éloignées.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

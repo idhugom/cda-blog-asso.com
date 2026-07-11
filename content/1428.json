@@ -1,0 +1,338 @@
+{
+  "id": 1428,
+  "slug": "comment-planter-des-pommes-de-terre-efficacement-guide-pratique",
+  "title": "Comment planter des pommes de terre efficacement : guide pratique",
+  "metaTitle": "Planter des pommes de terre efficacement: guide pratique",
+  "metaDescription": "Quand et comment planter des pommes de terre? Choix des plants, sol, distances, buttage, arrosage et récolte réussie au potager familial, sans erreur.",
+  "dek": "De la sélection des tubercules à leur conservation, la réussite des pommes de terre repose surtout sur le bon calendrier, un sol bien préparé et des gestes réguliers. Voici une méthode concrète pour obtenir une récolte saine, en pleine terre comme en contenant.",
+  "category": "nature-animaux",
+  "tags": [
+    "potager",
+    "pommes de terre",
+    "jardinage",
+    "plantation",
+    "récolte"
+  ],
+  "keyTakeaways": [
+    "Plantez dans une terre ressuyée et réchauffée, après les fortes gelées.",
+    "Utilisez de préférence des plants certifiés, fermes et déjà germés.",
+    "Respectez 30 à 40 cm entre les plants et 60 à 75 cm entre les rangs.",
+    "Buttez les tiges deux fois pour protéger les tubercules de la lumière.",
+    "Alternez les parcelles pendant au moins quatre ans pour limiter les maladies."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "La pomme de terre est généreuse au potager, mais elle ne pardonne pas toujours une plantation trop hâtive, un sol tassé ou un arrosage mal maîtrisé. En choisissant les bons plants, en respectant les distances et en buttant au bon moment, vous pouvez récolter des tubercules savoureux sans technique compliquée. Ce guide vous donne une méthode fiable, adaptée à la plupart des jardins français."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-planter",
+      "text": "Choisir le bon moment pour planter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calendrier dépend moins d’une date fixe que de l’état du sol. Les pommes de terre se plantent lorsque la terre n’est plus collante, qu’elle s’émiette facilement et qu’elle a commencé à se réchauffer. En règle générale, cela correspond à mars ou avril dans les régions les plus douces, à avril dans une grande partie du pays, puis à mai dans les zones froides, en altitude ou lorsque les gelées tardives sont fréquentes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un sol autour de <strong>8 à 10 °C</strong> est un bon repère. Planter beaucoup plus tôt ne fait pas forcément gagner du temps: le tubercule peut végéter, pourrir dans une terre froide et humide, ou produire des pousses vulnérables. Si les feuilles sont touchées par un gel léger, la plante repart parfois de la base, mais la récolte sera retardée."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Les saints de glace ne constituent pas une règle absolue, mais ils rappellent un risque réel de gel tardif. Gardez un voile d’hivernage à portée de main si les jeunes pousses sont déjà sorties.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "8 à 10 °C",
+          "label": "température du sol généralement recherchée avant la plantation"
+        },
+        {
+          "value": "3 à 4 mois",
+          "label": "durée courante entre la plantation et une récolte de conservation"
+        },
+        {
+          "value": "4 à 10 kg",
+          "label": "récolte souvent envisageable, dans de bonnes conditions, pour 1 kg de plants"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-plants-et-varietes",
+      "text": "Choisir des plants sains et une variété adaptée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour cultiver des pommes de terre, vous ne semez pas des graines: vous plantez des <strong>tubercules de semence</strong>, appelés plants. Privilégiez des plants certifiés, vendus en jardinerie, pépinière ou coopérative. Ils offrent une meilleure garantie sanitaire que des pommes de terre de consommation, qui peuvent transporter des maladies ou avoir reçu un traitement empêchant la germination."
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez des tubercules fermes, sans trace de pourriture, de blessure profonde ni moisissure. Un calibre proche d’un petit œuf est pratique: il contient assez de réserves sans gaspiller de matière. Les très gros tubercules peuvent être coupés en morceaux comportant chacun un ou deux yeux, mais cette opération augmente le risque de pourriture. Pour débuter, il est plus sûr de les planter entiers."
+    },
+    {
+      "type": "table",
+      "caption": "Quel type de pomme de terre choisir selon votre objectif?",
+      "headers": [
+        "Type de variété",
+        "Récolte habituelle",
+        "Atout principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Précoce",
+          "Environ 70 à 100 jours après plantation",
+          "Pommes de terre nouvelles, récolte rapide",
+          "Se conserve moins longtemps"
+        ],
+        [
+          "Demi-précoce",
+          "Environ 100 à 120 jours",
+          "Bon compromis entre précocité et rendement",
+          "Demande un suivi régulier en été"
+        ],
+        [
+          "Tardive ou de conservation",
+          "Souvent 120 jours ou plus",
+          "Bonne aptitude au stockage hivernal",
+          "Plus exposée aux maladies de fin de saison"
+        ],
+        [
+          "À chair ferme ou farineuse",
+          "Selon la variété",
+          "À choisir selon vos recettes",
+          "Ne confondez pas usage culinaire et précocité"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Faire germer les plants",
+      "html": "<p>Placez les plants 4 à 6 semaines avant la plantation dans des cagettes, yeux vers le haut, à la lumière mais hors gel. Des germes courts, trapus et verdâtres résistent mieux que de longues pousses blanches et cassantes.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, comptez souvent quelques euros pour un petit sachet destiné à un carré potager, et couramment autour de 6 à 15 euros le kilo de plants selon la variété, le conditionnement et le point de vente. Un kilo permet généralement de couvrir plusieurs mètres carrés, à condition de ne pas trop serrer les plants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "preparer-sol",
+      "text": "Préparer un sol meuble, nourri et bien drainé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Installez vos pommes de terre au soleil, idéalement avec au moins six heures de lumière directe par jour. Elles apprécient une terre profonde, légère à moyennement compacte, qui laisse l’eau s’infiltrer sans rester détrempée. Un sol trop lourd donne des tubercules déformés et rend la récolte laborieuse; un terrain constamment humide favorise les pourritures."
+    },
+    {
+      "type": "paragraph",
+      "html": "Décompactez la parcelle sur environ 20 à 25 cm, retirez les grosses pierres et les racines tenaces, puis ameublissez sans retourner inutilement toutes les couches du sol. Incorporez du compost bien mûr ou un amendement organique équilibré à l’automne ou quelques semaines avant de planter. La pomme de terre est gourmande, mais un excès d’azote donne surtout de grandes fanes au détriment des tubercules."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Évitez le fumier frais juste avant la plantation: il peut favoriser certaines maladies et produire des tubercules crevassés ou galeux.",
+        "Ne chaussez pas les pommes de terre dans une terre gorgée d’eau, même si la date de plantation semble idéale.",
+        "Si votre sol est argileux, plantez légèrement moins profond et formez des buttes plus marquées.",
+        "Sur sol très sableux, enrichissez en matière organique et surveillez davantage le dessèchement."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne replantez pas des pommes de terre au même endroit chaque année. Elles appartiennent à la même famille que les tomates, aubergines et poivrons: évitez aussi de les faire suivre par ces légumes.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "planter-pas-a-pas",
+      "text": "Planter les pommes de terre: profondeur, écartement et gestes précis"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plantation en lignes reste la solution la plus simple à entretenir et à récolter. Prévoyez <strong>30 à 40 cm entre deux plants</strong>, puis <strong>60 à 75 cm entre les rangs</strong>. Cet espace peut sembler généreux au départ, mais il permet de butter, de faire circuler l’air et de limiter la concurrence entre les plants."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Tracez les rangs",
+          "html": "Tendez un cordeau si vous souhaitez des lignes régulières. Les rangs assez espacés vous laisseront de la place pour passer avec une binette ou une serre-fouette."
+        },
+        {
+          "title": "Creusez des sillons ou des trous",
+          "html": "Visez 10 à 15 cm de profondeur dans une terre légère. Dans un sol lourd, 8 à 10 cm suffisent souvent; dans une terre très filtrante, vous pouvez aller un peu plus profond."
+        },
+        {
+          "title": "Posez les tubercules correctement",
+          "html": "Déposez un plant tous les 30 à 40 cm, germes dirigés vers le haut. Ne tassez pas brutalement la terre autour: replacez-la simplement pour recouvrir le plant."
+        },
+        {
+          "title": "Refermez et repérez la ligne",
+          "html": "Rebouchez le sillon, égalisez doucement et marquez la variété avec une étiquette. C’est utile si vous cultivez plusieurs types de pommes de terre aux dates de récolte différentes."
+        },
+        {
+          "title": "Arrosez seulement si le sol est sec",
+          "html": "Une terre fraîche suffit au démarrage. En cas de printemps très sec, arrosez doucement pour humidifier la zone de plantation, sans créer de boue autour des tubercules."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un tubercule exposé à la lumière verdit et devient impropre à la consommation. La bonne profondeur de plantation et le buttage servent avant tout à garder les futures pommes de terre dans l’obscurité.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pleine-terre-ou-pot",
+      "text": "Pleine terre ou pot: quelle méthode choisir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin d’un grand potager pour essayer. La culture en bac, sac de culture ou grand pot fonctionne sur une terrasse bien exposée, mais elle exige un suivi plus attentif de l’eau. La pleine terre reste préférable si vous cherchez la simplicité et une récolte importante."
+    },
+    {
+      "type": "compare",
+      "title": "Comparer la culture en pleine terre et en contenant",
+      "a": {
+        "title": "En pleine terre",
+        "points": [
+          "Convient aux récoltes les plus abondantes et aux familles.",
+          "Le sol conserve mieux l’humidité et limite les arrosages.",
+          "Nécessite une parcelle disponible et une rotation des cultures.",
+          "Le buttage et le désherbage demandent un peu d’espace."
+        ]
+      },
+      "b": {
+        "title": "En pot, bac ou sac",
+        "points": [
+          "Adapté aux balcons, petites cours et terrasses ensoleillées.",
+          "Utilisez un contenant percé, d’au moins 35 à 45 cm de profondeur.",
+          "Comptez souvent un plant par contenant de 30 à 40 litres.",
+          "Arrosez plus souvent, car le terreau sèche rapidement en été."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "En contenant, choisissez un terreau potager mélangé à un peu de compost mûr et assurez un bon drainage. Ajoutez du substrat au fur et à mesure que les tiges poussent, sans enterrer complètement le feuillage. Les tours très hautes promettant des dizaines de pommes de terre à chaque étage sont souvent décevantes: la plante forme surtout ses tubercules autour de la zone où le plant a été installé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "entretenir-culture",
+      "text": "Arroser, biner et butter sans affaiblir les plants"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les pommes de terre demandent peu d’intervention avant la levée, qui peut prendre deux à quatre semaines selon la température. Dès que les tiges atteignent environ 15 à 20 cm, ramenez de la terre de chaque côté du rang afin de former une butte. Répétez l’opération deux à trois semaines plus tard si nécessaire. Ce geste protège les tubercules de la lumière, stabilise les tiges et limite les mauvaises herbes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Arrosez au pied, de préférence le matin, lorsque la pluie se fait rare et surtout pendant la formation des tubercules. Cherchez une humidité régulière, pas un sol détrempé. En période chaude et sèche, une culture en pleine terre peut avoir besoin, selon votre terrain et la météo, de l’équivalent de 20 à 30 litres d’eau par mètre carré sur une semaine, apportés en une ou plusieurs fois. Les pots demandent souvent des apports plus rapprochés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Binez superficiellement entre les rangs après une pluie ou un arrosage, avant que les adventices ne s’installent. Un paillage léger, posé lorsque le sol est déjà réchauffé, aide à maintenir l’humidité et réduit le désherbage. Ne recouvrez toutefois pas des plants encore très jeunes avec une couche épaisse et froide."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-maladies-ravageurs",
+      "text": "Prévenir les maladies et les ravageurs les plus courants"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prévention est plus efficace que les traitements de dernière minute. Le mildiou se manifeste notamment par des taches sombres qui s’étendent sur le feuillage, parfois accompagnées d’un duvet clair sous les feuilles lorsque le temps est doux et humide. Espacez les rangs, évitez de mouiller inutilement les feuilles, retirez rapidement les parties franchement atteintes et ne compostez pas un feuillage gravement malade."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les doryphores, reconnaissables à leurs rayures noires et jaunes à l’âge adulte, ainsi que leurs larves orangées, peuvent dévorer les feuilles. Une inspection régulière du revers du feuillage permet de retirer à la main les adultes, larves et pontes avant une forte invasion. Dans un petit potager, cette méthode est souvent suffisante si elle est précoce et répétée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La rotation est votre meilleur levier sur le long terme. Attendez idéalement quatre ans avant de remettre des pommes de terre, tomates, aubergines ou poivrons au même emplacement. Ramassez aussi les petits tubercules oubliés à la récolte: ils peuvent repousser l’année suivante et servir de relais aux maladies."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas faim et carence",
+      "html": "<p>Un feuillage jaunissant en toute fin de cycle est souvent normal: la plante entre en maturation. En revanche, un jaunissement précoce, des taches qui progressent vite ou des tiges qui s’affaissent justifient une vérification du sol, de l’arrosage et de l’état sanitaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "recolter-et-conserver",
+      "text": "Récolter au bon stade et conserver sans faire verdir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des pommes de terre nouvelles, vous pouvez prélever quelques tubercules lorsque les plants ont fleuri ou commencé à bien se développer, sans arracher toute la plante. Leur peau est fine, elles sont délicieuses mais fragiles: consommez-les rapidement. Pour une conservation plus longue, attendez que le feuillage jaunisse puis sèche. Par temps sec, coupez éventuellement les fanes et laissez les tubercules en terre encore une dizaine de jours afin que leur peau se raffermisse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Déterrez avec une fourche-bêche plantée à distance du pied pour ne pas transpercer les tubercules. Laissez-les ressuyer quelques heures à l’ombre et à l’air, jamais longtemps au soleil. Écartez ceux qui sont coupés, mous ou abîmés: ils doivent être consommés en premier. Conservez les autres dans des cagettes, des sacs en papier ou des paniers aérés, dans un lieu sombre, frais, sec et hors gel, idéalement autour de 4 à 8 °C."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité alimentaire",
+      "html": "<p>Jetez les pommes de terre très vertes, amères ou fortement germées. Le verdissement indique la présence accrue de composés naturels indésirables; retirer une petite zone verte ne rend pas forcément un tubercule très atteint consommable.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "plan-action-potager",
+      "text": "Votre plan d’action pour une première plantation réussie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour démarrer simplement, choisissez une seule variété, achetez des plants certifiés et préparez une petite surface bien ensoleillée. Faites-les germer à la lumière, attendez que le sol soit ressuyé, puis plantez à 10 à 15 cm de profondeur en respectant les écartements. Notez la date de plantation et la variété: cette habitude vous aidera à ajuster votre calendrier l’année suivante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ensuite, concentrez-vous sur trois gestes: surveiller les gelées au démarrage, butter deux fois quand les tiges grandissent et maintenir une humidité régulière pendant les périodes sèches. À la récolte, conservez uniquement les tubercules intacts et planifiez dès maintenant la parcelle qui accueillera les pommes de terre dans quatre ans. Cette rotation, plus que n’importe quel produit miracle, protège durablement votre potager."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on planter des pommes de terre achetées au supermarché?",
+      "a": "<p>C’est possible sur le plan technique si elles germent, mais ce n’est pas le choix le plus sûr. Certaines pommes de terre de consommation sont traitées pour freiner la germination et elles ne présentent pas les mêmes garanties sanitaires que des plants certifiés. Pour limiter le risque de maladies au potager et obtenir une culture plus régulière, achetez des plants destinés à la plantation.</p>"
+    },
+    {
+      "q": "À quelle profondeur planter les pommes de terre dans un sol argileux?",
+      "a": "<p>Dans un sol argileux et lourd, plantez plutôt à <strong>8 à 10 cm</strong> de profondeur afin d’éviter que les tubercules ne restent dans une zone froide et humide. Formez ensuite des buttes plus généreuses au fil de la croissance. L’important est que les pommes de terre en formation restent toujours couvertes de terre et ne voient pas la lumière.</p>"
+    },
+    {
+      "q": "Faut-il arroser les pommes de terre tous les jours en été?",
+      "a": "<p>Non, sauf très petit contenant qui sèche très vite. En pleine terre, mieux vaut des arrosages espacés mais suffisamment copieux pour humidifier la zone des racines, plutôt que de petites quantités quotidiennes. Vérifiez la terre sous quelques centimètres: si elle est encore fraîche, attendez. Arrosez au pied, idéalement le matin, et adaptez toujours la fréquence à votre sol, au paillage et à la météo.</p>"
+    },
+    {
+      "q": "Pourquoi mes pommes de terre sont-elles vertes après la récolte?",
+      "a": "<p>Elles ont été exposées à la lumière, soit parce qu’elles étaient trop proches de la surface, soit parce que la butte s’est affaissée. Le verdissement signale une augmentation de substances naturelles indésirables. Ne consommez pas les tubercules très verts ou amers. Pour l’éviter, buttez les rangs dès que les tiges poussent et récoltez sans laisser les pommes de terre exposées au soleil.</p>"
+    },
+    {
+      "q": "Quand récolter des pommes de terre pour les conserver tout l’hiver?",
+      "a": "<p>Attendez que le feuillage jaunisse puis se dessèche naturellement, signe que les tubercules ont terminé l’essentiel de leur maturation. Récoltez de préférence par temps sec, laissez ressuyer les pommes de terre quelques heures à l’ombre, puis stockez les tubercules sains dans l’obscurité, au frais, au sec et à l’abri du gel. Les pommes de terre blessées doivent être consommées rapidement.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

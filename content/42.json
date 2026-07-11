@@ -1,0 +1,318 @@
+{
+  "id": 42,
+  "slug": "epingler-un-ami-dans-vos-publications-facebook-techniques-et-bonnes-manieres",
+  "title": "Épingler un ami dans vos publications Facebook : techniques et bonnes manières",
+  "metaTitle": "Épingler un ami sur Facebook: guide et bonnes manières",
+  "metaDescription": "Apprenez à identifier un ami sur Facebook, régler la visibilité et éviter les faux pas. Méthodes sur mobile et ordinateur, avec les bons réflexes.",
+  "dek": "Sur Facebook, « épingler un ami » désigne le plus souvent le fait de l’identifier dans une publication. Voici comment le faire correctement, comprendre ce que la personne verra et respecter son consentement.",
+  "category": "culture-societe",
+  "tags": [
+    "Facebook",
+    "réseaux sociaux",
+    "identification",
+    "vie privée",
+    "étiquette numérique"
+  ],
+  "keyTakeaways": [
+    "Identifier une personne dans un post n’est pas la même chose qu’épingler une publication en haut d’un profil ou d’un groupe.",
+    "Vérifiez toujours l’audience du post avant d’ajouter un nom: un tag ne rend pas forcément le contenu public, mais il peut élargir sa diffusion.",
+    "Demandez l’accord avant de publier une photo, une localisation ou une information personnelle concernant quelqu’un.",
+    "Une personne identifiée peut généralement retirer son identification ou limiter l’affichage du contenu sur son propre profil.",
+    "Si le nom n’apparaît pas, n’insistez pas: les paramètres de confidentialité, le lien entre les comptes ou le contexte du groupe peuvent l’empêcher."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous voulez associer un proche à une photo de vacances, remercier un collègue ou signaler à un ami qu’une publication le concerne? Sur Facebook, cette action s’appelle le plus souvent <strong>identifier une personne</strong>, même si l’on entend fréquemment « épingler un ami ». Le geste est simple; ses conséquences sur la visibilité, la notification et la vie privée méritent en revanche quelques précautions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-ou-epingler-ne-confondons-pas",
+      "text": "Identifier un ami ou épingler un post: ne confondez pas les deux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une publication Facebook, identifier quelqu’un consiste à associer son profil à votre texte, votre photo ou, selon le format, votre vidéo. Son nom devient généralement cliquable et la personne reçoit habituellement une notification. C’est l’outil adapté pour dire « nous étions ensemble », remercier un participant ou attirer poliment son attention sur un contenu."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’<strong>épinglage</strong>, au sens strict, est une autre fonction: il place une publication en évidence, souvent en haut d’un espace comme un groupe, une page ou parfois un profil, selon les options proposées à votre compte. Il ne lie pas automatiquement une personne au contenu et ne lui envoie pas de notification en tant que personne identifiée."
+    },
+    {
+      "type": "compare",
+      "title": "Quel outil correspond à votre besoin?",
+      "a": {
+        "title": "Identifier une personne",
+        "points": [
+          "Associe un profil à un texte, une photo, une vidéo ou un commentaire.",
+          "Peut avertir la personne concernée et rendre son nom cliquable.",
+          "Sert à créditer, partager un souvenir commun ou interpeller un proche."
+        ]
+      },
+      "b": {
+        "title": "Épingler une publication",
+        "points": [
+          "Met un post important en tête d’un espace lorsque l’option existe.",
+          "N’ajoute aucun lien vers le profil d’un ami par elle-même.",
+          "Sert à mettre en avant une annonce, des règles ou une information durable."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le mot juste évite les mauvaises manipulations",
+      "html": "<p>Si votre objectif est de faire apparaître le nom d’un ami sur une photo ou de l’avertir, cherchez l’option <strong>Identifier des personnes</strong>, et non le menu « Épingler ».</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-identifier-une-personne",
+      "text": "Comment identifier une personne dans une publication Facebook"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’interface varie légèrement entre l’application mobile, le site sur ordinateur et les mises à jour de Facebook. Le principe reste le même: vous choisissez votre contenu, vous ouvrez l’outil d’identification, puis vous sélectionnez le bon profil. Dans un texte ou un commentaire, taper <strong>@</strong> suivi du prénom peut aussi faire apparaître une liste de suggestions. Ne validez pas trop vite: les homonymes sont fréquents."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Créez votre publication",
+          "html": "Écrivez votre texte, ajoutez vos photos ou choisissez la vidéo à publier. Réglez d’abord l’audience avec le sélecteur visible près de votre nom: Amis, Public, Moi uniquement ou une audience personnalisée."
+        },
+        {
+          "title": "Ouvrez l’outil d’identification",
+          "html": "Sur mobile, cherchez l’icône ou le bouton <strong>Identifier des personnes</strong>, souvent dans les options de publication. Sur ordinateur, il apparaît généralement parmi les boutons situés sous la zone de texte. Pour une photo déjà ajoutée, un appui sur l’image peut proposer directement l’identification."
+        },
+        {
+          "title": "Recherchez et choisissez le bon profil",
+          "html": "Saisissez le prénom et le nom, puis sélectionnez la personne dans la liste. Sur une image, placez l’étiquette près de son visage ou à l’endroit pertinent, sans couvrir un élément important."
+        },
+        {
+          "title": "Relisez avant de publier",
+          "html": "Contrôlez les noms, le texte, la photo, le lieu et l’audience. Publiez seulement lorsque vous êtes certain que les personnes concernées sont d’accord avec le contexte."
+        },
+        {
+          "title": "Corrigez si nécessaire",
+          "html": "Après publication, ouvrez le menu du post pour le modifier et retirer une identification erronée. Mieux vaut corriger immédiatement qu’espérer que la personne ne le remarque pas."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe le plus sûr",
+      "html": "<p>Pour une photo de groupe, envoyez-la d’abord dans une conversation privée et demandez: « Cela vous convient si je la publie et vous identifie? » Une réponse claire vaut mieux qu’une supposition.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ou-peut-on-identifier-quelqu-un",
+      "text": "Posts, photos, commentaires, groupes: où l’identification fonctionne-t-elle?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’identification n’a pas exactement le même effet selon l’endroit où vous l’utilisez. La possibilité d’ajouter un nom dépend aussi des paramètres de la personne, de vos liens sur Facebook et des règles de l’espace où vous publiez. Dans un groupe, par exemple, les administrateurs peuvent limiter certaines fonctions ou imposer des règles de courtoisie plus strictes."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux usages de l’identification sur Facebook",
+      "headers": [
+        "Situation",
+        "Ce que vous pouvez faire",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Publication texte",
+          "Ajoutez un nom via l’outil dédié ou avec @ suivi du nom.",
+          "Le post peut concerner une audience plus large que votre cercle habituel."
+        ],
+        [
+          "Photo ou album",
+          "Associez un profil à une personne visible sur l’image.",
+          "Demandez l’accord, surtout si la photo est intime, peu flatteuse ou prise dans un cadre privé."
+        ],
+        [
+          "Commentaire",
+          "Mentionnez quelqu’un pour lui répondre ou l’informer.",
+          "Évitez de l’entraîner dans une discussion conflictuelle ou commerciale sans son accord."
+        ],
+        [
+          "Groupe Facebook",
+          "Identifiez un membre si les règles et les paramètres le permettent.",
+          "Respectez le sujet du groupe et ne sollicitez pas une personne de façon répétée."
+        ],
+        [
+          "Publication professionnelle",
+          "Créditez un partenaire, une équipe ou un intervenant avec son autorisation.",
+          "Un tag n’est pas un droit d’utiliser une image, un témoignage ou le nom d’une personne."
+        ]
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "pour utiliser l’identification: cette fonction ne demande pas d’abonnement spécifique"
+        },
+        {
+          "value": "2 réglages",
+          "label": "à vérifier avant chaque envoi: l’audience du post et les personnes identifiées"
+        },
+        {
+          "value": "1 notification",
+          "label": "généralement envoyée à la personne identifiée, sauf réglages ou cas particuliers"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "visibilite-notifications-et-confidentialite",
+      "text": "Ce que voit votre ami: visibilité, notification et contrôle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Identifier quelqu’un ne transforme pas automatiquement votre publication en contenu public. L’audience que vous avez choisie reste le point de départ. Toutefois, selon vos réglages et ceux de la personne identifiée, le post peut être visible par une audience plus large, notamment si l’ajout à son profil ou le partage avec ses amis est autorisé. Facebook peut aussi proposer à la personne de faire apparaître ce contenu sur son propre profil."
+    },
+    {
+      "type": "paragraph",
+      "html": "La personne identifiée garde une marge de contrôle. Elle peut souvent retirer son identification, demander une modification ou masquer le contenu de son profil. Cela ne supprime pas forcément votre publication initiale: pour cela, il faut que vous la supprimiez ou que vous modifiiez son audience. De votre côté, vous pouvez consulter vos paramètres de profil et d’identification pour décider qui peut publier sur votre profil, voir les contenus qui vous identifient et si vous souhaitez les examiner avant affichage."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une règle simple sur la portée",
+      "html": "<p>Pensez à l’identification comme à une <strong>invitation à relier deux profils</strong>, pas comme à une simple légende. Avant d’écrire un nom, demandez-vous si vous accepteriez que cette personne reçoive une alerte et que son entourage puisse potentiellement voir le contenu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-bonnes-manieres-avant-de-tagger",
+      "text": "Les bonnes manières avant d’identifier un ami"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un tag peut être chaleureux et utile, mais il ne doit jamais devenir une mise en scène imposée. Le consentement est particulièrement important lorsqu’une publication montre un enfant, une personne dans un contexte médical, une soirée privée, un lieu précis, une tenue embarrassante ou une situation professionnelle. En France, l’utilisation de l’image d’une personne peut aussi soulever des questions de droit à l’image: le fait d’avoir pris une photo ou d’être ami sur Facebook ne vaut pas autorisation générale de diffusion."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Demandez avant de publier</strong> une photo identifiable, plutôt que de demander pardon après coup.",
+        "<strong>Évitez les lieux en temps réel</strong>: annoncer qu’un proche est absent de chez lui, en voyage ou dans un endroit sensible n’est pas anodin.",
+        "<strong>Ne taguez pas pour vendre</strong>: identifier des dizaines de personnes afin de promouvoir une offre est souvent perçu comme du spam.",
+        "<strong>Gardez le bon contexte</strong>: une plaisanterie entre proches peut devenir gênante devant les collègues, la famille ou des inconnus.",
+        "<strong>Respectez un refus sans débat</strong>: si une personne demande le retrait du post ou de son nom, agissez rapidement."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Le meilleur tag est celui qui apporte une information ou un souvenir à la personne concernée. S’il sert surtout à attirer l’attention, à provoquer ou à augmenter artificiellement la portée, abstenez-vous.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-nom-napparait-pas",
+      "text": "Nom introuvable, tag refusé, post absent: résoudre les problèmes courants"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si Facebook ne propose pas le nom recherché, cela ne signifie pas forcément un problème technique. La personne peut avoir limité qui peut l’identifier, vous ne faites peut-être pas partie de ses amis, elle peut avoir restreint votre compte, ou le contexte du groupe peut empêcher l’action. Ne cherchez pas à contourner ces réglages en publiant son nom complet, une capture de son profil ou un lien vers son compte: c’est précisément ce que les paramètres sont destinés à éviter."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous avez identifié la mauvaise personne? Modifiez immédiatement le post et retirez le tag. Votre ami ne voit pas le contenu sur son profil alors qu’il a été identifié? Il a peut-être activé l’examen des publications ou choisi de ne pas l’ajouter à son profil; ce choix lui appartient. Enfin, si votre publication contient des informations erronées ou sensibles, retirer seulement le nom ne suffit pas toujours: corrigez le texte, changez l’audience ou supprimez le post selon la situation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "alternatives-a-lidentification",
+      "text": "Quand il vaut mieux ne pas identifier quelqu’un"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de taguer pour raconter un moment. Une légende comme « belle soirée entre amis » peut suffire. Vous pouvez aussi envoyer la photo dans une conversation privée, créer un album à audience restreinte ou partager un lien à un petit groupe. Pour remercier une équipe sans exposer chaque membre, mentionnez le nom de l’association, du club ou de l’entreprise, après vous être assuré que cette communication est appropriée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous vouliez en réalité mettre une information en avant, utilisez l’option d’épinglage du post lorsqu’elle est disponible dans votre groupe, votre page ou votre profil. Ouvrez le menu à trois points de la publication et cherchez une formulation telle que « Épingler », « Mettre à la une » ou une option équivalente. Les intitulés et les droits nécessaires varient: dans un groupe, les administrateurs et modérateurs disposent souvent de possibilités supplémentaires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "checklist-avant-publication",
+      "text": "Avant de publier: la vérification qui évite la plupart des regrets"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez trente secondes pour relire votre post comme si vous étiez la personne identifiée. Comprendrait-elle pourquoi vous l’avez associée à ce contenu? Serait-elle à l’aise avec la photo, le commentaire et l’audience choisis? Une publication Facebook peut être partagée, capturée ou commentée rapidement: même après une suppression, vous ne maîtrisez pas toujours les copies déjà vues."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Vérifiez l’utilité du tag",
+          "html": "Identifiez uniquement les personnes réellement concernées. Un nom ajouté par automatisme est rarement une bonne idée."
+        },
+        {
+          "title": "Contrôlez la confidentialité",
+          "html": "Regardez l’audience affichée avant l’envoi et choisissez l’option la plus restreinte compatible avec votre intention."
+        },
+        {
+          "title": "Obtenez un accord pour les contenus sensibles",
+          "html": "Photo de groupe, enfants, travail, santé, adresse ou localisation: un message préalable est préférable."
+        },
+        {
+          "title": "Publiez, puis restez disponible",
+          "html": "Si une personne souhaite un retrait ou une correction, répondez sans tarder. Cette attention compte davantage que la perfection technique."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Votre plan d’action",
+      "html": "<p>Pour votre prochain post, choisissez d’abord <strong>qui doit réellement le voir</strong>, puis demandez l’accord des personnes reconnaissables, et seulement ensuite ajoutez les identifications utiles. Vous profiterez de la fonction sans transformer un souvenir partagé en gêne publique.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment identifier un ami sur Facebook depuis un iPhone ou un smartphone Android?",
+      "a": "<p>Créez votre publication, puis cherchez l’option <strong>Identifier des personnes</strong> dans les outils proposés avant l’envoi. Sélectionnez le profil dans la liste, vérifiez l’audience et publiez. Sur une photo, il faut parfois toucher l’image pour faire apparaître l’option. L’emplacement exact des boutons peut changer selon la version de l’application.</p>"
+    },
+    {
+      "q": "Peut-on identifier une personne sur Facebook sans être ami avec elle?",
+      "a": "<p>Cela dépend des paramètres de confidentialité de cette personne, de vos relations sur Facebook et du contexte de publication. Si son profil ne vous est pas proposé, ne tentez pas de contourner le blocage: elle a peut-être choisi de limiter les identifications. Vous pouvez lui demander directement si elle souhaite être mentionnée et par quel moyen.</p>"
+    },
+    {
+      "q": "Mon ami est-il averti quand je l’identifie dans une publication Facebook?",
+      "a": "<p>En général, Facebook envoie une notification à la personne identifiée. Elle peut ensuite consulter le contenu, retirer son identification, demander une modification ou choisir de ne pas l’afficher sur son profil. Des réglages de notification ou de confidentialité peuvent toutefois modifier ce comportement.</p>"
+    },
+    {
+      "q": "Comment retirer une identification Facebook faite par erreur?",
+      "a": "<p>Si vous êtes l’auteur du post, ouvrez son menu, choisissez de le modifier, puis supprimez le nom ou l’étiquette concernée avant d’enregistrer. Si vous êtes la personne identifiée, vous pouvez habituellement retirer votre identification depuis la publication ou sa notification. Pour faire disparaître le contenu à la source, demandez aussi à l’auteur de modifier ou supprimer le post.</p>"
+    },
+    {
+      "q": "Identifier quelqu’un sur une photo Facebook donne-t-il accès à la photo à tous ses amis?",
+      "a": "<p>Pas nécessairement. L’audience que vous avez définie pour la publication reste essentielle, mais les réglages de votre ami et les options liées à l’ajout sur son profil peuvent influer sur la portée réelle. Avant de publier une photo sensible, choisissez une audience limitée et obtenez l’accord des personnes reconnaissables.</p>"
+    },
+    {
+      "q": "Comment épingler une publication Facebook en haut d’un groupe ou d’une page?",
+      "a": "<p>Ouvrez la publication concernée, cliquez ou touchez le menu à trois points et cherchez une option comme <strong>Épingler</strong> ou <strong>Mettre à la une</strong>. Cette fonction dépend de l’espace et de vos droits: dans un groupe, elle est souvent réservée aux administrateurs ou modérateurs. Elle sert à rendre le post visible en priorité; elle n’identifie pas un ami.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
