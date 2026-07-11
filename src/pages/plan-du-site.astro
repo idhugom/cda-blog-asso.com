@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCategoriesWithCounts, getPostsByCategory } from '../lib/posts';
+import { NAV } from '../lib/site';
+const cats = getCategoriesWithCounts();
+---
+<BaseLayout title="Plan du site" description="Toutes les pages et rubriques du magazine CDA, réunies au même endroit.">
+  <section class="container map">
+    <span class="u-label u-label--accent">Navigation</span>
+    <h1 class="map__title">Plan du site</h1>
+
+    <div class="map__block">
+      <p class="u-label">Pages</p>
+      <ul class="map__pages">
+        {NAV.map((n) => <li><a href={n.href} class="link">{n.label}</a></li>)}
+        <li><a href="/a-propos/" class="link">À propos</a></li>
+      </ul>
+    </div>
+
+    {cats.map((c) => (
+      <div class="map__block">
+        <p class="u-label"><a href={`/rubriques/${c.slug}/`} class="link">{c.name}</a> · {c.count}</p>
+        <ul class="map__list">
+          {getPostsByCategory(c.slug).map((p) => (
+            <li><a href={`/${p.permalink}/`} class="link">{p.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </section>
+</BaseLayout>
+<style>
+  .map { padding-top: clamp(2rem, 5vw, 3rem); }
+  .map__title { font-size: var(--step-5); margin: 0.5rem 0 2rem; }
+  .map__block { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+  .map__pages { list-style: none; padding: 0; margin: 1rem 0 0; display: flex; flex-wrap: wrap; gap: 0.5rem 2rem; }
+  .map__list { list-style: none; padding: 0; margin: 1rem 0 0; columns: 2; column-gap: 2.5rem; }
+  .map__list li { margin-bottom: 0.55rem; font-size: var(--step--1); break-inside: avoid; }
+  @media (max-width: 640px) { .map__list { columns: 1; } }
+</style>

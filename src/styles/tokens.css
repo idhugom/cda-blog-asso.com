@@ -1,0 +1,110 @@
+/* ============================================================
+   Design tokens — CDA Blog, édition 2027
+   Paper × ink, un seul accent, tout en variables fluides.
+   ============================================================ */
+:root {
+  /* — Palette (light / paper) — */
+  --paper: #faf9f6;
+  --paper-2: #f2f0ea;
+  --surface: #ffffff;
+  --ink: #16161a;
+  --ink-soft: #4c4c54;
+  --ink-mute: #86868f;
+  --line: color-mix(in oklab, var(--ink) 12%, transparent);
+  --line-2: color-mix(in oklab, var(--ink) 20%, transparent);
+  --accent: #2b2af0;
+  --accent-ink: #ffffff;
+  --accent-soft: color-mix(in oklab, var(--accent) 12%, var(--paper));
+  --marker: color-mix(in oklab, var(--accent) 22%, transparent);
+  --sel: color-mix(in oklab, var(--accent) 20%, transparent);
+
+  /* — Typographie — */
+  --font-sans: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Fraunces Variable', 'Times New Roman', Georgia, serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', monospace;
+
+  /* Fluid type scale (min 360px → max 1400px) */
+  --step--2: clamp(0.69rem, 0.67rem + 0.10vw, 0.75rem);
+  --step--1: clamp(0.83rem, 0.80rem + 0.16vw, 0.94rem);
+  --step-0: clamp(1rem, 0.95rem + 0.24vw, 1.13rem);
+  --step-1: clamp(1.2rem, 1.11rem + 0.44vw, 1.5rem);
+  --step-2: clamp(1.44rem, 1.28rem + 0.79vw, 2rem);
+  --step-3: clamp(1.73rem, 1.47rem + 1.28vw, 2.66rem);
+  --step-4: clamp(2.07rem, 1.68rem + 1.98vw, 3.55rem);
+  --step-5: clamp(2.49rem, 1.88rem + 3.03vw, 4.73rem);
+  --step-6: clamp(2.99rem, 2.06rem + 4.63vw, 6.31rem);
+
+  /* — Espacements (baseline 4px) — */
+  --sp-1: 0.25rem;
+  --sp-2: 0.5rem;
+  --sp-3: 0.75rem;
+  --sp-4: 1rem;
+  --sp-5: 1.5rem;
+  --sp-6: 2rem;
+  --sp-7: 3rem;
+  --sp-8: 4rem;
+  --sp-9: 6rem;
+  --sp-10: 8rem;
+
+  /* — Rayons (flat → discrets) — */
+  --r-1: 4px;
+  --r-2: 8px;
+  --r-3: 14px;
+  --r-pill: 999px;
+
+  /* — Layout — */
+  --container: 74rem;
+  --measure: 42rem; /* largeur de lecture confortable ~68ch */
+  --gutter: clamp(1.15rem, 4vw, 3rem);
+
+  /* — Motion — */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-1: 0.18s;
+  --dur-2: 0.32s;
+  --dur-3: 0.6s;
+  --dur-4: 0.9s;
+
+  --shadow-1: 0 1px 2px color-mix(in oklab, var(--ink) 6%, transparent);
+  --shadow-2: 0 22px 48px -28px color-mix(in oklab, var(--ink) 40%, transparent);
+
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  --paper: #0b0b0d;
+  --paper-2: #131316;
+  --surface: #141418;
+  --ink: #f4f2ec;
+  --ink-soft: #b1b0b8;
+  --ink-mute: #74747d;
+  --line: color-mix(in oklab, var(--ink) 14%, transparent);
+  --line-2: color-mix(in oklab, var(--ink) 24%, transparent);
+  --accent: #9d9bff;
+  --accent-ink: #0b0b0d;
+  --accent-soft: color-mix(in oklab, var(--accent) 16%, var(--paper));
+  --marker: color-mix(in oklab, var(--accent) 30%, transparent);
+  --sel: color-mix(in oklab, var(--accent) 26%, transparent);
+  --shadow-2: 0 22px 60px -30px rgba(0, 0, 0, 0.7);
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #0b0b0d;
+    --paper-2: #131316;
+    --surface: #141418;
+    --ink: #f4f2ec;
+    --ink-soft: #b1b0b8;
+    --ink-mute: #74747d;
+    --line: color-mix(in oklab, var(--ink) 14%, transparent);
+    --line-2: color-mix(in oklab, var(--ink) 24%, transparent);
+    --accent: #9d9bff;
+    --accent-ink: #0b0b0d;
+    --accent-soft: color-mix(in oklab, var(--accent) 16%, var(--paper));
+    --marker: color-mix(in oklab, var(--accent) 30%, transparent);
+    --sel: color-mix(in oklab, var(--accent) 26%, transparent);
+    --shadow-2: 0 22px 60px -30px rgba(0, 0, 0, 0.7);
+    color-scheme: dark;
+  }
+}

@@ -1,0 +1,119 @@
+---
+import type { Block } from '../lib/posts';
+interface Props { blocks: Block[] }
+const { blocks } = Astro.props;
+
+const calloutMeta: Record<string, { label: string; icon: string }> = {
+  info: { label: 'Bon à savoir', icon: '<circle cx="12" cy="12" r="9"/><path d="M12 8h.01M11 12h1v4h1"/>' },
+  tip: { label: 'Le conseil', icon: '<path d="M12 3a6 6 0 0 0-4 10.5c.6.6 1 1.3 1 2.1V17h6v-1.4c0-.8.4-1.5 1-2.1A6 6 0 0 0 12 3z"/><path d="M9 20h6M10 22h4"/>' },
+  warning: { label: 'À surveiller', icon: '<path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/>' },
+  key: { label: 'À retenir', icon: '<path d="M12 3v18M5 8l7-5 7 5"/>' },
+};
+---
+{
+  blocks.map((b) => {
+    switch (b.type) {
+      case 'lead':
+        return <p class="lead" set:html={b.html} />;
+      case 'paragraph':
+        return <p set:html={b.html} />;
+      case 'heading':
+        return b.level === 2 ? (
+          <h2 id={b.id}>{b.text}</h2>
+        ) : b.level === 3 ? (
+          <h3 id={b.id}>{b.text}</h3>
+        ) : (
+          <h4 id={b.id}>{b.text}</h4>
+        );
+      case 'list':
+        return b.ordered ? (
+          <ol>{b.items.map((it) => <li set:html={it} />)}</ol>
+        ) : (
+          <ul>{b.items.map((it) => <li set:html={it} />)}</ul>
+        );
+      case 'callout': {
+        const m = calloutMeta[b.variant] || calloutMeta.info;
+        return (
+          <aside class={`callout callout--${b.variant}`}>
+            <span class="callout__label">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" set:html={m.icon} />
+              {b.title || m.label}
+            </span>
+            <div set:html={b.html} />
+          </aside>
+        );
+      }
+      case 'table':
+        return (
+          <div class="table-wrap">
+            <table>
+              {b.caption && <caption>{b.caption}</caption>}
+              <thead>
+                <tr>{b.headers.map((h) => <th scope="col">{h}</th>)}</tr>
+              </thead>
+              <tbody>
+                {b.rows.map((row) => (
+                  <tr>
+                    {row.map((cell, i) =>
+                      i === 0 ? <th scope="row" set:html={cell} /> : <td set:html={cell} />
+                    )}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+      case 'compare':
+        return (
+          <div class="compare-wrap">
+            {b.title && <p class="compare-title u-label">{b.title}</p>}
+            <div class="compare">
+              <div class="compare__col compare__col--a">
+                <p class="compare__title"><span class="compare__badge">A</span>{b.a.title}</p>
+                <ul class="compare__list">{b.a.points.map((p) => <li set:html={p} />)}</ul>
+              </div>
+              <div class="compare__col compare__col--b">
+                <p class="compare__title"><span class="compare__badge" style="background:color-mix(in oklab,var(--ink-mute) 18%,transparent);color:var(--ink-soft)">B</span>{b.b.title}</p>
+                <ul class="compare__list">{b.b.points.map((p) => <li set:html={p} />)}</ul>
+              </div>
+            </div>
+          </div>
+        );
+      case 'steps':
+        return (
+          <ol class="steps">
+            {b.items.map((it) => (
+              <li>
+                {it.title && <div class="steps__title">{it.title}</div>}
+                <div set:html={it.html} />
+              </li>
+            ))}
+          </ol>
+        );
+      case 'stats':
+        return (
+          <div class="statrow">
+            {b.items.map((it) => (
+              <div class="statrow__item">
+                <div class="statrow__value">{it.value}</div>
+                <div class="statrow__label">{it.label}</div>
+              </div>
+            ))}
+          </div>
+        );
+      case 'quote':
+        return (
+          <blockquote>
+            <span set:html={b.html} />
+            {b.cite && <cite>{b.cite}</cite>}
+          </blockquote>
+        );
+      default:
+        return null;
+    }
+  })
+}
+
+<style>
+  .compare-title { margin: 2em 0 -0.6em; }
+</style>

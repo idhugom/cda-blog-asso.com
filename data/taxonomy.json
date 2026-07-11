@@ -1,0 +1,16 @@
+{
+  "categories": [
+    { "slug": "auto-mobilite", "name": "Auto & Mobilité", "blurb": "Entretien, mécanique, achat et usage au quotidien de vos véhicules.", "icon": "car" },
+    { "slug": "assurance-finance", "name": "Assurance & Finance", "blurb": "Contrats, garanties, budget : décrypter pour choisir sereinement.", "icon": "shield" },
+    { "slug": "maison-immobilier", "name": "Maison & Immobilier", "blurb": "Habitat, location, aménagement et démarches immobilières.", "icon": "home" },
+    { "slug": "mode-style", "name": "Mode & Style", "blurb": "Vestiaire, accessoires et allure, du casual à l'élégant.", "icon": "shirt" },
+    { "slug": "voyage-evasion", "name": "Voyage & Évasion", "blurb": "Destinations, bons plans et expériences pour partir mieux.", "icon": "compass" },
+    { "slug": "sante-bien-etre", "name": "Santé & Bien-être", "blurb": "Prévention, soin et équilibre de vie, au corps comme à l'esprit.", "icon": "heart" },
+    { "slug": "loisirs-sport", "name": "Loisirs & Sport", "blurb": "Jeux, activités et matériel pour bouger et se divertir.", "icon": "activity" },
+    { "slug": "famille-education", "name": "Famille & Éducation", "blurb": "Enfance, apprentissage et vie de famille au quotidien.", "icon": "users" },
+    { "slug": "business-pro", "name": "Business & Pro", "blurb": "Entrepreneuriat, métiers et outils pour les professionnels.", "icon": "briefcase" },
+    { "slug": "tech-objets", "name": "Tech & Objets", "blurb": "Objets connectés, gadgets et équipements du moment.", "icon": "cpu" },
+    { "slug": "culture-societe", "name": "Culture & Société", "blurb": "Idées, tendances et regards sur le monde qui change.", "icon": "book" },
+    { "slug": "nature-animaux", "name": "Nature & Animaux", "blurb": "Environnement, plein air et compagnons à quatre pattes.", "icon": "leaf" }
+  ]
+}

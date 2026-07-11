@@ -1,0 +1,86 @@
+---
+import type { Faq } from '../lib/posts';
+interface Props { items: Faq[] }
+const { items } = Astro.props;
+---
+{
+  items.length > 0 && (
+    <section class="faq" aria-labelledby="faq-title">
+      <div class="faq__head">
+        <span class="u-label u-label--accent">Questions fréquentes</span>
+        <h2 id="faq-title" class="faq__title">On répond à vos questions</h2>
+      </div>
+      <div class="faq__list">
+        {items.map((f, i) => (
+          <details class="faq__item" open={i === 0} data-reveal>
+            <summary class="faq__q">
+              <span>{f.q}</span>
+              <span class="faq__icon" aria-hidden="true"></span>
+            </summary>
+            <div class="faq__a" set:html={f.a} />
+          </details>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .faq { margin-top: var(--sp-8); }
+  .faq__head { margin-bottom: 1.5rem; }
+  .faq__title { font-size: var(--step-3); margin-top: 0.4rem; }
+  .faq__item {
+    border-top: 1px solid var(--line);
+    padding: 0.4rem 0;
+  }
+  .faq__item:last-child { border-bottom: 1px solid var(--line); }
+  .faq__q {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.15rem 0.2rem;
+    cursor: pointer;
+    list-style: none;
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    transition: color var(--dur-2) var(--ease);
+  }
+  .faq__q::-webkit-details-marker { display: none; }
+  .faq__item:hover .faq__q { color: var(--accent); }
+  .faq__icon {
+    position: relative;
+    flex: none;
+    width: 20px;
+    height: 20px;
+  }
+  .faq__icon::before,
+  .faq__icon::after {
+    content: '';
+    position: absolute;
+    inset: 50% 0 auto 0;
+    height: 1.6px;
+    background: currentColor;
+    transition: transform var(--dur-2) var(--ease);
+  }
+  .faq__icon::after { transform: rotate(90deg); }
+  .faq__item[open] .faq__icon::after { transform: rotate(0); }
+  .faq__a {
+    padding: 0 0.2rem 1.3rem;
+    color: var(--ink-soft);
+    line-height: 1.65;
+    max-width: 60ch;
+  }
+  .faq__a :global(p + p) { margin-top: 0.7em; }
+  .faq__item[open] .faq__a { animation: faqIn var(--dur-2) var(--ease); }
+  @keyframes faqIn {
+    from { opacity: 0; transform: translateY(-4px); }
+    to { opacity: 1; transform: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .faq__item[open] .faq__a { animation: none; }
+  }
+</style>

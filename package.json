@@ -1,0 +1,32 @@
+{
+  "name": "cda-blog-asso",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CDA Blog Asso — édition 2027, statique, ultra optimisée SEO & vitesse.",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "data:posts": "node scripts/fetch-posts.mjs",
+    "data:images": "node scripts/fetch-images.mjs",
+    "gen:content": "node scripts/generate-content.mjs",
+    "gen:images": "node scripts/generate-images.mjs",
+    "pipeline": "node scripts/fetch-posts.mjs && node scripts/generate-content.mjs && node scripts/fetch-images.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.11",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.13.0",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "@fontsource-variable/fraunces": "^5.1.0",
+    "@fontsource-variable/inter": "^5.1.0",
+    "lightningcss": "^1.32.0",
+    "playwright": "^1.61.1",
+    "wrangler": "^4.110.0"
+  }
+}

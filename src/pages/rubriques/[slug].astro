@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import CategoryIcon from '../../components/CategoryIcon.astro';
+import { getCategoriesWithCounts, getPostsByCategory } from '../../lib/posts';
+import { SITE } from '../../lib/site';
+
+export function getStaticPaths() {
+  return getCategoriesWithCounts().map((c) => ({
+    params: { slug: c.slug },
+    props: { cat: c },
+  }));
+}
+const { cat } = Astro.props;
+const posts = getPostsByCategory(cat.slug);
+const url = `${SITE.origin}/rubriques/${cat.slug}/`;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: cat.name,
+    url,
+    description: cat.blurb,
+    isPartOf: { '@id': `${SITE.origin}/#website` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.origin + '/' },
+      { '@type': 'ListItem', position: 2, name: 'Rubriques', item: `${SITE.origin}/rubriques/` },
+      { '@type': 'ListItem', position: 3, name: cat.name, item: url },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={cat.name}
+  description={`${cat.blurb} Retrouvez nos ${posts.length} articles de la rubrique ${cat.name} sur le magazine CDA.`}
+  canonical={url}
+  jsonLd={jsonLd}
+>
+  <section class="container cat-hero">
+    <nav class="crumbs" aria-label="Fil d'ariane">
+      <a href="/">Accueil</a><span aria-hidden="true">/</span><a href="/rubriques/">Rubriques</a>
+    </nav>
+    <div class="cat-hero__head" data-reveal>
+      <span class="cat-hero__icon"><CategoryIcon name={cat.icon} size={30} /></span>
+      <div>
+        <h1 class="cat-hero__title">{cat.name}</h1>
+        <p class="cat-hero__blurb">{cat.blurb}</p>
+      </div>
+    </div>
+    <p class="cat-hero__count u-label" data-reveal>{posts.length} article{posts.length > 1 ? 's' : ''}</p>
+  </section>
+
+  <section class="container">
+    <div class="cat-grid-posts">
+      {posts.map((p, i) => <PostCard post={p} variant="card" eager={i < 3} />)}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .cat-hero { padding-top: clamp(1.5rem, 4vw, 2.5rem); }
+  .crumbs {
+    display: flex; gap: 0.5rem; align-items: center;
+    font-size: var(--step--2); color: var(--ink-mute);
+    text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.8rem;
+  }
+  .crumbs a:hover { color: var(--accent); }
+  .cat-hero__head { display: flex; align-items: center; gap: 1.3rem; }
+  .cat-hero__icon {
+    flex: none; width: 68px; height: 68px; display: grid; place-items: center;
+    border-radius: 18px; background: var(--accent-soft); color: var(--accent);
+  }
+  .cat-hero__title { font-size: var(--step-5); letter-spacing: -0.03em; }
+  .cat-hero__blurb { margin-top: 0.4rem; color: var(--ink-soft); font-size: var(--step-1); max-width: 44ch; }
+  .cat-hero__count { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+  .cat-grid-posts {
+    margin-top: 2rem; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.8rem 1.5rem;
+  }
+  @media (max-width: 820px) { .cat-grid-posts { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 520px) { .cat-grid-posts { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,334 @@
+{
+  "id": 2286,
+  "slug": "sequestre-immobilier-levee-fonds",
+  "title": "séquestre immobilier : procédure de levée des fonds expliquée",
+  "metaTitle": "Séquestre immobilier: levée et déblocage des fonds",
+  "metaDescription": "Levée d’un séquestre immobilier: délais, justificatifs, rôle du notaire et recours pour débloquer les fonds sans erreur ni conflit entre acheteur et vendeur.",
+  "dek": "Le séquestre immobilier protège une transaction, mais sa levée dépend toujours de l’étape du dossier et des clauses signées. Découvrez qui peut autoriser le déblocage, quels documents fournir et comment réagir si les fonds restent bloqués.",
+  "category": "maison-immobilier",
+  "tags": [
+    "séquestre immobilier",
+    "compromis de vente",
+    "notaire",
+    "dépôt de garantie",
+    "achat immobilier"
+  ],
+  "keyTakeaways": [
+    "Le séquestre ne peut pas être libéré sur une simple demande orale d’une partie.",
+    "La clause du compromis indique le montant, le détenteur et les cas de restitution ou d’attribution.",
+    "En cas de rétractation dans le délai légal, l’acquéreur non professionnel doit être remboursé sous 21 jours.",
+    "Un refus de prêt ne permet la restitution que si l’acquéreur a respecté les conditions prévues au contrat.",
+    "En cas de désaccord, le notaire conserve généralement les fonds jusqu’à un accord écrit ou une décision de justice."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous avez versé une somme lors de la signature d’un compromis et vous vous demandez quand elle sera récupérée, déduite du prix ou versée au vendeur? La levée d’un séquestre immobilier n’est pas une formalité automatique: elle dépend de la réalisation de la vente, des conditions suspensives et de l’accord entre les parties. Voici la procédure à suivre pour comprendre vos droits et éviter qu’un dossier ne se bloque inutilement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-couvre-le-sequestre-immobilier",
+      "text": "Ce que recouvre réellement le séquestre immobilier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une vente immobilière, le mot <strong>séquestre</strong> désigne à la fois une somme d’argent immobilisée et la personne ou le professionnel qui la conserve. Le plus souvent, il s’agit du montant versé par l’acquéreur lors de la signature d’un avant-contrat: compromis de vente ou promesse de vente. Cette somme est placée sur le compte professionnel d’un notaire, ou parfois sur le compte d’une agence immobilière habilitée à la recevoir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un compromis, on parle couramment de <strong>dépôt de garantie</strong>. Il manifeste le sérieux de l’acquéreur et sera, si la vente aboutit, déduit de la somme à payer le jour de l’acte authentique. Dans une promesse unilatérale de vente, la somme peut être qualifiée d’<strong>indemnité d’immobilisation</strong>: elle rémunère l’exclusivité accordée à l’acquéreur pendant le délai d’option. Les effets juridiques ne sont donc pas exactement les mêmes."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le versement d’un séquestre n’est pas obligatoire dans une vente immobilière classique. Il est toutefois très fréquent, car il sécurise la relation entre vendeur et acheteur. Son montant, son détenteur et ses conditions de libération doivent figurer dans l’avant-contrat.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "5 à 10 %",
+          "label": "du prix: montant souvent négocié pour un dépôt de garantie en revente, sans constituer une règle obligatoire"
+        },
+        {
+          "value": "10 jours",
+          "label": "de délai de rétractation pour l’acquéreur non professionnel d’un logement, après notification de l’avant-contrat"
+        },
+        {
+          "value": "21 jours",
+          "label": "délai maximal de restitution après une rétractation régulière, à compter du lendemain de celle-ci"
+        },
+        {
+          "value": "0 €",
+          "label": "de séquestre possible si les parties conviennent de ne pas prévoir de versement initial"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "qui-detient-les-fonds-et-quel-est-son-role",
+      "text": "Qui détient les fonds et peut autoriser leur libération?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le détenteur des fonds est désigné dans le compromis ou la promesse. Le <strong>notaire</strong> est le cas le plus courant: il conserve l’argent sur un compte dédié et vérifie les éléments juridiques nécessaires avant tout mouvement. Une agence immobilière peut aussi jouer ce rôle lorsqu’elle dispose d’un mandat l’y autorisant et de la garantie financière requise pour manier des fonds. Plus rarement, un avocat ou un autre professionnel désigné par les parties peut intervenir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le séquestre n’est pas libre de choisir un gagnant en cas de conflit. Il applique le contrat, les instructions écrites concordantes des parties et les règles impératives. Si la situation est simple, par exemple une rétractation dans les délais ou une vente signée, le versement est organisé sans difficulté. Si acheteur et vendeur revendiquent chacun la somme, le détenteur doit en principe la conserver jusqu’à ce qu’un accord écrit ou une décision de justice tranche le différend."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vérifiez le nom du séquestre indiqué dans l’avant-contrat et conservez son adresse électronique directe.",
+        "Relisez la clause relative au dépôt de garantie, aux conditions suspensives et à la répartition de la somme en cas d’échec de la vente.",
+        "Ne communiquez jamais un nouveau relevé d’identité bancaire par simple courriel non vérifié: appelez l’étude ou l’agence au numéro habituel."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Le séquestre n’est pas automatiquement acquis au vendeur dès qu’une vente n’aboutit pas. Il faut déterminer pourquoi elle échoue, ce que prévoient les clauses signées et si l’acheteur ou le vendeur a respecté ses obligations.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "situations-qui-permettent-debloquer-les-fonds",
+      "text": "Dans quels cas la levée du séquestre est-elle possible?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La destination des fonds dépend de l’événement survenu avant ou pendant la vente. L’avant-contrat reste le document de référence, mais ses clauses s’appliquent dans le respect des protections légales, notamment celles de l’acquéreur non professionnel. Le tableau ci-dessous résume les situations les plus courantes."
+    },
+    {
+      "type": "table",
+      "caption": "Sort habituel du séquestre selon l’issue de la transaction",
+      "headers": [
+        "Situation",
+        "Destinataire habituel des fonds",
+        "Éléments à remettre au séquestre"
+      ],
+      "rows": [
+        [
+          "Rétractation régulière de l’acquéreur",
+          "Restitution à l’acquéreur",
+          "Lettre ou notification de rétractation envoyée dans les délais"
+        ],
+        [
+          "Condition suspensive de prêt non réalisée sans faute de l’acquéreur",
+          "Restitution à l’acquéreur",
+          "Refus de prêt et preuves des démarches prévues au compromis"
+        ],
+        [
+          "Vente signée chez le notaire",
+          "Imputation sur le prix de vente",
+          "Aucune demande distincte en principe: le notaire établit le décompte"
+        ],
+        [
+          "Défaillance imputable à l’acquéreur",
+          "Attribution possible au vendeur",
+          "Mise en demeure, clause applicable et accord ou décision en cas de contestation"
+        ],
+        [
+          "Défaillance imputable au vendeur",
+          "Restitution à l’acquéreur, sans préjudice d’autres recours",
+          "Éléments établissant le manquement et échanges entre les parties"
+        ],
+        [
+          "Annulation amiable de la vente",
+          "Selon l’accord signé",
+          "Protocole ou instruction écrite signée par acheteur et vendeur"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la vente se réalise, il ne s’agit pas vraiment d’un remboursement: le dépôt déjà versé est <strong>porté au crédit de l’acquéreur</strong> dans le décompte final. Le notaire déduit ce montant du solde à appeler. Il règle ensuite le vendeur après avoir effectué les vérifications et retenues nécessaires: remboursement éventuel d’un prêt garanti par une hypothèque, prorata de taxe foncière, frais restant dus ou traitement d’une opposition valable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "procedure-pour-demander-la-levee-des-fonds",
+      "text": "La procédure de levée des fonds, étape par étape"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une demande claire et documentée accélère nettement le traitement. N’attendez pas la veille de la date limite prévue au compromis: certaines pièces, notamment les justificatifs bancaires ou les refus de prêt, demandent du temps à réunir."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Relisez la clause de séquestre et la cause du déblocage",
+          "html": "Identifiez le montant, le détenteur, la date butoir de l’avant-contrat et la clause qui correspond à votre situation: rétractation, refus de prêt, vente réalisée, annulation amiable ou défaillance alléguée."
+        },
+        {
+          "title": "Rassemblez les justificatifs utiles",
+          "html": "Préparez l’avant-contrat signé, vos échanges importants, une pièce établissant l’événement invoqué et votre relevé d’identité bancaire. Pour un prêt refusé, gardez les demandes de financement et les réponses des banques."
+        },
+        {
+          "title": "Adressez une demande écrite au détenteur des fonds",
+          "html": "Écrivez au notaire ou à l’agence en rappelant la référence du dossier, la somme concernée, le motif de la demande et les pièces jointes. Demandez un accusé de réception et le délai prévisible de traitement."
+        },
+        {
+          "title": "Obtenez l’accord requis ou laissez le notaire constater l’événement",
+          "html": "Une rétractation régulière ou un acte de vente signé permettent en général au professionnel d’agir directement. Pour une résiliation amiable, faites signer une instruction de versement précise aux deux parties."
+        },
+        {
+          "title": "Contrôlez le décompte et le virement",
+          "html": "Avant un versement au vendeur, demandez le décompte de vente si nécessaire. Avant une restitution, vérifiez le compte bénéficiaire par un canal fiable et conservez l’avis de virement."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe",
+      "html": "<p>Dans votre courriel, formulez une demande exploitable: référence du compromis, date de signature, événement déclencheur, montant attendu, pièces jointes et coordonnées bancaires déjà validées. Un message vague du type « pouvez-vous débloquer les fonds? » retarde souvent le traitement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "delais-a-connaitre-pour-la-restitution",
+      "text": "Délais: ce qui est légal, ce qui dépend du dossier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le délai le plus net concerne la rétractation de l’acquéreur non professionnel d’un bien à usage d’habitation. Il dispose de dix jours à compter du lendemain de la première présentation ou de la remise de la notification de l’avant-contrat, selon le mode d’envoi. Lorsqu’il se rétracte valablement, les sommes versées doivent lui être restituées dans un délai de vingt et un jours à compter du lendemain de cette rétractation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les autres cas, il n’existe pas de délai universel. La défaillance d’une condition suspensive appelle la vérification des pièces et des dates prévues au contrat. En cas de prêt, l’acquéreur doit en principe démontrer qu’il a demandé un financement conforme aux paramètres convenus: montant, durée, taux maximal éventuel et nombre de demandes prévu. Un refus obtenu après une demande manifestement non conforme peut ne pas suffire à justifier une restitution."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la signature de l’acte authentique, le virement du prix net au vendeur peut prendre de quelques jours à davantage selon le dossier. Le notaire doit sécuriser les paiements et traiter certaines formalités, notamment si le bien est encore financé par un prêt garanti. Il est donc inutile et risqué d’exiger que tout le prix soit impérativement versé à la minute de la signature."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Une date de réitération dépassée ne fait pas, à elle seule, disparaître le compromis ni libérer automatiquement le séquestre. Il faut examiner les prorogations, les conditions encore en attente et les responsabilités de chacun.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "depot-au-compromis-et-prix-de-vente",
+      "text": "Dépôt au compromis ou prix de vente: ne confondez pas les deux blocages"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « déblocage » recouvre deux réalités différentes. Avant l’acte authentique, il concerne surtout le dépôt de garantie: faut-il le restituer à l’acquéreur ou l’attribuer au vendeur? Après l’acte, il peut désigner le versement du prix net de vente au vendeur. Les documents, les délais et les motifs de retenue ne sont pas les mêmes."
+    },
+    {
+      "type": "compare",
+      "title": "Deux sommes, deux logiques de libération",
+      "a": {
+        "title": "Séquestre versé à l’avant-contrat",
+        "points": [
+          "Somme souvent limitée à une fraction du prix et négociée entre les parties.",
+          "Son sort dépend des conditions suspensives, de la rétractation et de la responsabilité d’un éventuel échec.",
+          "En cas de désaccord, elle reste fréquemment immobilisée."
+        ]
+      },
+      "b": {
+        "title": "Prix de vente après l’acte authentique",
+        "points": [
+          "Somme réglée par l’acquéreur, souvent via la comptabilité notariale.",
+          "Le dépôt déjà versé vient en déduction du solde à payer.",
+          "Le notaire peut retenir ou différer une partie du prix pour solder des garanties, taxes ou inscriptions."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Un vendeur qui rembourse par anticipation son crédit immobilier doit notamment anticiper le remboursement de la banque et la mainlevée ou la radiation de la garantie lorsque cela est nécessaire. Ces opérations ne remettent pas en cause la vente, mais elles peuvent expliquer qu’une partie du prix ne soit pas immédiatement disponible sur son compte personnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-en-cas-de-litige-sur-le-sequestre",
+      "text": "Que faire si le séquestre reste bloqué ou si les parties sont en désaccord?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage est fréquent lorsqu’un acheteur invoque une condition suspensive tandis que le vendeur estime qu’il a provoqué l’échec de la vente, par exemple en déposant tardivement ses demandes de prêt. Dans cette situation, ni le notaire ni l’agence ne peuvent sérieusement verser les fonds à l’une des parties sur la seule base de son récit. Le professionnel doit éviter d’engager sa responsabilité en libérant une somme litigieuse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par demander une explication écrite au détenteur des fonds et une copie de la clause appliquée. Proposez ensuite une <strong>résiliation amiable</strong> assortie d’une instruction précise: montant restitué à l’acquéreur, montant éventuel versé au vendeur, date et coordonnées bancaires. Un accord signé par les deux parties permet habituellement de débloquer la situation sans procès."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si aucun accord n’est possible, adressez une mise en demeure argumentée à l’autre partie, de préférence avec l’aide d’un professionnel du droit si l’enjeu est important. Selon le différend, une conciliation ou une médiation peut être utile. À défaut, le tribunal compétent peut décider à qui revient la somme et, le cas échéant, examiner une demande de dommages et intérêts. Conservez les preuves: annonces de prêt, courriels, lettres recommandées, attestations bancaires et calendriers de rendez-vous."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "N’exigez pas du notaire qu’il tranche seul un conflit de responsabilité: ce n’est pas son rôle de juge.",
+        "Ne signez pas une renonciation ou une résiliation amiable sans vérifier précisément le sort du dépôt.",
+        "Ne laissez pas expirer les délais de financement ou de notification sans alerter par écrit l’autre partie et le notaire.",
+        "Si la somme est élevée ou si une faute est contestée, faites relire le compromis avant d’accepter un protocole."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au refus de prêt",
+      "html": "<p>Un simple courriel indiquant qu’une banque a refusé le financement peut être insuffisant. Le séquestre demandera généralement des justificatifs cohérents avec la condition de prêt inscrite dans le compromis. Agissez avant l’échéance prévue, pas après.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-maintenant-pour-faire-avancer-le-dossier",
+      "text": "Votre plan d’action pour faire avancer le dossier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour obtenir une levée de séquestre sans perdre de temps, commencez par qualifier votre situation: vente signée, rétractation, condition non réalisée, annulation négociée ou litige. Relisez ensuite les clauses utiles, réunissez les preuves et contactez le détenteur des fonds par écrit. Si votre dossier relève d’un accord amiable, faites formaliser une instruction signée par toutes les personnes concernées plutôt que de vous contenter d’un échange oral."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, gardez une règle simple: plus la cause du déblocage est objective et documentée, plus le virement sera rapide. À l’inverse, si la responsabilité de l’échec est contestée, préparez-vous à une conservation temporaire des fonds. Cette prudence est frustrante, mais elle protège autant l’acheteur que le vendeur."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qui demande la levée d’un séquestre immobilier?",
+      "a": "<p>L’acheteur, le vendeur ou leur notaire peut déclencher la démarche, mais le détenteur des fonds ne verse l’argent que si les conditions contractuelles sont réunies. Lors d’une vente réalisée, le notaire organise normalement lui-même l’imputation du dépôt sur le prix. En cas d’annulation amiable, une instruction écrite signée par les deux parties est la solution la plus sûre.</p>"
+    },
+    {
+      "q": "Le notaire peut-il débloquer le séquestre sans l’accord du vendeur?",
+      "a": "<p>Oui dans certaines situations objectivement établies, notamment une rétractation régulière de l’acquéreur dans son délai légal ou la réalisation d’une condition suspensive conforme au compromis. En revanche, lorsqu’un vendeur conteste la cause de l’échec ou reproche une faute à l’acheteur, le notaire conservera généralement les fonds jusqu’à un accord signé ou une décision de justice.</p>"
+    },
+    {
+      "q": "Sous combien de temps récupère-t-on le dépôt de garantie après un refus de prêt?",
+      "a": "<p>Il n’existe pas de délai identique pour tous les dossiers. Le notaire ou l’agence doit vérifier que le refus intervient dans le cadre de la condition suspensive et que l’acquéreur a respecté ses engagements de recherche de financement. Si les pièces sont complètes et que personne ne conteste, le traitement peut être rapide. En cas de contestation, la somme peut rester séquestrée jusqu’à une résolution amiable ou judiciaire.</p>"
+    },
+    {
+      "q": "Le vendeur peut-il garder le séquestre si l’acheteur renonce à acheter?",
+      "a": "<p>Pas automatiquement. Si l’acheteur se rétracte dans son délai légal ou bénéficie valablement d’une condition suspensive non réalisée, il récupère en principe sa somme. En revanche, s’il abandonne sans motif protégé après l’expiration de ces délais, le vendeur peut demander l’application de la clause prévue au compromis. Si l’acheteur conteste, le séquestre ne doit pas être versé unilatéralement sans accord ou décision.</p>"
+    },
+    {
+      "q": "Le séquestre est-il obligatoire pour acheter un bien immobilier?",
+      "a": "<p>Non. Dans une revente classique, le dépôt de garantie est librement négocié et peut même être absent. Il est néanmoins fréquent, souvent autour de 5 à 10 % du prix selon les dossiers. En vente en l’état futur d’achèvement, les règles sont particulières: le dépôt de réservation est encadré et son plafond dépend notamment du délai prévu avant la signature du contrat définitif.</p>"
+    },
+    {
+      "q": "Pourquoi le vendeur ne reçoit-il pas tout le prix le jour de la signature?",
+      "a": "<p>Le notaire doit d’abord sécuriser les flux et effectuer les retenues nécessaires. Il peut notamment devoir rembourser le prêt du vendeur, traiter une garantie inscrite sur le bien, calculer certains proratas ou vérifier une opposition. Le dépôt de garantie déjà versé par l’acquéreur est bien pris en compte dans le prix, mais le virement net au vendeur intervient après les vérifications propres au dossier.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

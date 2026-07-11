@@ -1,0 +1,345 @@
+{
+  "id": 2220,
+  "slug": "modification-bail-location",
+  "title": "Modification d’un bail de location immobilière : quelles démarches ?",
+  "metaTitle": "Modification d’un bail de location: démarches",
+  "metaDescription": "Ajout de colocataire, départ, loyer, charges: modifiez un bail de location avec un avenant valable et sécurisé, sans litige!",
+  "dek": "Modifier un bail ne se résume pas à corriger une ligne sur un exemplaire existant. Selon le changement envisagé, il faut un accord écrit, un avenant précis, ou parfois aucune modification du contrat.",
+  "category": "maison-immobilier",
+  "tags": [
+    "bail de location",
+    "avenant au bail",
+    "locataire",
+    "propriétaire",
+    "colocation",
+    "loyer"
+  ],
+  "keyTakeaways": [
+    "Une modification durable du bail suppose en principe l’accord écrit du bailleur et du ou des locataires.",
+    "L’avenant doit viser le bail d’origine, détailler le changement et être signé par toutes les personnes concernées.",
+    "Un propriétaire ne peut pas augmenter librement le loyer en cours de bail, même avec un avenant.",
+    "Le départ d’un colocataire ne déclenche pas forcément le remboursement immédiat de sa part de dépôt de garantie.",
+    "Un changement de titulaire, de garant ou de loyer mérite une vérification particulière avant signature."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Ajouter un colocataire, acter le départ d’un conjoint, corriger la répartition des charges ou demander une hausse de loyer: les changements liés à une location sont fréquents. Mais un bail d’habitation est un contrat encadré, qui ne peut pas être réécrit par une seule partie. Voici comment déterminer la bonne démarche, rédiger un avenant solide et éviter les erreurs qui créent des litiges."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "modifier-un-bail-ou-appliquer-le-contrat",
+      "text": "Modifier un bail ou simplement appliquer le contrat: la distinction essentielle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bail fixe les droits et obligations du propriétaire et du locataire pendant une durée déterminée. Une partie ne peut donc pas changer seule le montant du loyer, les occupants titulaires, la répartition des obligations ou une clause importante. Lorsqu’un changement est accepté par chacun, il prend la forme d’un <strong>avenant au bail</strong>: un document complémentaire qui modifie précisément le contrat initial sans l’effacer."
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’inverse, certains événements relèvent de l’exécution normale du bail et n’exigent pas d’avenant. C’est le cas, par exemple, de la révision annuelle du loyer lorsqu’une clause de révision valable est déjà prévue, de la régularisation de charges récupérables ou d’un changement d’adresse de correspondance. Il faut alors informer l’autre partie et conserver une preuve, mais pas nécessairement signer un nouveau document."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe à retenir",
+      "html": "<p>Un avenant ne permet pas de contourner les règles impératives de la location d’habitation. Une clause interdite, un loyer non conforme ou des frais injustifiés ne deviennent pas valables parce que les parties les ont signés.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "situations-qui-demandent-un-avenant",
+      "text": "Dans quels cas faut-il un avenant au bail?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avenant est particulièrement utile dès qu’un élément central du contrat évolue durablement. Il protège autant le locataire que le bailleur: chacun sait qui est engagé, à quelles conditions et à partir de quelle date. En revanche, le propriétaire n’a pas à établir un avenant pour chaque demande pratique du locataire, ni le locataire à en signer un pour toute notification reçue."
+    },
+    {
+      "type": "table",
+      "caption": "Les situations courantes et la formalité adaptée",
+      "headers": [
+        "Situation",
+        "Avenant nécessaire?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Ajout d’un colocataire comme titulaire",
+          "Oui, avec l’accord du bailleur",
+          "Le nouvel arrivant doit signer et sa responsabilité doit être clairement définie."
+        ],
+        [
+          "Départ d’un colocataire",
+          "Souvent oui, pour libérer formellement la personne",
+          "Le congé et l’éventuelle solidarité suivent leurs propres règles."
+        ],
+        [
+          "Changement de loyer en cours de bail",
+          "Pas librement",
+          "Seulement dans les cas prévus par la loi ou le contrat, et sous conditions."
+        ],
+        [
+          "Modification des charges",
+          "Souvent oui si le mode de paiement change",
+          "Distinguez provision régularisable et forfait de charges."
+        ],
+        [
+          "Ajout ou retrait d’un garant",
+          "Recommandé",
+          "Le garant doit accepter par écrit l’étendue exacte de son engagement."
+        ],
+        [
+          "Changement de propriétaire",
+          "Non, en principe",
+          "La vente du logement ne met pas fin au bail et n’en modifie pas les conditions."
+        ],
+        [
+          "Nouvelles coordonnées bancaires du bailleur",
+          "Non, en principe",
+          "Vérifiez l’information par un canal fiable pour éviter les fraudes au faux RIB."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Occupant et titulaire ne se confondent pas",
+      "html": "<p>Héberger ponctuellement un proche n’ajoute pas cette personne au bail. En revanche, lui donner la qualité de locataire, avec le droit de rester dans les lieux et l’obligation de payer, nécessite un accord formalisé. La sous-location, elle, exige une autorisation écrite du bailleur, notamment sur son principe et son prix.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "avenant-ou-nouveau-bail",
+      "text": "Avenant ou nouveau bail: quel document choisir?"
+    },
+    {
+      "type": "compare",
+      "title": "Deux solutions qui n’ont pas les mêmes effets",
+      "a": {
+        "title": "L’avenant au bail existant",
+        "points": [
+          "Il conserve la date de départ, la durée et l’essentiel des clauses du bail initial.",
+          "Il ne modifie que les points énumérés: identité d’un colocataire, montant autorisé, charges ou garantie.",
+          "Il est généralement adapté lorsqu’un seul élément évolue sans rupture réelle de la location."
+        ]
+      },
+      "b": {
+        "title": "Le nouveau bail",
+        "points": [
+          "Il remplace le contrat précédent et redéfinit toutes les conditions de location.",
+          "Il peut être pertinent après le départ de tous les locataires et l’arrivée d’un nouveau foyer.",
+          "Il ne doit pas servir à imposer au locataire en place une hausse ou des clauses que la loi ne permet pas."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une colocation, le remplacement de tous les occupants peut justifier un nouveau bail. Si un seul titulaire part et que les autres restent, l’avenant est souvent plus cohérent. Attention: signer un nouveau bail peut remettre à plat la durée, le dépôt de garantie et les garanties. Ne renoncez pas sans raison à l’ancien contrat, surtout si le changement demandé est limité."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne signez pas un faux nouveau départ",
+      "html": "<p>Le bailleur ne peut pas conditionner arbitrairement le maintien dans les lieux à la signature d’un nouveau contrat plus cher. Avant d’accepter, demandez quelle règle autorise le changement de loyer ou de clause, et comparez le projet avec le bail en cours.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "contenu-dun-avenant-valable",
+      "text": "Ce qu’un avenant au bail doit contenir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de formulaire unique imposé pour tous les avenants, mais le document doit être sans ambiguïté. Rédigez-le en autant d’exemplaires que de parties signataires: un pour le bailleur, un pour chaque locataire concerné, et éventuellement un pour l’agence. La signature électronique est possible si elle permet d’identifier les signataires et de conserver un document fiable."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>L’identification du bail initial</strong>: date de signature, adresse complète du logement et noms des parties.",
+        "<strong>La modification exacte</strong>: évitez les formules vagues telles que « situation mise à jour ».",
+        "<strong>La date d’effet</strong>: indiquez le jour à partir duquel le changement s’applique.",
+        "<strong>Les conséquences pratiques</strong>: nouveau montant, répartition, solidarité, garant, assurance ou annexe modifiée.",
+        "<strong>La clause de maintien</strong>: précisez que toutes les autres clauses du bail initial demeurent inchangées.",
+        "<strong>Les signatures datées</strong>: elles matérialisent le consentement de toutes les personnes engagées."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le changement concerne le mobilier, un équipement, l’état d’une pièce ou des travaux réalisés avec accord, joignez une annexe claire: inventaire actualisé, photos datées, facture utile ou état descriptif signé. Évitez de raturer directement le bail original: une correction non paraphée est une source classique de contestation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "loyer-charges-depot-de-garantie",
+      "text": "Loyer, charges et dépôt de garantie: ce qui est réellement négociable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le loyer ne peut pas être augmenté au bon vouloir du bailleur pendant le bail. Une <strong>révision annuelle</strong> n’est possible que si le contrat comporte une clause correspondante, en suivant l’indice de référence des loyers prévu et dans le délai légal. Sans clause de révision, le loyer reste inchangé pendant le bail, hors situations particulières légalement encadrées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une hausse lors du renouvellement pour loyer manifestement sous-évalué, ou après certains travaux d’amélioration convenus, répond à des procédures distinctes et ne se résume pas à un avenant. L’encadrement des loyers applicable dans certaines villes et le gel des loyers concernant notamment des logements aux performances énergétiques insuffisantes peuvent aussi limiter ou empêcher une hausse. Avant toute signature, vérifiez le type de location, le classement énergétique et les règles locales."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les charges, l’avenant doit dire s’il s’agit de <strong>provisions avec régularisation</strong> ou d’un <strong>forfait</strong>, lorsque ce dernier est autorisé. Changer un montant de provision reste possible si la consommation ou le budget de l’immeuble le justifie, mais le bailleur doit pouvoir expliquer le calcul et, le moment venu, régulariser sur la base des dépenses récupérables."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "1 mois",
+          "label": "de loyer hors charges au maximum pour le dépôt de garantie d’une location vide"
+        },
+        {
+          "value": "2 mois",
+          "label": "de loyer hors charges au maximum pour une location meublée"
+        },
+        {
+          "value": "3 ans",
+          "label": "durée habituelle minimale d’un bail vide conclu avec un bailleur particulier"
+        },
+        {
+          "value": "1 an",
+          "label": "durée habituelle d’un bail meublé de résidence principale"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Dépôt de garantie: évitez les comptes hasardeux",
+      "html": "<p>Le dépôt de garantie ne se révise pas simplement parce que le loyer augmente. Lorsqu’un colocataire part, le bailleur ne rembourse en principe le dépôt qu’à la fin du bail et après la restitution du logement. Entre colocataires, un remboursement anticipé peut être organisé à l’amiable, idéalement par écrit.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ajout-ou-depart-dun-locataire",
+      "text": "Ajout ou départ d’un locataire: les règles particulières"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ajouter une personne au bail fait d’elle un titulaire: elle acquiert des droits sur le logement, mais devient aussi redevable du loyer et des charges selon les clauses prévues. Le propriétaire peut accepter ou refuser de faire entrer un nouveau cotitulaire. S’il accepte, l’avenant doit identifier cette personne, préciser la date d’entrée et indiquer si une clause de solidarité s’applique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le départ d’un colocataire demande plus qu’un simple message au propriétaire. La personne qui quitte les lieux doit donner congé dans les formes requises. L’avenant peut ensuite constater son retrait du bail et organiser l’arrivée éventuelle d’un remplaçant. En présence d’une clause de solidarité, le colocataire partant, et parfois sa caution, peuvent rester tenus des dettes locatives pendant une période limitée après la prise d’effet du congé, sauf remplacement plus tôt selon les règles applicables."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mariage et le Pacs obéissent à un régime spécifique. Les époux sont en principe cotitulaires du bail du logement familial, même si un seul avait signé initialement. Pour des partenaires liés par un Pacs, la cotitularité peut être demandée conjointement au bailleur. Dans les deux cas, informez le bailleur par écrit et conservez les justificatifs: cela évite une gestion erronée des loyers, des congés ou de l’assurance."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Garantie et assurance à mettre à jour",
+      "html": "<p>Un garant n’est pas automatiquement engagé pour un loyer augmenté, un nouveau locataire ou une obligation modifiée. Demandez un acte de cautionnement adapté si nécessaire. Le ou les occupants doivent également déclarer la nouvelle situation à leur assureur habitation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "demarche-en-cinq-etapes",
+      "text": "La démarche en cinq étapes pour modifier le bail"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Vérifiez le bail et la règle applicable",
+          "html": "Relisez les clauses sur le loyer, les charges, la solidarité et la caution. Identifiez si votre demande exige vraiment un avenant ou relève d’une simple notification."
+        },
+        {
+          "title": "Formulez une demande précise",
+          "html": "Envoyez au bailleur ou au locataire une proposition écrite: changement souhaité, motif, date d’effet et conséquences financières. Un courriel peut suffire pour négocier, mais conservez tous les échanges."
+        },
+        {
+          "title": "Obtenez un accord clair",
+          "html": "Un silence ne vaut pas acceptation. En cas de désaccord, le bail initial continue de s’appliquer, sauf mécanisme légal particulier comme une révision prévue au contrat."
+        },
+        {
+          "title": "Rédigez et signez l’avenant",
+          "html": "Reprenez les éléments indispensables, joignez les annexes utiles et faites signer toutes les personnes dont les droits ou obligations changent."
+        },
+        {
+          "title": "Diffusez et archivez les justificatifs",
+          "html": "Remettez un exemplaire à chacun, actualisez assurance et caution si besoin, puis rangez l’avenant avec le bail, l’état des lieux et les échanges ayant conduit à l’accord."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une proposition sensible, comme une modification de loyer, un départ de colocataire ou un désaccord sur des charges, privilégiez un envoi traçable: lettre recommandée avec accusé de réception, remise contre signature ou commissaire de justice selon le cas. Ce formalisme sert surtout à prouver le contenu et la date de votre démarche."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "frais-et-erreurs-a-eviter",
+      "text": "Frais, délais et erreurs à éviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un avenant simple rédigé et signé directement entre les parties ne coûte rien et ne nécessite ni notaire ni enregistrement. Si une agence le prépare, demandez un devis et vérifiez qui doit réellement supporter le coût: aucun frais automatique ne doit être accepté sans explication ni base claire. Selon l’intermédiaire et la complexité du dossier, une prestation de rédaction peut représenter quelques dizaines à quelques centaines d’euros; ce n’est pas une obligation légale pour un simple accord."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Signer un document qui ne mentionne ni le bail d’origine ni sa date d’effet.",
+        "Accepter une hausse de loyer sans vérifier la clause de révision, l’indice et les règles locales.",
+        "Oublier le sort de la caution et de l’assurance après l’entrée ou le départ d’un colocataire.",
+        "Confondre le départ matériel d’un occupant avec la fin de ses obligations contractuelles.",
+        "Se contenter d’un accord oral sur une somme, une date ou une libération de solidarité.",
+        "Laisser des espaces vides ou des corrections non paraphées sur le document signé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "votre-plan-daction",
+      "text": "Votre plan d’action avant de signer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par qualifier le changement: est-ce un simple renseignement à communiquer, une clause déjà prévue par le bail, ou une vraie modification contractuelle? Comparez ensuite le projet avec le bail initial et vérifiez son effet sur le loyer, les charges, la durée, la solidarité, le dépôt de garantie et le garant. Si une somme importante ou le droit au maintien dans les lieux est en jeu, ne signez pas dans l’urgence: un conseil auprès d’une association de défense des locataires, d’un juriste ou d’un professionnel du droit peut sécuriser la situation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La bonne méthode",
+      "html": "<p>Un bon avenant est court, daté et précis. Il ne réécrit pas inutilement tout le bail: il désigne ce qui change, fixe une date d’effet et confirme que le reste du contrat demeure applicable.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le propriétaire peut-il modifier seul le bail de location?",
+      "a": "<p>Non, pas pour une clause essentielle du contrat. Le propriétaire ne peut pas imposer seul un nouveau loyer, un occupant supplémentaire, de nouvelles obligations ou des frais. Il peut en revanche appliquer les mécanismes déjà prévus par la loi ou par une clause valable du bail, comme une révision annuelle du loyer, à condition d’en respecter les conditions.</p>"
+    },
+    {
+      "q": "Un avenant au bail doit-il être obligatoirement envoyé en recommandé?",
+      "a": "<p>La signature d’un avenant n’exige pas systématiquement une lettre recommandée. L’important est que chaque partie reçoive un exemplaire signé et puisse prouver son accord. La lettre recommandée, la remise contre signature ou un dispositif électronique fiable sont particulièrement utiles pour les demandes préalables, les congés et les changements susceptibles d’être contestés.</p>"
+    },
+    {
+      "q": "Comment retirer le nom d’un colocataire qui quitte le logement?",
+      "a": "<p>Le colocataire doit d’abord donner congé au bailleur selon les règles applicables. Un avenant signé peut ensuite constater sa sortie du bail, préciser la date d’effet et régler l’arrivée éventuelle d’un remplaçant. Vérifiez aussi la clause de solidarité: quitter le logement et être immédiatement libéré de toute dette sont deux choses différentes.</p>"
+    },
+    {
+      "q": "Peut-on augmenter le dépôt de garantie avec un avenant?",
+      "a": "<p>En cours de bail, le dépôt de garantie ne peut pas être révisé au gré d’une hausse de loyer ou d’un avenant. Le plafond dépend du type de location: en règle générale, un mois de loyer hors charges pour un logement vide et deux mois pour un meublé. En cas de nouveau bail réellement conclu avec de nouveaux locataires, un nouveau dépôt peut être prévu dans ces limites.</p>"
+    },
+    {
+      "q": "Que faire si le locataire ou le bailleur refuse de signer l’avenant?",
+      "a": "<p>Sans accord, la modification facultative ne s’applique pas et le bail initial reste la règle. Tentez d’abord une proposition écrite détaillée et conservez les échanges. Si le différend porte sur le loyer, les charges, la restitution d’une somme ou l’exécution d’une obligation, vous pouvez rechercher une conciliation puis demander un avis juridique adapté à votre situation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}

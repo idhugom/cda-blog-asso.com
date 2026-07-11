@@ -1,0 +1,104 @@
+---
+import { SITE, NAV } from '../lib/site';
+import { getCategoriesWithCounts } from '../lib/posts';
+const cats = getCategoriesWithCounts().slice(0, 8);
+const year = 2026;
+---
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__grid">
+      <div class="site-footer__brand">
+        <a href="/" class="foot-brand">{SITE.name}<span>.</span></a>
+        <p class="site-footer__tag">{SITE.tagline}</p>
+        <button class="btn" data-theme-toggle>
+          <span>Basculer le thème</span>
+        </button>
+      </div>
+
+      <nav aria-label="Navigation pied de page" class="site-footer__col">
+        <p class="u-label">Naviguer</p>
+        <ul>
+          {NAV.map((n) => <li><a href={n.href} class="link">{n.label}</a></li>)}
+        </ul>
+      </nav>
+
+      <nav aria-label="Rubriques" class="site-footer__col">
+        <p class="u-label">Rubriques</p>
+        <ul>
+          {cats.map((c) => <li><a href={`/rubriques/${c.slug}/`} class="link">{c.name}</a></li>)}
+        </ul>
+      </nav>
+
+      <div class="site-footer__col">
+        <p class="u-label">Le projet</p>
+        <p class="site-footer__note">
+          Un média associatif indépendant. Contenus rédigés pour éclairer vos décisions du quotidien, sans jargon.
+        </p>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>© {year} {SITE.publisher}. Tous droits réservés.</p>
+      <ul>
+        <li><a href="/mentions-legales/" class="link">Mentions légales</a></li>
+        <li><a href="/rss.xml" class="link">RSS</a></li>
+        <li><a href="/plan-du-site/" class="link">Plan du site</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: var(--sp-10);
+    border-top: 1px solid var(--line);
+    padding: var(--sp-8) 0 var(--sp-6);
+    background: var(--paper-2);
+  }
+  .site-footer__grid {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr 1.4fr;
+    gap: 2.5rem;
+  }
+  @media (max-width: 820px) {
+    .site-footer__grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+    }
+  }
+  @media (max-width: 520px) {
+    .site-footer__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  .foot-brand {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 460;
+    letter-spacing: -0.03em;
+  }
+  .foot-brand span { color: var(--accent); }
+  .site-footer__tag {
+    margin: 0.6rem 0 1.3rem;
+    color: var(--ink-mute);
+    font-size: var(--step--1);
+    max-width: 22ch;
+  }
+  .site-footer__col ul { list-style: none; padding: 0; margin: 1rem 0 0; }
+  .site-footer__col li { margin-top: 0.6rem; font-size: var(--step--1); color: var(--ink-soft); }
+  .site-footer__note { margin-top: 1rem; font-size: var(--step--1); color: var(--ink-mute); line-height: 1.6; }
+  .site-footer__bottom {
+    margin-top: var(--sp-8);
+    padding-top: var(--sp-5);
+    border-top: 1px solid var(--line);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: var(--step--2);
+    color: var(--ink-mute);
+  }
+  .site-footer__bottom ul { display: flex; gap: 1.2rem; list-style: none; margin: 0; padding: 0; }
+</style>

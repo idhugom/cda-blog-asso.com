@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCategoriesWithCounts, totalSourceCount } from '../lib/posts';
+import { SITE } from '../lib/site';
+const cats = getCategoriesWithCounts();
+const total = totalSourceCount();
+const values = [
+  { t: 'Clarté', d: "Un sujet, une réponse. On écrit pour être compris, pas pour impressionner." },
+  { t: 'Indépendance', d: "Aucun annonceur ne dicte notre ligne. Le contenu sert le lecteur, point." },
+  { t: 'Utilité', d: "Chaque article vise une décision concrète : choisir, comparer, agir." },
+  { t: 'Rigueur', d: "Des contenus documentés, structurés et régulièrement mis à jour." },
+];
+---
+
+<BaseLayout
+  title="À propos"
+  description="CDA est un magazine associatif indépendant qui décrypte le quotidien. Notre mission : rendre l'information utile, claire et sans jargon."
+>
+  <section class="container about-hero">
+    <span class="u-label u-label--accent" data-reveal>Le projet</span>
+    <h1 class="about-hero__title" data-reveal>
+      Un média associatif qui remet la <em>clarté</em> au centre.
+    </h1>
+    <p class="about-hero__lead measure" data-reveal style="--reveal-delay:.05s">
+      CDA est né d'un constat simple : trouver une information fiable et directement utile est devenu étonnamment
+      difficile. Nous rassemblons {total} décryptages, guides et comparatifs pour vous aider à décider — sereinement.
+    </p>
+  </section>
+
+  <section class="container about-stats-wrap">
+    <div class="about-stats" data-reveal>
+      <div><span class="about-stats__v u-num">{total}</span><span class="about-stats__l">articles publiés</span></div>
+      <div><span class="about-stats__v u-num">{cats.length}</span><span class="about-stats__l">rubriques</span></div>
+      <div><span class="about-stats__v">0</span><span class="about-stats__l">publicité intrusive</span></div>
+      <div><span class="about-stats__v">2023</span><span class="about-stats__l">année de lancement</span></div>
+    </div>
+  </section>
+
+  <section class="container about-section">
+    <div class="about-cols">
+      <div class="about-cols__label"><span class="u-label u-label--accent">Nos valeurs</span></div>
+      <div class="about-values">
+        {values.map((v, i) => (
+          <div class="about-value" data-reveal style={`--reveal-delay:${i * 0.05}s`}>
+            <span class="about-value__n u-num">0{i + 1}</span>
+            <div>
+              <h3 class="about-value__t">{v.t}</h3>
+              <p class="about-value__d">{v.d}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="container about-section">
+    <div class="about-cols">
+      <div class="about-cols__label"><span class="u-label u-label--accent">Comment nous écrivons</span></div>
+      <div class="prose measure-wide">
+        <p class="lead">Chaque article suit une même exigence : partir d'une vraie question et y répondre entièrement.</p>
+        <p>
+          Nous structurons nos contenus pour aller à l'essentiel — un résumé en tête, des sections claires, des tableaux
+          comparatifs quand ils aident, et une FAQ qui balaie les questions concrètes. L'objectif n'est jamais le
+          volume : c'est que vous repartiez avec une réponse actionnable.
+        </p>
+        <aside class="callout callout--key">
+          <span class="callout__label">Notre promesse</span>
+          <p>Pas de remplissage, pas de jargon, pas d'agenda caché. De l'information utile, mise à jour.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="about-cta" data-reveal>
+      <p class="about-cta__text">Prêt à explorer&nbsp;?</p>
+      <div class="about-cta__actions">
+        <a href="/articles/" class="btn btn--solid">Tous les articles <span class="btn__arrow">→</span></a>
+        <a href="/rubriques/" class="btn">Les rubriques</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about-hero { padding-top: clamp(2.5rem, 6vw, 4.5rem); }
+  .about-hero__title { font-size: var(--step-5); margin-top: 0.6rem; max-width: 18ch; line-height: 1.02; }
+  .about-hero__title em { color: var(--accent); font-style: italic; }
+  .about-hero__lead { margin-top: 1.5rem; font-size: var(--step-1); color: var(--ink-soft); line-height: 1.55; }
+
+  .about-stats-wrap { margin-top: clamp(2.5rem, 6vw, 4rem); }
+  .about-stats {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px;
+    background: var(--line); border: 1px solid var(--line); border-radius: var(--r-3); overflow: hidden;
+  }
+  .about-stats > div { background: var(--paper); padding: 1.6rem 1.5rem; display: flex; flex-direction: column; gap: 0.3rem; }
+  .about-stats__v { font-family: var(--font-display); font-size: var(--step-4); font-weight: 380; letter-spacing: -0.03em; line-height: 1; }
+  .about-stats__l { font-size: var(--step--2); color: var(--ink-mute); }
+  @media (max-width: 640px) { .about-stats { grid-template-columns: 1fr 1fr; } }
+
+  .about-section { margin-top: clamp(3.5rem, 8vw, 6rem); }
+  .about-cols { display: grid; grid-template-columns: 14rem 1fr; gap: 2.5rem; }
+  @media (max-width: 780px) { .about-cols { grid-template-columns: 1fr; gap: 1.2rem; } }
+  .about-cols__label { position: sticky; top: 6rem; align-self: start; }
+  .about-values { display: grid; gap: 1.5rem; }
+  .about-value { display: flex; gap: 1.2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--line); }
+  .about-value:last-child { border-bottom: 0; }
+  .about-value__n { font-family: var(--font-mono); color: var(--accent); font-size: var(--step--1); padding-top: 0.4rem; }
+  .about-value__t { font-size: var(--step-2); font-weight: 400; }
+  .about-value__d { margin-top: 0.4rem; color: var(--ink-soft); max-width: 48ch; }
+  .measure-wide { max-width: 44rem; }
+
+  .about-cta {
+    margin-top: var(--sp-9); padding: clamp(2.5rem, 6vw, 4rem);
+    border: 1px solid var(--line); border-radius: var(--r-3); background: var(--surface);
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap;
+  }
+  .about-cta__text { font-family: var(--font-display); font-size: var(--step-3); font-weight: 360; letter-spacing: -0.025em; }
+  .about-cta__actions { display: flex; gap: 0.8rem; flex-wrap: wrap; }
+</style>

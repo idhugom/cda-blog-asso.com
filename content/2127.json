@@ -1,0 +1,306 @@
+{
+  "id": 2127,
+  "slug": "pompe-adblue-eberspacher",
+  "title": "Pompe AdBlue rotative Eberspächer : points forts et applications",
+  "metaTitle": "Pompe AdBlue rotative Eberspächer: guide d’usage",
+  "metaDescription": "Comprenez le rôle d’une pompe AdBlue rotative Eberspächer, ses atouts, ses limites, ses usages et les vérifications utiles avant remplacement de la pièce.",
+  "dek": "La pompe AdBlue rotative est une pièce discrète mais déterminante du système SCR des véhicules diesel modernes. Avant de la remplacer, il faut surtout comprendre sa fonction exacte, vérifier sa compatibilité et écarter les pannes qui lui ressemblent.",
+  "category": "auto-mobilite",
+  "tags": [
+    "AdBlue",
+    "Eberspächer",
+    "système SCR",
+    "diesel",
+    "entretien automobile"
+  ],
+  "keyTakeaways": [
+    "Une pompe AdBlue ne dose pas forcément seule le liquide: elle s’inscrit dans un ensemble SCR complet.",
+    "La référence exacte, les connecteurs et la calibration comptent davantage que l’apparence de la pièce.",
+    "Le gel de l’AdBlue vers -11 °C n’implique pas automatiquement le remplacement de la pompe.",
+    "Un défaut SCR peut venir du chauffage, d’un capteur, d’une conduite ou de l’injecteur, pas seulement de la pompe.",
+    "N’utilisez jamais de carburant, d’eau ou d’outillage contaminé dans le circuit AdBlue."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Sur un diesel équipé d’un traitement SCR, la pompe AdBlue rotative Eberspächer contribue à acheminer une solution d’urée jusqu’au dispositif d’injection des gaz d’échappement. Sa robustesse est utile, mais une pompe ne se choisit ni ne se remplace comme une simple pompe de transfert: la bonne référence, le diagnostic et la propreté du circuit sont décisifs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-role-dans-le-systeme-scr",
+      "text": "Comprendre le rôle de la pompe dans le système SCR"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’AdBlue est une solution aqueuse d’urée destinée aux moteurs diesel équipés de réduction catalytique sélective, ou SCR. Le système injecte de très faibles quantités de ce liquide dans la ligne d’échappement, en amont du catalyseur SCR, afin de transformer une partie des oxydes d’azote en composés moins polluants. La pompe a pour mission d’aspirer l’AdBlue du réservoir et de le mettre en circulation à la pression attendue par le système. Selon l’architecture du véhicule, elle peut être intégrée au module de réservoir, associée à un chauffage, à des capteurs et à des conduites, ou faire partie d’un ensemble de dosage plus large."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>La pompe</strong> fait circuler le liquide et doit fournir le débit ou la pression requis.",
+        "<strong>Le doseur ou injecteur</strong> pulvérise l’AdBlue dans l’échappement sur ordre du calculateur.",
+        "<strong>Le module SCR</strong> peut réunir pompe, chauffage, filtration, capteurs de niveau et électronique.",
+        "<strong>Le calculateur moteur</strong> contrôle le système et surveille les anomalies susceptibles d’augmenter les émissions."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point essentiel",
+      "html": "<p>L’expression <strong>pompe AdBlue rotative Eberspächer</strong> ne suffit pas à identifier une pièce. Elle peut désigner une pompe seule ou un élément d’un module spécifique. La référence gravée sur la pièce et le numéro de châssis du véhicule priment toujours.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-que-signifie-pompe-rotative",
+      "text": "Ce que signifie réellement « pompe rotative »"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans ce contexte, le terme rotative décrit généralement un mécanisme entraîné par un moteur électrique qui crée le mouvement du fluide par rotation. Ce principe est apprécié pour son encombrement contenu, sa régularité et sa capacité à s’intégrer dans un circuit fermé. Il ne permet toutefois pas, à lui seul, de connaître la technologie interne: selon la référence, le fabricant peut utiliser une architecture différente, avec ses propres exigences de pression, de filtration et de pilotage électronique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Eberspächer est connu comme équipementier automobile et fournisseur de solutions de gestion thermique et de systèmes liés aux véhicules. Une pompe portant cette marque est donc souvent conçue pour s’insérer dans une architecture précise, avec des raccords, une connectique et parfois une logique de commande propres au véhicule. Une pièce qui ressemble visuellement à la vôtre peut être incompatible si son débit, son alimentation électrique ou son protocole de communication diffèrent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "points-forts-et-limites",
+      "text": "Points forts: efficacité, compacité et fonctionnement adapté à l’AdBlue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pompe rotative bien intégrée offre d’abord une alimentation régulière du circuit de dosage. C’est important, car le système SCR ajuste la quantité injectée selon la température des gaz, la charge du moteur et les données des capteurs. Sa conception compacte facilite aussi son intégration dans les modules de réservoir, notamment sur les véhicules où l’espace est compté. Enfin, les composants prévus pour l’AdBlue emploient des matériaux compatibles avec un liquide aqueux pouvant laisser des cristaux lorsqu’il sèche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces avantages ont une contrepartie: le circuit réclame une grande propreté. Des poussières, une erreur de remplissage, un liquide périmé ou une contamination par du carburant peuvent endommager une pompe, encrasser un filtre ou perturber l’injecteur. La pompe dépend aussi d’éléments périphériques: une alimentation électrique défaillante, un fusible, un chauffage hors service, une conduite bouchée ou un capteur incohérent peuvent produire des symptômes très proches d’une panne de pompe."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "32,5 %",
+          "label": "de concentration d’urée pour un AdBlue conforme à la norme ISO 22241"
+        },
+        {
+          "value": "≈ -11 °C",
+          "label": "température à laquelle l’AdBlue commence habituellement à geler"
+        },
+        {
+          "value": "5 à 25 L",
+          "label": "ordre de grandeur fréquent pour le réservoir AdBlue d’une voiture particulière"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le gel n’est pas forcément une panne",
+      "html": "<p>L’AdBlue peut geler sans que sa qualité soit automatiquement perdue. Les véhicules SCR prévoient normalement un réchauffage du réservoir ou des conduites. En revanche, un défaut de chauffage peut empêcher le système de redevenir opérationnel après un épisode de froid.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "applications-et-vehicules-concernes",
+      "text": "Applications: où cette pompe peut-elle être utilisée?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’application principale est le traitement des émissions des véhicules diesel SCR: voitures particulières, utilitaires, poids lourds, autocars, engins agricoles ou matériels de chantier selon leurs équipements. Les volumes de réservoir, les pressions et la disposition des composants varient fortement d’un usage à l’autre. Sur un poids lourd, par exemple, les contraintes de débit, d’autonomie et de résistance aux vibrations ne sont pas celles d’une citadine diesel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut éviter une confusion fréquente: une pompe installée dans le circuit SCR du véhicule n’est pas nécessairement une pompe destinée à transvaser de l’AdBlue depuis un bidon ou une cuve. Les pompes de ravitaillement ont un autre rôle et peuvent répondre à d’autres exigences de débit, de raccordement et de sécurité. De même, une pompe de dosage automobile ne doit pas être détournée pour un autre liquide ni utilisée hors de son montage prévu."
+    },
+    {
+      "type": "compare",
+      "title": "Pièce d’origine exacte ou solution adaptable: le bon arbitrage",
+      "a": {
+        "title": "Référence d’origine ou équivalence certifiée",
+        "points": [
+          "Compatibilité plus simple à vérifier avec le véhicule et le module SCR.",
+          "Raccords, caractéristiques électriques et paramétrage normalement cohérents.",
+          "Prix souvent plus élevé, mais risque de retour ou de montage inutile réduit."
+        ]
+      },
+      "b": {
+        "title": "Adaptable ou reconditionnée",
+        "points": [
+          "Peut coûter moins cher si l’équivalence est documentée avec précision.",
+          "Exige de contrôler la référence, les connecteurs, les performances et la garantie.",
+          "À éviter si l’origine de la pièce, son reconditionnement ou sa traçabilité sont flous."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-la-bonne-reference",
+      "text": "Choisir la bonne pompe: les contrôles avant toute commande"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode la plus sûre consiste à partir du numéro de châssis, puis à recouper avec la référence complète inscrite sur l’élément déposé. Ne vous fiez pas uniquement à la marque, au modèle, à l’année ou à une photo de catalogue. Au cours d’une même génération de véhicule, le constructeur peut modifier le fournisseur, le module de réservoir ou le faisceau. Une différence apparemment mineure de connecteur peut empêcher le montage ou créer un défaut permanent."
+    },
+    {
+      "type": "table",
+      "caption": "Les informations à vérifier avant d’acheter une pompe AdBlue",
+      "headers": [
+        "Élément à relever",
+        "Pourquoi c’est utile",
+        "Où le trouver"
+      ],
+      "rows": [
+        [
+          "Référence complète Eberspächer ou constructeur",
+          "Elle distingue les versions réellement interchangeables des pièces seulement ressemblantes.",
+          "Étiquette, gravure, facture d’entretien ou catalogue lié au VIN."
+        ],
+        [
+          "Numéro de châssis du véhicule",
+          "Il permet de retrouver la configuration SCR montée à l’usine.",
+          "Carte grise, pare-brise ou documents du véhicule."
+        ],
+        [
+          "Connecteurs et raccords",
+          "Ils déterminent la compatibilité électrique et hydraulique.",
+          "Sur la pièce déposée et sur les photos techniques du vendeur."
+        ],
+        [
+          "Vente seule ou module complet",
+          "Une pompe peut être indissociable du réservoir, du chauffage ou de l’électronique.",
+          "Désignation exacte de la pièce et vue éclatée du système."
+        ],
+        [
+          "Conditions de garantie",
+          "Elles sont importantes si une programmation ou un diagnostic complémentaire est requis.",
+          "Fiche produit, facture et conditions du professionnel."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Demandez une validation écrite",
+      "html": "<p>Avant l’achat, communiquez au vendeur professionnel le numéro de châssis et la référence lue sur la pièce. Une confirmation écrite de compatibilité est plus utile qu’une simple mention du type « compatible avec votre modèle ».</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "remplacement-et-precautions-de-montage",
+      "text": "Remplacement: une intervention qui demande méthode et propreté"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement peut être accessible à un amateur expérimenté si la pompe est externe et facilement atteignable. Il devient nettement plus délicat lorsqu’elle est intégrée au réservoir, au module de dosage ou au faisceau du véhicule. Dans tous les cas, les instructions du constructeur restent prioritaires: certains systèmes doivent être vidangés, dépressurisés, amorcés ou réinitialisés avec un outil de diagnostic après remontage."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Confirmer le diagnostic",
+          "html": "Lisez les défauts avec un outil adapté et contrôlez les symptômes. Ne commandez pas une pompe sur la seule présence d’un voyant moteur ou d’un message AdBlue."
+        },
+        {
+          "title": "Identifier précisément l’ensemble",
+          "html": "Relevez la référence, prenez des photos des raccords et vérifiez si la pompe est vendue séparément du module."
+        },
+        {
+          "title": "Travailler sur un circuit propre",
+          "html": "Nettoyez la zone avant ouverture, utilisez des récipients compatibles et bouchez les conduites dès leur dépose pour limiter l’entrée de poussières."
+        },
+        {
+          "title": "Remplacer les éléments prévus",
+          "html": "Installez les joints, filtres ou clips prescrits par la procédure. Ne réutilisez pas un joint déformé ou durci."
+        },
+        {
+          "title": "Amorcer et contrôler",
+          "html": "Suivez la procédure de purge ou d’amorçage prévue. Vérifiez ensuite l’absence de fuite, les défauts mémorisés et le bon fonctionnement du système."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur à éviter",
+      "html": "<p>Ne faites pas tourner une pompe à sec pour « voir si elle marche » et ne rincez jamais un circuit AdBlue avec de l’eau du robinet, du carburant ou un solvant. Une contamination peut provoquer des dégâts bien plus coûteux que la panne initiale.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-les-pannes-sans-se-tromper",
+      "text": "Diagnostiquer les pannes sans accuser la pompe trop vite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un voyant moteur, une alerte relative à l’AdBlue, une baisse de puissance ou un message annonçant un nombre de kilomètres limité avant redémarrage peuvent signaler un défaut SCR. Ils ne prouvent pas que la pompe est hors service. Le calculateur surveille l’ensemble du circuit, et une pression insuffisante peut par exemple être causée par une fuite, un filtre obstrué, un tuyau cristallisé ou une alimentation électrique coupée."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Absence de bruit de pompe:</strong> vérifiez aussi fusible, relais, faisceau, masse et commande électronique.",
+        "<strong>Défaut après une période de gel:</strong> contrôlez prioritairement le chauffage du réservoir et des conduites.",
+        "<strong>Pression ou débit anormal:</strong> recherchez fuite, prise d’air, filtre, cristallisation et état de l’injecteur.",
+        "<strong>Défaut persistant après remplacement:</strong> une programmation, une purge ou l’effacement contrôlé des défauts peut être nécessaire."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diagnostic le plus fiable combine lecture des codes défauts, données en temps réel, contrôle visuel du circuit et procédure constructeur. Mesurer au hasard les broches d’un connecteur ou alimenter directement une pompe peut endommager le module électronique. Un garage disposant d’un appareil compatible avec la marque du véhicule peut aussi lancer des tests d’actionneurs et vérifier si le système atteint les valeurs attendues."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-et-plan-action",
+      "text": "Budget, durée d’immobilisation et plan d’action"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget dépend surtout de ce qui est réellement en cause. Une pompe seule ou une pièce adaptable peut aller de plusieurs dizaines à quelques centaines d’euros selon le véhicule et la disponibilité. Un module complet comprenant pompe, chauffage, électronique ou réservoir atteint plus souvent plusieurs centaines d’euros, et peut dépasser le millier d’euros sur certaines applications. Ajoutez le diagnostic, les consommables, l’éventuelle reprogrammation et une main-d’œuvre qui peut aller d’une intervention rapide à plusieurs heures si le réservoir doit être déposé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de décider, demandez un devis qui sépare clairement le diagnostic, la pièce, les joints ou filtres, la main-d’œuvre et le paramétrage éventuel. Comparez surtout le contenu de la prestation et la garantie, pas seulement le prix de la pompe. Une pièce bon marché montée sans purge correcte, ou une pompe remplacée alors que le défaut venait du chauffage, coûte finalement plus cher."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Votre plan d’action",
+      "html": "<p>1. Faites relever les codes défauts. 2. Identifiez la référence par le numéro de châssis. 3. Vérifiez que la pompe est bien vendue séparément. 4. Comparez une pièce d’origine et une équivalence documentée. 5. Faites réaliser l’amorçage et la validation finale selon la procédure du véhicule.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une pompe AdBlue rotative Eberspächer peut-elle fonctionner après le gel de l’AdBlue?",
+      "a": "<p>Oui, en principe. L’AdBlue gèle aux environs de -11 °C et les véhicules SCR sont généralement conçus pour le réchauffer avant l’utilisation du système. Si le défaut apparaît après une vague de froid, faites aussi contrôler le chauffage du réservoir, les conduites chauffantes et leur alimentation électrique. Ne remplacez pas la pompe uniquement parce que le liquide a gelé.</p>"
+    },
+    {
+      "q": "Comment savoir si la pompe AdBlue est vraiment HS?",
+      "a": "<p>Un code défaut SCR ne suffit pas. Il faut idéalement lire les défauts détaillés, vérifier l’alimentation électrique, l’état des raccords et des conduites, puis contrôler les valeurs de pression ou les tests d’actionneurs avec l’outil approprié. Une fuite, un bouchon de cristaux, un injecteur encrassé ou un chauffage défaillant peuvent imiter une panne de pompe.</p>"
+    },
+    {
+      "q": "Puis-je monter moi-même une pompe AdBlue Eberspächer?",
+      "a": "<p>C’est envisageable seulement si vous connaissez la procédure du véhicule et si la pièce est facilement accessible. Un circuit SCR doit rester propre, et certaines opérations imposent une dépressurisation, un remplacement de joints, une purge ou un amorçage par diagnostic. Si la pompe est intégrée au réservoir ou au module de dosage, l’intervention est souvent plus sûre en atelier.</p>"
+    },
+    {
+      "q": "Quelle référence faut-il donner pour commander une pompe AdBlue?",
+      "a": "<p>Donnez en priorité le numéro de châssis du véhicule et la référence complète inscrite sur la pompe ou le module déposé. Ajoutez la motorisation, l’année et des photos nettes des connecteurs et raccords. Ces éléments permettent de distinguer les versions qui paraissent identiques mais n’ont pas le même pilotage, la même connectique ou la même calibration.</p>"
+    },
+    {
+      "q": "Peut-on nettoyer une pompe AdBlue qui contient des cristaux?",
+      "a": "<p>Cela dépend entièrement de la procédure prévue par le constructeur et de la zone concernée. Des cristaux à l’extérieur d’un raccord peuvent être éliminés avec prudence, mais ouvrir une pompe ou introduire un liquide non prescrit dans le circuit est risqué. N’utilisez ni eau du robinet, ni carburant, ni solvant. Si la cristallisation est interne ou récurrente, il faut rechercher la cause: fuite, défaut de purge, injecteur ou problème thermique.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

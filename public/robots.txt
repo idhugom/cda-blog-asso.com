@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Un seul host canonique (non-www)
+Sitemap: https://cda-blog-asso.com/sitemap-index.xml

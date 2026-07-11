@@ -1,0 +1,312 @@
+{
+  "id": 2271,
+  "slug": "livres-dyslexie",
+  "title": "Sélection de livres adaptés aux lecteurs souffrant de dyslexie",
+  "metaTitle": "Livres adaptés à la dyslexie: comment bien les choisir",
+  "metaDescription": "Choisir des livres adaptés à la dyslexie: police, mise en page, niveau, audio et pistes concrètes selon l’âge, les envies et le budget de lecture pour tous.",
+  "dek": "Un livre adapté à la dyslexie ne se résume ni à une police de caractères ni à une couverture estampillée DYS. Voici comment repérer les formats réellement confortables et bâtir une sélection qui redonne surtout le goût de lire.",
+  "category": "famille-education",
+  "tags": [
+    "dyslexie",
+    "lecture jeunesse",
+    "livres DYS",
+    "accessibilité",
+    "apprentissage"
+  ],
+  "keyTakeaways": [
+    "Il n’existe pas de livre universellement adapté à toutes les dyslexies.",
+    "La mise en page, le rythme du texte et l’intérêt pour l’histoire comptent autant que la police.",
+    "Les bandes dessinées et romans illustrés peuvent aider, sans remplacer une vraie édition adaptée.",
+    "L’audio et le numérique sont des outils de lecture légitimes, pas des solutions de facilité.",
+    "Le meilleur choix se valide par un court essai, sans pression de finir le livre."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Trouver un livre lorsque la lecture demande beaucoup d’efforts peut vite devenir décourageant, pour l’enfant comme pour ses proches. Pourtant, les éditions adaptées, les romans visuels, l’audio et les formats numériques permettent aujourd’hui de multiplier les portes d’entrée. L’objectif n’est pas de lire comme les autres, mais de lire avec assez de confort pour avoir envie de continuer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-ce-qu-un-livre-adapte-change",
+      "text": "Ce qu’un livre adapté à la dyslexie change vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "La dyslexie est un trouble durable de l’acquisition de la lecture et de l’orthographe, dont les manifestations varient fortement d’une personne à l’autre. Certaines personnes butent surtout sur le décodage des mots, d’autres se fatiguent vite, perdent leur ligne, confondent des lettres ou peinent à conserver le sens d’un texte trop dense. Ce n’est ni un manque d’intelligence, ni un manque d’effort, ni un manque de goût pour les histoires."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un ouvrage pensé pour faciliter la lecture agit sur plusieurs leviers: caractères plus lisibles, taille suffisante, espaces aérés, lignes peu chargées, contraste confortable, chapitres courts et repères visuels. Il peut aussi proposer un texte révisé, un vocabulaire davantage explicité ou une présentation par blocs de sens. Le bon livre réduit la charge de déchiffrage afin de laisser davantage de place à la compréhension et au plaisir."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Une police dite DYS ne suffit pas à rendre un livre accessible. Certaines personnes l’apprécient, d’autres préfèrent une police simple et familière, avec une mise en page plus aérée. L’essai réel prime toujours sur l’étiquette.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "reperer-les-bons-criteres-avant-l-achat",
+      "text": "Les critères à vérifier avant d’acheter ou d’emprunter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de choisir un titre, ouvrez-le si possible et regardez deux ou trois doubles pages, pas seulement la couverture. Un livre peut afficher une mention rassurante tout en restant trop long, trop compact ou trop éloigné des centres d’intérêt du lecteur. À l’inverse, un ouvrage non labellisé peut être très accueillant grâce à son découpage, ses illustrations et son humour."
+    },
+    {
+      "type": "table",
+      "caption": "Les repères visuels et narratifs d’un livre plus confortable à lire",
+      "headers": [
+        "Élément à observer",
+        "Plutôt favorable",
+        "À tester avec prudence"
+      ],
+      "rows": [
+        [
+          "Typographie",
+          "Caractères nets, taille généreuse, lettres bien distinctes",
+          "Texte minuscule, très fin ou décoratif"
+        ],
+        [
+          "Mise en page",
+          "Interlignes visibles, marges confortables, alignement à gauche",
+          "Paragraphes compacts, colonnes étroites, texte justifié serré"
+        ],
+        [
+          "Papier et contraste",
+          "Papier mat, fond doux, impression bien lisible",
+          "Papier brillant, transparence du verso, contraste agressif"
+        ],
+        [
+          "Rythme du récit",
+          "Chapitres brefs, scènes clairement séparées, repères récurrents",
+          "Longues pages sans respiration ni indication de changement"
+        ],
+        [
+          "Aides à la compréhension",
+          "Illustrations utiles, lexique, résumé ou sommaire clair",
+          "Images décoratives qui ne soutiennent pas le fil de l’histoire"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Le niveau réel de lecture:</strong> fiez-vous moins à l’âge imprimé sur la couverture qu’à la fluidité observée et à la maturité des thèmes.",
+        "<strong>Le sujet:</strong> une histoire choisie par envie peut compenser une partie de l’effort de lecture; une histoire infantilisante, même très facile, risque d’être abandonnée.",
+        "<strong>La longueur:</strong> un livre épais n’est pas interdit, mais il doit être découpé en étapes accessibles et donner une impression de progression.",
+        "<strong>Le droit à l’abandon:</strong> si le lecteur évite le livre après quelques essais, le problème peut venir du format, du moment ou du genre, pas de lui."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Ne choisissez pas un ouvrage uniquement parce que le texte est très simple. Pour un préadolescent ou un adolescent, un contenu trop enfantin peut être vécu comme une mise à l’écart. Il faut ajuster la difficulté de lecture sans abaisser les ambitions ni les goûts.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "selection-par-age-et-par-profil-de-lecteur",
+      "text": "Une sélection par âge et profil de lecteur, plutôt qu’un palmarès unique"
+    },
+    {
+      "type": "paragraph",
+      "html": "La sélection la plus utile associe des livres explicitement adaptés et des œuvres naturellement engageantes. Les titres ci-dessous ne portent pas tous un label DYS: ils constituent des pistes à tester selon le lecteur. Lorsqu’une version adaptée existe, vérifiez bien l’édition précise et son ISBN, car la même œuvre peut être publiée dans des formats très différents."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Pour commencer à lire seul, vers 6 à 8 ans:</strong> privilégiez les albums narratifs, premières lectures et petits romans avec illustrations fréquentes. Les enquêtes, les animaux, l’école ou l’humour donnent des repères immédiats. Recherchez en priorité des collections affichant clairement une mise en page adaptée, plutôt qu’un simple gros caractère.",
+        "<strong>Pour les 7 à 10 ans qui aiment rire:</strong> des séries telles que <em>Tom-Tom et Nana</em>, <em>Ariol</em> ou <em>Mortelle Adèle</em> peuvent ouvrir la porte grâce aux dialogues courts et au soutien des dessins. Leur densité varie toutefois d’un album à l’autre: une bande dessinée n’est confortable que si les cases, bulles et enchaînements restent faciles à suivre.",
+        "<strong>Pour les lecteurs attirés par l’aventure:</strong> cherchez les versions adaptées DYS de romans patrimoniaux ou de récits d’aventure. Une narration linéaire, des personnages identifiables et des chapitres courts conviennent souvent mieux qu’un univers avec de nombreux points de vue ou noms à mémoriser.",
+        "<strong>Pour les 9 à 12 ans:</strong> le mélange texte-image de <em>Journal d’un dégonflé</em> est une piste intéressante pour certains lecteurs: dessins, pages de journal et humour allègent l’impression de bloc de texte. Il reste utile de le feuilleter, car l’écriture manuscrite reproduite et les jeux visuels ne conviennent pas à tous.",
+        "<strong>Pour les adolescents:</strong> les romans graphiques, mangas lisibles et récits documentaires illustrés permettent d’aborder des thèmes ambitieux sans imposer des pages compactes. Choisissez un univers correspondant à leurs passions: fantastique, sport, amitié, enquête, écologie ou histoire. La maturité du sujet doit primer sur l’apparence enfantine du livre.",
+        "<strong>Pour les grands adolescents et adultes:</strong> explorez aussi les collections identifiées « Facile à lire », les nouvelles, récits courts et polars à chapitres brefs. Ces ouvrages ne sont pas nécessairement conçus pour la dyslexie, mais leur langage clair et leur structure explicite peuvent offrir une lecture plus sereine, sans renoncer à des thèmes adultes."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un même lecteur peut aimer une édition DYS pour un roman, une bande dessinée pour se détendre et l’audio pour une œuvre longue. Varier les chemins de lecture est souvent plus efficace que chercher le livre parfait.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "livre-dys-bande-dessinee-audio-ou-numerique",
+      "text": "Livre DYS, bande dessinée, audio ou numérique: que choisir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix oppose rarement un bon et un mauvais format. Il dépend du but du moment: s’entraîner à décoder, accéder à une histoire complexe, lire pour soi, préparer une lecture scolaire ou retrouver confiance. Une édition spécifiquement adaptée est précieuse pour l’autonomie; un livre illustré très désiré peut devenir un puissant moteur; l’audio donne accès au vocabulaire et aux récits qui seraient encore trop coûteux à lire seul."
+    },
+    {
+      "type": "compare",
+      "title": "Édition spécifiquement adaptée ou livre visuel grand public?",
+      "a": {
+        "title": "Édition adaptée DYS",
+        "points": [
+          "Mise en page généralement travaillée pour réduire la fatigue visuelle et le décodage.",
+          "Bon choix pour lire seul, consolider la confiance ou aborder un roman suivi.",
+          "Catalogue parfois moins vaste selon l’âge, le genre recherché ou le budget."
+        ]
+      },
+      "b": {
+        "title": "BD, manga ou roman illustré",
+        "points": [
+          "Grand choix de thèmes, forte motivation et présence utile de repères visuels.",
+          "Peut faciliter l’entrée dans l’histoire sans être une adaptation de la lecture.",
+          "Bulles nombreuses, ordre des cases ou typographies fantaisie peuvent au contraire surcharger."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Le numérique ajoute des réglages utiles: agrandir le texte, modifier l’interligne, choisir une police, réduire la luminosité ou écouter une synthèse vocale. Vérifiez néanmoins que le fichier permet réellement ces réglages: certains livres numériques reproduisent une page fixe. L’audiobook et la lecture humaine sont pleinement légitimes; suivre simultanément le texte avec les yeux et l’audio peut être particulièrement intéressant si cela reste agréable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "tester-un-livre-en-quelques-minutes",
+      "text": "Tester un livre en quelques minutes avant de s’engager"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un emprunt en bibliothèque, un extrait numérique ou un feuilletage en librairie évitent les achats décevants. L’idée n’est pas d’évaluer le lecteur, mais d’évaluer le livre. Ce petit protocole fonctionne aussi bien avec un enfant qu’avec un adulte."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Partir d’une envie précise",
+          "html": "Demandez quel type d’histoire attire le lecteur aujourd’hui: rire, peur, sport, animaux, mystère, science-fiction ou récit vrai. Commencer par le désir de lire change la sélection."
+        },
+        {
+          "title": "Observer la page avant de lire",
+          "html": "Regardez ensemble la taille des lettres, les espaces, la longueur des paragraphes et le papier. Le lecteur doit pouvoir dire spontanément si la page lui paraît accueillante ou fatigante."
+        },
+        {
+          "title": "Lire un court passage dans le format choisi",
+          "html": "Lecture silencieuse, à voix haute, en duo ou avec audio: choisissez la modalité la moins stressante. Relevez surtout les signes de fatigue, de perte de ligne ou de découragement."
+        },
+        {
+          "title": "Vérifier la compréhension et l’envie",
+          "html": "Demandez ce qui se passe dans l’extrait et, surtout, si la personne veut connaître la suite. Un texte compris mais sans intérêt n’est pas forcément le bon choix."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil pratique",
+      "html": "<p>Conservez une petite note avec les préférences observées: police appréciée, longueur supportable, genres aimés, intérêt pour l’audio ou les images. Après trois ou quatre essais, cette mémoire simplifie beaucoup les choix suivants.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "accompagner-sans-transformer-la-lecture-en-exercice",
+      "text": "Accompagner sans transformer chaque livre en exercice"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’accompagnement le plus utile protège le plaisir. Laissez le lecteur choisir entre lire une page, écouter un passage, partager les rôles ou vous demander de prendre le relais. Pendant une lecture à voix haute, évitez de corriger chaque hésitation: interrompre sans cesse augmente la tension et coupe le fil du récit. Mieux vaut proposer un mot si le blocage dure, puis revenir à l’histoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Parlez ensuite des personnages, d’une scène drôle ou d’une hypothèse sur la suite. Ces échanges montrent que lire sert à penser, ressentir et discuter, pas seulement à prononcer correctement des mots. Si des difficultés restent importantes au quotidien, l’équipe éducative et les professionnels qui suivent le lecteur peuvent aider à articuler les supports de lecture avec ses besoins personnels."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "La lecture partagée compte",
+      "html": "<p>Lire à deux ne retire pas l’autonomie: cela permet souvent d’accéder à des œuvres plus riches, de développer le vocabulaire et de préserver une relation positive aux livres.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "budget-bibliotheques-et-pieges-a-eviter",
+      "text": "Budget, bibliothèques et pièges à éviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les livres adaptés ne doivent pas devenir un achat à l’aveugle. Les médiathèques peuvent commander des titres, conseiller des collections jeunesse, proposer des livres audio ou orienter vers des ressources accessibles. Selon les territoires et les situations, des bibliothèques spécialisées et services de lecture adaptée donnent également accès à des formats conçus pour les personnes empêchées de lire du fait d’un handicap. Renseignez-vous sur les conditions d’inscription avant de prévoir un achat."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "10 à 18 €",
+          "label": "ordre de grandeur souvent constaté pour un roman jeunesse adapté neuf"
+        },
+        {
+          "value": "5 à 12 €",
+          "label": "ordre de grandeur fréquent pour un livre numérique, hors équipement"
+        },
+        {
+          "value": "0 €",
+          "label": "coût possible d’un essai via une médiathèque ou un extrait disponible légalement"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses bonnes idées",
+      "html": "<p>Évitez les promesses de « guérison par la lecture » ou de police miracle. Un support peut soulager, motiver et aider à progresser, mais il ne remplace ni un accompagnement adapté ni l’écoute des besoins propres à la personne.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "composer-une-premiere-selection-des-cette-semaine",
+      "text": "Composer une première sélection utile dès cette semaine"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour repartir avec une sélection équilibrée, choisissez trois voies plutôt qu’un seul type de livre: un ouvrage explicitement adapté DYS pour l’autonomie, un livre visuel ou une série correspondant à une passion, et une version audio d’un récit un peu plus ambitieux. Empruntez-les si possible, testez-les sans enjeu puis gardez celui qui suscite une vraie envie de reprendre la lecture le lendemain."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Notez le genre préféré et le format le plus confortable avant toute recherche.",
+        "Feuilletez les pages intérieures et vérifiez l’édition exacte, pas seulement le titre.",
+        "Autorisez la lecture hybride: texte, image, audio et lecture partagée peuvent coexister.",
+        "Faites du plaisir et de la dignité du lecteur le premier critère de réussite."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle police de caractères est la meilleure pour une personne dyslexique?",
+      "a": "<p>Il n’existe pas de police universellement meilleure. Certaines personnes apprécient les polices spécialement conçues pour les lecteurs DYS, tandis que d’autres lisent plus facilement avec une police simple, connue et suffisamment grande. La netteté des lettres, l’interligne, la longueur des lignes et le contraste de la page ont souvent autant d’importance que le nom de la police. Le plus fiable est de comparer quelques pages dans plusieurs formats.</p>"
+    },
+    {
+      "q": "Les bandes dessinées sont-elles adaptées aux enfants dyslexiques?",
+      "a": "<p>Elles peuvent l’être, mais pas automatiquement. L’image soutient la compréhension, les dialogues sont souvent courts et la lecture paraît moins intimidante qu’un roman dense. En revanche, une page avec beaucoup de cases, de petites bulles, des effets graphiques ou un ordre de lecture complexe peut fatiguer certains enfants. Feuilletez la BD avec l’enfant et vérifiez qu’il repère facilement la succession des cases.</p>"
+    },
+    {
+      "q": "Un livre audio aide-t-il vraiment à progresser en lecture?",
+      "a": "<p>Le livre audio donne d’abord accès au plaisir de l’histoire, au vocabulaire, à la syntaxe et à des œuvres d’un niveau plus élevé que la lecture autonome du moment. Il ne travaille pas le décodage de la même manière qu’un texte lu seul, mais il n’est pas pour autant moins valable. Alterner audio, texte suivi avec les yeux et lecture partagée peut constituer une approche très riche, selon les besoins et l’envie du lecteur.</p>"
+    },
+    {
+      "q": "Comment choisir un livre pour un adolescent dyslexique qui refuse de lire?",
+      "a": "<p>Évitez de commencer par un livre présenté comme un outil de remédiation. Partez d’un intérêt fort: sport, rap, fantastique, horreur, jeux vidéo, enquête, témoignage, écologie ou humour. Proposez des romans graphiques, mangas, récits courts, documentaires illustrés et audio, avec des thèmes de son âge. Le droit d’abandonner est essentiel: retrouver une expérience de réussite compte davantage que terminer un titre imposé.</p>"
+    },
+    {
+      "q": "Où trouver des livres adaptés DYS gratuitement ou à moindre coût?",
+      "a": "<p>Commencez par votre médiathèque: elle peut détenir des collections adaptées, des livres audio, des liseuses ou commander certains titres. Les bibliothécaires jeunesse sont souvent de bons interlocuteurs pour organiser un essai sans achat. Il existe aussi, selon les droits ouverts au lecteur et les structures locales, des bibliothèques de lecture adaptée proposant des fichiers accessibles. Vérifiez toujours les modalités d’accès et privilégiez les extraits légaux avant d’acheter.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

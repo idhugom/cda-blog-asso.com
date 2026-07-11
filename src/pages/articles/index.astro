@@ -1,0 +1,135 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadPosts, getCategoriesWithCounts } from '../../lib/posts';
+import { SITE } from '../../lib/site';
+
+const posts = loadPosts();
+const cats = getCategoriesWithCounts();
+const dateFmt = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' });
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Tous les articles',
+    url: `${SITE.origin}/articles/`,
+    isPartOf: { '@id': `${SITE.origin}/#website` },
+    description: `Retrouvez l'ensemble des ${posts.length} articles du magazine CDA.`,
+  },
+];
+---
+
+<BaseLayout
+  title="Tous les articles"
+  description={`Parcourez les ${posts.length} articles du magazine CDA : conseils, guides et comparatifs classés par rubrique. Filtrez et trouvez la réponse à votre question.`}
+  jsonLd={jsonLd}
+>
+  <section class="container list-hero">
+    <span class="u-label u-label--accent" data-reveal>La bibliothèque</span>
+    <h1 class="list-hero__title" data-reveal>Tous les articles</h1>
+    <p class="list-hero__lead measure" data-reveal style="--reveal-delay:.05s">
+      {posts.length} articles pour éclairer vos décisions. Cherchez un sujet ou filtrez par rubrique.
+    </p>
+
+    <div class="filters" data-reveal style="--reveal-delay:.1s">
+      <div class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
+        <input type="search" id="search" placeholder="Rechercher un article…" aria-label="Rechercher un article" autocomplete="off" />
+      </div>
+      <div class="filter-chips" role="group" aria-label="Filtrer par rubrique">
+        <button class="chip" data-filter="all" data-active="true">Tout <span class="u-num">{posts.length}</span></button>
+        {cats.map((c) => (
+          <button class="chip" data-filter={c.slug}>{c.name} <span class="u-num">{c.count}</span></button>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
+    <p class="list-count u-label" id="count">{posts.length} articles</p>
+    <div class="index-list" id="list">
+      {posts.map((p, i) => (
+        <a
+          href={`/${p.permalink}/`}
+          class="prow"
+          data-item
+          data-cat={p.category.slug}
+          data-title={p.title.toLowerCase()}
+          data-reveal
+        >
+          <span class="prow__num u-num">{String(i + 1).padStart(3, '0')}</span>
+          <span class="prow__body">
+            <span class="prow__cat u-label">{p.category.name}</span>
+            <span class="prow__title">{p.title}</span>
+          </span>
+          <span class="prow__meta">
+            <span>{dateFmt.format(new Date(p.date))}</span>
+            <span class="u-num">{p.readingTime} min</span>
+          </span>
+        </a>
+      ))}
+    </div>
+    <p class="no-results" id="no-results" hidden>Aucun article ne correspond à votre recherche.</p>
+  </section>
+
+  <script>
+    const search = document.getElementById('search') as HTMLInputElement;
+    const chips = Array.from(document.querySelectorAll('[data-filter]'));
+    const items = Array.from(document.querySelectorAll('[data-item]')) as HTMLElement[];
+    const count = document.getElementById('count')!;
+    const noRes = document.getElementById('no-results')!;
+    let cat = 'all';
+
+    function apply() {
+      const q = (search?.value || '').trim().toLowerCase();
+      let n = 0;
+      items.forEach((el) => {
+        const okCat = cat === 'all' || el.dataset.cat === cat;
+        const okQ = !q || (el.dataset.title || '').includes(q);
+        const show = okCat && okQ;
+        el.style.display = show ? '' : 'none';
+        if (show) n++;
+      });
+      count.textContent = `${n} article${n > 1 ? 's' : ''}`;
+      noRes.hidden = n > 0;
+    }
+    search?.addEventListener('input', apply);
+    chips.forEach((c) =>
+      c.addEventListener('click', () => {
+        cat = c.getAttribute('data-filter') || 'all';
+        chips.forEach((x) => x.setAttribute('data-active', String(x === c)));
+        apply();
+      })
+    );
+    // Support ?q= depuis la recherche du site
+    const params = new URLSearchParams(location.search);
+    if (params.get('q') && search) { search.value = params.get('q')!; apply(); }
+  </script>
+</BaseLayout>
+
+<style>
+  .list-hero { padding-top: clamp(2rem, 5vw, 3.5rem); }
+  .list-hero__title { font-size: var(--step-5); margin-top: 0.5rem; letter-spacing: -0.03em; }
+  .list-hero__lead { margin-top: 1rem; color: var(--ink-soft); font-size: var(--step-1); }
+  .filters { margin-top: 2.2rem; display: flex; flex-direction: column; gap: 1.2rem; }
+  .search {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    max-width: 30rem;
+    padding: 0.85rem 1.1rem;
+    border: 1px solid var(--line-2);
+    border-radius: var(--r-pill);
+    color: var(--ink-mute);
+    background: var(--surface);
+    transition: border-color var(--dur-2) var(--ease);
+  }
+  .search:focus-within { border-color: var(--accent); }
+  .search input { border: none; background: none; outline: none; width: 100%; font: inherit; color: var(--ink); }
+  .filter-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .filter-chips .chip { cursor: pointer; }
+  .filter-chips .chip .u-num { color: var(--ink-mute); margin-left: 0.2rem; }
+  .filter-chips .chip[data-active='true'] .u-num { color: color-mix(in oklab, var(--paper) 70%, transparent); }
+  .list-count { margin: 2.5rem 0 0.5rem; }
+  .no-results { padding: 3rem 0; text-align: center; color: var(--ink-mute); }
+</style>

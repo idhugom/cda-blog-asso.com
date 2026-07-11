@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+---
+<BaseLayout title="Mentions légales" description="Mentions légales et informations sur l'éditeur du magazine CDA." noindex={true}>
+  <section class="container legal">
+    <span class="u-label u-label--accent">Informations</span>
+    <h1 class="legal__title">Mentions légales</h1>
+    <div class="prose measure">
+      <h2>Éditeur</h2>
+      <p>Le présent site <strong>{SITE.origin.replace('https://', '')}</strong> est édité par {SITE.publisher}, média associatif indépendant.</p>
+      <h2>Contact</h2>
+      <p>Pour toute question relative au site ou à son contenu : <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+      <h2>Hébergement</h2>
+      <p>Le site est hébergé sur l'infrastructure Cloudflare (Cloudflare, Inc.).</p>
+      <h2>Propriété intellectuelle</h2>
+      <p>L'ensemble des contenus (textes, visuels, mise en page) est protégé. Toute reproduction sans autorisation est interdite.</p>
+      <h2>Responsabilité</h2>
+      <p>Les informations publiées le sont à titre indicatif et ne sauraient se substituer à un avis professionnel adapté à votre situation.</p>
+    </div>
+  </section>
+</BaseLayout>
+<style>
+  .legal { padding-top: clamp(2rem, 5vw, 3rem); }
+  .legal__title { font-size: var(--step-5); margin: 0.5rem 0 2rem; }
+</style>

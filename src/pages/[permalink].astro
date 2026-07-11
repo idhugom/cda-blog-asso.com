@@ -1,0 +1,341 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Blocks from '../components/Blocks.astro';
+import Faq from '../components/Faq.astro';
+import PostCard from '../components/PostCard.astro';
+import PostImage from '../components/PostImage.astro';
+import CategoryIcon from '../components/CategoryIcon.astro';
+import { loadPosts, getRelated } from '../lib/posts';
+import { imageFor } from '../lib/images';
+import { SITE } from '../lib/site';
+
+export function getStaticPaths() {
+  return loadPosts().map((post) => ({ params: { permalink: post.permalink }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const url = `${SITE.origin}/${post.permalink}/`;
+const related = getRelated(post, 3);
+const img = imageFor(post);
+const ogImage = img ? (img.local ? new URL(img.src, SITE.origin).href : img.src) : undefined;
+
+const dateFmt = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+const published = dateFmt.format(new Date(post.date));
+const updated = dateFmt.format(new Date(post.updatedAt));
+const showUpdated = new Date(post.updatedAt).toDateString() !== new Date(post.date).toDateString();
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  '@id': `${url}#article`,
+  headline: post.title,
+  description: post.metaDescription,
+  ...(ogImage ? { image: [ogImage] } : {}),
+  datePublished: post.date,
+  dateModified: post.updatedAt,
+  inLanguage: 'fr-FR',
+  wordCount: post.wordCount,
+  articleSection: post.category.name,
+  keywords: post.tags.join(', '),
+  author: { '@type': 'Organization', name: SITE.author, url: SITE.origin + '/' },
+  publisher: { '@id': `${SITE.origin}/#org` },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.origin + '/' },
+    { '@type': 'ListItem', position: 2, name: post.category.name, item: `${SITE.origin}/rubriques/${post.category.slug}/` },
+    { '@type': 'ListItem', position: 3, name: post.title, item: url },
+  ],
+};
+const faqLd =
+  post.faq.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: post.faq.map((f) => ({
+          '@type': 'Question',
+          name: f.q,
+          acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') },
+        })),
+      }
+    : null;
+const jsonLd = [articleLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])];
+---
+
+<BaseLayout
+  title={post.metaTitle}
+  description={post.metaDescription}
+  canonical={url}
+  image={ogImage}
+  type="article"
+  publishedTime={post.date}
+  modifiedTime={post.updatedAt}
+  section={post.category.name}
+  tags={post.tags}
+  jsonLd={jsonLd}
+  showProgress={true}
+>
+  <article class="post">
+    <div class="container post__head">
+      <nav class="crumbs" aria-label="Fil d'ariane">
+        <a href="/">Accueil</a>
+        <span aria-hidden="true">/</span>
+        <a href={`/rubriques/${post.category.slug}/`}>{post.category.name}</a>
+      </nav>
+
+      <h1 class="post__title" data-reveal>{post.title}</h1>
+      <p class="post__dek measure" data-reveal style="--reveal-delay:.05s">{post.dek}</p>
+
+      <div class="post__byline" data-reveal style="--reveal-delay:.1s">
+        <a href={`/rubriques/${post.category.slug}/`} class="post__cat">
+          <CategoryIcon name={post.category.icon} size={15} />{post.category.name}
+        </a>
+        <span class="post__dot">·</span>
+        <time datetime={post.date}>{published}</time>
+        <span class="post__dot">·</span>
+        <span class="u-num">{post.readingTime} min de lecture</span>
+      </div>
+    </div>
+
+    {img && (
+      <div class="container-wide post__hero" data-reveal style="--reveal-delay:.12s">
+        <PostImage post={post} eager={true} ratio="16/9" sizes="(max-width: 1100px) 100vw, 1100px" class="post__hero-img" />
+      </div>
+    )}
+
+    <div class="container post__layout">
+      <!-- TOC -->
+      {post.toc.length > 2 && (
+        <aside class="post__aside">
+          <div class="toc">
+            <p class="u-label">Sommaire</p>
+            <nav aria-label="Sommaire de l'article">
+              <ol class="toc__list">
+                {post.toc.map((t, i) => (
+                  <li><a href={`#${t.id}`} data-toc-link={t.id}><span class="toc__n u-num">{String(i + 1).padStart(2, '0')}</span>{t.text}</a></li>
+                ))}
+              </ol>
+            </nav>
+            <div class="toc__share">
+              <p class="u-label">Partager</p>
+              <div class="share">
+                <a class="share__btn" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`} target="_blank" rel="noopener" aria-label="Partager sur Facebook">f</a>
+                <a class="share__btn" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(post.title)}`} target="_blank" rel="noopener" aria-label="Partager sur X">𝕏</a>
+                <a class="share__btn" href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`} target="_blank" rel="noopener" aria-label="Partager sur LinkedIn">in</a>
+                <button class="share__btn" data-copy={url} aria-label="Copier le lien">↗</button>
+              </div>
+            </div>
+          </div>
+        </aside>
+      )}
+
+      <div class="post__main">
+        {post.keyTakeaways.length > 0 && (
+          <div class="takeaways" data-reveal>
+            <p class="takeaways__label"><span class="takeaways__mark"></span>L'essentiel en {post.keyTakeaways.length} points</p>
+            <ul>{post.keyTakeaways.map((k) => <li>{k}</li>)}</ul>
+          </div>
+        )}
+
+        <div class="prose measure-wide">
+          <Blocks blocks={post.blocks} />
+        </div>
+
+        {post.tags.length > 0 && (
+          <div class="post__tags">
+            {post.tags.map((t) => <span class="chip">{t}</span>)}
+          </div>
+        )}
+
+        <div class="measure-wide">
+          <Faq items={post.faq} />
+        </div>
+
+        <div class="post__updated u-label">
+          {showUpdated ? `Mis à jour le ${updated}` : `Publié le ${published}`} · par {SITE.author}
+        </div>
+      </div>
+    </div>
+  </article>
+
+  {related.length > 0 && (
+    <section class="container section-related">
+      <div class="section__head">
+        <span class="u-label u-label--accent">À lire ensuite</span>
+        <h2 class="related__title">Dans la même veine</h2>
+      </div>
+      <div class="related-grid">
+        {related.map((p) => <PostCard post={p} variant="card" />)}
+      </div>
+    </section>
+  )}
+
+  <script>
+    // Copier le lien
+    document.querySelectorAll('[data-copy]').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const url = btn.getAttribute('data-copy') || location.href;
+        try {
+          await navigator.clipboard.writeText(url);
+          const prev = btn.textContent;
+          btn.textContent = '✓';
+          setTimeout(() => (btn.textContent = prev), 1400);
+        } catch (e) {}
+      });
+    });
+    // TOC : surlignage de la section active
+    const links = Array.from(document.querySelectorAll('[data-toc-link]'));
+    if (links.length && 'IntersectionObserver' in window) {
+      const map = new Map(links.map((l) => [l.getAttribute('data-toc-link'), l]));
+      const io = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) => {
+            if (e.isIntersecting) {
+              links.forEach((l) => l.removeAttribute('data-current'));
+              const active = map.get(e.target.id);
+              active && active.setAttribute('data-current', 'true');
+            }
+          });
+        },
+        { rootMargin: '-10% 0px -70% 0px' }
+      );
+      document.querySelectorAll('.prose h2[id]').forEach((h) => io.observe(h));
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .container-wide { width: 100%; max-width: 72rem; margin-inline: auto; padding-inline: var(--gutter); }
+  .post__head { padding-top: clamp(1.5rem, 4vw, 3rem); }
+  .crumbs {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: var(--step--2);
+    color: var(--ink-mute);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.4rem;
+  }
+  .crumbs a { transition: color var(--dur-2) var(--ease); }
+  .crumbs a:hover { color: var(--accent); }
+  .post__title {
+    font-size: var(--step-5);
+    font-weight: 350;
+    line-height: 1.03;
+    letter-spacing: -0.03em;
+    max-width: 20ch;
+  }
+  .post__dek {
+    margin-top: 1.3rem;
+    font-size: var(--step-1);
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+  .post__byline {
+    margin-top: 1.6rem;
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    flex-wrap: wrap;
+    font-size: var(--step--1);
+    color: var(--ink-mute);
+  }
+  .post__cat { display: inline-flex; align-items: center; gap: 0.4rem; color: var(--ink); font-weight: 500; }
+  .post__cat:hover { color: var(--accent); }
+  .post__dot { opacity: 0.4; }
+
+  .post__hero { margin: clamp(2rem, 5vw, 3.2rem) auto 0; }
+  .post__hero :global(.post__hero-img) { border-radius: var(--r-3); border: 1px solid var(--line); }
+
+  .post__layout {
+    margin-top: clamp(2.5rem, 6vw, 4rem);
+    display: grid;
+    grid-template-columns: minmax(0, 15rem) minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: start;
+  }
+  @media (max-width: 940px) {
+    .post__layout { grid-template-columns: 1fr; }
+    .post__aside { display: none; }
+  }
+  .post__aside { position: sticky; top: 6rem; }
+  .toc__list { list-style: none; padding: 0; margin: 0.8rem 0 0; display: flex; flex-direction: column; gap: 0.1rem; }
+  .toc__list a {
+    display: flex;
+    gap: 0.6rem;
+    padding: 0.4rem 0;
+    font-size: var(--step--1);
+    color: var(--ink-mute);
+    line-height: 1.3;
+    border-left: 2px solid transparent;
+    padding-left: 0.8rem;
+    margin-left: -0.8rem;
+    transition: color var(--dur-2) var(--ease), border-color var(--dur-2) var(--ease);
+  }
+  .toc__list a:hover { color: var(--ink); }
+  .toc__list a[data-current='true'] { color: var(--accent); border-left-color: var(--accent); }
+  .toc__n { color: var(--accent); flex: none; font-size: 0.72rem; padding-top: 0.15rem; }
+  .toc__share { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--line); }
+  .share { display: flex; gap: 0.5rem; margin-top: 0.8rem; }
+  .share__btn {
+    width: 36px;
+    height: 36px;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--line-2);
+    border-radius: 50%;
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+    transition: all var(--dur-2) var(--ease);
+  }
+  .share__btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); transform: translateY(-2px); }
+
+  .measure-wide { max-width: 44rem; }
+  .post__main { min-width: 0; }
+
+  .takeaways {
+    margin-bottom: 2.5rem;
+    padding: 1.5rem 1.7rem;
+    border: 1px solid var(--line);
+    border-radius: var(--r-3);
+    background: var(--accent-soft);
+    max-width: 44rem;
+  }
+  .takeaways__label {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: var(--step--2);
+    font-weight: 640;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.9rem;
+  }
+  .takeaways__mark { width: 10px; height: 10px; border-radius: 3px; background: var(--accent); }
+  .takeaways ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.6rem; }
+  .takeaways li { position: relative; padding-left: 1.6rem; color: var(--ink); line-height: 1.5; }
+  .takeaways li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 8px;
+    height: 8px;
+    border: 2px solid var(--accent);
+    border-radius: 50%;
+  }
+
+  .post__tags { margin-top: 2.5rem; display: flex; flex-wrap: wrap; gap: 0.5rem; max-width: 44rem; }
+  .post__updated { margin-top: 2.5rem; padding-top: 1.3rem; border-top: 1px solid var(--line); max-width: 44rem; }
+
+  .section-related { margin-top: var(--sp-9); }
+  .related__title { font-size: var(--step-4); margin-top: 0.35rem; flex-basis: 100%; }
+  .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+  @media (max-width: 820px) { .related-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 520px) { .related-grid { grid-template-columns: 1fr; } }
+</style>

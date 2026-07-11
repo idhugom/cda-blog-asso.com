@@ -1,0 +1,325 @@
+{
+  "id": 2217,
+  "slug": "catalyseur-vs-filtre-particules",
+  "title": "Différence entre catalyseur et filtre à particules : comparatif des fonctions",
+  "metaTitle": "Catalyseur et filtre à particules: différences",
+  "metaDescription": "Fonctions, fonctionnement, pannes, entretien et prix: découvrez la différence entre catalyseur et filtre à particules pour bien entretenir votre auto.",
+  "dek": "Souvent confondus, le catalyseur et le filtre à particules ne traitent ni les mêmes polluants ni les mêmes pannes. Comprendre leur rôle vous aide à réagir correctement face à un voyant moteur, un manque de puissance ou une facture d’entretien.",
+  "category": "auto-mobilite",
+  "tags": [
+    "catalyseur",
+    "filtre à particules",
+    "FAP",
+    "entretien auto",
+    "pollution automobile"
+  ],
+  "keyTakeaways": [
+    "Le catalyseur transforme des gaz polluants par réaction chimique; il ne retient pas les suies.",
+    "Le FAP capture les particules de suie puis les brûle lors d’une régénération.",
+    "Un diesel moderne peut réunir catalyseur, FAP et dispositif de réduction des oxydes d’azote.",
+    "Un voyant FAP ou moteur exige un diagnostic: rouler plus vite ne résout pas toutes les causes.",
+    "Supprimer ou vider un élément antipollution est une fausse économie, risquée pour le véhicule et non conforme à la route."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Sous le véhicule, le catalyseur et le filtre à particules travaillent tous deux dans la ligne d’échappement. Pourtant, ils n’ont pas le même objectif, ne fonctionnent pas de la même manière et ne demandent pas les mêmes réflexes d’entretien. Voici comment les distinguer, reconnaître leurs alertes et éviter les réparations inutiles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "deux-pieces-anti-pollution-mais-deux-missions",
+      "text": "Deux pièces antipollution, mais deux missions très différentes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>catalyseur</strong>, aussi appelé pot catalytique, agit sur des polluants sous forme de gaz. Grâce à des métaux catalytiques, il favorise des réactions chimiques qui rendent les gaz d’échappement moins nocifs. Le <strong>filtre à particules</strong>, ou FAP, agit d’abord comme une barrière physique: il retient les particules solides issues de la combustion, principalement la suie."
+    },
+    {
+      "type": "paragraph",
+      "html": "La confusion vient de leur emplacement: ils sont installés dans l’échappement, souvent proches l’un de l’autre et parfois réunis dans un même ensemble. Leur présence ne signifie toutefois pas qu’ils sont interchangeables. Le premier <strong>convertit</strong> des molécules gazeuses; le second <strong>stocke puis élimine</strong> des dépôts solides."
+    },
+    {
+      "type": "table",
+      "caption": "Catalyseur et filtre à particules: le comparatif essentiel",
+      "headers": [
+        "Équipement",
+        "Polluants principalement traités",
+        "Principe",
+        "Entretien ou risque typique"
+      ],
+      "rows": [
+        [
+          "Catalyseur",
+          "Monoxyde de carbone, hydrocarbures imbrûlés et, selon le système, oxydes d’azote",
+          "Réactions chimiques sur une structure en nid d’abeilles",
+          "Vieillissement, contamination, surchauffe ou casse interne"
+        ],
+        [
+          "FAP diesel",
+          "Particules de suie fines et ultrafines",
+          "Filtration dans une céramique poreuse, puis régénération par combustion de la suie",
+          "Colmatage, régénérations interrompues, accumulation de cendres"
+        ],
+        [
+          "Filtre à particules essence",
+          "Particules émises par certains moteurs essence à injection directe",
+          "Principe voisin du FAP, avec des contraintes d’usage souvent différentes",
+          "Colmatage plus rare, mais possible en cas de défaut moteur ou de trajets inadaptés"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le repère le plus simple",
+      "html": "<p><strong>Gaz = catalyseur; suie = filtre à particules.</strong> Un véhicule peut avoir les deux, et c’est même courant sur les modèles récents.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quels-polluants-sont-traites",
+      "text": "Quels polluants chacun traite-t-il réellement?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "catalyseur-et-polluants-gazeux",
+      "text": "Le catalyseur cible surtout les polluants gazeux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un moteur essence classique, le catalyseur trois voies réduit simultanément le monoxyde de carbone, les hydrocarbures imbrûlés et les oxydes d’azote lorsque le mélange air-carburant est correctement régulé. Les sondes lambda, placées dans l’échappement, sont donc déterminantes: si elles transmettent une mauvaise information, le catalyseur travaille dans de mauvaises conditions."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un diesel, le catalyseur d’oxydation traite principalement le monoxyde de carbone et les hydrocarbures. La réduction des oxydes d’azote peut être confiée à d’autres équipements, notamment un système SCR utilisant un liquide dédié, souvent appelé AdBlue. Il serait donc imprécis de dire qu’un seul catalyseur règle toute la pollution d’un diesel moderne."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "fap-et-particules-solides",
+      "text": "Le FAP piège les particules solides"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les particules sont des résidus de combustion, notamment du carbone sous forme de suie. Elles ne peuvent pas être neutralisées comme un gaz par le seul catalyseur. Le FAP les retient dans ses canaux poreux afin qu’elles ne soient pas rejetées directement dans l’air. Cette filtration crée progressivement une résistance au passage des gaz: si le filtre ne se régénère plus, la contre-pression augmente et le moteur peut se mettre en mode dégradé."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "2 fonctions",
+          "label": "convertir les gaz avec le catalyseur et retenir les suies avec le FAP"
+        },
+        {
+          "value": "≈ 550 à 650 °C",
+          "label": "température souvent nécessaire dans le filtre pour brûler efficacement la suie lors d’une régénération"
+        },
+        {
+          "value": "15 à 30 min",
+          "label": "durée fréquemment utile d’un trajet stabilisé pour laisser aboutir une régénération, si le véhicule la demande"
+        },
+        {
+          "value": "Plusieurs centaines d’euros",
+          "label": "ordre de grandeur courant d’une intervention sur un élément d’échappement antipollution"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-fonctionnent-catalyseur-et-fap",
+      "text": "Comment fonctionnent le catalyseur et le FAP?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le catalyseur contient généralement un support en céramique ou en métal formant des milliers de petits canaux. Ce support est recouvert de matériaux actifs contenant notamment des métaux précieux. En traversant cette surface chaude, certains gaz réagissent entre eux et deviennent des composés moins polluants. Le catalyseur n’est pas un tamis: il ne se remplit pas de suie dans le cadre de son fonctionnement normal."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le FAP repose lui aussi sur une structure céramique, mais ses canaux sont obturés alternativement. Les gaz traversent les parois poreuses tandis que les particules restent piégées. Lorsque la charge de suie atteint un seuil calculé par le véhicule, le système lance une <strong>régénération</strong>. La température des gaz augmente afin d’oxyder la suie et de libérer les canaux."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette combustion ne fait pas tout disparaître. Les cendres, issues notamment des additifs de l’huile moteur, ne brûlent pas. Elles s’accumulent lentement et expliquent qu’un FAP puisse un jour nécessiter un nettoyage professionnel ou un remplacement, même si les régénérations se sont bien déroulées."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Régénération: ne pas confondre",
+      "html": "<p>Le FAP possède un cycle de régénération piloté par le véhicule. Le catalyseur doit simplement atteindre sa température normale de fonctionnement: on ne parle pas, à proprement parler, de régénération programmée du catalyseur.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quels-vehicules-en-sont-equipes",
+      "text": "Quels véhicules ont un catalyseur, un FAP ou les deux?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La quasi-totalité des voitures thermiques modernes possède au moins un catalyseur. Les diesels récents associent très souvent un catalyseur d’oxydation, un FAP et, selon leur niveau de dépollution, un dispositif supplémentaire contre les oxydes d’azote. Sur les moteurs essence, le catalyseur reste la norme; les filtres à particules essence se sont largement développés avec l’injection directe."
+    },
+    {
+      "type": "compare",
+      "title": "Architecture antipollution: diesel récent ou essence à injection directe",
+      "a": {
+        "title": "Diesel récent",
+        "points": [
+          "Catalyseur d’oxydation et FAP sont très fréquents dans la même ligne d’échappement.",
+          "Un système SCR peut s’ajouter pour traiter les oxydes d’azote.",
+          "Les petits trajets répétés sont particulièrement défavorables à la régénération du FAP."
+        ]
+      },
+      "b": {
+        "title": "Essence à injection directe",
+        "points": [
+          "Le catalyseur est indispensable et assure une grande partie du traitement des gaz.",
+          "Un filtre à particules essence peut être présent pour limiter les émissions particulaires.",
+          "Le filtre est souvent moins sollicité qu’un FAP diesel, sans être pour autant dispensé de surveillance."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour connaître l’équipement exact de votre voiture, ne vous fiez pas uniquement au carburant. Consultez le manuel d’entretien, les factures d’atelier ou le réseau de la marque avec le numéro d’identification du véhicule. Une inspection visuelle sous la voiture ne suffit pas toujours: plusieurs éléments peuvent être intégrés dans un même boîtier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "entretien-et-bonnes-habitudes",
+      "text": "Entretien: les bonnes habitudes pour éviter les problèmes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un catalyseur en bon état demande peu d’entretien direct. Sa longévité dépend surtout de la santé du moteur: allumage, injection, sondes, consommation d’huile et absence de fuite. Des ratés d’allumage peuvent envoyer du carburant imbrûlé dans l’échappement, provoquer une surchauffe et endommager irréversiblement sa structure."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le FAP réclame davantage d’attention dans le cadre d’un usage urbain. Les démarrages à froid, les parcours très courts et les arrêts fréquents peuvent interrompre les régénérations avant leur terme. Cela ne signifie pas qu’il faut rouler vite sans raison: il faut surtout permettre ponctuellement au moteur de rouler à température stabilisée, dans les conditions indiquées par le constructeur."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Respectez l’huile moteur prescrite",
+          "html": "Utilisez une huile compatible avec les motorisations équipées d’un FAP, souvent dite à faible teneur en cendres. Une huile inadaptée accélère l’accumulation de résidus non combustibles."
+        },
+        {
+          "title": "Ne reportez pas les alertes moteur",
+          "html": "Une vanne EGR, un injecteur, une sonde de température ou un capteur de pression défaillant peut empêcher la régénération. Le voyant ne désigne pas systématiquement le filtre comme cause première."
+        },
+        {
+          "title": "Adaptez occasionnellement vos trajets",
+          "html": "Si votre usage se limite aux très courtes distances, prévoyez lorsque c’est possible un trajet assez long et fluide pour atteindre la température normale du moteur."
+        },
+        {
+          "title": "Suivez le plan d’entretien",
+          "html": "Sur certains diesels, un additif de régénération doit être contrôlé ou rempli. Cette opération est distincte de l’appoint éventuel de liquide SCR."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe en usage urbain",
+      "html": "<p>Un trajet périodique sur route, moteur bien chaud et à régime régulier, est plus utile qu’une accélération brutale. En cas de voyant déjà allumé, vérifiez d’abord les consignes du manuel ou demandez un diagnostic.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "signes-de-panne-et-diagnostic",
+      "text": "Quels signes doivent faire suspecter un catalyseur ou un FAP?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un voyant moteur ou un voyant de filtre à particules, une perte de puissance et une consommation qui augmente peuvent concerner l’un comme l’autre. Les symptômes ne suffisent donc jamais à commander une pièce. Le calculateur mémorise des défauts, mais l’atelier doit aussi contrôler les valeurs mesurées et rechercher la cause du problème."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>FAP possiblement chargé:</strong> voyant dédié, régénérations fréquentes, ventilateur qui continue après l’arrêt, niveau d’huile anormalement élevé sur certains modèles, puissance limitée.",
+        "<strong>Catalyseur possiblement abîmé:</strong> voyant moteur, odeur inhabituelle, bruit de morceaux dans le pot, défaut d’efficacité antipollution, perte de puissance si la structure est obstruée.",
+        "<strong>Cause externe fréquente:</strong> injecteur, bougie ou bobine sur essence, vanne EGR, turbo, sonde lambda, capteur différentiel de pression, fuite d’échappement ou consommation d’huile."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diagnostic sérieux combine lecture des codes défauts, contrôle des capteurs, mesure de pression différentielle pour le FAP et vérification des données moteur. Un simple effacement du voyant ne constitue pas une réparation: si la cause persiste, l’alerte revient souvent rapidement."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Évitez les fausses solutions",
+      "html": "<p>Un additif versé dans le carburant peut parfois accompagner un entretien, mais il ne répare ni un FAP saturé de cendres ni un catalyseur fondu. Ne faites pas supprimer, vider ou reprogrammer un dispositif antipollution: cela augmente les émissions, peut générer d’autres pannes et compromet la conformité du véhicule.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prix-nettoyage-remplacement",
+      "text": "Nettoyage, réparation, remplacement: quels budgets prévoir?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les montants dépendent énormément du modèle, de l’accessibilité de la ligne d’échappement et de la pièce choisie. Comptez souvent quelques dizaines à quelques centaines d’euros pour un diagnostic et la recherche d’une panne périphérique. Un nettoyage professionnel de FAP déposé peut se situer, selon la méthode et le véhicule, autour de quelques centaines d’euros."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement est plus coûteux. Une pièce adaptable peut parfois coûter quelques centaines d’euros, tandis qu’un FAP, un catalyseur d’origine ou un module combiné peut dépasser largement le millier d’euros, hors main-d’œuvre. Les dispositifs diesel intégrant plusieurs fonctions peuvent faire grimper la facture. Un devis doit donc séparer la pièce, le temps de pose, le diagnostic et les éventuelles réparations qui ont provoqué l’encrassement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’accepter le changement d’un FAP, demandez si la charge mesurée correspond surtout à de la suie ou à des cendres. Une charge de suie peut parfois être traitée par une régénération forcée encadrée ou un nettoyage, à condition que le filtre ne soit pas endommagé. Des cendres en quantité importante, une céramique fissurée ou fondue, ou une contamination par l’huile orientent davantage vers le remplacement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "agir-correctement-des-aujourdhui",
+      "text": "Agir correctement: la marche à suivre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Face à une alerte, commencez par identifier précisément le voyant et consultez le manuel du véhicule. Si le voyant est orange, sans perte de puissance majeure, le constructeur peut parfois recommander un trajet permettant la régénération; suivez uniquement cette procédure lorsqu’elle est explicitement prévue. Si le véhicule passe en mode dégradé, fume anormalement, sent fortement le chaud ou affiche un message rouge, limitez l’usage et faites-le contrôler sans tarder."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un achat d’occasion, demandez les factures concernant l’échappement, vérifiez l’absence de voyant après démarrage et effectuez un essai suffisamment long. Un contrôle électronique des défauts, réalisé par un professionnel, est particulièrement utile sur un diesel ayant surtout circulé en ville. Vous saurez ainsi si vous achetez un véhicule entretenu ou une future intervention coûteuse."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir avant toute réparation",
+      "html": "<p>Ne remplacez pas une pièce sur la seule base d’un voyant. Faites confirmer <strong>la nature du polluant concerné, l’état réel de l’élément et la panne qui l’a dégradé</strong>. C’est la meilleure façon de protéger à la fois votre budget et la fiabilité du véhicule.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je rouler avec un voyant de filtre à particules allumé?",
+      "a": "<p>Cela dépend du message affiché, de la couleur du voyant et du comportement du véhicule. Un voyant orange peut parfois signaler une régénération à effectuer, pour laquelle le manuel prévoit un trajet à température stabilisée. En revanche, si la puissance baisse, si un voyant rouge apparaît ou si plusieurs alertes sont présentes, ne forcez pas le véhicule sur autoroute dans l’espoir de le décrasser. Une panne de capteur, d’injection ou de vanne EGR peut empêcher toute régénération utile et aggraver le problème.</p>"
+    },
+    {
+      "q": "Toutes les voitures essence ont-elles un filtre à particules?",
+      "a": "<p>Non. Elles ont presque toutes un catalyseur, mais le filtre à particules essence n’est pas présent sur tous les modèles, en particulier les plus anciens. Il s’est généralisé sur de nombreux moteurs essence à injection directe, car ceux-ci peuvent produire des particules fines. Ce filtre est souvent désigné par les sigles GPF ou OPF. Son principe est comparable à celui d’un FAP diesel, même si son fonctionnement et les pannes rencontrées peuvent différer.</p>"
+    },
+    {
+      "q": "À quelle fréquence un FAP se régénère-t-il?",
+      "a": "<p>Il n’existe pas d’intervalle universel en kilomètres. Le calculateur estime la charge du filtre à partir de plusieurs paramètres: trajets effectués, températures, pression dans l’échappement, quantité de carburant consommée et données des capteurs. Sur route, une régénération peut être espacée; en ville avec de courts parcours, elle peut devenir plus fréquente ou être régulièrement interrompue. L’important est moins la fréquence que la capacité du véhicule à terminer correctement ses cycles.</p>"
+    },
+    {
+      "q": "Un catalyseur peut-il se nettoyer en roulant?",
+      "a": "<p>Le catalyseur devient plus efficace lorsqu’il est chaud, mais il ne se régénère pas comme un FAP. Un trajet routier peut parfois aider à brûler de légers dépôts liés à un usage très urbain, sans réparer une structure fondue, cassée ou contaminée par l’huile, le liquide de refroidissement ou du carburant imbrûlé. Si un défaut d’efficacité du catalyseur est enregistré, il faut rechercher la cause moteur avant de conclure au remplacement de la pièce.</p>"
+    },
+    {
+      "q": "Le nettoyage d’un FAP est-il préférable à son remplacement?",
+      "a": "<p>Le nettoyage peut être une bonne option si le filtre est intact et chargé de suie ou de cendres, et si la cause de l’encrassement a été corrigée. Il est moins pertinent lorsqu’un contrôle révèle une céramique fissurée, fondue, fortement contaminée par l’huile ou physiquement détériorée. Un nettoyage sans réparation de l’injecteur, du capteur ou du système moteur responsable du problème expose à un nouveau colmatage rapide. Demandez donc un diagnostic écrit avant de choisir.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-11T00:00:00.000Z",
+  "generatedAt": "2026-07-11T00:00:00.000Z",
+  "model": "gpt-5.6-terra",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}

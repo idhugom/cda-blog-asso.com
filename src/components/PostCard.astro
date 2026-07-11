@@ -1,0 +1,165 @@
+---
+import type { Post } from '../lib/posts';
+import PostImage from './PostImage.astro';
+import CategoryIcon from './CategoryIcon.astro';
+
+interface Props {
+  post: Post;
+  variant?: 'feature' | 'card' | 'row';
+  index?: number;
+  eager?: boolean;
+}
+const { post, variant = 'card', index, eager = false } = Astro.props;
+const href = `/${post.permalink}/`;
+const dateFmt = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' }).format(
+  new Date(post.date)
+);
+---
+
+{
+  variant === 'row' ? (
+    <a href={href} class="prow" data-reveal>
+      {typeof index === 'number' && <span class="prow__num u-num">{String(index + 1).padStart(2, '0')}</span>}
+      <span class="prow__body">
+        <span class="prow__cat u-label">{post.category.name}</span>
+        <span class="prow__title">{post.title}</span>
+      </span>
+      <span class="prow__meta">
+        <span class="u-num">{post.readingTime} min</span>
+        <svg class="prow__arrow" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </span>
+    </a>
+  ) : (
+    <article class={`pcard pcard--${variant}`} data-reveal>
+      <a href={href} class="pcard__link" aria-label={post.title}>
+        <div class="pcard__media">
+          <PostImage post={post} eager={eager} ratio={variant === 'feature' ? '16/10' : '3/2'} sizes={variant === 'feature' ? '(max-width: 900px) 100vw, 900px' : '(max-width: 700px) 100vw, 400px'} />
+          <span class="pcard__badge">
+            <CategoryIcon name={post.category.icon} size={14} />
+            {post.category.name}
+          </span>
+        </div>
+        <div class="pcard__body">
+          <h3 class="pcard__title">{post.title}</h3>
+          {variant === 'feature' && <p class="pcard__dek">{post.dek}</p>}
+          <div class="pcard__meta">
+            <span>{dateFmt}</span>
+            <span class="pcard__dot" aria-hidden="true">·</span>
+            <span class="u-num">{post.readingTime} min de lecture</span>
+          </div>
+        </div>
+      </a>
+    </article>
+  )
+}
+
+<style>
+  /* — Card — */
+  .pcard { position: relative; }
+  .pcard__link { display: block; }
+  .pcard__media {
+    position: relative;
+    border-radius: var(--r-3);
+    overflow: hidden;
+    border: 1px solid var(--line);
+  }
+  .pcard__media :global(.ph) {
+    transition: transform var(--dur-3) var(--ease);
+  }
+  .pcard__link:hover .pcard__media :global(.ph img) {
+    transform: scale(1.045);
+  }
+  .pcard__media :global(img) {
+    transition: transform var(--dur-4) var(--ease);
+  }
+  .pcard__badge {
+    position: absolute;
+    top: 0.7rem;
+    left: 0.7rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.6rem;
+    font-size: var(--step--2);
+    font-weight: 560;
+    letter-spacing: 0.01em;
+    color: var(--ink);
+    background: color-mix(in oklab, var(--paper) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-radius: var(--r-pill);
+    border: 1px solid var(--line);
+  }
+  .pcard__body { padding-top: 1rem; }
+  .pcard__title {
+    font-size: var(--step-1);
+    font-weight: 400;
+    line-height: 1.16;
+    letter-spacing: -0.02em;
+    transition: color var(--dur-2) var(--ease);
+  }
+  .pcard--feature .pcard__title { font-size: var(--step-3); }
+  .pcard__link:hover .pcard__title { color: var(--accent); }
+  .pcard__dek {
+    margin-top: 0.7rem;
+    color: var(--ink-soft);
+    font-size: var(--step-0);
+    line-height: 1.55;
+    max-width: 52ch;
+  }
+  .pcard__meta {
+    margin-top: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: var(--step--2);
+    color: var(--ink-mute);
+  }
+  .pcard__dot { opacity: 0.5; }
+
+  /* — Row (liste index) — */
+  .prow {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.35rem 0.4rem;
+    border-top: 1px solid var(--line);
+    transition: padding var(--dur-2) var(--ease), background var(--dur-2) var(--ease);
+  }
+  .prow:hover {
+    padding-inline: 1rem;
+    background: color-mix(in oklab, var(--ink) 3%, transparent);
+  }
+  .prow__num {
+    font-family: var(--font-mono);
+    font-size: var(--step--1);
+    color: var(--ink-mute);
+  }
+  .prow:hover .prow__num { color: var(--accent); }
+  .prow__body { display: flex; flex-direction: column; gap: 0.25rem; min-width: 0; }
+  .prow__cat { font-size: 0.62rem; }
+  .prow__title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 380;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    transition: color var(--dur-2) var(--ease);
+  }
+  .prow:hover .prow__title { color: var(--accent); }
+  .prow__meta {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: var(--step--2);
+    color: var(--ink-mute);
+    white-space: nowrap;
+  }
+  .prow__arrow { transition: transform var(--dur-2) var(--ease); }
+  .prow:hover .prow__arrow { transform: translateX(4px); color: var(--accent); }
+  @media (max-width: 620px) {
+    .prow { grid-template-columns: 1fr auto; gap: 1rem; }
+    .prow__num { display: none; }
+    .prow__title { font-size: var(--step-0); }
+  }
+</style>

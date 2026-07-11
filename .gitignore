@@ -1,0 +1,26 @@
+# deps
+node_modules/
+.pnpm-store/
+
+# build
+dist/
+.astro/
+
+# raw image downloads (only optimized public/media is committed)
+media-cache/
+
+# env & logs
+.env
+.env.*
+*.log
+npm-debug.log*
+
+# os
+.DS_Store
+Thumbs.db
+
+# generation working files
+.gen-lock
+scripts/.cache/
+data/gen-failures.json
+data/gen-batch.log

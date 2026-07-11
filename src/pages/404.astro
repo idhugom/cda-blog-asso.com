@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadPosts } from '../lib/posts';
+const suggestions = loadPosts().slice(0, 4);
+---
+<BaseLayout title="Page introuvable" description="La page demandée n'existe pas ou a été déplacée." noindex={true}>
+  <section class="container nf">
+    <span class="nf__code">404</span>
+    <h1 class="nf__title">Cette page s'est évaporée.</h1>
+    <p class="nf__lead measure">
+      Le lien est peut-être ancien ou l'adresse mal saisie. Pas d'inquiétude — voici de quoi rebondir.
+    </p>
+    <div class="nf__actions">
+      <a href="/" class="btn btn--solid">Retour à l'accueil <span class="btn__arrow">→</span></a>
+      <a href="/articles/" class="btn">Tous les articles</a>
+    </div>
+    {suggestions.length > 0 && (
+      <div class="nf__sugg">
+        <p class="u-label">À découvrir</p>
+        <ul>
+          {suggestions.map((p) => <li><a href={`/${p.permalink}/`} class="link">{p.title}</a></li>)}
+        </ul>
+      </div>
+    )}
+  </section>
+</BaseLayout>
+<style>
+  .nf { padding: clamp(3rem, 10vw, 7rem) 0; text-align: center; }
+  .nf__code {
+    font-family: var(--font-display); font-size: clamp(5rem, 20vw, 11rem);
+    font-weight: 300; letter-spacing: -0.05em; line-height: 0.9; color: var(--accent);
+    display: block;
+  }
+  .nf__title { font-size: var(--step-4); margin-top: 1rem; }
+  .nf__lead { margin: 1rem auto 2rem; color: var(--ink-soft); font-size: var(--step-1); }
+  .nf__actions { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
+  .nf__sugg { margin-top: 3.5rem; padding-top: 2rem; border-top: 1px solid var(--line); max-width: 34rem; margin-inline: auto; }
+  .nf__sugg ul { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 0.7rem; }
+  .nf__sugg li { font-size: var(--step-0); }
+</style>
