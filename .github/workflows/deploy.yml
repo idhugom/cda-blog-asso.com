@@ -31,7 +31,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          SITE_ORIGIN: https://cda-blog-asso.com
+          SITE_ORIGIN: https://www.cda-blog-asso.com
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3

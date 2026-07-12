@@ -1,8 +1,8 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// Canonical origin is NON-www (www → non-www 301 handled at the edge + _redirects).
-const SITE = process.env.SITE_ORIGIN || 'https://cda-blog-asso.com';
+// Canonical origin is WWW (apex/non-www → www 301 handled at the edge + _redirects).
+const SITE = process.env.SITE_ORIGIN || 'https://www.cda-blog-asso.com';
 
 export default defineConfig({
   site: SITE,

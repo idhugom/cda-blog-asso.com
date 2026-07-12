@@ -4,7 +4,7 @@ Site **statique Astro** → build `npm run build` → dossier `dist/`. Hébergé
 
 - **Projet Pages** : `cda-blog-asso-preprod`
 - **URL de préprod** : https://cda-blog-asso-preprod.pages.dev
-- **Domaine cible (production)** : `cda-blog-asso.com` (non‑www canonique, `www` → redirigé)
+- **Domaine cible (production)** : `www.cda-blog-asso.com` (www canonique, apex `cda-blog-asso.com` → redirigé)
 - **Branche de production** : `main` · **Branche de dev** : `claude/cda-blog-redesign-9ayq7n`
 
 ---
@@ -60,10 +60,10 @@ ne pointent pas encore vers Cloudflare). Une fois la préprod validée :
    node scripts/cf-domain-setup.mjs
    ```
    Ce script :
-   - attache **`cda-blog-asso.com`** (apex, non‑www) au projet Pages ;
-   - crée l'enregistrement DNS `www` (CNAME proxied → `cda-blog-asso-preprod.pages.dev`) ;
-   - crée la **Redirect Rule 301 `www.cda-blog-asso.com` → `https://cda-blog-asso.com/…`** (chemin + query préservés).
-3. Vérifier : `curl -I https://www.cda-blog-asso.com/` doit renvoyer `301` vers `https://cda-blog-asso.com/`.
+   - attache **`www.cda-blog-asso.com`** (canonique) au projet Pages ;
+   - crée les enregistrements DNS `www` et apex (CNAME proxied → `cda-blog-asso-preprod.pages.dev`) ;
+   - crée la **Redirect Rule 301 `cda-blog-asso.com` → `https://www.cda-blog-asso.com/…`** (chemin + query préservés).
+3. Vérifier : `curl -I https://cda-blog-asso.com/` doit renvoyer `301` vers `https://www.cda-blog-asso.com/`.
 
 > **Mise en prod = fusion.** Le code vit sur `claude/cda-blog-redesign-9ayq7n`. Fusionner cette branche
 > dans `main` déclenche le déploiement de production (chemin A) — c'est le seul geste nécessaire.
@@ -72,10 +72,10 @@ ne pointent pas encore vers Cloudflare). Une fois la préprod validée :
 
 ## 3. Canonicalisation & SEO
 
-- **Host canonique unique : non‑www.** Toutes les balises `<link rel=canonical>`, l'`og:url`, le sitemap
-  et le RSS utilisent `https://cda-blog-asso.com`.
+- **Host canonique unique : www.** Toutes les balises `<link rel=canonical>`, l'`og:url`, le sitemap
+  et le RSS utilisent `https://www.cda-blog-asso.com` (cohérent avec les URLs déjà indexées).
 - **Slugs 100 % identiques** à l'ancien site : permaliens `/{id}-{slug}/` (ex. `/2292-stylo-personnalise-…/`).
-  Aucune redirection d'URL n'est donc nécessaire côté chemins ; seul le host `www` est redirigé.
+  Aucune redirection d'URL n'est donc nécessaire côté chemins ; seul l'apex (sans-www) est redirigé.
 - `robots.txt` + `sitemap-index.xml` + `rss.xml` générés automatiquement.
 - En‑têtes de sécurité et cache immuable des assets : `public/_headers`.
 

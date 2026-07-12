@@ -1,5 +1,5 @@
 export const SITE = {
-  origin: (import.meta.env.SITE as string) || 'https://cda-blog-asso.com',
+  origin: (import.meta.env.SITE as string) || 'https://www.cda-blog-asso.com',
   name: 'CDA',
   fullName: 'CDA — Le magazine',
   tagline: 'Les idées claires sur tout ce qui compte',

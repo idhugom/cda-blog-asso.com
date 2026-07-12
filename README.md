@@ -32,10 +32,10 @@ public/         _headers, _redirects, robots.txt, favicon, og-default
 ```
 
 ## Déploiement
-Voir **[DEPLOYMENT.md](./DEPLOYMENT.md)** — Cloudflare Pages, domaine, redirection www→non‑www.
+Voir **[DEPLOYMENT.md](./DEPLOYMENT.md)** — Cloudflare Pages, domaine, redirection apex→www.
 
 ## SEO & performance
-- Permaliens **identiques** à l'ancien site (`/{id}-{slug}/`), host canonique **non‑www**.
+- Permaliens **identiques** à l'ancien site (`/{id}-{slug}/`), host canonique **www**.
 - JSON-LD `Organization` / `WebSite` / `BlogPosting` / `BreadcrumbList` / `FAQPage`.
 - Sitemap + RSS + robots, images `width/height` (zéro CLS), polices variables auto‑hébergées,
   CSS critique en ligne, cache immuable des assets, `prefers-reduced-motion` respecté.

@@ -1,4 +1,4 @@
 # Cloudflare Pages — redirections
-# Canonicalisation www -> non-www (le mécanisme principal reste une Redirect Rule
-# au niveau de la zone, voir DEPLOYMENT.md ; ceci sert de filet de sécurité).
-https://www.cda-blog-asso.com/* https://cda-blog-asso.com/:splat 301!
+# Canonicalisation apex (sans-www) -> www (le mécanisme principal reste une
+# Redirect Rule au niveau de la zone, voir DEPLOYMENT.md ; ceci sert de filet).
+https://cda-blog-asso.com/* https://www.cda-blog-asso.com/:splat 301!

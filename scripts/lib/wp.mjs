@@ -1,7 +1,7 @@
 // Shared helpers for talking to the source WordPress REST API.
 export const WP_BASE = process.env.WP_BASE || 'https://www.cda-blog-asso.com';
-// Canonical host for the NEW site (non-www, per redirect requirement).
-export const SITE_ORIGIN = process.env.SITE_ORIGIN || 'https://cda-blog-asso.com';
+// Canonical host for the NEW site (www, per redirect requirement).
+export const SITE_ORIGIN = process.env.SITE_ORIGIN || 'https://www.cda-blog-asso.com';
 
 export async function wpFetch(path, { retries = 5 } = {}) {
   const url = path.startsWith('http') ? path : `${WP_BASE}${path}`;
