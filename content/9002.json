@@ -1,0 +1,244 @@
+{
+  "id": 9002,
+  "slug": "retard-annulation-vol-indemnisation-demarches",
+  "title": "Retard ou annulation de vol : indemnisation, montants et démarches",
+  "metaTitle": "Retard ou annulation de vol : indemnisation et démarches",
+  "metaDescription": "Vol retardé ou annulé ? Les montants d'indemnisation prévus, les conditions à remplir et la marche à suivre pour obtenir gain de cause auprès de la compagnie.",
+  "dek": "Un vol retardé ou annulé peut ouvrir droit à plusieurs centaines d'euros d'indemnisation, souvent sans que les voyageurs le sachent. Voici comment vérifier votre éligibilité et mener votre réclamation jusqu'au bout.",
+  "category": "voyage-evasion",
+  "tags": [
+    "droits des passagers",
+    "retard de vol",
+    "indemnisation vol",
+    "règlement UE261",
+    "compagnie aérienne"
+  ],
+  "keyTakeaways": [
+    "Un retard de 3 heures ou plus à l'arrivée, ou une annulation signalée moins de 14 jours avant le départ, ouvre souvent droit à indemnisation.",
+    "Les montants prévus vont de 250 à 600 € par passager selon la distance du vol, indépendamment du prix du billet.",
+    "Les « circonstances extraordinaires » (météo, grèves du contrôle aérien) peuvent exonérer la compagnie, mais ne doivent pas être acceptées sans vérification.",
+    "La réclamation se fait par écrit auprès de la compagnie ; en cas de refus, la médiation puis la voie judiciaire restent possibles.",
+    "Mieux vaut agir rapidement et conserver toutes les preuves : carte d'embarquement, horaires réels, échanges avec la compagnie."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous voici bloqué en salle d'embarquement, l'écran affiche « retardé » depuis plus de deux heures — ou pire, votre vol vient d'être annulé sans explication claire. Beaucoup de voyageurs ignorent qu'un retard ou une annulation ouvre souvent droit à une indemnisation financière, parfois plusieurs centaines d'euros par passager. Voici comment savoir si vous êtes concerné, combien réclamer, et comment mener votre démarche jusqu'au bout sans vous laisser décourager par la compagnie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vos-droits-passagers-aeriens",
+      "text": "Le règlement européen qui protège les passagers aériens"
+    },
+    {
+      "type": "paragraph",
+      "html": "En Europe, les passagers aériens bénéficient d'une protection spécifique en cas de retard, d'annulation ou de refus d'embarquement pour cause de surbooking. Cette réglementation s'applique à tous les vols au départ d'un aéroport de l'Union européenne, quelle que soit la compagnie, ainsi qu'aux vols à destination de l'UE opérés par une compagnie européenne. Le prix du billet, la classe de voyage ou le fait d'avoir réservé via une agence ne changent rien à ce droit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce cadre existe précisément parce que les compagnies, en position de force face à un passager isolé, ont longtemps pu minimiser leurs obligations. En connaissant précisément vos droits, vous évitez de vous contenter d'un simple bon d'achat ou d'excuses verbales là où une indemnisation chiffrée est due. Beaucoup de voyageurs renoncent tout simplement par méconnaissance ou parce que la démarche leur paraît compliquée, alors qu'elle reste, dans l'immense majorité des cas, gratuite et accessible sans intermédiaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conditions-eligibilite-indemnisation",
+      "text": "Quelles conditions remplir pour être indemnisé ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Trois situations principales ouvrent droit à indemnisation : un retard important à l'arrivée, une annulation annoncée tardivement, ou un refus d'embarquement lié à un surbooking. Dans chaque cas, c'est l'heure réelle d'arrivée à destination qui compte, pas seulement le retard constaté au départ. Un vol qui décolle en retard mais rattrape le temps perdu en vol n'ouvre généralement aucun droit."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Ce droit s'applique aussi aux compagnies low-cost et aux vols affrétés (charters). Le montant du billet, y compris lorsqu'il a été obtenu avec des miles ou une offre promotionnelle, n'a aucune influence sur le montant de l'indemnisation.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "montants-indemnisation-par-distance",
+      "text": "Combien pouvez-vous toucher ? Les montants selon la distance"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'indemnisation est forfaitaire : elle dépend uniquement de la distance du vol, pas du prix payé ni du motif exact du désagrément. Voici les montants généralement appliqués."
+    },
+    {
+      "type": "table",
+      "caption": "Montants d'indemnisation prévus selon la distance du vol",
+      "headers": ["Distance du vol", "Indemnisation prévue", "Cas concret"],
+      "rows": [
+        ["Jusqu'à 1500 km", "250 €", "Vol domestique ou court-courrier intra-européen"],
+        ["Entre 1500 et 3500 km", "400 €", "Vol intra-européen long ou vol extra-européen court"],
+        ["Plus de 3500 km", "600 €", "Vol long-courrier vers un pays hors de l'UE"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur les vols de plus de 3500 km, l'indemnisation peut être réduite de moitié si la compagnie vous propose un réacheminement qui limite le retard final à l'arrivée à quelques heures seulement. Ce montant s'ajoute toujours au remboursement du billet ou au réacheminement, il ne le remplace pas."
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "3 heures", "label": "de retard à l'arrivée, seuil généralement retenu pour ouvrir droit à indemnisation" },
+        { "value": "14 jours", "label": "délai de préavis en dessous duquel une annulation reste souvent indemnisable" },
+        { "value": "jusqu'à plusieurs années", "label": "délai de réclamation encore possible selon le pays concerné" }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "retard-annulation-surbooking-differences",
+      "text": "Retard, annulation, surbooking : des situations différentes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les trois situations ne se traitent pas exactement de la même façon. Le retard ouvre droit à une prise en charge immédiate (repas, boissons, hébergement si nécessaire) dès un certain nombre d'heures d'attente, en plus d'une indemnisation possible. L'annulation et le surbooking obéissent à des règles un peu différentes, notamment sur le choix entre remboursement et réacheminement."
+    },
+    {
+      "type": "compare",
+      "title": "Vos droits selon la situation",
+      "a": {
+        "title": "Vol retardé",
+        "points": [
+          "Indemnisation due si le retard à l'arrivée dépasse le seuil de 3 heures.",
+          "Prise en charge (repas, boissons, parfois hébergement) dès quelques heures d'attente selon la distance.",
+          "L'indemnisation s'ajoute au remboursement ou au réacheminement, elle ne s'y substitue pas."
+        ]
+      },
+      "b": {
+        "title": "Vol annulé ou surbooké",
+        "points": [
+          "Indemnisation due sauf préavis suffisant ou solution de remplacement proposée rapidement.",
+          "Choix laissé entre remboursement intégral du billet et réacheminement vers la destination.",
+          "En cas de surbooking, la compagnie doit d'abord chercher des volontaires avant tout refus d'embarquement forcé."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "circonstances-extraordinaires-exceptions",
+      "text": "Les cas où la compagnie n'est pas tenue de vous indemniser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les compagnies aériennes ne sont pas responsables de tout. Des « circonstances extraordinaires » — conditions météorologiques extrêmes, grève du contrôle aérien, risque de sécurité, décision des autorités aéroportuaires — peuvent les exonérer du versement d'une indemnisation, même si elles restent tenues d'assurer votre prise en charge (repas, hébergement) et votre réacheminement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La distinction essentielle tient à l'origine du problème : un incident extérieur imprévisible et hors du contrôle de la compagnie (tempête, éruption volcanique, grève des contrôleurs aériens) est généralement exonératoire, tandis qu'un problème lié à l'exploitation normale de l'avion — panne technique courante, absence de personnel, mauvaise organisation des rotations — reste en principe de la responsabilité de la compagnie, même si elle tente parfois de le présenter autrement."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à l'argument facile",
+      "html": "<p>Certaines compagnies invoquent des « circonstances extraordinaires » de façon un peu trop large, y compris pour des pannes techniques ordinaires qui relèvent normalement de leur responsabilité. Ne vous arrêtez pas à un premier refus : demandez des précisions écrites sur la nature exacte de l'incident invoqué.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "demarches-reclamation-etapes",
+      "text": "La marche à suivre pour réclamer votre indemnisation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La démarche est accessible à tous et ne nécessite, dans la grande majorité des cas, ni avocat ni service payant. Voici les étapes à suivre dans l'ordre."
+    },
+    {
+      "type": "steps",
+      "items": [
+        { "title": "Rassemblez vos preuves", "html": "Conservez la carte d'embarquement, la confirmation de réservation et toute communication de la compagnie mentionnant le retard ou l'annulation." },
+        { "title": "Notez les horaires réels", "html": "Relevez précisément l'heure d'arrivée effective par rapport à l'heure initialement prévue : c'est elle qui détermine votre éligibilité, pas seulement le retard constaté au départ." },
+        { "title": "Contactez la compagnie par écrit", "html": "Envoyez une réclamation formelle via le formulaire dédié du site de la compagnie ou par lettre recommandée, en citant le vol concerné et la réglementation applicable." },
+        { "title": "Patientez le délai de réponse", "html": "La compagnie dispose en général de plusieurs semaines pour répondre. Sans réponse ou en cas de refus, conservez soigneusement tous les échanges écrits." },
+        { "title": "Saisissez un médiateur si besoin", "html": "En cas de blocage, un organisme national de médiation du transport aérien peut relancer le dossier gratuitement, avant d'envisager un service spécialisé payant." },
+        { "title": "Envisagez le recours judiciaire", "html": "Pour un dossier solide resté sans réponse satisfaisante, une procédure simplifiée devant le tribunal compétent reste possible, souvent sans obligation de recourir à un avocat selon le montant en jeu." }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "delai-recours-quand-agir",
+      "text": "Combien de temps avez-vous pour agir ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le délai pendant lequel une réclamation reste recevable varie selon le pays où elle est déposée, mais il se compte souvent en années plutôt qu'en mois. Cela ne doit pas pour autant inciter à attendre : plus la démarche est engagée tôt, plus il est simple de retrouver ses justificatifs et d'obtenir une réponse rapide."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Ne laissez pas traîner votre dossier",
+      "html": "<p>Entamez la démarche dans les jours qui suivent le vol, même si le traitement par la compagnie prend ensuite plusieurs semaines. Vos souvenirs et vos justificatifs sont toujours plus précis à chaud.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conseils-pratiques-avant-de-partir",
+      "text": "Les bons réflexes avant même de décoller"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<strong>Vérifiez le statut de votre vol</strong> la veille et le jour même pour anticiper un retard déjà annoncé.",
+        "<strong>Prenez une photo de l'écran d'affichage</strong> des départs si vous constatez un retard ou une annulation sur place.",
+        "<strong>Conservez tous vos reçus</strong> de repas ou d'hébergement pris en charge vous-même, pour vous faire rembourser ensuite.",
+        "<strong>Renseignez-vous sur les garanties</strong> éventuellement incluses dans votre carte bancaire, qui peuvent compléter l'indemnisation réglementaire.",
+        "Si vous réservez aussi une place de <a href=\"/1820-comment-fonctionne-la-politique-dannulation-pour-les-reservations-de-parking-pres-de-laeroport/\">parking près de l'aéroport</a>, vérifiez également sa politique d'annulation en cas de vol perturbé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-concretement-aujourdhui",
+      "text": "Ce qu'il faut faire concrètement dès aujourd'hui"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous avez déjà vécu un retard ou une annulation ces derniers mois, ne laissez pas ce droit de côté : rassemblez vos justificatifs et envoyez votre réclamation dès aujourd'hui. Si vous préparez un prochain départ, gardez ces démarches sous la main — que vous partiez à la dernière minute ou que vous ayez suivi nos <a href=\"/2259-vols-guadeloupe-astuces/\">astuces pour trouver des vols pas chers pour la Guadeloupe</a>, un imprévu reste toujours possible et vos droits restent les mêmes quel que soit le prix payé."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Un retard de 3 heures ou plus, ou une annulation tardive, ouvre presque toujours droit à une indemnisation forfaitaire de 250 à 600 € selon la distance. La démarche est gratuite et se fait par écrit auprès de la compagnie : n'acceptez pas un premier refus sans vérifier son bien-fondé.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Que faire si la compagnie aérienne refuse de m'indemniser ?",
+      "a": "<p>Ne considérez pas un premier refus comme définitif, surtout s'il invoque des « circonstances extraordinaires » de façon vague. Demandez des précisions écrites, puis, en l'absence de réponse satisfaisante, saisissez un organisme de médiation du transport aérien avant d'envisager, en dernier recours, une procédure judiciaire simplifiée.</p>"
+    },
+    {
+      "q": "L'indemnisation est-elle cumulable avec le remboursement du billet ?",
+      "a": "<p>Oui, les deux sont cumulables et répondent à des logiques différentes. Le remboursement (ou le réacheminement) compense le voyage lui-même, tandis que l'indemnisation forfaitaire compense le désagrément subi par le passager, indépendamment du prix payé.</p>"
+    },
+    {
+      "q": "Un retard au départ suffit-il à être indemnisé ?",
+      "a": "<p>Non, c'est le retard constaté à l'arrivée à destination qui compte, pas le retard au décollage. Un vol qui part en retard mais qui rattrape ce temps en vol n'ouvre généralement aucun droit à indemnisation.</p>"
+    },
+    {
+      "q": "Les vols low-cost sont-ils concernés par cette réglementation ?",
+      "a": "<p>Oui. La protection s'applique à toutes les compagnies, y compris low-cost, dès lors que le vol part d'un aéroport de l'Union européenne, ou qu'il arrive dans l'UE et qu'il est opéré par une compagnie européenne.</p>"
+    },
+    {
+      "q": "Combien de temps la compagnie a-t-elle pour répondre à ma réclamation ?",
+      "a": "<p>Il n'existe pas de délai légal harmonisé identique partout, mais comptez souvent plusieurs semaines pour obtenir une première réponse. Si ce délai est largement dépassé sans nouvelle, vous pouvez relancer par écrit puis saisir un médiateur.</p>"
+    },
+    {
+      "q": "Puis-je faire ma réclamation moi-même sans passer par un service payant ?",
+      "a": "<p>Oui, la démarche directe auprès de la compagnie est entièrement gratuite et accessible sans intermédiaire. Les plateformes spécialisées, qui prélèvent une commission sur le montant obtenu, restent une option utile surtout en cas de blocage prolongé, mais jamais une obligation.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-13T09:00:00.000Z",
+  "generatedAt": "2026-07-13T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}
