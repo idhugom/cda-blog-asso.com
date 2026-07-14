@@ -1,0 +1,239 @@
+{
+  "id": 9005,
+  "slug": "signes-apnee-du-sommeil-comment-savoir-quand-consulter",
+  "title": "Signes d'apnée du sommeil : comment savoir si vous en souffrez",
+  "metaTitle": "Signes d'apnée du sommeil : comment le savoir et consulter",
+  "metaDescription": "Ronflements, réveils nocturnes, fatigue au réveil : les signes d'apnée du sommeil à repérer, les examens possibles et quand consulter un spécialiste.",
+  "dek": "Une fatigue qui ne passe pas malgré des nuits complètes, des ronflements bruyants signalés par votre entourage, des réveils en sursaut : ces signes évoquent souvent une apnée du sommeil, un trouble fréquent et sous-diagnostiqué. Voici comment repérer les symptômes qui doivent alerter et quels examens permettent de confirmer le diagnostic.",
+  "category": "sante-bien-etre",
+  "tags": [
+    "apnée du sommeil",
+    "sommeil",
+    "ronflement",
+    "fatigue chronique",
+    "polysomnographie"
+  ],
+  "keyTakeaways": [
+    "L'apnée du sommeil se caractérise par des pauses respiratoires répétées pendant la nuit, souvent invisibles pour la personne qui les vit.",
+    "Ronflements bruyants, réveils avec sensation d'étouffement et fatigue persistante au réveil forment le trio de signes le plus évocateur.",
+    "Seul un examen du sommeil, réalisé à domicile ou en laboratoire, permet de confirmer le diagnostic : aucun signe isolé ne suffit à lui seul.",
+    "Le surpoids, l'âge, la morphologie du cou et la consommation d'alcool le soir augmentent le risque, mais l'apnée touche aussi des personnes minces.",
+    "Non traitée, l'apnée du sommeil use la vigilance diurne et pèse sur le cœur et les vaisseaux sur le long terme : mieux vaut ne pas attendre pour consulter."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous dormez huit heures et vous vous réveillez pourtant épuisé. Votre entourage se plaint de ronflements qui s'arrêtent parfois brutalement, comme si vous cessiez de respirer. Ces signaux, souvent minimisés ou attribués au stress, évoquent en réalité l'un des troubles du sommeil les plus fréquents et les plus sous-diagnostiqués : l'apnée du sommeil. Voici comment reconnaître les symptômes qui doivent alerter, comprendre ce qui se joue pendant la nuit, et savoir quand consulter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quest-ce-que-lapnee-du-sommeil",
+      "text": "Qu'est-ce que l'apnée du sommeil, concrètement ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'apnée du sommeil correspond à des <strong>pauses respiratoires répétées</strong> pendant le sommeil, dues le plus souvent à un relâchement excessif des tissus mous de la gorge qui obstrue temporairement les voies aériennes. Le cerveau, privé d'oxygène, déclenche un micro-réveil pour rétablir la respiration, sans que la personne en garde toujours le souvenir au matin. Ces épisodes peuvent se répéter des dizaines, parfois des centaines de fois par nuit, fragmentant un sommeil qui semblait pourtant complet."
+    },
+    {
+      "type": "paragraph",
+      "html": "On distingue l'apnée obstructive, la plus fréquente, liée à un blocage mécanique des voies aériennes supérieures, et l'apnée centrale, plus rare, où c'est le signal cérébral de respiration qui se dérègle. Dans les deux cas, la conséquence est la même : un sommeil qui n'assure plus sa fonction de récupération, même s'il paraît normal en durée."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Ce n'est pas la durée de sommeil qui pose problème dans l'apnée, mais sa qualité. Une personne peut dormir neuf heures et se réveiller aussi fatiguée qu'après une nuit blanche, car le sommeil profond réparateur est constamment interrompu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-signes-qui-doivent-alerter",
+      "text": "Les signes qui doivent alerter, la nuit comme le jour"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains symptômes se manifestent pendant le sommeil et sont souvent rapportés par le conjoint ou l'entourage, tandis que d'autres se ressentent surtout dans la journée. C'est la combinaison de plusieurs signes, plus que l'un d'entre eux isolément, qui doit orienter vers une consultation."
+    },
+    {
+      "type": "table",
+      "caption": "Les signes évocateurs d'apnée du sommeil",
+      "headers": ["Moment", "Signe observé", "Ce qu'il évoque"],
+      "rows": [
+        ["Pendant la nuit", "Ronflements bruyants et réguliers", "Rétrécissement des voies aériennes supérieures"],
+        ["Pendant la nuit", "Pauses respiratoires signalées par l'entourage", "Épisodes d'apnée à proprement parler"],
+        ["Pendant la nuit", "Réveils brusques avec sensation d'étouffement", "Réaction du cerveau à un manque d'oxygène"],
+        ["Au réveil", "Bouche sèche, maux de tête matinaux", "Respiration buccale et sommeil fragmenté"],
+        ["Dans la journée", "Fatigue persistante malgré une nuit complète", "Sommeil non réparateur en profondeur"],
+        ["Dans la journée", "Somnolence, endormissements involontaires", "Manque chronique de sommeil profond"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le ronflement seul ne signe pas systématiquement une apnée : beaucoup de ronfleurs n'ont aucune pause respiratoire associée. C'est l'association d'un ronflement bruyant, de pauses observées et d'une fatigue diurne marquée qui constitue le tableau le plus typique et justifie un avis médical."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "facteurs-de-risque",
+      "text": "Qui est le plus exposé au risque d'apnée du sommeil ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs facteurs augmentent la probabilité de développer une apnée obstructive du sommeil : le surpoids, un tour de cou important, un âge avancé, le sexe masculin, une mâchoire reculée ou des amygdales volumineuses, ainsi que la consommation d'alcool ou de somnifères le soir, qui relâchent davantage les muscles de la gorge. La ménopause augmente également le risque chez les femmes, en partie sous l'effet des changements hormonaux."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il serait toutefois erroné de réserver ce trouble aux personnes en surpoids : des personnes minces, notamment avec une morphologie particulière des voies aériennes ou de la mâchoire, peuvent également en souffrir. C'est pourquoi les symptômes ressentis comptent autant que le profil physique dans la décision de consulter."
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "plusieurs facteurs", "label": "de risque cumulables : poids, âge, morphologie, alcool le soir" },
+        { "value": "1 seul examen", "label": "fiable permet de confirmer le diagnostic : l'étude du sommeil" },
+        { "value": "des années", "label": "d'évolution silencieuse possibles avant qu'un diagnostic soit posé" }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "consequences-non-traitee",
+      "text": "Pourquoi ne pas laisser une apnée du sommeil sans diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au-delà de la fatigue et de la baisse de concentration, une apnée du sommeil non traitée fragilise durablement l'organisme. Les baisses répétées d'oxygène pendant la nuit sollicitent le système cardiovasculaire, et un lien est régulièrement établi avec un risque accru d'hypertension artérielle, de troubles du rythme cardiaque et, plus largement, de complications cardiovasculaires sur le long terme."
+    },
+    {
+      "type": "paragraph",
+      "html": "La somnolence diurne qui en résulte n'est pas non plus un simple inconfort : elle augmente le risque d'accidents, notamment au volant, et pèse sur la qualité de vie, l'humeur et la vie professionnelle. C'est cet ensemble de conséquences, souvent sous-estimé, qui justifie de ne pas repousser indéfiniment la question d'un dépistage."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne pas négliger la somnolence au volant",
+      "html": "<p>Des endormissements involontaires en journée, même brefs, sont un signe d'alerte à prendre au sérieux, en particulier avant de prendre le volant. En cas de doute, mieux vaut consulter rapidement plutôt que d'attendre un incident pour agir.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comment-confirmer-le-diagnostic",
+      "text": "Comment savoir si c'est vraiment une apnée du sommeil ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Aucun symptôme, pris isolément, ne permet d'affirmer un diagnostic d'apnée du sommeil : seul un examen spécialisé le confirme. La démarche commence généralement par une consultation auprès d'un médecin généraliste ou d'un spécialiste du sommeil, qui évalue les symptômes à l'aide de questionnaires validés et oriente, si besoin, vers un examen du sommeil."
+    },
+    {
+      "type": "compare",
+      "title": "Les deux types d'examens possibles",
+      "a": {
+        "title": "Polygraphie à domicile",
+        "points": [
+          "Réalisée chez soi, dans son propre lit, avec un appareil portable.",
+          "Mesure la respiration, le rythme cardiaque et le taux d'oxygène dans le sang.",
+          "Solution la plus courante en première intention, moins contraignante.",
+          "Peut nécessiter un examen complémentaire si le résultat reste ambigu."
+        ]
+      },
+      "b": {
+        "title": "Polysomnographie en laboratoire",
+        "points": [
+          "Réalisée en centre du sommeil, sous surveillance, avec plus de capteurs.",
+          "Analyse aussi les stades du sommeil et l'activité cérébrale.",
+          "Recommandée en cas de doute persistant ou de troubles associés.",
+          "Examen de référence, plus complet mais plus contraignant à organiser."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces examens mesurent notamment le nombre d'épisodes de pause ou de réduction de la respiration par heure de sommeil, un indicateur qui permet de classer la sévérité du trouble et d'orienter le traitement le plus adapté, de simples mesures d'hygiène de vie jusqu'à un appareillage respiratoire nocturne dans les formes plus marquées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-en-attendant-la-consultation",
+      "text": "Que faire en attendant une consultation ?"
+    },
+    {
+      "type": "steps",
+      "items": [
+        { "title": "Notez vos symptômes sur quelques jours", "html": "Consignez les réveils nocturnes, la sensation de fatigue au lever et les épisodes de somnolence dans la journée : ce carnet aide le médecin à évaluer la fréquence réelle du problème." },
+        { "title": "Interrogez votre entourage", "html": "Demandez à votre conjoint ou à la personne qui partage votre chambre s'il ou elle a remarqué des ronflements, des pauses respiratoires ou une agitation nocturne inhabituelle." },
+        { "title": "Limitez l'alcool et les somnifères le soir", "html": "Ces substances relâchent les muscles de la gorge et peuvent aggraver temporairement les épisodes d'apnée, en attendant un avis médical." },
+        { "title": "Dormez sur le côté plutôt que sur le dos", "html": "La position dorsale favorise souvent l'affaissement des tissus de la gorge ; dormir sur le côté peut réduire la fréquence des épisodes chez certaines personnes." },
+        { "title": "Prenez rendez-vous avec un médecin généraliste", "html": "Il évaluera vos symptômes et vous orientera, si nécessaire, vers un spécialiste du sommeil pour un examen adapté à votre situation." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un bon sommeil se prépare aussi en journée",
+      "html": "<p>Une bonne hygiène de sommeil ne suffit pas à traiter une apnée avérée, mais elle en limite souvent l'intensité ressentie. Des techniques de relaxation comme la <a href=\"/289-ameliorez-votre-bien-etre-avec-des-techniques-de-respiration-yogique-essentielles/\">respiration yogique</a> peuvent aider à mieux s'endormir, en complément d'un avis médical, sans jamais s'y substituer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-consulter-sans-attendre",
+      "text": "Quand consulter sans attendre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains signaux justifient de ne pas repousser la consultation : des pauses respiratoires clairement observées par l'entourage, une somnolence au volant, une hypertension artérielle mal expliquée ou une fatigue qui s'aggrave malgré des nuits en apparence suffisantes. Une mauvaise qualité de sommeil prolongée peut aussi rejaillir sur d'autres plans du quotidien, un peu comme des <a href=\"/286-comprendre-les-causes-courantes-pourquoi-jai-mal-dans-le-bas-du-dos-et-comment-y-remedier/\">douleurs persistantes dans le bas du dos</a> qui, faute d'être prises au sérieux tôt, finissent par s'installer durablement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diagnostic précoce change concrètement la donne : plus l'apnée est repérée tôt, plus les solutions restent simples, qu'il s'agisse de mesures d'hygiène de vie, d'une orthèse dentaire pour les formes légères à modérées, ou d'un appareillage à pression positive continue pour les formes plus sévères. Attendre ne fait qu'ajouter à la fatigue accumulée et aux risques associés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-quil-faut-retenir",
+      "text": "Ce qu'il faut retenir pour agir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Face à une fatigue inexpliquée, des ronflements bruyants ou des réveils avec sensation d'étouffement, la meilleure démarche reste de consulter plutôt que de deviner. Seul un examen du sommeil confirme réellement le diagnostic, mais repérer tôt les signes qui doivent alerter permet d'engager la démarche sans attendre que les conséquences sur la santé s'installent."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Ronflements bruyants, pauses respiratoires observées et fatigue diurne persistante forment le trio de signes le plus évocateur d'apnée du sommeil. Seul un examen spécialisé le confirme : n'attendez pas pour en parler à un médecin.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on avoir une apnée du sommeil sans le savoir ?",
+      "a": "<p>Oui, c'est même le cas le plus fréquent : les micro-réveils liés aux pauses respiratoires ne laissent souvent aucun souvenir. C'est surtout l'entourage ou la fatigue diurne qui met sur la piste, avant qu'un examen ne confirme le diagnostic.</p>"
+    },
+    {
+      "q": "Le ronflement est-il toujours signe d'apnée du sommeil ?",
+      "a": "<p>Non. Beaucoup de personnes ronflent sans faire d'apnée. C'est l'association du ronflement avec des pauses respiratoires observées et une fatigue diurne marquée qui doit orienter vers une consultation.</p>"
+    },
+    {
+      "q": "Peut-on diagnostiquer une apnée du sommeil sans polysomnographie en laboratoire ?",
+      "a": "<p>Oui, une polygraphie réalisée à domicile suffit souvent en première intention pour poser le diagnostic. La polysomnographie en laboratoire, plus complète, est réservée aux cas où le doute persiste ou où d'autres troubles du sommeil sont suspectés.</p>"
+    },
+    {
+      "q": "Une personne mince peut-elle souffrir d'apnée du sommeil ?",
+      "a": "<p>Oui. Si le surpoids est un facteur de risque important, la morphologie des voies aériennes ou de la mâchoire peut suffire à provoquer une apnée chez une personne mince. Les symptômes ressentis comptent donc plus que la seule corpulence.</p>"
+    },
+    {
+      "q": "L'apnée du sommeil peut-elle avoir des conséquences sur le cœur ?",
+      "a": "<p>Une apnée non traitée est régulièrement associée à un risque accru d'hypertension artérielle et de troubles cardiovasculaires sur le long terme, en raison des baisses répétées d'oxygène pendant la nuit.</p>"
+    },
+    {
+      "q": "Faut-il consulter même si la fatigue semble modérée ?",
+      "a": "<p>Oui, surtout si elle s'accompagne de ronflements bruyants ou de pauses respiratoires signalées par l'entourage. Un diagnostic précoce permet généralement des solutions plus simples qu'une prise en charge tardive.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-14T09:00:00.000Z",
+  "generatedAt": "2026-07-14T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}
