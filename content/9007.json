@@ -1,0 +1,222 @@
+{
+  "id": 9007,
+  "slug": "voiture-recalee-controle-technique-contre-visite-delai-que-faire",
+  "title": "Voiture recalée au contrôle technique : délai de contre-visite et démarches à connaître",
+  "metaTitle": "Voiture recalée au contrôle technique : délai et démarches",
+  "metaDescription": "Contre-visite, délai de 2 mois, défaillances majeures ou critiques : que faire concrètement quand votre voiture est recalée au contrôle technique.",
+  "dek": "Le verdict tombe : votre voiture est recalée au contrôle technique. Avant de paniquer, il faut comprendre ce que dit exactement le procès-verbal, distinguer une défaillance mineure d'une défaillance majeure ou critique, et connaître le délai réel dont vous disposez pour faire réparer et repasser une contre-visite.",
+  "category": "auto-mobilite",
+  "tags": [
+    "contrôle technique",
+    "contre-visite",
+    "entretien auto",
+    "défaillance critique",
+    "carte grise"
+  ],
+  "keyTakeaways": [
+    "Un contrôle technique recalé signale une ou plusieurs défaillances « majeures » ou « critiques » : seule une défaillance mineure n'empêche pas la validation.",
+    "Le délai légal pour effectuer les réparations et repasser une contre-visite est de 2 mois à compter du contrôle initial.",
+    "En cas de défaillance critique, la voiture ne peut légalement circuler que le jour même du contrôle, pour rentrer au domicile ou rejoindre un garage.",
+    "Passé le délai de 2 mois sans contre-visite, il faut repasser un contrôle technique complet, au tarif plein.",
+    "La contre-visite ne réexamine que les points signalés comme défaillants, ce qui la rend généralement plus rapide et moins coûteuse que le contrôle initial."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le centre de contrôle vient de vous remettre un procès-verbal indiquant que votre véhicule est recalé. Entre le jargon technique du rapport et l'inquiétude de ne plus pouvoir circuler légalement, il est difficile de savoir par où commencer. Voici comment décoder le verdict, connaître vos délais exacts et organiser sereinement la contre-visite."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comprendre-le-procès-verbal",
+      "text": "Comprendre ce que dit réellement le procès-verbal"
+    },
+    {
+      "type": "paragraph",
+      "html": "Chaque anomalie relevée lors du contrôle technique est classée selon trois niveaux de gravité, une classification harmonisée au niveau européen. C'est ce niveau, plus que le nombre de défauts constatés, qui détermine ce que vous pouvez faire du véhicule dans les jours qui suivent."
+    },
+    {
+      "type": "table",
+      "caption": "Les trois niveaux de défaillance au contrôle technique",
+      "headers": ["Niveau", "Exemple typique", "Conséquence immédiate"],
+      "rows": [
+        ["Mineure", "Ampoule de plaque grillée, jeu léger sur une durite", "Contrôle validé, pas de contre-visite obligatoire"],
+        ["Majeure", "Disques de frein usés, jeu important à la direction, fuite d'huile", "Contrôle recalé, réparation et contre-visite sous 2 mois"],
+        ["Critique", "Défaut de freinage dangereux, fuite de carburant, pneu lisse", "Recalé, circulation interdite sauf retour immédiat au domicile ou au garage"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une défaillance mineure n'empêche jamais la validation du contrôle : elle est simplement mentionnée pour information, à corriger quand vous le souhaitez. C'est la présence d'au moins une défaillance <strong>majeure</strong> ou <strong>critique</strong> qui fait basculer le contrôle en « recalé » et déclenche l'obligation de contre-visite."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peut-on-encore-rouler",
+      "text": "Peut-on encore rouler avec une voiture recalée ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "La réponse dépend directement du niveau de gravité inscrit sur le procès-verbal. En cas de <strong>défaillance majeure</strong>, le véhicule reste autorisé à circuler pendant le délai accordé pour la contre-visite, le temps d'organiser les réparations. En cas de <strong>défaillance critique</strong>, en revanche, la réglementation est beaucoup plus stricte : le véhicule ne peut circuler que le jour même du contrôle, pour rentrer directement au domicile ou rejoindre un garage, et redevient interdit de circulation dès le lendemain tant que la réparation n'est pas effectuée."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention en cas de défaillance critique",
+      "html": "<p>Continuer à circuler au-delà du jour du contrôle avec une défaillance critique expose à une amende et, en cas de contrôle routier, à une immobilisation immédiate du véhicule. Ce niveau de défaillance concerne des anomalies jugées dangereuses pour la sécurité, comme un système de freinage défaillant ou une fuite de carburant.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "le-delai-de-2-mois",
+      "text": "Le délai de 2 mois pour la contre-visite"
+    },
+    {
+      "type": "paragraph",
+      "html": "À partir de la date du contrôle initial recalé, vous disposez d'un délai légal de <strong>2 mois</strong> pour faire réparer les points défaillants et présenter le véhicule à la contre-visite. Ce délai n'est pas négociable : il s'agit d'une règle fixe, quel que soit le nombre ou la nature des défaillances relevées, tant qu'elles restent de niveau majeur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Passé ce délai de 2 mois sans contre-visite effectuée, le procès-verbal initial n'est plus valable pour une contre-visite : il faut alors repasser un contrôle technique complet, comme s'il s'agissait d'un premier passage, avec l'intégralité des points vérifiés et au tarif plein. Mieux vaut donc ne pas repousser les réparations, même lorsque le véhicule est encore autorisé à rouler."
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "2 mois", "label": "délai légal pour effectuer la contre-visite après un contrôle recalé" },
+        { "value": "3 niveaux", "label": "de gravité des défaillances : mineure, majeure, critique" },
+        { "value": "1 seul jour", "label": "de circulation encore autorisée en cas de défaillance critique" }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-verifie-la-contre-visite",
+      "text": "Ce que vérifie (et ne vérifie pas) la contre-visite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Contrairement à une idée reçue, la contre-visite ne reprend pas l'ensemble du contrôle technique depuis le début. Elle se concentre uniquement sur les points signalés comme défaillants lors du contrôle initial, ce qui la rend en général plus rapide et moins onéreuse. Elle peut être réalisée dans le même centre que le contrôle initial ou dans un centre différent, à condition de présenter le procès-verbal d'origine."
+    },
+    {
+      "type": "compare",
+      "title": "Contrôle technique initial et contre-visite",
+      "a": {
+        "title": "Contrôle technique initial",
+        "points": [
+          "Vérifie l'intégralité des points réglementaires du véhicule.",
+          "Dure généralement 45 minutes à 1 heure.",
+          "Tarif plein, fixé librement par chaque centre.",
+          "Valable 2 ans pour un véhicule particulier (1 an pour l'utilitaire léger)."
+        ]
+      },
+      "b": {
+        "title": "Contre-visite",
+        "points": [
+          "Ne réexamine que les points défaillants relevés initialement.",
+          "Généralement plus courte, souvent moins de 30 minutes.",
+          "Tarif réduit par rapport au contrôle initial dans la plupart des centres.",
+          "Doit être réalisée dans le délai de 2 mois, sinon contrôle complet à refaire."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-etapes-a-suivre",
+      "text": "Les étapes à suivre après un contrôle recalé"
+    },
+    {
+      "type": "steps",
+      "items": [
+        { "title": "Lisez attentivement le procès-verbal", "html": "Identifiez précisément chaque défaillance mentionnée et son niveau de gravité (mineure, majeure ou critique), car cela détermine si vous pouvez encore circuler." },
+        { "title": "Faites réparer les points défaillants", "html": "Adressez-vous à un garagiste pour corriger chaque anomalie listée. Conservez les factures : certains centres les demandent lors de la contre-visite." },
+        { "title": "Prenez rendez-vous pour la contre-visite", "html": "Idéalement dans les semaines suivant la réparation, et en tout état de cause avant l'expiration du délai de 2 mois à compter du contrôle initial." },
+        { "title": "Présentez le procès-verbal initial", "html": "Le centre de contrôle en a besoin pour savoir précisément quels points réexaminer lors de la contre-visite." },
+        { "title": "Récupérez le nouveau procès-verbal validé", "html": "Une fois la contre-visite passée avec succès, conservez ce document : il atteste de la validité du contrôle technique pour la durée normale restante." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Anticiper plutôt que subir",
+      "html": "<p>Un entretien régulier réduit fortement le risque d'être recalé. Vérifier soi-même l'état des pneus, des plaquettes de frein et des niveaux avant le rendez-vous permet souvent de repérer et corriger un défaut avant qu'il ne devienne une défaillance majeure au contrôle. Notre <a href=\"/1231-les-secrets-pour-entretenir-votre-voiture-efficacement-et-prolonger-sa-duree-de-vie/\">guide pour entretenir sa voiture efficacement</a> détaille les vérifications à faire régulièrement.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "les-defaillances-les-plus-frequentes",
+      "text": "Les défaillances les plus fréquentes lors d'un contrôle technique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains organes reviennent régulièrement en tête des motifs de recalage : le système de freinage (disques, plaquettes, liquide de frein), la direction et les liaisons au sol, l'éclairage et la signalisation, ainsi que les émissions polluantes de l'échappement. Sur ce dernier point, un véhicule diesel ou essence équipé d'un système antipollution défaillant peut être recalé même si le moteur semble fonctionner normalement à l'oreille."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le système d'échappement mérite une attention particulière, car un voyant moteur allumé ou une fumée anormale peuvent trahir un composant antipollution défaillant avant même le passage au contrôle. Pour comprendre ce qui se joue sous le véhicule, notre comparatif sur la <a href=\"/2217-catalyseur-vs-filtre-particules/\">différence entre catalyseur et filtre à particules</a> aide à mieux cerner quel organe peut être en cause en cas de défaillance liée aux émissions."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les défaillances électriques, elles, concernent souvent l'éclairage, mais aussi plus largement l'état général du circuit électrique du véhicule, dont la batterie est un élément clé. Une <a href=\"/2211-symptomes-batterie-faible/\">batterie de voiture faible ou en fin de vie</a> peut provoquer des dysfonctionnements électriques qui, sans être toujours flagrants au quotidien, se révèlent lors des tests du contrôle technique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "combien-coute-une-contre-visite",
+      "text": "Combien coûte une contre-visite ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tarif d'une contre-visite est fixé librement par chaque centre de contrôle, comme celui du contrôle initial, mais il est généralement inférieur puisque seuls les points défaillants sont réexaminés. Certains centres proposent même la contre-visite gratuitement si elle est réalisée dans le même établissement que le contrôle initial et dans un délai court : il est utile de se renseigner directement auprès du centre au moment de prendre rendez-vous, les pratiques variant sensiblement d'un réseau à l'autre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir pour ne pas se laisser surprendre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un contrôle technique recalé n'est pas une fatalité : dans l'immense majorité des cas, il s'agit de défaillances majeures qui se réparent normalement, sans empêcher de continuer à rouler pendant les 2 mois accordés pour la contre-visite. Seule une défaillance critique impose un arrêt immédiat de la circulation, en dehors du trajet retour vers le domicile ou le garage. Le plus important reste de ne pas laisser filer le délai légal, sous peine de devoir repasser un contrôle complet."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Défaillance mineure : contrôle validé. Défaillance majeure : réparation et contre-visite sous 2 mois, circulation autorisée entre-temps. Défaillance critique : circulation interdite dès le lendemain du contrôle, sauf pour rentrer ou rejoindre un garage.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on vendre une voiture recalée au contrôle technique ?",
+      "a": "<p>Oui, il est possible de vendre un véhicule dont le contrôle technique est recalé, mais l'acheteur doit en être informé et le prix de vente en tient généralement compte. Pour une revente à un particulier, un contrôle technique de moins de 6 mois est en principe exigé.</p>"
+    },
+    {
+      "q": "Que se passe-t-il si je ne fais pas la contre-visite dans les 2 mois ?",
+      "a": "<p>Le procès-verbal initial n'est plus utilisable pour une contre-visite passé ce délai : il faut alors repasser un contrôle technique complet, avec l'ensemble des points réexaminés et au tarif plein, comme pour un premier contrôle.</p>"
+    },
+    {
+      "q": "La contre-visite doit-elle obligatoirement se faire dans le même centre ?",
+      "a": "<p>Non, elle peut être réalisée dans un centre différent du contrôle initial, à condition de présenter le procès-verbal d'origine détaillant les défaillances relevées.</p>"
+    },
+    {
+      "q": "Une défaillance critique interdit-elle totalement de conduire le véhicule ?",
+      "a": "<p>Le véhicule reste autorisé à circuler uniquement le jour même du contrôle, pour rentrer au domicile ou rejoindre directement un garage. Dès le lendemain, circuler avec une défaillance critique non corrigée est interdit.</p>"
+    },
+    {
+      "q": "Combien de fois peut-on recaler un même véhicule au fil des années ?",
+      "a": "<p>Il n'existe pas de limite légale au nombre de contrôles recalés au cours de la vie d'un véhicule : chaque contrôle est évalué indépendamment, mais des défaillances répétées peuvent indiquer un entretien insuffisant qu'il vaut mieux corriger durablement.</p>"
+    },
+    {
+      "q": "Le contrôle technique vérifie-t-il uniquement la mécanique ?",
+      "a": "<p>Non, il porte aussi sur l'identification du véhicule, l'éclairage, la signalisation, les équipements de sécurité et les émissions polluantes, en plus des organes mécaniques comme les freins, la direction et la suspension.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-15T09:00:00.000Z",
+  "generatedAt": "2026-07-15T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
