@@ -1,0 +1,278 @@
+{
+  "id": 9008,
+  "slug": "batterie-smartphone-qui-gonfle-signes-danger-que-faire",
+  "title": "Batterie de smartphone qui gonfle : signes de danger, causes et bons réflexes",
+  "metaTitle": "Batterie de smartphone qui gonfle : que faire ?",
+  "metaDescription": "Coque qui ferme mal, écran qui se soulève : une batterie de smartphone qui gonfle est un vrai signal d'alerte. Voici les bons réflexes à avoir, sans attendre.",
+  "dek": "Le dos de votre téléphone ne repose plus à plat, l'écran se décolle légèrement sur un bord : ces signes trahissent une batterie qui gonfle, et ce n'est jamais un détail à négliger. Voici comment reconnaître le danger, réagir sans risque et faire remplacer la batterie dans les règles.",
+  "category": "tech-objets",
+  "tags": [
+    "batterie smartphone",
+    "sécurité téléphone",
+    "entretien smartphone",
+    "réparation téléphone",
+    "recyclage batterie"
+  ],
+  "keyTakeaways": [
+    "Un gonflement, même léger, n'est jamais anodin : il signale une dégradation interne de la batterie lithium-ion, jamais un simple défaut esthétique.",
+    "Il ne faut jamais percer, presser ni continuer à charger un téléphone dont la batterie gonfle, sous peine de provoquer une fuite ou un départ de feu.",
+    "Les bons réflexes immédiats : éteindre l'appareil, le poser sur une surface non inflammable, à distance de tout matériau combustible, et consulter rapidement un professionnel.",
+    "Le remplacement doit être confié à un réparateur qualifié ; la batterie usagée se dépose ensuite dans un point de collecte dédié, jamais à la poubelle.",
+    "Adopter de bonnes habitudes de charge au quotidien réduit nettement le risque de voir le problème se reproduire sur le nouvel appareil."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous remarquez que la coque arrière de votre téléphone ne ferme plus tout à fait, ou que l'écran se soulève légèrement sur un coin : ce n'est presque jamais un hasard. Dans l'immense majorité des cas, c'est la batterie qui a commencé à gonfler. Ce signe mérite d'être pris au sérieux immédiatement, sans pour autant céder à la panique : voici comment le reconnaître, réagir avec les bons gestes et faire remplacer la batterie en toute sécurité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-une-batterie-gonfle",
+      "text": "Pourquoi une batterie de smartphone gonfle-t-elle ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les smartphones fonctionnent avec des batteries lithium-ion (ou lithium-polymère), une technologie qui offre une bonne autonomie dans un format compact, mais qui vieillit chimiquement à chaque cycle de charge. Avec le temps, les composants internes se dégradent et peuvent produire des gaz qui n'ont nulle part où s'échapper à l'intérieur de l'enveloppe scellée de la batterie : c'est ce dégagement gazeux qui provoque le gonflement, parfois discret, parfois très visible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs facteurs accélèrent ce phénomène : un usage prolongé sur plusieurs années, des cycles de charge répétés en laissant l'appareil branché toute la nuit, une exposition régulière à une forte chaleur (voiture en plein soleil, poche contre le corps en été), un choc ou une chute qui a endommagé la cellule, ou encore une batterie de remplacement bon marché et non certifiée installée lors d'une réparation précédente. Un téléphone qui a subi un contact prolongé avec de l'humidité peut également voir sa batterie se dégrader plus vite que la moyenne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce mécanisme n'a en réalité rien d'exceptionnel : toute batterie lithium-ion, qu'elle équipe un smartphone, un ordinateur portable ou une trottinette électrique, vieillit selon la même logique chimique. Ce qui varie, c'est la vitesse à laquelle ce vieillissement se produit, et c'est précisément sur ces facteurs de vitesse (chaleur, charge complète permanente, chocs, qualité de la batterie) que vous pouvez agir pour retarder l'échéance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "signes-qui-doivent-alerter",
+      "text": "Les signes qui doivent vous alerter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le gonflement d'une batterie ne se manifeste pas toujours de façon spectaculaire. Il progresse souvent par étapes, et savoir identifier le bon niveau de gravité aide à réagir avec la bonne intensité, sans minimiser un signal important."
+    },
+    {
+      "type": "table",
+      "caption": "Les niveaux de gonflement d'une batterie et la conduite à tenir",
+      "headers": [
+        "Niveau",
+        "Ce que vous observez",
+        "Ce qu'il faut faire"
+      ],
+      "rows": [
+        [
+          "Léger",
+          "Coque arrière qui ferme mal, léger jeu au niveau de l'écran, appareil qui ne repose plus bien à plat sur une table",
+          "Éteindre l'appareil et faire diagnostiquer sous quelques jours"
+        ],
+        [
+          "Visible",
+          "Bombement net du dos ou de l'écran, boutons qui deviennent difficiles à actionner, coque qui se fissure",
+          "Éteindre immédiatement, isoler l'appareil, consulter en urgence"
+        ],
+        [
+          "Important",
+          "Écran totalement décollé, coque fendue ou éclatée, odeur inhabituelle, chaleur au toucher",
+          "Ne plus manipuler l'appareil, l'évacuer dans un endroit sûr et contacter un professionnel sans délai"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un signe à ne jamais ignorer",
+      "html": "<p>Même un léger jeu dans la coque, sans bombement spectaculaire, doit être pris au sérieux. Le gonflement d'une batterie lithium-ion est un phénomène évolutif : ce qui commence par un détail discret peut s'aggraver en quelques jours ou quelques semaines.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-immediatement",
+      "text": "Que faire immédiatement en cas de batterie gonflée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Face à ce type de signe, quelques gestes simples permettent de limiter tout risque en attendant l'intervention d'un professionnel."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Éteindre l'appareil",
+          "html": "Coupez le téléphone complètement, sans attendre qu'il s'éteigne seul, et ne le rallumez plus tant qu'il n'a pas été diagnostiqué."
+        },
+        {
+          "title": "Arrêter toute charge",
+          "html": "Débranchez immédiatement le câble si le téléphone était en charge : c'est un des moments où le risque de surchauffe est le plus élevé."
+        },
+        {
+          "title": "Ne jamais percer ni presser",
+          "html": "Ne tentez pas de retirer la coque ou d'appuyer sur la zone gonflée pour « remettre l'écran en place » : une cellule percée peut s'enflammer au contact de l'air."
+        },
+        {
+          "title": "Isoler l'appareil",
+          "html": "Posez le téléphone à plat sur une surface non inflammable (carrelage, plaque métallique, récipient en terre cuite), loin de tout rideau, tissu ou matériau combustible, idéalement à l'extérieur ou près d'une fenêtre."
+        },
+        {
+          "title": "Consulter rapidement",
+          "html": "Contactez un réparateur, le service après-vente du fabricant ou l'assurance de l'appareil pour organiser un remplacement dans les meilleurs délais."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peut-on-continuer-utiliser",
+      "text": "Peut-on continuer à utiliser un téléphone dont la batterie gonfle ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Non : dès qu'un gonflement est constaté, mieux vaut cesser d'utiliser l'appareil, même si tout semble encore fonctionner normalement à l'écran. La pression exercée par la batterie peut à terme fissurer l'écran ou la coque de l'intérieur, et surtout, la membrane qui contient les composants chimiques est déjà fragilisée : toute pression supplémentaire, tout choc, ou une exposition à la chaleur peuvent provoquer une fuite de gaz ou, dans les cas les plus graves, un départ de feu. Continuer à utiliser l'appareil au quotidien, en le laissant dans une poche ou un sac, multiplie inutilement ces risques pour un gain de temps minime."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est également déconseillé de continuer à recharger l'appareil « juste pour terminer la journée » : la charge est précisément l'un des moments où la pression interne et la température augmentent le plus, ce qui accroît le risque en cas de cellule déjà fragilisée. Si vous devez absolument garder un accès au téléphone en attendant la réparation, privilégiez un appareil de secours plutôt que de forcer sur celui dont la batterie gonfle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sav-reparateur-agree-ou-independant",
+      "text": "Faire remplacer la batterie : SAV, réparateur agréé ou indépendant ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois l'appareil mis en sécurité, il reste à organiser le remplacement de la batterie. Deux grandes options s'offrent à vous, chacune avec ses avantages."
+    },
+    {
+      "type": "compare",
+      "title": "SAV constructeur / réparateur agréé face au réparateur indépendant",
+      "a": {
+        "title": "SAV constructeur ou réparateur agréé",
+        "points": [
+          "Pièces d'origine, garanties par le fabricant",
+          "Intervention couverte si le téléphone est encore sous garantie",
+          "Délais parfois plus longs, notamment en cas d'envoi à un centre de réparation",
+          "Tarif généralement plus élevé hors garantie"
+        ]
+      },
+      "b": {
+        "title": "Réparateur indépendant de proximité",
+        "points": [
+          "Intervention souvent plus rapide, parfois en moins d'une heure",
+          "Tarifs généralement plus accessibles",
+          "Qualité des pièces variable selon l'enseigne : demandez des batteries certifiées",
+          "Peut faire perdre le bénéfice de la garantie constructeur restante"
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un réflexe utile avant de choisir",
+      "html": "<p>Vérifiez si votre téléphone est encore sous garantie constructeur ou couvert par une assurance casse/panne : un gonflement de batterie est en général reconnu comme un défaut pris en charge, ce qui peut rendre le remplacement gratuit ou très largement réduit.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "eviter-que-ca-se-reproduise",
+      "text": "Comment éviter que le problème se reproduise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois la batterie remplacée, quelques habitudes simples limitent nettement le risque de revivre le même désagrément sur le nouvel appareil. Elles rejoignent d'ailleurs les bons réflexes à adopter dès qu'une <a href=\"/329-comprendre-et-solutions-pourquoi-votre-batterie-de-telephone-se-decharge-rapidement/\">batterie se décharge anormalement vite</a>, et plus largement les gestes qui permettent de <a href=\"/1323-quel-est-le-meilleur-moyen-de-proteger-mon-telephone-samsung-contre-les-pannes/\">protéger un smartphone des pannes</a> au quotidien : dans tous les cas, la façon de charger et de manipuler l'appareil fait toute la différence sur sa durée de vie."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Évitez de laisser le téléphone en charge toute la nuit une fois qu'il a atteint 100 %, surtout sur plusieurs mois d'affilée.",
+        "Ne laissez pas l'appareil en plein soleil, dans une voiture fermée ou près d'une source de chaleur : la chaleur est l'un des principaux facteurs de dégradation accélérée.",
+        "Utilisez un chargeur d'origine ou certifié : les chargeurs non conformes peuvent délivrer une tension instable, néfaste pour la cellule.",
+        "Privilégiez des batteries de remplacement certifiées lors d'une réparation, même si l'option non certifiée paraît plus économique sur le moment.",
+        "Si le téléphone chauffe anormalement pendant la charge ou l'utilisation intensive, laissez-le refroidir avant de continuer à l'utiliser."
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "300 à 500 cycles",
+          "label": "de charge complète, l'ordre de grandeur avant qu'une batterie lithium-ion commence à perdre sensiblement en capacité"
+        },
+        {
+          "value": "20 à 80 %",
+          "label": "la plage de charge souvent recommandée au quotidien pour ménager la batterie sur la durée"
+        },
+        {
+          "value": "Quelques jours",
+          "label": "le délai raisonnable pour faire diagnostiquer un léger jeu de coque avant qu'il ne s'aggrave"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-de-la-batterie-usagee",
+      "text": "Que faire de l'ancien téléphone ou de la batterie usagée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une batterie gonflée ne doit en aucun cas être jetée avec les ordures ménagères ni dans une poubelle de tri classique : le risque de choc ou de perforation pendant la collecte est réel. Les batteries lithium-ion se déposent dans les points de collecte dédiés, disponibles chez de nombreux distributeurs d'électronique, en déchetterie ou via les bornes de recyclage spécialisées ; ces points sont généralement tenus de reprendre gratuitement ce type de déchet, même sans nouvel achat associé."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Si un réparateur remplace lui-même la batterie, il se charge en général directement de son évacuation via une filière agréée : c'est aussi une bonne raison de passer par un professionnel plutôt que de gérer l'ancienne batterie soi-même.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir face à une batterie qui gonfle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une batterie qui gonfle, même discrètement, n'est jamais un simple défaut esthétique : c'est le signe d'une cellule lithium-ion en fin de vie ou endommagée, qu'il faut traiter sans attendre. Éteindre l'appareil, ne jamais le percer ni le presser, l'isoler dans un endroit sûr, puis confier rapidement le remplacement à un professionnel : ces quelques réflexes suffisent à écarter l'essentiel du risque. Reste ensuite à adopter de meilleures habitudes de charge pour que le nouvel appareil, lui, tienne la distance."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Coque qui ferme mal ou écran qui se soulève : éteignez le téléphone, ne le rechargez plus, isolez-le sur une surface non inflammable et faites-le diagnostiquer rapidement par un professionnel. La batterie usagée se recycle en point de collecte dédié, jamais à la poubelle.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une batterie de smartphone qui gonfle peut-elle exploser ?",
+      "a": "<p>Le risque existe surtout si la batterie est percée, écrasée ou fortement chauffée : le gaz accumulé peut alors s'enflammer. En manipulant l'appareil avec précaution (sans presser ni percer) et en le faisant réparer rapidement, ce risque reste très limité.</p>"
+    },
+    {
+      "q": "Combien de temps peut-on attendre avant de faire réparer une batterie gonflée ?",
+      "a": "<p>Le mieux est d'agir sous quelques jours dès les premiers signes, et sans délai si le gonflement est déjà visible. Le phénomène a tendance à s'aggraver avec le temps, il n'y a donc aucun avantage à attendre.</p>"
+    },
+    {
+      "q": "Peut-on remettre une batterie gonflée à plat soi-même ?",
+      "a": "<p>Non, il ne faut jamais tenter de presser, plier ou percer une batterie gonflée pour la remettre en forme : ce geste peut provoquer une fuite de composants chimiques ou déclencher un départ de feu. Seul un professionnel équipé doit intervenir.</p>"
+    },
+    {
+      "q": "La garantie du téléphone couvre-t-elle le remplacement d'une batterie gonflée ?",
+      "a": "<p>C'est fréquent, notamment si l'appareil est encore sous garantie constructeur ou couvert par une assurance casse/panne : un gonflement est en général reconnu comme un défaut de la batterie. Le mieux est de contacter le service après-vente ou l'assureur pour vérifier votre situation précise.</p>"
+    },
+    {
+      "q": "Où jeter une batterie de smartphone gonflée ?",
+      "a": "<p>Dans un point de collecte dédié aux piles et batteries, disponible chez de nombreux distributeurs d'électronique, en déchetterie ou via des bornes de recyclage spécialisées. Elle ne doit jamais rejoindre les ordures ménagères classiques.</p>"
+    },
+    {
+      "q": "Le gonflement peut-il survenir sur un téléphone neuf ou récent ?",
+      "a": "<p>C'est plus rare, mais possible en cas de défaut de fabrication, de batterie de remplacement non certifiée après une réparation, ou d'exposition répétée à une forte chaleur. Si cela arrive sur un appareil récent, il s'agit généralement d'un défaut couvert par la garantie.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-16T09:00:00.000Z",
+  "generatedAt": "2026-07-16T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
