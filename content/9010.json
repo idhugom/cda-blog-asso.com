@@ -1,0 +1,269 @@
+{
+  "id": 9010,
+  "slug": "chargeur-smartphone-qui-chauffe-dangereux-que-faire",
+  "title": "Chargeur de smartphone qui chauffe : quand est-ce dangereux et comment réagir",
+  "metaTitle": "Chargeur de smartphone qui chauffe : est-ce dangereux ?",
+  "metaDescription": "Chargeur ou câble brûlant pendant la charge : voici comment distinguer une chauffe normale d'un vrai danger, et les bons réflexes à adopter tout de suite.",
+  "dek": "Le chargeur est tiède, parfois carrément chaud, et le câble semble raidir près de la prise. Est-ce normal ou faut-il s'inquiéter ? Voici comment reconnaître une chauffe sans risque d'un signal d'alerte, et les gestes à adopter avant que ça ne tourne mal.",
+  "category": "tech-objets",
+  "tags": [
+    "chargeur smartphone",
+    "sécurité batterie",
+    "accessoires électroniques",
+    "entretien smartphone",
+    "risque incendie"
+  ],
+  "keyTakeaways": [
+    "Un chargeur légèrement tiède pendant la charge est normal : c'est un signe qu'il transforme de l'électricité, pas forcément un défaut.",
+    "Une chauffe qui devient brûlante au toucher, une odeur de plastique ou de brûlé, ou une déformation du boîtier sont en revanche des signaux à prendre au sérieux immédiatement.",
+    "Le câble, la prise murale et le port de charge du téléphone peuvent être en cause autant que le chargeur lui-même : il faut isoler l'élément responsable avant de le remplacer.",
+    "Un chargeur non certifié, une prise multiple surchargée ou une charge sous la couette sont parmi les causes les plus fréquentes de surchauffe évitable.",
+    "Débrancher, laisser refroidir et ne jamais réutiliser un chargeur ou un câble abîmé reste le réflexe le plus simple pour écarter tout risque d'incendie."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Vous débranchez votre téléphone et remarquez que le chargeur, ou le câble juste avant la prise, est chaud au toucher. Est-ce le fonctionnement normal d'un appareil qui délivre de l'énergie, ou le signe d'un défaut qui mérite d'être pris au sérieux ? La nuance compte, car une chauffe excessive figure parmi les causes connues de départs de feu domestique liés à l'électronique. Voici comment distinguer une chauffe sans danger d'un signal d'alerte, identifier ce qui en est vraiment la cause, et réagir avec les bons réflexes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-un-chargeur-chauffe-normalement",
+      "text": "Pourquoi un chargeur chauffe-t-il, même quand tout va bien ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un chargeur transforme le courant du secteur en une tension adaptée à votre téléphone, via des composants électroniques qui dissipent naturellement un peu d'énergie sous forme de chaleur. Cette chauffe est donc, dans une certaine mesure, un phénomène physique attendu, en particulier lors d'une charge rapide, qui fait transiter davantage de puissance en moins de temps. Le boîtier du chargeur peut ainsi devenir tiède, voire modérément chaud, sans que cela traduise un défaut."
+    },
+    {
+      "type": "paragraph",
+      "html": "La batterie elle-même chauffe aussi légèrement pendant la charge, surtout dans les premières minutes ou lorsque le téléphone est utilisé en même temps qu'il charge (navigation GPS, jeu vidéo, appel vidéo). C'est cette combinaison, chargeur et batterie sollicités en même temps, qui explique la plupart des sensations de chaleur jugées à tort inquiétantes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "chauffe-normale-ou-signal-alerte",
+      "text": "Chauffe normale ou signal d'alerte : comment faire la différence"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'essentiel est de distinguer une chaleur diffuse et stable d'une chaleur intense, localisée ou accompagnée d'autres signes physiques."
+    },
+    {
+      "type": "table",
+      "caption": "Reconnaître une chauffe sans risque d'un vrai signal d'alerte",
+      "headers": [
+        "Ce que vous observez",
+        "Chauffe normale (fréquente)",
+        "Signal à prendre au sérieux"
+      ],
+      "rows": [
+        [
+          "Température au toucher",
+          "Tiède à modérément chaud, supportable en continu",
+          "Brûlant, difficile à garder en main plus de quelques secondes"
+        ],
+        [
+          "Localisation",
+          "Chaleur diffuse sur tout le boîtier du chargeur",
+          "Point précis très chaud, souvent près de la prise ou du connecteur"
+        ],
+        [
+          "Odeur",
+          "Aucune odeur particulière",
+          "Odeur de plastique chaud, de brûlé ou de composant électronique"
+        ],
+        [
+          "Aspect",
+          "Boîtier intact, câble souple",
+          "Boîtier gonflé, fissuré, câble raidi, décoloré ou dénudé"
+        ],
+        [
+          "Comportement du téléphone",
+          "Charge qui progresse normalement",
+          "Charge qui s'arrête toute seule, messages d'alerte, redémarrages"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un signal qui ne doit jamais être ignoré",
+      "html": "<p>Une odeur de brûlé, une fumée même légère, un boîtier qui gonfle ou un crépitement au niveau de la prise imposent d'agir immédiatement : débranchez sans attendre, en tenant le chargeur par une partie non chaude, et ne le rebranchez plus. Ce sont des signes de défaillance électrique qui peuvent précéder un départ de feu.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "causes-frequentes-chauffe-excessive",
+      "text": "Les causes les plus fréquentes d'une chauffe excessive"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs facteurs, souvent cumulés, expliquent la majorité des cas de chauffe anormale constatés sur un chargeur ou un câble de smartphone."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<strong>Chargeur non certifié ou d'origine incertaine</strong> : les modèles bas de gamme ou contrefaits respectent rarement les normes de sécurité et de régulation thermique des modèles d'origine.",
+        "<strong>Puissance inadaptée</strong> : un chargeur trop puissant pour le téléphone, ou au contraire un câble de mauvaise qualité qui limite mal le courant, peut provoquer une chauffe anormale.",
+        "<strong>Prise multiple ou multiprise surchargée</strong> : brancher plusieurs appareils gourmands sur une même prise multiple augmente le risque de surchauffe au niveau du bloc de prises lui-même.",
+        "<strong>Charge sous la couette ou sur un support isolant</strong> : recouvrir le téléphone et son chargeur empêche la chaleur de se dissiper normalement, ce qui l'accumule.",
+        "<strong>Câble ou connecteur usé</strong> : un câble plié, dénudé ou un port de charge encrassé créent des points de résistance électrique qui chauffent localement.",
+        "<strong>Batterie vieillissante</strong> : une batterie en fin de vie peut chauffer davantage pendant la charge, un signe qui rejoint d'ailleurs celui d'une <a href=\"/9008-batterie-smartphone-qui-gonfle-signes-danger-que-faire/\">batterie qui commence à gonfler</a>, un cas à surveiller de près."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-element-en-cause",
+      "text": "Chargeur, câble, prise ou téléphone : qui est vraiment en cause ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de remplacer tout le matériel, il est utile d'isoler précisément l'élément responsable de la chauffe, car la solution n'est pas la même selon le cas."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "title": "Testez avec un autre câble",
+          "html": "Gardez le même chargeur secteur mais changez de câble. Si la chauffe disparaît, le câble était en cause."
+        },
+        {
+          "title": "Testez avec un autre chargeur secteur",
+          "html": "À l'inverse, gardez le câble et changez de bloc secteur. Cela permet d'identifier si c'est le chargeur lui-même qui est défaillant."
+        },
+        {
+          "title": "Changez de prise murale",
+          "html": "Essayez une prise différente, idéalement sans multiprise ni adaptateur intermédiaire, pour écarter un problème lié à l'installation électrique."
+        },
+        {
+          "title": "Observez le téléphone seul",
+          "html": "Si la chauffe se concentre près du port de charge du téléphone plutôt que sur le câble ou le chargeur, le connecteur ou la batterie du téléphone peuvent être en cause."
+        },
+        {
+          "title": "Notez les circonstances",
+          "html": "Une chauffe qui n'apparaît que pendant une utilisation intensive en charge (jeu, GPS) est souvent moins préoccupante qu'une chauffe présente dès le branchement, téléphone au repos."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "bons-reflexes-immediats",
+      "text": "Les bons réflexes immédiats face à un chargeur trop chaud"
+    },
+    {
+      "type": "paragraph",
+      "html": "Face à une chauffe qui vous semble excessive, quelques gestes simples suffisent à écarter le risque le temps d'y voir plus clair."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe de base",
+      "html": "<p>Débranchez le chargeur de la prise murale, laissez-le refroidir à l'air libre sur une surface non inflammable, et ne le rebranchez pas tant que vous n'avez pas identifié la cause. Ne chargez jamais votre téléphone sur un lit, un canapé ou sous un coussin : ces surfaces empêchent la chaleur de s'évacuer.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "peut-on-continuer-utiliser-chargeur-tiede",
+      "text": "Peut-on continuer à utiliser un chargeur légèrement tiède ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oui, tant que la chauffe reste modérée, stable et sans odeur, un chargeur légèrement tiède ne présente en général pas de risque particulier : c'est le fonctionnement normal d'un convertisseur électrique. En revanche, dès qu'un doute persiste, mieux vaut privilégier la prudence plutôt que d'attendre un signe plus grave : un chargeur ne coûte que quelques euros à remplacer, contrairement aux conséquences d'un incident électrique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "choisir-chargeur-fiable",
+      "text": "Comment choisir un chargeur fiable et limiter les risques"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix du chargeur et son usage au quotidien réduisent nettement les risques de surchauffe, tout en préservant la longévité de la batterie du téléphone, un sujet qui rejoint aussi les conseils pour éviter qu'une <a href=\"/329-comprendre-et-solutions-pourquoi-votre-batterie-de-telephone-se-decharge-rapidement/\">batterie ne se décharge trop vite</a>."
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "value": "Quelques euros",
+          "label": "le surcoût habituel d'un chargeur certifié par rapport à un modèle non certifié"
+        },
+        {
+          "value": "2 à 3 ans",
+          "label": "la durée de vie moyenne d'un câble de charge en usage quotidien"
+        },
+        {
+          "value": "Quelques minutes",
+          "label": "le temps généralement nécessaire pour tester un chargeur suspect avec un autre câble et une autre prise"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Privilégiez un chargeur d'origine ou certifié, plutôt qu'un modèle générique acheté au prix le plus bas.",
+        "Évitez les multiprises surchargées : ne branchez pas plusieurs appareils gourmands (chargeur rapide, ordinateur portable) sur la même rangée de prises.",
+        "Laissez le téléphone à l'air libre pendant la charge, sans coque épaisse ni support isolant par-dessus.",
+        "Inspectez régulièrement le câble : un fil dénudé ou une gaine fendue doivent conduire à un remplacement immédiat, pas à un rafistolage.",
+        "Évitez de charger le téléphone toute la nuit sous l'oreiller ou dans un lit fermé, une habitude qui accumule la chaleur sans qu'on s'en rende compte."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "quand-consulter-un-professionnel",
+      "text": "Quand s'inquiéter vraiment et consulter un professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est justifié de faire vérifier ou remplacer votre matériel par un professionnel si la chauffe s'accompagne d'une odeur de brûlé, d'un boîtier visiblement déformé ou fissuré, d'étincelles ou de crépitements à la prise, ou si le téléphone lui-même chauffe fortement même hors charge. De même, si plusieurs chargeurs différents chauffent systématiquement de façon excessive sur la même prise, le problème peut venir de l'installation électrique du logement, et mérite l'avis d'un électricien plutôt qu'un simple changement d'accessoire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir pour charger votre téléphone sereinement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une chauffe modérée et stable pendant la charge n'a, la plupart du temps, rien d'anormal : c'est le fonctionnement attendu d'un chargeur qui transforme de l'énergie. Le vrai signal d'alerte se reconnaît à une chaleur intense et localisée, une odeur suspecte ou un boîtier abîmé. Dans ce cas, débrancher, laisser refroidir et remplacer le matériel défectueux reste le réflexe le plus sûr, avant tout signe plus grave."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Chauffe tiède et stable : rien d'anormal. Chauffe brûlante, localisée, odeur ou boîtier abîmé : débranchez immédiatement et ne réutilisez plus le chargeur ou le câble en cause. Privilégiez toujours un chargeur certifié et évitez de charger sous une couverture.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-il normal qu'un chargeur de smartphone soit chaud au toucher ?",
+      "a": "<p>Oui, une chauffe tiède à modérée est normale, en particulier avec une charge rapide. Elle ne devient un signal d'alerte que si elle est brûlante, localisée sur un point précis, ou accompagnée d'une odeur de brûlé.</p>"
+    },
+    {
+      "q": "Puis-je continuer à utiliser un chargeur qui chauffe légèrement chaque jour ?",
+      "a": "<p>Si la chauffe reste modérée, stable et sans odeur ni déformation du boîtier, oui. Au moindre doute persistant, il est plus prudent de le remplacer : un chargeur coûte peu par rapport au risque encouru.</p>"
+    },
+    {
+      "q": "Le câble ou le chargeur secteur : lequel est le plus souvent responsable d'une surchauffe ?",
+      "a": "<p>Les deux peuvent être en cause, mais un câble usé, plié ou dénudé est une cause très fréquente de point chaud localisé. Tester séparément câble et chargeur avec du matériel différent permet d'identifier l'élément fautif.</p>"
+    },
+    {
+      "q": "Est-ce dangereux de charger son téléphone toute la nuit sous l'oreiller ?",
+      "a": "<p>Oui, cette habitude empêche la chaleur générée par la charge de se dissiper normalement et l'accumule autour de l'appareil, ce qui augmente le risque de surchauffe. Mieux vaut charger le téléphone posé à l'air libre.</p>"
+    },
+    {
+      "q": "Un chargeur non certifié est-il vraiment plus risqué qu'un chargeur d'origine ?",
+      "a": "<p>Généralement oui : les modèles non certifiés respectent moins souvent les normes de sécurité et de régulation thermique, ce qui augmente le risque de surchauffe ou de défaillance électrique par rapport à un chargeur certifié.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-17T09:00:00.000Z",
+  "generatedAt": "2026-07-17T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
