@@ -5242,5 +5242,23 @@
     "height": 1024,
     "bg": "#f8f8f8",
     "generated": true
+  },
+  "9012": {
+    "id": 9012,
+    "sm": "/media/9012-sm.webp",
+    "lg": "/media/9012-lg.webp",
+    "width": 1536,
+    "height": 1024,
+    "bg": "#d8d8c8",
+    "generated": true
+  },
+  "9013": {
+    "id": 9013,
+    "sm": "/media/9013-sm.webp",
+    "lg": "/media/9013-lg.webp",
+    "width": 1536,
+    "height": 1024,
+    "bg": "#080808",
+    "generated": true
   }
 }
