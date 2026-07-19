@@ -1,0 +1,212 @@
+{
+  "id": 9014,
+  "slug": "volet-roulant-electrique-ne-remonte-plus-causes-solutions",
+  "title": "Volet roulant électrique qui ne remonte plus : causes et solutions avant d'appeler un professionnel",
+  "metaTitle": "Volet roulant électrique bloqué : causes et solutions",
+  "metaDescription": "Volet roulant électrique qui ne remonte plus, moteur qui ronronne sans bouger ou télécommande sans réaction : diagnostic pas à pas et solutions avant de faire appel à un professionnel.",
+  "dek": "Un volet roulant électrique qui refuse de remonter, que ce soit en silence total ou avec un moteur qui bourdonne sans que le tablier bouge, n'est pas forcément synonyme de panne coûteuse. Voici comment identifier la cause la plus probable selon les symptômes, les gestes sûrs à tenter soi-même, et le moment où mieux vaut confier le volet à un professionnel.",
+  "category": "maison-immobilier",
+  "tags": [
+    "volet roulant",
+    "panne moteur",
+    "entretien maison",
+    "bricolage",
+    "domotique"
+  ],
+  "keyTakeaways": [
+    "Un volet totalement silencieux qui ne répond plus pointe presque toujours vers l'alimentation électrique ou la télécommande, pas vers le moteur.",
+    "Un moteur qui ronronne sans faire bouger le tablier signale souvent une sangle cassée, une lame déboîtée ou un condensateur de démarrage fatigué.",
+    "Le disjoncteur thermique du moteur peut couper l'alimentation en cas de surchauffe ou de blocage mécanique : un temps de repos de 15 à 20 minutes suffit parfois à le réarmer.",
+    "Ouvrir soi-même le caisson pour dégager une lame sortie de son rail est un geste accessible ; intervenir sur le moteur ou le câblage ne l'est pas.",
+    "Un entretien annuel léger (rails, coulisses, fixations) évite une bonne partie des pannes mécaniques les plus fréquentes."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Appuyer sur l'interrupteur ou la télécommande et voir le volet roulant rester obstinément baissé, c'est une des petites contrariétés les plus fréquentes de la maison — surtout un soir d'été où la chaleur reste piégée dans la pièce. Avant d'imaginer le pire, un diagnostic simple permet souvent de cerner la panne en quelques minutes : le symptôme exact (silence total, bourdonnement, arrêt en cours de course) oriente presque toujours vers une cause précise, du fusible sauté au tablier déboîté sur son rail."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "identifier-le-symptome",
+      "text": "Le symptôme exact oriente le diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute manipulation, il est utile de bien caractériser ce qui se passe réellement quand vous actionnez la commande. Un volet qui ne réagit absolument pas, sans aucun bruit, n'a pas la même origine qu'un moteur qui bourdonne sans faire bouger le tablier, ou qu'un volet qui s'arrête net à mi-course. Ces trois situations pointent vers des causes très différentes, et le distinguer évite de perdre du temps sur une piste erronée."
+    },
+    {
+      "type": "table",
+      "caption": "Symptôme observé et piste la plus probable",
+      "headers": ["Ce que vous constatez", "Cause la plus probable", "Premier réflexe"],
+      "rows": [
+        ["Aucun bruit, aucune réaction à la commande", "Coupure d'alimentation, fusible ou disjoncteur, pile de télécommande morte", "Vérifier tableau électrique et pile"],
+        ["Le moteur bourdonne mais le tablier ne bouge pas", "Sangle cassée, lame déboîtée du rail, condensateur de démarrage usé", "Ouvrir le caisson pour inspecter"],
+        ["Le volet s'arrête toujours au même endroit", "Fin de course mal réglée ou obstacle sur le rail", "Reprogrammer les fins de course"],
+        ["Le volet fonctionne par intermittence", "Faux contact dans le câblage ou récepteur radio défaillant", "Faire intervenir un électricien"],
+        ["Odeur de chauffe ou moteur qui coupe après quelques secondes", "Disjoncteur thermique déclenché par surchauffe", "Laisser reposer 15-20 min avant de retenter"]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "volet-completement-silencieux",
+      "text": "Le volet ne réagit pas du tout : vérifier l'alimentation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand rien ne se passe, ni bruit ni mouvement, la cause est presque toujours électrique et non mécanique. C'est le scénario le plus fréquent, et aussi le plus simple à résoudre soi-même en toute sécurité, sans avoir à toucher au moteur du volet."
+    },
+    {
+      "type": "steps",
+      "items": [
+        { "title": "Vérifiez le tableau électrique", "html": "Un disjoncteur dédié aux volets roulants peut avoir sauté, souvent après un orage ou une surtension. Réarmez-le et testez à nouveau." },
+        { "title": "Testez un autre volet de la maison", "html": "Si tous les volets du même circuit sont concernés, la panne est probablement générale (disjoncteur, coupure secteur) plutôt que propre à un seul volet." },
+        { "title": "Changez la pile de la télécommande", "html": "Pour un volet radiocommandé, une pile faible provoque souvent une absence totale de réaction avant de donner tout autre signe d'usure." },
+        { "title": "Vérifiez l'interrupteur mural filaire", "html": "Sur un volet à commande filaire, testez avec un autre interrupteur du même type si vous en avez un, pour écarter une panne du bouton lui-même." },
+        { "title": "Contrôlez le fusible dédié si présent", "html": "Certaines installations disposent d'un fusible spécifique aux volets roulants, distinct du disjoncteur général : un fusible grillé reproduit exactement ce symptôme de silence total." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Après un orage ou une coupure de courant, certains moteurs de volets roulants perdent la mémorisation de leurs positions de fin de course. Le volet peut alors sembler « bloqué » alors qu'il attend simplement d'être reprogrammé selon la procédure du fabricant, généralement indiquée dans la notice ou sur une étiquette collée dans le caisson.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "moteur-qui-ronronne",
+      "text": "Le moteur tourne ou bourdonne, mais le tablier ne bouge pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce cas de figure est plus révélateur d'un problème mécanique que purement électrique : le moteur reçoit bien l'ordre et tente de fonctionner, mais quelque chose l'empêche d'entraîner le tablier. Sur un volet à sangle, la cause la plus fréquente est une sangle cassée ou sortie de son enrouleur, qui laisse le moteur tourner dans le vide. Sur un volet motorisé filaire ou radio, une lame déboîtée de son rail, souvent après un choc ou un objet coincé sur le rebord de fenêtre, bloque mécaniquement la course sans empêcher le moteur de tenter de tourner."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bourdonnement persistant, plus fort que d'habitude, peut aussi trahir un <strong>condensateur de démarrage</strong> fatigué : cette petite pièce électronique, présente dans la majorité des moteurs de volets roulants, fournit l'impulsion nécessaire au démarrage. Avec l'âge, elle perd en capacité et le moteur peine de plus en plus à lancer le mouvement, jusqu'à ne plus y parvenir du tout. C'est une pièce qui se remplace, généralement moins coûteuse que le moteur complet, mais son diagnostic et son remplacement relèvent d'un professionnel."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ce qu'il ne faut pas faire",
+      "html": "<p>Ne forcez jamais un tablier bloqué à la main pendant que le moteur tente de tourner : vous risquez d'abîmer davantage le mécanisme, voire de vous blesser sur des lames pincées. Coupez d'abord l'alimentation du volet (disjoncteur dédié) avant toute inspection du caisson ou du rail.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "inspecter-le-caisson",
+      "text": "Comment inspecter le caisson en toute sécurité"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des caissons de volets roulants récents sont conçus pour s'ouvrir facilement, avec une trappe de visite accessible depuis l'intérieur ou l'extérieur selon le modèle. Une fois l'alimentation coupée au disjoncteur, ouvrez la trappe et observez l'enrouleur : une sangle effilochée ou cassée nette se repère immédiatement, tout comme une lame visiblement sortie de son rail latéral. Si le problème se limite à une lame déboîtée en partie basse du volet, il est souvent possible de la remettre en place à la main, en la faisant glisser doucement dans le rail jusqu'à ce qu'elle s'enclenche, avant de retenter la manœuvre motorisée."
+    },
+    {
+      "type": "compare",
+      "title": "Intervenir soi-même ou appeler un professionnel",
+      "a": {
+        "title": "Vous pouvez agir vous-même si…",
+        "points": [
+          "Le problème est une coupure d'alimentation, un fusible ou une pile de télécommande.",
+          "Une lame est simplement sortie de son rail et se remet en place à la main.",
+          "Les fins de course doivent juste être reprogrammées selon la notice.",
+          "Un léger nettoyage des rails ou coulisses suffit à débloquer le mouvement."
+        ]
+      },
+      "b": {
+        "title": "Faites appel à un professionnel si…",
+        "points": [
+          "Le moteur bourdonne sans jamais réussir à entraîner le tablier.",
+          "Une odeur de chauffe ou de brûlé accompagne la panne.",
+          "Le câblage électrique semble en cause (faux contact, fils dénudés).",
+          "La sangle ou le moteur doivent être remplacés dans un caisson difficile d'accès."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "fins-de-course-mal-reglees",
+      "text": "Le volet s'arrête toujours au même endroit : les fins de course"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand le volet bute systématiquement à mi-hauteur ou refuse de descendre complètement, sans jamais heurter d'obstacle visible, le réglage des fins de course est presque toujours en cause. Ces butées électroniques ou mécaniques indiquent au moteur où s'arrêter en haut et en bas de la course ; un dérèglement, parfois provoqué par une coupure de courant ou une intervention récente, fausse ces repères. La procédure de reprogrammation varie selon la marque et le type de moteur (filaire, radio, avec ou sans molette de réglage), mais elle est généralement décrite dans la notice d'origine ou disponible sur le site du fabricant à partir de la référence du moteur, souvent inscrite sur une étiquette dans le caisson. Pour les habitations équipées de volets sur plusieurs pièces, il peut être utile de comparer ce réglage à celui d'autres <a href=\"/9006-chauffe-eau-bruit-eau-tiede-signes-detartrage-remplacement/\">équipements domestiques qui nécessitent un entretien régulier</a> pour anticiper les pannes plutôt que les subir.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prevenir-les-pannes",
+      "text": "Prévenir les pannes avec un entretien simple"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un volet roulant bien entretenu tombe beaucoup moins souvent en panne mécanique. Une fois par an environ, il est utile de dépoussiérer les rails latéraux et de vérifier qu'aucun débris (feuille, insecte, résidu de peinture) ne gêne la coulisse du tablier. Un lubrifiant sec en spray, appliqué sur les rails et non sur le moteur, réduit les frottements sans attirer davantage de poussière contrairement à une huile classique. Vérifiez aussi que les fixations du caisson et des coulisses n'ont pas bougé, notamment sur les façades exposées aux intempéries, où les vis peuvent se desserrer avec le temps et les variations de température."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un réflexe simple avant l'été",
+      "html": "<p>Testez tous vos volets roulants au printemps, avant les premières fortes chaleurs où vous en aurez le plus besoin. Un dysfonctionnement repéré à ce moment-là laisse le temps de programmer une intervention sereinement, plutôt que de découvrir la panne un soir de canicule.</p>"
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "10 à 15 ans", "label": "durée de vie moyenne d'un moteur de volet roulant électrique bien entretenu" },
+        { "value": "15-20 min", "label": "temps de repos souvent suffisant pour réarmer un disjoncteur thermique en surchauffe" },
+        { "value": "1 fois/an", "label": "fréquence recommandée pour un entretien léger des rails et fixations" }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir pour décider"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un volet roulant électrique qui ne remonte plus a des causes très hiérarchisées selon le symptôme précis : silence total, c'est d'abord l'électrique ; moteur qui peine sans résultat, c'est plutôt la mécanique ou le condensateur ; arrêt systématique au même endroit, c'est le réglage des fins de course. Les vérifications de base — disjoncteur, pile, lame déboîtée, reprogrammation — sont accessibles sans risque à condition de couper l'alimentation avant d'ouvrir le caisson. Dès que le moteur ou le câblage électrique semblent en cause, ou qu'une odeur de chauffe apparaît, il vaut mieux confier le volet à un professionnel plutôt que de risquer d'aggraver la panne."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Silence total : contrôlez le disjoncteur et la pile de la télécommande avant tout. Moteur qui bourdonne sans effet : coupez l'alimentation et inspectez sangle et lames dans le caisson. Odeur de chauffe ou câblage suspect : arrêtez toute manipulation et appelez un professionnel.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon volet roulant électrique ne réagit-il plus du tout, sans aucun bruit ?",
+      "a": "<p>C'est presque toujours un problème d'alimentation : disjoncteur dédié qui a sauté, fusible grillé ou, pour un volet radiocommandé, une pile de télécommande à plat. Vérifiez ces trois points avant d'envisager une panne plus sérieuse.</p>"
+    },
+    {
+      "q": "Le moteur de mon volet bourdonne mais rien ne bouge, est-ce grave ?",
+      "a": "<p>Ce n'est pas nécessairement grave, mais cela demande une inspection : sangle cassée, lame déboîtée du rail ou condensateur de démarrage usé sont les causes les plus fréquentes. Une lame déboîtée se remet souvent en place à la main ; un condensateur ou une sangle à remplacer nécessitent généralement un professionnel.</p>"
+    },
+    {
+      "q": "Puis-je réparer moi-même un volet roulant bloqué ?",
+      "a": "<p>Les gestes simples (vérifier l'alimentation, remettre une lame dans son rail, reprogrammer les fins de course) sont accessibles sans risque, à condition de toujours couper l'alimentation avant d'ouvrir le caisson. Le remplacement du moteur, du condensateur ou une intervention sur le câblage électrique doivent en revanche être confiés à un professionnel.</p>"
+    },
+    {
+      "q": "Comment reprogrammer les fins de course d'un volet roulant ?",
+      "a": "<p>La procédure varie selon la marque et le type de moteur : elle implique généralement de maintenir un bouton ou une molette de réglage pendant que le volet atteint la position haute puis basse souhaitée. Consultez la notice du fabricant à partir de la référence du moteur, souvent inscrite sur une étiquette dans le caisson.</p>"
+    },
+    {
+      "q": "Combien coûte le remplacement d'un moteur de volet roulant ?",
+      "a": "<p>Le coût varie fortement selon le type de moteur (filaire ou radio), la marque et l'accessibilité du caisson, mais il faut généralement compter plusieurs dizaines à quelques centaines d'euros pour la pièce, main-d'œuvre en plus si un professionnel intervient. Un devis précis reste nécessaire pour connaître le montant exact.</p>"
+    },
+    {
+      "q": "Comment éviter que mon volet roulant retombe en panne ?",
+      "a": "<p>Un entretien léger une fois par an (dépoussiérage des rails, lubrifiant sec, vérification des fixations) réduit nettement les pannes mécaniques. Tester tous les volets au printemps permet aussi de repérer un problème avant les fortes chaleurs, plutôt que de le découvrir au pire moment.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-19T09:00:00.000Z",
+  "generatedAt": "2026-07-19T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
