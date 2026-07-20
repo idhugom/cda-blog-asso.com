@@ -1,0 +1,229 @@
+{
+  "id": 9016,
+  "slug": "wifi-qui-rame-le-soir-causes-et-solutions",
+  "title": "Wifi qui rame le soir alors qu'il fonctionne bien la journée : causes et solutions",
+  "metaTitle": "Wifi qui rame le soir : pourquoi et comment y remédier",
+  "metaDescription": "Wifi qui rame le soir alors qu'il est fluide en journée : congestion, interférences, position de la box, les vraies causes et les solutions efficaces.",
+  "dek": "Vidéo qui bloque, visioconférence qui saccade, page qui met une éternité à charger : ce ralentissement du soir n'a presque jamais la même origine qu'un problème de wifi permanent. Voici pourquoi le débit chute précisément aux heures de forte affluence, et les gestes qui rétablissent une connexion stable sans changer d'abonnement.",
+  "category": "tech-objets",
+  "tags": [
+    "wifi",
+    "internet",
+    "box internet",
+    "réseau domestique",
+    "débit internet"
+  ],
+  "keyTakeaways": [
+    "Un wifi qui rame uniquement le soir pointe presque toujours vers une congestion (réseau du FAI ou canal wifi saturé par le voisinage), pas vers une panne de la box.",
+    "Les bandes 2,4 GHz et 5 GHz ne réagissent pas pareil aux interférences : la 5 GHz est nettement moins encombrée en soirée dans les zones denses.",
+    "La position de la box explique une grande partie des pertes de signal, indépendamment de l'heure de la journée.",
+    "Changer de canal wifi et répartir les usages gourmands (streaming, jeux, cloud) réduit souvent le problème sans investir dans du nouveau matériel.",
+    "Un vrai test de débit filaire, comparé au wifi, permet de savoir si le souci vient du réseau ou de l'installation wifi elle-même."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "Le matin, tout fonctionne normalement : les pages chargent vite, la visioconférence est fluide. Puis, en fin d'après-midi et surtout en soirée, la connexion se met à ramer, la vidéo bufferise et le jeu en ligne devient injouable. Ce schéma horaire très reconnaissable n'est pas un hasard : il correspond à des causes précises, différentes d'une simple panne, et à des solutions concrètes que l'on peut appliquer soi-même avant d'envisager de changer de box ou d'abonnement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "pourquoi-le-soir-specifiquement",
+      "text": "Pourquoi le ralentissement survient surtout le soir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le wifi est fluide en journée et se dégrade en fin d'après-midi ou en soirée, la première explication à envisager est la <strong>congestion</strong>, à deux niveaux distincts. D'un côté, le réseau de votre fournisseur d'accès (FAI) absorbe un pic de trafic aux heures où la majorité des foyers se connectent en même temps pour regarder des vidéos en streaming, jouer en ligne ou passer des appels. De l'autre, dans un immeuble ou un quartier dense, tous les routeurs wifi environnants émettent en même temps sur des canaux souvent identiques ou proches, ce qui crée des interférences qui n'existent pas à 10 heures du matin."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce deuxième phénomène est souvent sous-estimé : le wifi fonctionne sur des fréquences partagées, un peu comme plusieurs conversations qui se chevauchent dans une même pièce. Plus il y a de réseaux actifs autour du vôtre au même moment, plus votre signal doit « se battre » pour transmettre les données, ce qui se traduit par des pertes de paquets, des ralentissements et parfois des coupures brèves."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "interferences-voisinage",
+      "text": "Les interférences liées au voisinage et aux appareils domestiques"
+    },
+    {
+      "type": "paragraph",
+      "html": "En soirée, deux sources d'interférences s'ajoutent à la congestion du réseau FAI. D'abord, le nombre de réseaux wifi actifs autour du vôtre augmente mécaniquement : plus de foyers connectés, plus d'appareils allumés (smartphones, tablettes, télévisions connectées, consoles). Ensuite, certains appareils domestiques génèrent des interférences sur la bande 2,4 GHz, notamment les fours à micro-ondes, certains téléphones sans fil DECT plus anciens, ou les moniteurs bébé, qui sont justement davantage utilisés le soir."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<strong>Densité de réseaux voisins</strong> : dans un immeuble, chaque appartement possède souvent sa propre box, toutes proches en fréquence.",
+        "<strong>Appareils domestiques</strong> : micro-ondes, téléphones DECT et certains appareils Bluetooth mal isolés perturbent la bande 2,4 GHz.",
+        "<strong>Multiplication des usages simultanés chez vous</strong> : streaming en 4K, jeu en ligne, télétravail en visioconférence et mises à jour automatiques peuvent tourner en même temps sans que vous en ayez conscience.",
+        "<strong>Appareils connectés en veille active</strong> : caméras, assistants vocaux et objets domotiques consomment une part de bande passante même sans usage direct."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>La bande <strong>5 GHz</strong> souffre beaucoup moins des interférences de voisinage que la bande <strong>2,4 GHz</strong>, car elle propose davantage de canaux non superposés et sa portée plus courte limite le nombre de réseaux concurrents qui l'utilisent réellement autour de chez vous.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "2-4-ghz-vs-5-ghz",
+      "text": "2,4 GHz ou 5 GHz : quelle bande privilégier selon la situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des box et routeurs récents diffusent les deux bandes en simultané, parfois sous un seul nom de réseau (mode « bande intelligente »), parfois sous deux noms distincts. Comprendre leurs différences aide à choisir la bonne configuration selon la pièce et l'appareil concerné."
+    },
+    {
+      "type": "table",
+      "caption": "2,4 GHz face à 5 GHz : ce qui change concrètement",
+      "headers": ["Critère", "Bande 2,4 GHz", "Bande 5 GHz"],
+      "rows": [
+        ["Portée dans le logement", "Plus grande, traverse mieux les murs", "Plus courte, plus sensible aux obstacles"],
+        ["Sensibilité aux interférences", "Élevée (micro-ondes, DECT, voisinage)", "Faible à modérée"],
+        ["Débit maximal théorique", "Plus limité", "Nettement plus élevé"],
+        ["Usage recommandé", "Objets connectés, pièces éloignées de la box", "Streaming 4K, visioconférence, jeu en ligne, télétravail"],
+        ["Ralentissement en soirée", "Souvent marqué en zone dense", "Beaucoup plus stable"]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "position-de-la-box",
+      "text": "La position de la box, une cause sous-estimée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant même de parler d'heure ou de congestion, la position physique de la box explique une part importante des ralentissements ressentis, à n'importe quel moment de la journée. Une box posée dans un meuble fermé, derrière un écran de télévision, au sol ou contre un mur épais perd une partie significative de sa portée et de sa qualité de signal. Ce défaut de base devient plus visible le soir, au moment où le réseau est déjà sollicité et où la marge de manœuvre du signal wifi est la plus réduite."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil pratique",
+      "html": "<p>Placez la box en hauteur, dégagée de tout obstacle métallique ou de tout meuble fermé, si possible dans une pièce centrale du logement plutôt que dans une entrée ou un couloir excentré. Ce simple repositionnement améliore souvent la stabilité du signal sans aucun matériel supplémentaire.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "diagnostiquer-avant-d-agir",
+      "text": "Diagnostiquer précisément avant d'agir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de changer de matériel ou d'appeler son fournisseur, quelques vérifications simples permettent d'identifier si le problème vient du réseau, du wifi ou d'un usage particulier chez vous."
+    },
+    {
+      "type": "steps",
+      "items": [
+        { "title": "Testez le débit en filaire", "html": "Branchez un ordinateur directement à la box par câble Ethernet et lancez un test de débit le soir, au moment du ralentissement. Si le débit filaire reste bon, le problème vient bien du wifi et non du réseau du FAI." },
+        { "title": "Comparez 2,4 GHz et 5 GHz", "html": "Connectez-vous successivement à chaque bande si votre box les distingue, et comparez la stabilité et la vitesse ressenties sur un même appareil." },
+        { "title": "Repérez les usages simultanés", "html": "Identifiez les appareils actifs en soirée dans votre foyer : téléchargements, mises à jour automatiques ou streaming en 4K peuvent expliquer une bonne partie du ralentissement sans lien avec le réseau extérieur." },
+        { "title": "Changez de canal wifi", "html": "Depuis l'interface d'administration de la box, passez sur un canal moins encombré, souvent proposé en sélection automatique, pour limiter les interférences avec les réseaux voisins." },
+        { "title": "Repositionnez la box", "html": "Dégagez-la de tout obstacle et rapprochez-la, si possible, de la pièce où l'usage internet est le plus critique en soirée." }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "changer-de-materiel-ou-non",
+      "text": "Faut-il changer de box, ajouter un routeur ou changer d'abonnement ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois le diagnostic posé, la réponse n'est pas toujours d'investir dans du nouveau matériel. Dans de nombreux cas, un réglage gratuit (canal, position, répartition des usages) suffit à retrouver une connexion stable en soirée. Dans d'autres cas, notamment un logement grand ou traversé de murs épais, un renfort matériel devient réellement utile."
+    },
+    {
+      "type": "compare",
+      "title": "Ajuster l'existant ou investir dans du matériel",
+      "a": {
+        "title": "Souvent suffisant, sans coût",
+        "points": [
+          "Repositionner la box dans une zone dégagée et centrale.",
+          "Changer de canal wifi ou activer la sélection automatique.",
+          "Basculer les appareils sensibles (streaming, visioconférence) sur la bande 5 GHz.",
+          "Limiter les téléchargements et mises à jour automatiques programmés en soirée."
+        ]
+      },
+      "b": {
+        "title": "Justifie un investissement",
+        "points": [
+          "Logement de plus de 80-100 m² ou sur plusieurs étages, avec des zones mortes persistantes.",
+          "Débit filaire lui-même faible en soirée, signe d'une congestion côté FAI plutôt que wifi.",
+          "Nombreux objets connectés qui saturent en permanence le réseau domestique.",
+          "Box ancienne, aux performances wifi nettement inférieures aux modèles récents."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le test filaire confirme que le débit lui-même chute en soirée, y compris câble branché directement, le problème se situe du côté du réseau du fournisseur d'accès et non de votre installation wifi : dans ce cas, un signalement auprès du FAI est la démarche pertinente, plutôt que l'achat d'un nouveau routeur. À l'inverse, si le débit filaire reste stable pendant que le wifi ralentit, la solution se trouve bien chez vous, souvent pour un coût nul."
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "2 bandes", "label": "2,4 GHz et 5 GHz, aux comportements très différents face aux interférences" },
+        { "value": "Pic en soirée", "label": "période où la congestion réseau et le nombre de réseaux voisins actifs sont les plus élevés" },
+        { "value": "0 coût", "label": "pour repositionner la box et changer de canal wifi, souvent la première solution efficace" }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Erreur fréquente",
+      "html": "<p>Beaucoup d'utilisateurs pensent d'abord à un problème d'abonnement trop faible en débit, alors que la cause réelle est presque toujours une <strong>congestion locale</strong> (voisinage, position de la box) au moment précis où le réseau est le plus sollicité. Changer d'offre sans avoir fait ce diagnostic mène souvent à une dépense inutile.</p>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un réseau domestique stable dépend aussi de l'état des appareils qui s'y connectent : un <a href=\"/9010-chargeur-smartphone-qui-chauffe-dangereux-que-faire/\">chargeur de smartphone qui chauffe anormalement</a> ou une <a href=\"/9008-batterie-smartphone-qui-gonfle-signes-danger-que-faire/\">batterie de smartphone qui gonfle</a> ne ralentit pas directement le wifi, mais ces signaux d'usure méritent la même vigilance que celle appliquée à votre box : mieux vaut vérifier régulièrement l'état de ses équipements connectés que d'attendre une panne franche."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir pour agir efficacement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un wifi qui rame spécifiquement le soir raconte une histoire précise : congestion du réseau aux heures de pointe, interférences liées au voisinage et aux appareils domestiques, et parfois une position de box qui n'aidait déjà pas en journée. Avant d'envisager un nouvel abonnement, un test de débit filaire, un changement de canal et un repositionnement de la box suffisent, dans la majorité des cas, à retrouver une connexion stable au moment où vous en avez le plus besoin."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Testez le débit en filaire pour savoir si le problème vient du réseau ou du wifi, privilégiez la bande 5 GHz pour les usages sensibles, et repositionnez la box avant d'envisager tout achat de matériel supplémentaire.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon wifi ralentit-il uniquement entre 18h et minuit ?",
+      "a": "<p>Cette plage horaire correspond au pic de connexion des foyers environnants : streaming, jeux en ligne et appels vidéo se concentrent sur cette période, ce qui sature à la fois le réseau du fournisseur d'accès et les canaux wifi partagés avec le voisinage.</p>"
+    },
+    {
+      "q": "Le micro-ondes peut-il vraiment perturber le wifi ?",
+      "a": "<p>Oui, un four à micro-ondes émet sur une fréquence proche de la bande 2,4 GHz utilisée par le wifi. Si la box ou l'appareil connecté se trouve à proximité, une utilisation du micro-ondes peut provoquer un ralentissement ou une coupure temporaire, surtout en soirée où il est plus souvent utilisé.</p>"
+    },
+    {
+      "q": "Faut-il utiliser la bande 5 GHz partout dans la maison ?",
+      "a": "<p>Pas nécessairement. La 5 GHz offre un meilleur débit et moins d'interférences, mais sa portée est plus courte et elle traverse moins bien les murs épais. Pour les pièces éloignées de la box, la 2,4 GHz reste parfois plus fiable, quitte à perdre un peu de débit.</p>"
+    },
+    {
+      "q": "Comment savoir si le ralentissement vient de mon FAI plutôt que de ma box ?",
+      "a": "<p>Un test de débit effectué en connexion filaire directe à la box, au moment précis du ralentissement, tranche la question : si le débit filaire chute aussi, le problème vient du réseau du fournisseur d'accès ; s'il reste stable, la cause se situe dans l'installation wifi elle-même.</p>"
+    },
+    {
+      "q": "Changer de canal wifi peut-il vraiment améliorer la situation ?",
+      "a": "<p>Oui, dans un immeuble ou un quartier dense, plusieurs box émettent souvent sur des canaux proches ou identiques. Passer sur un canal moins utilisé, ou activer le mode de sélection automatique proposé par la plupart des box récentes, réduit sensiblement les interférences.</p>"
+    },
+    {
+      "q": "Un répéteur wifi résout-il un ralentissement qui survient uniquement le soir ?",
+      "a": "<p>Un répéteur améliore la couverture dans les zones mal desservies par le signal, mais il n'agit pas sur une congestion du réseau du fournisseur d'accès. S'il s'agit bien d'un problème de portée ou de zone morte, il aide ; s'il s'agit d'une saturation du réseau en soirée, l'effet restera limité.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-20T09:00:00.000Z",
+  "generatedAt": "2026-07-20T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 8
+  }
+}
