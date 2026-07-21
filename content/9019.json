@@ -1,0 +1,240 @@
+{
+  "id": 9019,
+  "slug": "facture-impayee-client-professionnel-relance-mise-en-demeure",
+  "title": "Facture impayée par un client professionnel : délais de relance, mise en demeure et recours pour se faire payer",
+  "metaTitle": "Facture impayée : relance, mise en demeure et recours",
+  "metaDescription": "Un client professionnel ne règle pas votre facture ? Délais légaux, relance amiable, mise en demeure et recours possibles pour récupérer une créance impayée.",
+  "dek": "Une facture dépasse son échéance depuis plusieurs semaines et le client reste silencieux malgré les relances. Entre patience commerciale et fermeté juridique, savoir à quel moment agir, et comment, fait souvent la différence entre une créance récupérée et une perte sèche.",
+  "category": "business-pro",
+  "tags": [
+    "facture impayée",
+    "relance client",
+    "mise en demeure",
+    "recouvrement",
+    "gestion d'entreprise"
+  ],
+  "keyTakeaways": [
+    "Une relance écrite dès le lendemain de l'échéance, ferme mais courtoise, résout la majorité des retards de paiement sans avoir besoin d'aller plus loin.",
+    "La mise en demeure est une étape écrite obligatoire avant toute action en justice : elle doit mentionner un délai précis et les conséquences en cas de non-paiement.",
+    "Les pénalités de retard s'appliquent de plein droit dès le lendemain de l'échéance entre professionnels, sans qu'un rappel soit nécessaire pour les déclencher.",
+    "L'indemnité forfaitaire de 40 € pour frais de recouvrement est due automatiquement en cas de retard entre professionnels, en plus des pénalités.",
+    "Au-delà de la mise en demeure restée sans effet, l'injonction de payer offre une voie rapide et peu coûteuse pour obtenir un titre exécutoire, avant d'envisager un recouvrement judiciaire plus lourd."
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "html": "La facture est envoyée, le travail livré, et pourtant rien ne se passe : l'échéance est dépassée depuis plusieurs semaines, les relances par mail restent sans réponse, et l'inquiétude grandit à mesure que la trésorerie se tend. Face à un client professionnel qui ne paie pas, il existe une progression claire, de la relance amiable jusqu'aux recours juridiques, qui permet d'agir avec méthode plutôt que dans la précipitation ou, à l'inverse, une patience qui coûte cher."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "premier-reflexe-facture-impayee",
+      "text": "Le premier réflexe face à une facture impayée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute démarche formelle, il est utile de <strong>distinguer un simple oubli d'un impayé structurel</strong>. Un mail de rappel cordial, envoyé dès le lendemain de l'échéance, suffit dans une large majorité des cas : erreur de service comptable, facture égarée, validation interne en retard. Ce premier contact doit rester factuel, rappeler la date d'échéance, le montant dû et le numéro de facture, sans accusation ni ton comminatoire, pour préserver la relation commerciale si le retard s'explique simplement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si ce rappel reste sans réponse au bout de quelques jours, ou si le client évoque des difficultés répétées sans jamais régulariser, il devient nécessaire de <strong>structurer la relance</strong> selon un calendrier précis, plutôt que de multiplier des mails informels qui perdent en poids à chaque envoi."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "delais-legaux-paiement-entre-professionnels",
+      "text": "Les délais légaux de paiement entre professionnels"
+    },
+    {
+      "type": "paragraph",
+      "html": "Entre professionnels, la loi encadre les délais de paiement : sauf accord contraire mentionné sur la facture ou les conditions générales de vente, le <strong>délai légal est de 30 jours</strong> après la réception de la marchandise ou l'exécution de la prestation. Les parties peuvent convenir d'un délai différent, mais celui-ci ne peut en principe pas dépasser 60 jours nets à compter de la date d'émission de la facture, ou 45 jours fin de mois, sauf secteurs dérogatoires."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le délai de paiement applicable doit toujours figurer clairement sur la facture. En son absence, c'est le délai légal de 30 jours qui s'applique par défaut, ce qui sécurise la relance en cas de désaccord sur l'échéance réelle.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "relance-amiable-quand-comment",
+      "text": "Relance amiable : quand et comment la faire"
+    },
+    {
+      "type": "paragraph",
+      "html": "La relance amiable se déroule généralement en plusieurs temps, chacun un peu plus ferme que le précédent, sans pour autant basculer immédiatement dans un ton conflictuel. L'objectif reste d'obtenir le paiement le plus rapidement possible tout en gardant, autant que possible, la porte ouverte à une relation commerciale future."
+    },
+    {
+      "type": "table",
+      "caption": "Calendrier type de relance d'une facture impayée",
+      "headers": ["Délai après échéance", "Action", "Ton à adopter"],
+      "rows": [
+        ["1 à 3 jours", "Mail de rappel courtois", "Factuel, présomption de simple oubli"],
+        ["7 à 10 jours", "Second mail ou appel téléphonique", "Ferme, demande d'un délai de paiement précis"],
+        ["15 jours", "Courrier de relance formel avec rappel des pénalités", "Sérieux, sans être encore une mise en demeure"],
+        ["21 à 30 jours", "Mise en demeure par lettre recommandée avec accusé de réception", "Juridiquement formel, délai impératif fixé"],
+        ["Après mise en demeure sans effet", "Injonction de payer ou recouvrement", "Procédure engagée"]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "mise-en-demeure-contenu-effets",
+      "text": "La mise en demeure : contenu et effets juridiques"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>mise en demeure</strong> est un courrier formel, envoyé de préférence en recommandé avec accusé de réception, qui somme le client de régler sa dette dans un délai précis, souvent 8 à 15 jours. Elle doit mentionner explicitement les termes « mise en demeure », le montant exact dû (y compris les pénalités déjà courues), le délai accordé, et les conséquences en cas de non-paiement (action en justice, recouvrement)."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette étape n'est pas qu'une formalité : elle constitue en général le <strong>préalable indispensable</strong> avant toute procédure judiciaire, et fait courir certains intérêts ou effets juridiques qui renforcent la position du créancier en cas de litige ultérieur. Elle marque aussi, pour le client, un changement de registre clair : la relation passe du commercial au juridique."
+    },
+    {
+      "type": "list",
+      "items": [
+        "<strong>Identité complète</strong> des deux parties et référence précise de la facture concernée.",
+        "<strong>Montant exact réclamé</strong>, pénalités de retard et indemnité forfaitaire comprises.",
+        "<strong>Délai impératif</strong> accordé pour régulariser (généralement 8 à 15 jours).",
+        "<strong>Mention explicite</strong> des suites envisagées en l'absence de paiement dans ce délai.",
+        "<strong>Envoi en recommandé avec accusé de réception</strong>, pour disposer d'une preuve de la démarche."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "penalites-retard-indemnite-forfaitaire",
+      "text": "Pénalités de retard et indemnité forfaitaire de recouvrement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Entre professionnels, les <strong>pénalités de retard s'appliquent de plein droit</strong> dès le lendemain de la date d'échéance, sans qu'un rappel préalable soit nécessaire pour les déclencher, à condition que leur taux ait été mentionné sur la facture ou les conditions générales de vente. À cela s'ajoute une <strong>indemnité forfaitaire de 40 €</strong> pour frais de recouvrement, due automatiquement en cas de retard de paiement entre professionnels, indépendamment du montant de la facture initiale."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conseil",
+      "html": "<p>Mentionner clairement le taux des pénalités de retard et l'indemnité forfaitaire dès le devis et sur chaque facture renforce la position en cas de litige, et rappelle au client, dès le départ, le cadre applicable en cas de retard.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "facture-impayee-et-tva",
+      "text": "Facture impayée et TVA : peut-on récupérer la taxe versée ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un point souvent méconnu concerne la <strong>TVA collectée sur une facture jamais payée</strong>. Lorsque la créance devient définitivement irrécouvrable, par exemple après une liquidation judiciaire du client ou un jugement constatant l'impossibilité de recouvrer la somme, il est possible de récupérer la TVA déjà reversée à l'administration fiscale sur cette facture, à condition de pouvoir justifier du caractère irrécouvrable de la créance et d'émettre une facture rectificative. En revanche, tant que la créance n'est pas juridiquement considérée comme perdue, la TVA reste due, même si le client n'a jamais réglé la facture."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>Le simple retard de paiement, même prolongé, ne suffit pas à justifier une récupération de TVA : il faut une preuve du caractère définitivement irrécouvrable de la créance (procédure collective, échec avéré des voies de recouvrement) pour que l'administration fiscale l'admette.</p>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "que-faire-si-mise-en-demeure-sans-reponse",
+      "text": "Que faire si la mise en demeure reste sans réponse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Passé le délai fixé dans la mise en demeure, plusieurs options s'offrent au créancier, à choisir selon le montant en jeu, la solvabilité apparente du client et le temps disponible pour suivre la procédure. L'<strong>injonction de payer</strong> reste la voie la plus rapide et la moins coûteuse pour une créance dont le montant n'est pas contesté : elle s'obtient auprès du tribunal compétent sur simple requête, sans audience dans un premier temps, et débouche sur une ordonnance que le client peut contester ou qui devient exécutoire en son absence de réaction."
+    },
+    {
+      "type": "compare",
+      "title": "Injonction de payer ou recouvrement via un professionnel",
+      "a": {
+        "title": "Injonction de payer",
+        "points": [
+          "Procédure rapide, sans avocat obligatoire selon le montant.",
+          "Coût limité aux frais de greffe et de signification.",
+          "Adaptée à une créance certaine, liquide et non contestée.",
+          "Peut être bloquée si le débiteur fait opposition, ce qui ouvre alors un procès classique."
+        ]
+      },
+      "b": {
+        "title": "Société de recouvrement ou huissier",
+        "points": [
+          "Utile pour un volume de créances ou un client difficile à localiser.",
+          "Prend en charge les relances et démarches, contre une commission.",
+          "N'a pas de pouvoir contraignant tant qu'aucun titre exécutoire n'existe.",
+          "Peut être combinée avec une injonction de payer en cas d'échec amiable."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "prevenir-les-impayes-en-amont",
+      "text": "Prévenir les impayés en amont plutôt que les subir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une part importante des impayés se prévient dès la relation commerciale : devis signé et daté, conditions générales de vente précisant les délais et pénalités, acompte demandé pour les prestations importantes, et suivi régulier des échéances plutôt qu'une vérification ponctuelle en fin de mois. Automatiser certaines tâches répétitives de suivi administratif, comme le rappel des échéances de facturation, fait d'ailleurs partie des usages concrets évoqués dans <a href=\"/9001-automatiser-taches-repetitives-ia-methode-julien-jimenez/\">la méthode pour automatiser ses tâches répétitives avec l'IA sans usine à gaz</a>, sans nécessiter d'outil complexe pour commencer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix des outils bancaires au quotidien joue aussi un rôle dans le suivi des paiements reçus et des relances à programmer : un compte dédié à l'activité professionnelle facilite le rapprochement entre factures émises et encaissements réels, comme le détaillent <a href=\"/550-les-avantages-dun-compte-pro-pour-les-entreprises-dans-le-secteur-de-la-sante/\">les avantages d'un compte pro pour le suivi de l'activité</a>, un principe qui s'applique bien au-delà du seul secteur de la santé."
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": "30 jours", "label": "délai légal de paiement par défaut entre professionnels, sauf accord contraire" },
+        { "value": "40 €", "label": "indemnité forfaitaire due de plein droit en cas de retard de paiement entre professionnels" },
+        { "value": "8 à 15 jours", "label": "délai généralement accordé dans une mise en demeure avant action en justice" }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ce-qu-il-faut-retenir",
+      "text": "Ce qu'il faut retenir face à une facture impayée"
+    },
+    {
+      "type": "paragraph",
+      "html": "Face à une facture impayée, la méthode compte autant que la fermeté : une relance rapide et factuelle règle la majorité des retards, la mise en demeure marque le passage à un registre juridique clair, et l'injonction de payer offre une voie accessible lorsque le dialogue échoue. Documenter chaque échange, mentionner systématiquement les pénalités applicables et ne pas laisser traîner les relances restent les meilleurs réflexes pour limiter le risque d'impayé, avant même qu'il ne survienne."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À retenir",
+      "html": "<p>Relancez dès le lendemain de l'échéance, passez à la mise en demeure par recommandé si le silence persiste après 15 à 20 jours, et n'hésitez pas à recourir à l'injonction de payer pour une créance certaine et non contestée.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps attendre avant d'envoyer une mise en demeure ?",
+      "a": "<p>Il n'existe pas de délai légal imposé avant l'envoi d'une mise en demeure, mais il est courant d'attendre 15 à 20 jours après l'échéance, une fois les relances amiables restées sans effet, avant de formaliser cette étape.</p>"
+    },
+    {
+      "q": "Les pénalités de retard s'appliquent-elles automatiquement ?",
+      "a": "<p>Oui, entre professionnels, les pénalités de retard courent de plein droit dès le lendemain de l'échéance, à condition que leur taux ait été mentionné sur la facture ou les conditions générales de vente. Aucune relance préalable n'est nécessaire pour qu'elles soient dues.</p>"
+    },
+    {
+      "q": "Peut-on réclamer l'indemnité forfaitaire de 40 € sans justificatif ?",
+      "a": "<p>Oui, cette indemnité est due de plein droit en cas de retard de paiement entre professionnels, sans avoir à prouver un préjudice ni des frais de recouvrement réellement engagés. Des frais supplémentaires justifiés peuvent être réclamés en plus si le montant du recouvrement les dépasse.</p>"
+    },
+    {
+      "q": "Faut-il un avocat pour une injonction de payer ?",
+      "a": "<p>La représentation par avocat n'est généralement pas obligatoire pour une injonction de payer, notamment pour les créances de faible montant portées devant le tribunal compétent selon la nature de la créance. Elle peut néanmoins être recommandée si le dossier est complexe ou le montant important.</p>"
+    },
+    {
+      "q": "Que faire si le client conteste le montant de la facture ?",
+      "a": "<p>Si le montant est contesté de bonne foi, l'injonction de payer n'est pas adaptée : le débiteur peut faire opposition et le litige est alors traité par une procédure contentieuse classique, où chaque partie expose ses arguments devant le juge.</p>"
+    },
+    {
+      "q": "Un simple mail de relance a-t-il une valeur juridique ?",
+      "a": "<p>Un mail de relance a une valeur probatoire limitée par rapport à un courrier recommandé avec accusé de réception, mais il reste utile pour documenter la chronologie des échanges et démontrer la bonne foi du créancier avant d'engager des démarches plus formelles.</p>"
+    }
+  ],
+  "updatedAt": "2026-07-21T09:00:00.000Z",
+  "generatedAt": "2026-07-21T09:00:00.000Z",
+  "model": "editorial",
+  "_meta": {
+    "hasTable": true,
+    "headingCount": 9
+  }
+}
